@@ -7,60 +7,6 @@
     <url>https://stream.ads.ottera.tv/playlist.m3u8?network_id=540</url>
     <icon src="https://spacechannel.com/wp-content/uploads/2021/11/space-channel-white.png" />
   </channel>
-  <programme channel="SpaceChannel.com" start="20221024000000 +0200" stop="20221024010000 +0200">
-    <title lang="en">Prime Time Preview</title>
-    <desc lang="en">Flight Crew member, Sabree Edwards hosts a special hour of Space Channel programming. From Martian Meals to News, Music and Movies. Duration: 3600</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/ml_preview_show_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20221024010000 +0200" stop="20221024020000 +0200">
-    <title lang="en">Space Channel Presents: the Original Flash Gordon S1E7 and E8</title>
-    <desc lang="en">Flash, Barin, Thun and Zarkov create an explosion in the atomic furnaces. Then....Dr. Zarkov saves the Hawkmen's city in the sky from falling, earning Flash and his friends King Vultan's gratitude. Ming insists that Flash fight a tournament of death against a masked opponent, revealed to be Barin, and then against a vicious orangopoid. Duration: 3600</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/flash_originalspaceopera2_widescreen_0.jpeg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20221024020000 +0200" stop="20221024040000 +0200">
-    <title lang="en">Space Channel Movies : Queen of Blood</title>
-    <desc lang="en">In the year 1990 An alien species makes contact with Earth through radio transmission. An alien ship crash lands on Mars, and a rescue team is sent from Earth. Eventually a surviving female is located and brought on-board the Earth ship. Trouble. Duration: 7200</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/queen_of_blood_wide.jpeg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20221024040000 +0200" stop="20221024060000 +0200">
-    <title lang="en">Best of Cinespace</title>
-    <desc lang="en">Space Channel selects the our favorite Cinespace movies Duration: 7200</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/cinespace-best_of_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20221024060000 +0200" stop="20221024080000 +0200">
-    <title lang="en">Space Channel Movies : Queen of Blood</title>
-    <desc lang="en">In the year 1990 An alien species makes contact with Earth through radio transmission. An alien ship crash lands on Mars, and a rescue team is sent from Earth. Eventually a surviving female is located and brought on-board the Earth ship. Trouble. Duration: 7200</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/queen_of_blood_wide.jpeg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20221024080000 +0200" stop="20221024100000 +0200">
-    <title lang="en">Best of Cinespace</title>
-    <desc lang="en">Space Channel selects the our favorite Cinespace movies Duration: 7200</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/cinespace-best_of_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20221024100000 +0200" stop="20221024120000 +0200">
-    <title lang="en">Space Channel Movies : Queen of Blood</title>
-    <desc lang="en">In the year 1990 An alien species makes contact with Earth through radio transmission. An alien ship crash lands on Mars, and a rescue team is sent from Earth. Eventually a surviving female is located and brought on-board the Earth ship. Trouble. Duration: 7200</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/queen_of_blood_wide.jpeg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20221024120000 +0200" stop="20221024120700 +0200">
-    <title lang="en">Latest News - Red Moon Rising</title>
-    <desc lang="en">In 2021, it achieved an average of more than one launch per week for the first time in its orbital spaceflight history, making it the busiest year for its space program to date. We watched the country pass many milestones from successfully landing its first rover on Mars and test flying a hypersonic spaceplane to building the core module for its Tiangong space station and launching the first taikonauts onto the said module. Duration: 420</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/video/thumbnails/widescreen/news_china_on_the_moon_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20221024120700 +0200" stop="20221024121137 +0200">
-    <title lang="en">Helen Ramirez - On the Border of a New Frontier</title>
-    <desc lang="en">Space Channel Crews caught up with Helen Ramirez (Brownsville’s Deputy City Manager) to discuss her efforts to build a wholistic space ecosystem in the Rio Grande Valley. From rockets to investment and communications, the City of Brownsville is leading the way as Texas becomes the epicenter for America’s new space economy. Duration: 277</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/video/thumbnails/widescreen/spotlight_helenramirez-widescreen.jpg" />
-  </programme>
   <programme channel="SpaceChannel.com" start="20221024121137 +0200" stop="20221024121452 +0200">
     <title lang="en">Silicon Valley of Space</title>
     <desc lang="en">The Silicon Valley of Space, quietly building a Gateway to Mars on the Texas/Mexico border. Duration: 195</desc>
@@ -312,6 +258,60 @@ Glenna Burmer composed the original score, which was recorded at Bastyr Chapel w
     <desc lang="en">Space Channel News with continuing coverage of the SpaceX Starship program. Duration: 1800</desc>
     <category lang="en">news</category>
     <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/news_brownsville-_gateway_to_the_stars_wide.jpeg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20221024183000 +0200" stop="20221024190000 +0200">
+    <title lang="en">Social Space</title>
+    <desc lang="en">Tom Brady hates our Moon...but Mars is a completely different story. From cosmic cosmology to Musk See TV, we scroll through our galactic web of fascinating featurettes from everyone we follow. Oh and Astronomy VS Astrology! Duration: 1800</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/social_space_logoopen_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20221024190000 +0200" stop="20221024203000 +0200">
+    <title lang="en">Space Channel Overview Special</title>
+    <desc lang="en">Astronauts, authors, industry experts offer opinions on the potential of what author Frank White describes as the Overview Effect. Duration: 5400</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/overview_open_letter_widescreen_0_1.jpeg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20221024203000 +0200" stop="20221024210000 +0200">
+    <title lang="en">Space Channel Music</title>
+    <desc lang="en">visual and music connection to the universe. Duration: 1800</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/davidbecker30minutespecial.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20221024210000 +0200" stop="20221024230000 +0200">
+    <title lang="en">Space Channel Movie : Plan 9 From Outer Space</title>
+    <desc lang="en">Aliens hatch a terrible plan to resurrect the dead of the Earth, to do their bidding. But that's not as bad as the actual script in this movie. Duration: 7200</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/plan_9_from_outer_space_part_1_wide.jpeg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20221024230000 +0200" stop="20221025000000 +0200">
+    <title lang="en">Space Channel Universe-Space Innovators, Movies and more..</title>
+    <desc lang="en">Welcome to Space Channel Universe! Bringing you the highlights of latest news, entertainment and so much more! Sit back and enjoy Space Channel Universe. Duration: 3600</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/universe_widescreen_0.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20221025000000 +0200" stop="20221025003000 +0200">
+    <title lang="en">Space Channel News Update | Deep Space Technologies</title>
+    <desc lang="en">Back in 2006, to minimize competition, Boeing and North Grumman decided to form a joint venture for a period of time, realizing that they would no longer be bidding against each other for giant NASA contracts. This plan worked swimmingly until newcomers SpaceX arrived on the scene, and there was competition again.  Duration: 1800</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/deep_space_technologies_wide.jpeg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20221025003000 +0200" stop="20221025020000 +0200">
+    <title lang="en">Space Channel Overview Special</title>
+    <desc lang="en">Astronauts, authors, industry experts offer opinions on the potential of what author Frank White describes as the Overview Effect. Duration: 5400</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/overview_open_letter_widescreen_0_1.jpeg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20221025020000 +0200" stop="20221025040000 +0200">
+    <title lang="en">Space Channel Movies : Queen of Blood</title>
+    <desc lang="en">In the year 1990 An alien species makes contact with Earth through radio transmission. An alien ship crash lands on Mars, and a rescue team is sent from Earth. Eventually a surviving female is located and brought on-board the Earth ship. Trouble. Duration: 7200</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/queen_of_blood_wide.jpeg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20221025040000 +0200" stop="20221025060000 +0200">
+    <title lang="en">Space Channel Movie: Kronos</title>
+    <desc lang="en">Aliens send a huge robotic accumulator to invade the Earth and absorb all energy it comes in contact with. Duration: 7200</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/kronos_wide_8.jpeg" />
   </programme>
 </tv>
 
