@@ -7,36 +7,6 @@
     <url>https://stream.ads.ottera.tv/playlist.m3u8?network_id=540</url>
     <icon src="https://spacechannel.com/wp-content/uploads/2021/11/space-channel-white.png" />
   </channel>
-  <programme channel="SpaceChannel.com" start="20221230223000 +0100" stop="20221231003000 +0100">
-    <title lang="en">Day Breaking News</title>
-    <desc lang="en">The latest news from Space Channel bureaus around the world. Duration: 7200</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/news_daybreaking_widescreen_0.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20221231003000 +0100" stop="20221231013000 +0100">
-    <title lang="en">Space Channel News</title>
-    <desc lang="en">Updates on the tensions in space as wells. reports on the continuing innovations and investment in space. Duration: 3600</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/ukraine_russia_news_update_2_wide_0.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20221231013000 +0100" stop="20221231020000 +0100">
-    <title lang="en">GRAVITY</title>
-    <desc lang="en">From an undisclosed location, Agent Roy drops more exclusive video from Professor Avi Loeb and Arik Kershenbaum about life, and living in the Universe Duration: 1800</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/gravity_widescreen_copy_0.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20221231020000 +0100" stop="20221231060000 +0100">
-    <title lang="en">Space Channel AFTER DARK</title>
-    <desc lang="en">A guided tour across the universe on a space made of art and sound Duration: 14400</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-city_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20221231060000 +0100" stop="20221231100000 +0100">
-    <title lang="en">Space Channel AFTER DARK</title>
-    <desc lang="en">When the sun goes down, Space Channel turns on as the Universe comes alive in a melodic mixtape curated for night owls. Duration: 14400</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-2_widescreen.jpg" />
-  </programme>
   <programme channel="SpaceChannel.com" start="20221231100000 +0100" stop="20221231140000 +0100">
     <title lang="en">Space Channel AFTER DARK</title>
     <desc lang="en">Join Walter Lloyd on a trip across the cosmos from the night-side of Earth. Duration: 14400</desc>
@@ -306,6 +276,36 @@
     <desc lang="en">Join us alongside Sabree Edwards for a trip around the Space Channel Universe, bringing you News, Movies, Music, Original Series &amp; so much more! Duration: 3600</desc>
     <category lang="en">news</category>
     <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/scu_4_wide.jpeg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230103210000 +0100" stop="20230103220000 +0100">
+    <title lang="en">TrailerPalooza</title>
+    <desc lang="en">Another edition of our favorite space movie trailers, featuring bad robots, bad a** Bruce, and the biggest space movie ever made. Duration: 3600</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/video/thumbnails/widescreen/trailerpalooza_1-widescreen_0.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230103220000 +0100" stop="20230103223000 +0100">
+    <title lang="en">Space Channel News Special-Space Force Automation Spectrum</title>
+    <desc lang="en">Aaron's research deals with human decision making when paired with Artificial Intelligence, autonomous systems, or other types of artificial systems. Specifically, research questions revolve around advisor trust using human confidence as an implicit measure of advisor trust when receiving advice or working in a human-machine team. In other words, my research aims to uncover methods to maximize appropriate human-machine interaction. Other areas of interest include the effects of anthropomorphism, algorithmic expressions of confidence, user cognitive load, user affective states, and other dispositional traits of the user on human advice seeking and use. Duration: 1800</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/ses_aaron-celaya_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230103223000 +0100" stop="20230104003000 +0100">
+    <title lang="en">Day Breaking News</title>
+    <desc lang="en">The latest news from Space Channel bureaus around the world. Duration: 7200</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/news_daybreaking_widescreen_0.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230104003000 +0100" stop="20230104013000 +0100">
+    <title lang="en">Space Channel News</title>
+    <desc lang="en">Updates on the tensions in space as wells. reports on the continuing innovations and investment in space. Duration: 3600</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/ukraine_russia_news_update_2_wide_0.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230104013000 +0100" stop="20230104020000 +0100">
+    <title lang="en">GRAVITY</title>
+    <desc lang="en">From an undisclosed location, Agent Roy drops more exclusive video from Professor Avi Loeb and Arik Kershenbaum about life, and living in the Universe Duration: 1800</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/gravity_widescreen_copy_0.jpg" />
   </programme>
 </tv>
 
