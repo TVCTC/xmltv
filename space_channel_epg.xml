@@ -7,24 +7,6 @@
     <url>https://stream.ads.ottera.tv/playlist.m3u8?network_id=540</url>
     <icon src="https://spacechannel.com/wp-content/uploads/2021/11/space-channel-white.png" />
   </channel>
-  <programme channel="SpaceChannel.com" start="20230114000000 +0100" stop="20230114020000 +0100">
-    <title lang="en">Daybreak'ing News</title>
-    <desc lang="en">With correspondents stationed around the world, Space Channel News covers every aspect of the space industry, from the latest mission, groundbreaking innovation, or a major news event. Duration: 7200</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/news_daybreaking_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230114020000 +0100" stop="20230114060000 +0100">
-    <title lang="en">AFTER DARK</title>
-    <desc lang="en">If so, AFTER DARK is for you. Join Walter Lloyd on an intimate tour of the cosmos, right from your bed...at night. Duration: 14400</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-5_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230114060000 +0100" stop="20230114100000 +0100">
-    <title lang="en">Space Channel AFTER DARK</title>
-    <desc lang="en">When the sun goes down, Space Channel turns on as the Universe comes alive in a melodic mixtape curated for night owls. Duration: 14400</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-2_widescreen.jpg" />
-  </programme>
   <programme channel="SpaceChannel.com" start="20230114100000 +0100" stop="20230114140000 +0100">
     <title lang="en">Space Channel AFTER DARK</title>
     <desc lang="en">A guided tour across the universe on a space ship made of art and sound. Duration: 14400</desc>
@@ -306,6 +288,24 @@
     <desc lang="en">If so, AFTER DARK is for you. Join Walter Lloyd on an intimate tour of the cosmos, right from your bed...at night. Duration: 14400</desc>
     <category lang="en">news</category>
     <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-5_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230118060000 +0100" stop="20230118100000 +0100">
+    <title lang="en">Space Channel AFTER DARK</title>
+    <desc lang="en">When the sun goes down, Space Channel turns on as the Universe comes alive in a melodic mixtape curated for night owls. Duration: 14400</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-2_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230118100000 +0100" stop="20230118140000 +0100">
+    <title lang="en">Space Channel AFTER DARK</title>
+    <desc lang="en">A guided tour across the universe on a space ship made of art and sound. Duration: 14400</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-city_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230118140000 +0100" stop="20230118153000 +0100">
+    <title lang="en">Space Channel Universe</title>
+    <desc lang="en">Join us as we travel through the Space Channel Universe and experience the Final Frontier like never before. Duration: 5400</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/scu_3_wide.jpg" />
   </programme>
 </tv>
 
