@@ -7,54 +7,6 @@
     <url>https://stream.ads.ottera.tv/playlist.m3u8?network_id=540</url>
     <icon src="https://spacechannel.com/wp-content/uploads/2021/11/space-channel-white.png" />
   </channel>
-  <programme channel="SpaceChannel.com" start="20230208100000 +0100" stop="20230208140000 +0100">
-    <title lang="en">Space Channel AFTER DARK</title>
-    <desc lang="en">Join Walter Lloyd on a trip across the cosmos from the night-side of Earth. Duration: 14400</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230208140000 +0100" stop="20230208160000 +0100">
-    <title lang="en">Daybreak'ing News</title>
-    <desc lang="en">With correspondents stationed around the world, Space Channel News covers every aspect of the space industry, from the latest mission, groundbreaking innovation, or a major news event. Duration: 7200</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/news_daybreaking_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230208160000 +0100" stop="20230208170000 +0100">
-    <title lang="en">Cinespace: for all Humanity</title>
-    <desc lang="en">Space Channel Presents Cinespace, an partnership between The Houston Cinema Arts Society and NASA. These are award winning movies that will definitely inspire. Duration: 3600</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/cinespace_logo_wide_2.png" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230208170000 +0100" stop="20230208180000 +0100">
-    <title lang="en">Cosmic Vibrations</title>
-    <desc lang="en">A musical and visual celebration of our connection with our home planet and the universe. Duration: 3600</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/music_block_b_0.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230208180000 +0100" stop="20230208203000 +0100">
-    <title lang="en">Mining and Farming in Space</title>
-    <desc lang="en">Updates on Blue Origin, Virgin Galactic , Farming in space, mining asteroids and the creator of UFO, the first space-based ETF. Duration: 9000</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/ml_news-farming_in_space_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230208203000 +0100" stop="20230208213000 +0100">
-    <title lang="en">TrailerPalooza</title>
-    <desc lang="en">The latest trailers from outer space Duration: 3600</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/trailerpalooza_1-widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230208213000 +0100" stop="20230208223000 +0100">
-    <title lang="en">The Ultimate Penthouse</title>
-    <desc lang="en">Space Tourist takes us out of this world to a company making plans to build a hotel in space as well as those closer to home. Duration: 3600</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/space_tourist-spacehotel_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230208223000 +0100" stop="20230208233000 +0100">
-    <title lang="en">Space Channel Movies</title>
-    <desc lang="en">In Cradle, Eade and her dad are on the return journey to earth when an explosion cripples the craft and seriously injures her father. In New Mars, a generation lives underground on Mars preparing to begin a new life as the colonists of a planet which is being terraformed into a new habitable world. Finally, Kaya Torres is circling a black hole in a pod. Duration: 3600</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/alone_wide.jpeg" />
-  </programme>
   <programme channel="SpaceChannel.com" start="20230208233000 +0100" stop="20230209020000 +0100">
     <title lang="en">Robinson Crusoe on Mars</title>
     <desc lang="en">Commander Kit Draper is forced to crash-land on Mars when his mission goes horribly wrong. He must figure out how to find oxygen, water, and food on the lifeless planet. Duration: 9000</desc>
@@ -306,6 +258,54 @@
     <desc lang="en">The latest trailers from outer space Duration: 3600</desc>
     <category lang="en">news</category>
     <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/trailerpalooza_1-widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230212213000 +0100" stop="20230212223000 +0100">
+    <title lang="en">The Ultimate Penthouse</title>
+    <desc lang="en">Space Tourist takes us out of this world to a company making plans to build a hotel in space as well as those closer to home. Duration: 3600</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/space_tourist-spacehotel_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230212223000 +0100" stop="20230212233000 +0100">
+    <title lang="en">Space Channel Movies</title>
+    <desc lang="en">In Cradle, Eade and her dad are on the return journey to earth when an explosion cripples the craft and seriously injures her father. In New Mars, a generation lives underground on Mars preparing to begin a new life as the colonists of a planet which is being terraformed into a new habitable world. Finally, Kaya Torres is circling a black hole in a pod. Duration: 3600</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/alone_wide.jpeg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230212233000 +0100" stop="20230213020000 +0100">
+    <title lang="en">Robinson Crusoe on Mars</title>
+    <desc lang="en">Commander Kit Draper is forced to crash-land on Mars when his mission goes horribly wrong. He must figure out how to find oxygen, water, and food on the lifeless planet. Duration: 9000</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/robinson_crusoe_on_mars_wide_0.jpeg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230213020000 +0100" stop="20230213060000 +0100">
+    <title lang="en">Space Channel AFTER DARK</title>
+    <desc lang="en">A guided tour across the universe on a space ship made of art and sound. Duration: 14400</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-city_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230213060000 +0100" stop="20230213100000 +0100">
+    <title lang="en">AFTER DARK</title>
+    <desc lang="en">If so, AFTER DARK is for you. Join Walter Lloyd on an intimate tour of the cosmos, right from your bed...at night. Duration: 14400</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-5_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230213100000 +0100" stop="20230213140000 +0100">
+    <title lang="en">Space Channel AFTER DARK</title>
+    <desc lang="en">Join Walter Lloyd on a trip across the cosmos from the night-side of Earth. Duration: 14400</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230213140000 +0100" stop="20230213160000 +0100">
+    <title lang="en">Daybreak'ing News</title>
+    <desc lang="en">With correspondents stationed around the world, Space Channel News covers every aspect of the space industry, from the latest mission, groundbreaking innovation, or a major news event. Duration: 7200</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/news_daybreaking_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230213160000 +0100" stop="20230213170000 +0100">
+    <title lang="en">Cinespace: for all Humanity</title>
+    <desc lang="en">Space Channel Presents Cinespace, an partnership between The Houston Cinema Arts Society and NASA. These are award winning movies that will definitely inspire. Duration: 3600</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/cinespace_logo_wide_2.png" />
   </programme>
 </tv>
 
