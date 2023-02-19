@@ -7,48 +7,6 @@
     <url>https://stream.ads.ottera.tv/playlist.m3u8?network_id=540</url>
     <icon src="https://spacechannel.com/wp-content/uploads/2021/11/space-channel-white.png" />
   </channel>
-  <programme channel="SpaceChannel.com" start="20230219100000 +0100" stop="20230219140000 +0100">
-    <title lang="en">Space Channel AFTER DARK</title>
-    <desc lang="en">A guided tour across the universe on a space ship made of art and sound. Duration: 14400</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-city_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230219140000 +0100" stop="20230219150000 +0100">
-    <title lang="en">Day Breaking News</title>
-    <desc lang="en">From hotels to orbiting "reefs," the foundations for a burgeoning off-world economy are well underway. Duration: 3600</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/news_daybreaking_widescreen-1.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230219150000 +0100" stop="20230219160000 +0100">
-    <title lang="en">Day Breaking News</title>
-    <desc lang="en">The stories we're covering today, that will affect our lives tomorrow. Deep Space Technologies, the SCOUT mission, Cosmic Shielding and more... Duration: 3600</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/news_daybreaking_widescreen-2.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230219160000 +0100" stop="20230219170000 +0100">
-    <title lang="en">TrailerPalooza</title>
-    <desc lang="en">Turns out, Sky Sharks are entirely possible and the best light saber fights happen in video games! Duration: 3600</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/trailerpalooza_1-widescreen_3.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230219170000 +0100" stop="20230219190000 +0100">
-    <title lang="en">Space Channel Movie: Laserblast</title>
-    <desc lang="en">A teenager stumbles upon an alien weapon which turns him into a grotesque killer. Duration: 7200</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/laserblast_wide_17.jpeg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230219190000 +0100" stop="20230219210000 +0100">
-    <title lang="en">Space Channel Movie: Solar System: Secrets of the Universe</title>
-    <desc lang="en">Join our host on the International Space Station of the year 2050. Marvel at the three-dimensional sights and learn many things about the astral bodies that surround us. Duration: 7200</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/movie_secrets_of_the_solar_universe.jpeg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230219210000 +0100" stop="20230219230000 +0100">
-    <title lang="en">Space Channel Movie: Invaders from Mars</title>
-    <desc lang="en">A young boy discovers aliens from outer space have landed on Earth. These aliens are under our feet and all around us.. and the floating head has plans for us earthlings! Duration: 7200</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/invaders_from_mars_wide_0_0.jpeg" />
-  </programme>
   <programme channel="SpaceChannel.com" start="20230219230000 +0100" stop="20230220010000 +0100">
     <title lang="en">Invaders from Mars</title>
     <desc lang="en">A young boy discovers aliens from outer space have landed on Earth. hese aliens are from another world, and have plans for us earthlings. Duration: 7200</desc>
@@ -306,6 +264,48 @@
     <desc lang="en">From hotels to orbiting "reefs," the foundations for a burgeoning off-world economy are well underway. Duration: 3600</desc>
     <category lang="en">news</category>
     <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/news_daybreaking_widescreen-1.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230223150000 +0100" stop="20230223160000 +0100">
+    <title lang="en">Day Breaking News</title>
+    <desc lang="en">The stories we're covering today, that will affect our lives tomorrow. Deep Space Technologies, the SCOUT mission, Cosmic Shielding and more... Duration: 3600</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/news_daybreaking_widescreen-2.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230223160000 +0100" stop="20230223170000 +0100">
+    <title lang="en">TrailerPalooza</title>
+    <desc lang="en">Turns out, Sky Sharks are entirely possible and the best light saber fights happen in video games! Duration: 3600</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/trailerpalooza_1-widescreen_3.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230223170000 +0100" stop="20230223190000 +0100">
+    <title lang="en">Space Channel Movie: Laserblast</title>
+    <desc lang="en">A teenager stumbles upon an alien weapon which turns him into a grotesque killer. Duration: 7200</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/laserblast_wide_17.jpeg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230223190000 +0100" stop="20230223210000 +0100">
+    <title lang="en">Space Channel Movie: Solar System: Secrets of the Universe</title>
+    <desc lang="en">Join our host on the International Space Station of the year 2050. Marvel at the three-dimensional sights and learn many things about the astral bodies that surround us. Duration: 7200</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/movie_secrets_of_the_solar_universe.jpeg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230223210000 +0100" stop="20230223230000 +0100">
+    <title lang="en">Space Channel Movie: Invaders from Mars</title>
+    <desc lang="en">A young boy discovers aliens from outer space have landed on Earth. These aliens are under our feet and all around us.. and the floating head has plans for us earthlings! Duration: 7200</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/invaders_from_mars_wide_0_0.jpeg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230223230000 +0100" stop="20230224010000 +0100">
+    <title lang="en">Invaders from Mars</title>
+    <desc lang="en">A young boy discovers aliens from outer space have landed on Earth. hese aliens are from another world, and have plans for us earthlings. Duration: 7200</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/invaders_from_mars_wide.jpeg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230224010000 +0100" stop="20230224030000 +0100">
+    <title lang="en">Space Channel Movie: Dominion</title>
+    <desc lang="en">In five days the world changed. As a retired Intelligence agent turned UFO investigator races to discover the fate of the human race, an alien observer searches for the human woman he loves. Duration: 7200</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/dominion_wide.jpeg" />
   </programme>
 </tv>
 
