@@ -5,44 +5,8 @@
   <channel id="SpaceChannel.com">
     <display-name>Space Channel</display-name>
     <url>https://stream.ads.ottera.tv/playlist.m3u8?network_id=540</url>
-    <icon src="https://spacechannel.com/wp-content/uploads/2021/11/space-channel-white.png" />
+    <icon src="https://images2.imgbox.com/64/ce/tDHwpEGT_o.png" />
   </channel>
-  <programme channel="SpaceChannel.com" start="20230312233000 +0100" stop="20230313003000 +0100">
-    <title lang="en">TrailerPalooza</title>
-    <desc lang="en">Our favorite space movies from the big screen to streaming, must see films for your inner space nerd. Duration: 3600</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/trailerpalooza_1-widescreen_0.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230313003000 +0100" stop="20230313023000 +0100">
-    <title lang="en">Best of Cinespace</title>
-    <desc lang="en">Space Channel selects the our favorite Cinespace movies Duration: 7200</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/cinespace-best_of_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230313023000 +0100" stop="20230313030000 +0100">
-    <title lang="en">Slide of Life</title>
-    <desc lang="en">Sometimes, a picture is worth more than a thousand words... Duration: 1800</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/slideshow-webbtelescope_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230313030000 +0100" stop="20230313050000 +0100">
-    <title lang="en">Captain's Lounge</title>
-    <desc lang="en">A journey through space and time to discover the truth in all things, and our connection and rhythm with the Cosmos Duration: 7200</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/captains_lounge_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230313050000 +0100" stop="20230313070000 +0100">
-    <title lang="en">Captain's Lounge</title>
-    <desc lang="en">A journey through space and time to discover the truth in all things, and our connection and rhythm with the Cosmos Duration: 7200</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/captains_lounge_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230313080000 +0100" stop="20230313090000 +0100">
-    <title lang="en">Cosmic Vibrations</title>
-    <desc lang="en">A musical and visual celebration of our connection with our home planet and the universe. Duration: 3600</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/music_block_b_0.jpg" />
-  </programme>
   <programme channel="SpaceChannel.com" start="20230313090000 +0100" stop="20230313130000 +0100">
     <title lang="en">Space Channel AFTER DARK</title>
     <desc lang="en">Join Walter Lloyd on a trip across the cosmos from the night-side of Earth. Duration: 14400</desc>
@@ -306,6 +270,42 @@
     <desc lang="en">Join our host on the International Space Station of the year 2050. Marvel at the three-dimensional sights and learn many things about the astral bodies that surround us. Duration: 7200</desc>
     <category lang="en">news</category>
     <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/movie_secrets_of_the_solar_universe.jpeg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230316200000 +0100" stop="20230316220000 +0100">
+    <title lang="en">SC Movie: Invisible Invaders</title>
+    <desc lang="en">Invisible aliens from the Moon invade the Earth by occupying the bodies of the recently deceased. A scientist, his daughter and an army Major, try to fight them. Duration: 7200</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/invisible_invaders_wide_5.jpeg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230316220000 +0100" stop="20230316233000 +0100">
+    <title lang="en">Space Channel Movie: Space: Into The Great Beyond</title>
+    <desc lang="en">A documentary made sometime in the future by our AI overlord regarding humanity's evolution into a space faring society, has a bit of a surprising twist at the end...yikes! Duration: 5400</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/movie_great_beyond_widescreen_2_copy.jpeg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230316233000 +0100" stop="20230317003000 +0100">
+    <title lang="en">TrailerPalooza</title>
+    <desc lang="en">Our favorite space movies from the big screen to streaming, must see films for your inner space nerd. Duration: 3600</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/trailerpalooza_1-widescreen_0.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230317003000 +0100" stop="20230317023000 +0100">
+    <title lang="en">Best of Cinespace</title>
+    <desc lang="en">Space Channel selects the our favorite Cinespace movies Duration: 7200</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/cinespace-best_of_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230317023000 +0100" stop="20230317030000 +0100">
+    <title lang="en">Slide of Life</title>
+    <desc lang="en">Sometimes, a picture is worth more than a thousand words... Duration: 1800</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/slideshow-webbtelescope_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230317030000 +0100" stop="20230317050000 +0100">
+    <title lang="en">Captain's Lounge</title>
+    <desc lang="en">A journey through space and time to discover the truth in all things, and our connection and rhythm with the Cosmos Duration: 7200</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/captains_lounge_widescreen.jpg" />
   </programme>
 </tv>
 
