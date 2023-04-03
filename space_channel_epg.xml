@@ -7,54 +7,6 @@
     <url>https://stream.ads.ottera.tv/playlist.m3u8?network_id=540</url>
     <icon src="https://images2.imgbox.com/64/ce/tDHwpEGT_o.png" />
   </channel>
-  <programme channel="SpaceChannel.com" start="20230403100000 +0100" stop="20230403140000 +0100">
-    <title lang="en">AFTER DARK</title>
-    <desc lang="en">If so, AFTER DARK is for you. Join Walter Lloyd on an intimate tour of the cosmos, right from your bed...at night. Duration: 14400</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-5_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230403140000 +0100" stop="20230403150000 +0100">
-    <title lang="en">Day Breaking News</title>
-    <desc lang="en">From hotels to orbiting "reefs," the foundations for a burgeoning off-world economy are well underway. Duration: 3600</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/news_daybreaking_widescreen-1.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230403150000 +0100" stop="20230403170000 +0100">
-    <title lang="en">Leading Edge Leaders</title>
-    <desc lang="en">Space Channel shines a spotlight on individuals making important moves in space. Duration: 7200</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/ml_spotlight_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230403170000 +0100" stop="20230403180000 +0100">
-    <title lang="en">Green Space</title>
-    <desc lang="en">Solving problems in space could be the answer to saving Earth. Duration: 3600</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/news_interstellar-labs_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230403180000 +0100" stop="20230403190000 +0100">
-    <title lang="en">Daybreak'ing News</title>
-    <desc lang="en">With correspondents stationed around the world, Space Channel News covers every aspect of the space industry, from the latest mission, groundbreaking innovation, or a major news event. Duration: 3600</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/news_daybreaking_widescreen_0.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230403190000 +0100" stop="20230403200000 +0100">
-    <title lang="en">TrailerPalooza</title>
-    <desc lang="en">The latest trailers from outer space Duration: 3600</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/trailerpalooza_1-widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230403200000 +0100" stop="20230403213000 +0100">
-    <title lang="en">Road to Mars</title>
-    <desc lang="en">Elon Musk has had some bold claims over the years. Many have come to fruition, and we’re still holding our breath on quite a few… One of his boldest claims, BY FAR, is the Red Planet. Musk wants to have a million people on mars by 2050. Will this fantasy turn into reality, or just stay a pipe dream? Duration: 5400</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/news_marsbythenumbers_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230403213000 +0100" stop="20230403233000 +0100">
-    <title lang="en">Queen of Blood</title>
-    <desc lang="en">In the year 1990 An alien species makes contact with Earth through radio transmission. An alien ship crash lands on Mars, and a rescue team is sent from Earth. Eventually a surviving female is located and brought on-board the Earth ship. Trouble. Duration: 7200</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/queen_of_blood_wide.jpeg" />
-  </programme>
   <programme channel="SpaceChannel.com" start="20230403233000 +0100" stop="20230404020000 +0100">
     <title lang="en">Capricorn ONE</title>
     <desc lang="en">When the first manned flight to Mars is deemed unsafe and scrubbed on the launch pad, anxious authorities must scramble to retain their funding - and so an unthinkable plot to fake the mission is hatched. Duration: 9000</desc>
@@ -306,6 +258,54 @@
     <desc lang="en">The latest trailers from outer space Duration: 3600</desc>
     <category lang="en">news</category>
     <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/trailerpalooza_1-widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230407200000 +0100" stop="20230407213000 +0100">
+    <title lang="en">Road to Mars</title>
+    <desc lang="en">Elon Musk has had some bold claims over the years. Many have come to fruition, and we’re still holding our breath on quite a few… One of his boldest claims, BY FAR, is the Red Planet. Musk wants to have a million people on mars by 2050. Will this fantasy turn into reality, or just stay a pipe dream? Duration: 5400</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/news_marsbythenumbers_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230407213000 +0100" stop="20230407233000 +0100">
+    <title lang="en">Queen of Blood</title>
+    <desc lang="en">In the year 1990 An alien species makes contact with Earth through radio transmission. An alien ship crash lands on Mars, and a rescue team is sent from Earth. Eventually a surviving female is located and brought on-board the Earth ship. Trouble. Duration: 7200</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/queen_of_blood_wide.jpeg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230407233000 +0100" stop="20230408020000 +0100">
+    <title lang="en">Capricorn ONE</title>
+    <desc lang="en">When the first manned flight to Mars is deemed unsafe and scrubbed on the launch pad, anxious authorities must scramble to retain their funding - and so an unthinkable plot to fake the mission is hatched. Duration: 9000</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/movies_capricorn-one_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230408020000 +0100" stop="20230408060000 +0100">
+    <title lang="en">Space Channel AFTER DARK</title>
+    <desc lang="en">Join Walter Lloyd on a trip across the cosmos from the night-side of Earth. Duration: 14400</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230408060000 +0100" stop="20230408100000 +0100">
+    <title lang="en">Space Channel AFTER DARK</title>
+    <desc lang="en">Take a journey into the beyond with Walter Lloyd and the After Dark crew Duration: 14400</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-3_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230408100000 +0100" stop="20230408140000 +0100">
+    <title lang="en">AFTER DARK</title>
+    <desc lang="en">If so, AFTER DARK is for you. Join Walter Lloyd on an intimate tour of the cosmos, right from your bed...at night. Duration: 14400</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-5_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230408140000 +0100" stop="20230408150000 +0100">
+    <title lang="en">Day Breaking News</title>
+    <desc lang="en">From hotels to orbiting "reefs," the foundations for a burgeoning off-world economy are well underway. Duration: 3600</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/news_daybreaking_widescreen-1.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230408150000 +0100" stop="20230408170000 +0100">
+    <title lang="en">Leading Edge Leaders</title>
+    <desc lang="en">Space Channel shines a spotlight on individuals making important moves in space. Duration: 7200</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/ml_spotlight_widescreen.jpg" />
   </programme>
 </tv>
 
