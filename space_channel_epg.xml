@@ -7,24 +7,6 @@
     <url>https://stream.ads.ottera.tv/playlist.m3u8?network_id=540</url>
     <icon src="https://images2.imgbox.com/64/ce/tDHwpEGT_o.png" />
   </channel>
-  <programme channel="SpaceChannel.com" start="20230508000000 +0100" stop="20230508020000 +0100">
-    <title lang="en">Space Channel Movie: Kronos</title>
-    <desc lang="en">Aliens from another world send a huge robotic accumulator to invade the Earth. It absorbs all energy it comes in contact with. Duration: 7200</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/kronos_wide.jpeg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230508020000 +0100" stop="20230508060000 +0100">
-    <title lang="en">Space Channel AFTER DARK</title>
-    <desc lang="en">Take a journey into the beyond with Walter Lloyd and the After Dark crew Duration: 14400</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-3_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230508060000 +0100" stop="20230508100000 +0100">
-    <title lang="en">AFTER DARK</title>
-    <desc lang="en">If so, AFTER DARK is for you. Join Walter Lloyd on an intimate tour of the cosmos, right from your bed...at night. Duration: 14400</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-5_widescreen.jpg" />
-  </programme>
   <programme channel="SpaceChannel.com" start="20230508100000 +0100" stop="20230508140000 +0100">
     <title lang="en">Space Channel AFTER DARK</title>
     <desc lang="en">A guided tour across the universe on a space ship made of art and sound. Duration: 14400</desc>
@@ -306,6 +288,24 @@
     <desc lang="en">Take a journey into the beyond with Walter Lloyd and the After Dark crew Duration: 14400</desc>
     <category lang="en">news</category>
     <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-3_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230512060000 +0100" stop="20230512100000 +0100">
+    <title lang="en">AFTER DARK</title>
+    <desc lang="en">If so, AFTER DARK is for you. Join Walter Lloyd on an intimate tour of the cosmos, right from your bed...at night. Duration: 14400</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-5_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230512100000 +0100" stop="20230512140000 +0100">
+    <title lang="en">Space Channel AFTER DARK</title>
+    <desc lang="en">A guided tour across the universe on a space ship made of art and sound. Duration: 14400</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-city_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230512140000 +0100" stop="20230512150000 +0100">
+    <title lang="en">Space Channel News</title>
+    <desc lang="en">News from around the space industry, around the globe....and so much more. Duration: 3600</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/news_spacex_update_june_wide_0_0.jpg" />
   </programme>
 </tv>
 
