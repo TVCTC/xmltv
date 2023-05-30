@@ -7,24 +7,6 @@
     <url>https://stream.ads.ottera.tv/playlist.m3u8?network_id=540</url>
     <icon src="https://images2.imgbox.com/64/ce/tDHwpEGT_o.png" />
   </channel>
-  <programme channel="SpaceChannel.com" start="20230530000000 +0100" stop="20230530020000 +0100">
-    <title lang="en">Space Channel News</title>
-    <desc lang="en">Space Channel Nightside Edition News is a nightly news program that airs from 6pm to 8pm and covers the latest stories from the space community, from updates on the latest missions and spacecraft launches to interviews with industry leaders about the future of space exploration Duration: 7200</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/news-nightsidegeneric_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230530020000 +0100" stop="20230530060000 +0100">
-    <title lang="en">Space Channel AFTER DARK</title>
-    <desc lang="en">When the sun goes down, Space Channel turns on as the Universe comes alive in a melodic mixtape curated for night owls. Duration: 14400</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-2_widescreen.jpg" />
-  </programme>
-  <programme channel="SpaceChannel.com" start="20230530060000 +0100" stop="20230530100000 +0100">
-    <title lang="en">Space Channel AFTER DARK</title>
-    <desc lang="en">When the sun goes down, Space Channel turns on as the Universe comes alive in a melodic mixtape curated for night owls. Duration: 14400</desc>
-    <category lang="en">news</category>
-    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-2_widescreen.jpg" />
-  </programme>
   <programme channel="SpaceChannel.com" start="20230530100000 +0100" stop="20230530140000 +0100">
     <title lang="en">Space Channel AFTER DARK</title>
     <desc lang="en">A guided tour across the universe on a space ship made of art and sound. Duration: 14400</desc>
@@ -306,6 +288,24 @@
     <desc lang="en">When the sun goes down, Space Channel turns on as the Universe comes alive in a melodic mixtape curated for night owls. Duration: 14400</desc>
     <category lang="en">news</category>
     <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-2_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230603060000 +0100" stop="20230603100000 +0100">
+    <title lang="en">Space Channel AFTER DARK</title>
+    <desc lang="en">When the sun goes down, Space Channel turns on as the Universe comes alive in a melodic mixtape curated for night owls. Duration: 14400</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-2_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230603100000 +0100" stop="20230603140000 +0100">
+    <title lang="en">Space Channel AFTER DARK</title>
+    <desc lang="en">A guided tour across the universe on a space ship made of art and sound. Duration: 14400</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/after_dark-city_widescreen.jpg" />
+  </programme>
+  <programme channel="SpaceChannel.com" start="20230603140000 +0100" stop="20230603150000 +0100">
+    <title lang="en">Space Channel Universe</title>
+    <desc lang="en">Join us as we travel through the Space Channel Universe and experience the Final Frontier like never before. Duration: 3600</desc>
+    <category lang="en">news</category>
+    <icon src="https://img.static-ottera.com/prod/space/media_list/thumbnails/widescreen/scu_2_widescreen_copy.jpg" />
   </programme>
 </tv>
 
