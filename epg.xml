@@ -2,6 +2,11 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
 <tv source-info-name="Olympic Channel guide by TV" source-info-url="https://livestreamserver.000webhostapp.com/olympicchannel/epg.php">
+  <channel id="RedBullTV.at">
+    <display-name>Red Bull TV</display-name>
+    <url>https://www.redbull.com/</url>
+    <icon src="https://images2.imgbox.com/a8/24/QbYwUePw_o.png" />
+  </channel>
   <channel id="OlympicChannel.int">
     <display-name>Olympic Channel</display-name>
     <url>https://olympics.com/en/live/</url>
