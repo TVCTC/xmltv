@@ -1,161 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
-<tv source-info-name="Red Bull TV guide by TV" source-info-url="https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero">
+<tv source-info-name="pluto_tv_us" source-info-url="pluto.tv">
   <channel id="RedBullTV.at">
     <display-name>Red Bull TV</display-name>
-    <url>https://www.redbull.com/</url>
+    <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20230929191035 +0200" stop="20230929195626 +0200">
+  <programme channel="RedBullTV.at" start="20230929171035 +0200" stop="20230929175626 +0200">
     <title lang="en">(Un)credited</title>
-    <desc lang="en">Dive deep into the origins of Afro Dance in Nigeria and how it has shaped a global mainstream culture. Duration: 2751</desc>
+    <desc lang="en">Dive deep into the origins of Afro Dance in Nigeria and how it has shaped a global mainstream culture. (46 minutes)</desc>
     <category lang="en">Sport, Dance</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2022/11/22/w86gbabyv0vhfdl5zlya/un-credited-nigeria-afro-dance" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/22/w86gbabyv0vhfdl5zlya/un-credited-nigeria-afro-dance" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230929195626 +0200" stop="20230929202336 +0200">
+  <programme channel="RedBullTV.at" start="20230929175626 +0200" stop="20230929182336 +0200">
     <title lang="en">Freestyle football</title>
-    <desc lang="en">Three athletes from three different backgrounds use freestyle football to showcase their athleticism. Duration: 1560</desc>
+    <desc lang="en">Three athletes from three different backgrounds use freestyle football to showcase their athleticism. (26 minutes)</desc>
     <category lang="en">Sport, Freestyle Soccer</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2022/11/2/qrsrcpi0m4kehvl9dwno/pushing-progression-s1-e1-red-bull-street-style" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/2/qrsrcpi0m4kehvl9dwno/pushing-progression-s1-e1-red-bull-street-style" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230929202336 +0200" stop="20230929204936 +0200">
+  <programme channel="RedBullTV.at" start="20230929182336 +0200" stop="20230929184936 +0200">
     <title lang="en">Kiteboarding</title>
-    <desc lang="en">Explore the evolution of kiteboarding and see how events like Red Bull King of the Air push its progression.   Duration: 1560</desc>
+    <desc lang="en">Explore the evolution of kiteboarding and see how events like Red Bull King of the Air push its progression.   (26 minutes)</desc>
     <category lang="en">Sport, Kitesurfing</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2022/11/8/qjsmynvm8nt3jhkxjwmw/nick-jacobsen-red-bull-king-of-the-air-cape-town" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/8/qjsmynvm8nt3jhkxjwmw/nick-jacobsen-red-bull-king-of-the-air-cape-town" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230929204936 +0200" stop="20230929211330 +0200">
+  <programme channel="RedBullTV.at" start="20230929184936 +0200" stop="20230929191330 +0200">
     <title lang="en">Ecuador</title>
-    <desc lang="en">Rob Warner travels to Ecuador with rising mountain biking star Finn Iles to take on the Cotopaxi in the Andes. Duration: 1469</desc>
+    <desc lang="en">Rob Warner travels to Ecuador with rising mountain biking star Finn Iles to take on the Cotopaxi in the Andes. (24 minutes)</desc>
     <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2019/11/11/5cd26644-3a2f-4016-9abc-b51018cda283/rob-warners-wild-rides-ep-3-ecuador" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/11/11/5cd26644-3a2f-4016-9abc-b51018cda283/rob-warners-wild-rides-ep-3-ecuador" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230929211330 +0200" stop="20230929213812 +0200">
+  <programme channel="RedBullTV.at" start="20230929191330 +0200" stop="20230929193812 +0200">
     <title lang="en">Nepal</title>
-    <desc lang="en">Rob Warner and downhill pro Olly Wilkins ride around the world's tallest mountain range. Duration: 1468</desc>
+    <desc lang="en">Rob Warner and downhill pro Olly Wilkins ride around the world's tallest mountain range. (24 minutes)</desc>
     <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2019/11/11/55cd70cc-fda4-4343-87fd-fe04e5cc7efb/rob-warners-wild-rides-ep-4-nepal" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/11/11/55cd70cc-fda4-4343-87fd-fe04e5cc7efb/rob-warners-wild-rides-ep-4-nepal" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230929213812 +0200" stop="20230929221203 +0200">
+  <programme channel="RedBullTV.at" start="20230929193812 +0200" stop="20230929201203 +0200">
     <title lang="en">Flying Between Giants</title>
-    <desc lang="en">Paraglider pilots Tom de Dorlodot and Horacio Llorens flew past four of Pakistan's peaks in just one day. Duration: 1985</desc>
+    <desc lang="en">Paraglider pilots Tom de Dorlodot and Horacio Llorens flew past four of Pakistan's peaks in just one day. (33 minutes)</desc>
     <category lang="en">Sport, Paragliding</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2022/11/10/rdqy0acz8hiwoqgk0916/flying-between-giants-tom-de-dorlodot" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/10/rdqy0acz8hiwoqgk0916/flying-between-giants-tom-de-dorlodot" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230929221203 +0200" stop="20230929224236 +0200">
+  <programme channel="RedBullTV.at" start="20230929201203 +0200" stop="20230929204236 +0200">
     <title lang="en">Activism</title>
-    <desc lang="en">Surf, skate and snow athletes share how their actions aim to create positive shifts in environmental reform. Duration: 1833</desc>
+    <desc lang="en">Surf, skate and snow athletes share how their actions aim to create positive shifts in environmental reform. (31 minutes)</desc>
     <category lang="en">Sport, Surfing</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2022/8/19/iz21kmsdb96uyqyzkbrv/fabric-ep3-art" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/19/iz21kmsdb96uyqyzkbrv/fabric-ep3-art" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230929224236 +0200" stop="20230929231020 +0200">
+  <programme channel="RedBullTV.at" start="20230929204236 +0200" stop="20230929211020 +0200">
     <title lang="en">Cultural heritage</title>
-    <desc lang="en">Snowboarder Spencer O’Brien and surfer Mainei Kinimaka on preserving ancestral customs for future generations. Duration: 1623</desc>
+    <desc lang="en">Snowboarder Spencer O’Brien and surfer Mainei Kinimaka on preserving ancestral customs for future generations. (27 minutes)</desc>
     <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2022/8/19/fvymnqzpbgjemulelew7/fabric-ep4-art" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/19/fvymnqzpbgjemulelew7/fabric-ep4-art" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230929231020 +0200" stop="20230930003447 +0200">
+  <programme channel="RedBullTV.at" start="20230929211020 +0200" stop="20230929223447 +0200">
     <title lang="en">CEB: A Major Comeback</title>
-    <desc lang="en">Dota 2 player Sébastien Debs returns from retirement to help his team win at an ESL One Stockholm Major.  Duration: 5027</desc>
+    <desc lang="en">Dota 2 player Sébastien Debs returns from retirement to help his team win at an ESL One Stockholm Major.  (84 minutes)</desc>
     <category lang="en">Sport, Gaming</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2023/3/15/lm4ec2wd1auw8lz6eh2s/sebastien-debs" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/15/lm4ec2wd1auw8lz6eh2s/sebastien-debs" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230930003447 +0200" stop="20230930004946 +0200">
+  <programme channel="RedBullTV.at" start="20230929223447 +0200" stop="20230929224946 +0200">
     <title lang="en">Building a dream MTB track in New Zealand</title>
-    <desc lang="en">Join us for a look behind the scenes as Brook Macdonald turns his dream downhill track into a reality. Duration: 899</desc>
+    <desc lang="en">Join us for a look behind the scenes as Brook Macdonald turns his dream downhill track into a reality. (15 minutes)</desc>
     <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2022/3/24/e13vpspsdg7ozeyzygev/cycling-around-the-world-s2-e3-brook-macdonald" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/3/24/e13vpspsdg7ozeyzygev/cycling-around-the-world-s2-e3-brook-macdonald" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230930004946 +0200" stop="20230930013658 +0200">
+  <programme channel="RedBullTV.at" start="20230929224946 +0200" stop="20230929233658 +0200">
     <title lang="en">Neguin shows Kastet the city of São Paulo</title>
-    <desc lang="en">B-Girl Kastet joins B-Boy Neguin in São Paulo to experience the vibrant blend of the Brazilian breaking style. Duration: 2762</desc>
+    <desc lang="en">B-Girl Kastet joins B-Boy Neguin in São Paulo to experience the vibrant blend of the Brazilian breaking style. (46 minutes)</desc>
     <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2023/5/4/gjklxqzily2dnwdr2bu5/breaking-beyond-s1-e2-neguin-kastet-sao-paolo" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/4/gjklxqzily2dnwdr2bu5/breaking-beyond-s1-e2-neguin-kastet-sao-paolo" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230930013658 +0200" stop="20230930022153 +0200">
+  <programme channel="RedBullTV.at" start="20230929233658 +0200" stop="20230930002153 +0200">
     <title lang="en">Ronnie and Neguin explore Las Vegas</title>
-    <desc lang="en">Ronnie and Neguin meet pro artists, explore Full Force Crew's roots and chill with Jabbawockeez in Las Vegas. Duration: 2695</desc>
+    <desc lang="en">Ronnie and Neguin meet pro artists, explore Full Force Crew's roots and chill with Jabbawockeez in Las Vegas. (45 minutes)</desc>
     <category lang="en">Sport, Dance</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2023/5/4/odkdgjvsjw0jujjyp8st/breaking-beyond-s1-e3-ronnie-neguin-las-vegas" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/4/odkdgjvsjw0jujjyp8st/breaking-beyond-s1-e3-ronnie-neguin-las-vegas" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230930022153 +0200" stop="20230930024326 +0200">
+  <programme channel="RedBullTV.at" start="20230930002153 +0200" stop="20230930004326 +0200">
     <title lang="en">Crossing Tasmania</title>
-    <desc lang="en">MTB rider Payson McElveen attempts to cross Australia’s least populated state: the island of Tasmania. Duration: 1292</desc>
+    <desc lang="en">MTB rider Payson McElveen attempts to cross Australia’s least populated state: the island of Tasmania. (22 minutes)</desc>
     <category lang="en">Sport, MTB</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2023/8/17/qur2mizj4fmcxx63hrns/crossing-tasmania-payson-mcelveen" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/17/qur2mizj4fmcxx63hrns/crossing-tasmania-payson-mcelveen" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230930024326 +0200" stop="20230930024807 +0200">
+  <programme channel="RedBullTV.at" start="20230930004326 +0200" stop="20230930004807 +0200">
     <title lang="en">Don’t Look Down with Kriss Kyle</title>
-    <desc lang="en">See how Kriss Kyle's daring idea ballooned into the ultimate test of BMX skill.  Duration: 241</desc>
+    <desc lang="en">See how Kriss Kyle's daring idea ballooned into the ultimate test of BMX skill.  (4 minutes)</desc>
     <category lang="en">Sport, BMX</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2023/4/12/gfc5surociyddotljcaz/kriss-kyle-dont-look-down-malmesbury-uk-december-2022" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/12/gfc5surociyddotljcaz/kriss-kyle-dont-look-down-malmesbury-uk-december-2022" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230930024807 +0200" stop="20230930032357 +0200">
+  <programme channel="RedBullTV.at" start="20230930004807 +0200" stop="20230930012357 +0200">
     <title lang="en">Don't Look Down</title>
-    <desc lang="en">Can you ride a BMX park in the sky? See how Kriss Kyle's daring idea grew into the ultimate test of BMX skill. Duration: 2150</desc>
+    <desc lang="en">Can you ride a BMX park in the sky? See how Kriss Kyle's daring idea grew into the ultimate test of BMX skill. (36 minutes)</desc>
     <category lang="en">Sport, BMX</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2023/4/12/fhydpdi3g2xczfes6ewi/kriss-kyle-dont-look-down-malmesbury-uk-december-2022-hero-art" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/12/fhydpdi3g2xczfes6ewi/kriss-kyle-dont-look-down-malmesbury-uk-december-2022-hero-art" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230930032357 +0200" stop="20230930040027 +0200">
+  <programme channel="RedBullTV.at" start="20230930012357 +0200" stop="20230930020027 +0200">
     <title lang="en">Red Bull Dual Ascent</title>
-    <desc lang="en">Sixteen world-class athletes on eight teams battle to be the fastest up a wall of six gruelling pitches. Duration: 2190</desc>
+    <desc lang="en">Sixteen world-class athletes on eight teams battle to be the fastest up a wall of six gruelling pitches. (37 minutes)</desc>
     <category lang="en">Sport, Climbing</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2022/11/30/inmn3pjglt8q3tlpdk2c/red-bull-dual-ascent-2022-domen-skofic" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/30/inmn3pjglt8q3tlpdk2c/red-bull-dual-ascent-2022-domen-skofic" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230930040027 +0200" stop="20230930042406 +0200">
+  <programme channel="RedBullTV.at" start="20230930020027 +0200" stop="20230930022406 +0200">
     <title lang="en">Skate the Museum</title>
-    <desc lang="en">Leticia Bufoni, Margy Didal, Lore Bruggeman and Aldana Bertran let loose in London's Natural History Museum. Duration: 1378</desc>
+    <desc lang="en">Leticia Bufoni, Margy Didal, Lore Bruggeman and Aldana Bertran let loose in London's Natural History Museum. (23 minutes)</desc>
     <category lang="en">Sport, Skateboarding</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2023/6/13/jtxc3fukqmwjeeeykjrx/skate-the-museum-image" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/13/jtxc3fukqmwjeeeykjrx/skate-the-museum-image" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230930042406 +0200" stop="20230930043644 +0200">
+  <programme channel="RedBullTV.at" start="20230930022406 +0200" stop="20230930023644 +0200">
     <title lang="en">Road less travelled</title>
-    <desc lang="en">Can road bikers make the move to mountain biking? And vice versa? Tom Pidcock and Jolanda Neff give it a try. Duration: 757</desc>
+    <desc lang="en">Can road bikers make the move to mountain biking? And vice versa? Tom Pidcock and Jolanda Neff give it a try. (13 minutes)</desc>
     <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2023/4/12/eaef2ojago0splz7kgpl/thomas-pidcock-uci-xc-mtb-world-cup-2022-nove-mesto" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/12/eaef2ojago0splz7kgpl/thomas-pidcock-uci-xc-mtb-world-cup-2022-nove-mesto" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230930043644 +0200" stop="20230930045045 +0200">
+  <programme channel="RedBullTV.at" start="20230930023644 +0200" stop="20230930025045 +0200">
     <title lang="en">Doing it yourself</title>
-    <desc lang="en">Can DIY riders Aaron Gwin, Neko Mulally and Seth Alvo find success in their MTB pursuits? Duration: 841</desc>
+    <desc lang="en">Can DIY riders Aaron Gwin, Neko Mulally and Seth Alvo find success in their MTB pursuits? (14 minutes)</desc>
     <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2023/4/12/hg8ngpun4wsophporm1c/aaron-gwin-uci-dh-mtb-world-cup-fort-william-2022" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/12/hg8ngpun4wsophporm1c/aaron-gwin-uci-dh-mtb-world-cup-fort-william-2022" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230930045045 +0200" stop="20230930050412 +0200">
+  <programme channel="RedBullTV.at" start="20230930025045 +0200" stop="20230930030412 +0200">
     <title lang="en">Alt-rock</title>
-    <desc lang="en">XC racers Nino Schurter, Laura Stigger, Payson McElveen and Haley Batten show us their different methods. Duration: 807</desc>
+    <desc lang="en">XC racers Nino Schurter, Laura Stigger, Payson McElveen and Haley Batten show us their different methods. (13 minutes)</desc>
     <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2023/4/12/lbd9c0gttgmllmtypgm3/nino-schurter-uci-xc-mtb-world-cup-2022-brazil" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/12/lbd9c0gttgmllmtypgm3/nino-schurter-uci-xc-mtb-world-cup-2022-brazil" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230930050412 +0200" stop="20230930051756 +0200">
+  <programme channel="RedBullTV.at" start="20230930030412 +0200" stop="20230930031756 +0200">
     <title lang="en">The freeracers</title>
-    <desc lang="en">Freeriding meets racing as downhill rider Kade Edwards and freerider Kaos Seagrave balance the joys of both. Duration: 824</desc>
+    <desc lang="en">Freeriding meets racing as downhill rider Kade Edwards and freerider Kaos Seagrave balance the joys of both. (14 minutes)</desc>
     <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2023/4/12/ssyhguyh62kc8h9qr4wf/kade-edwards-dyfi-bike-park-wales-2022" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/12/ssyhguyh62kc8h9qr4wf/kade-edwards-dyfi-bike-park-wales-2022" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230930051756 +0200" stop="20230930053221 +0200">
+  <programme channel="RedBullTV.at" start="20230930031756 +0200" stop="20230930033221 +0200">
     <title lang="en">Between the ears</title>
-    <desc lang="en">Injuries, accidents and mental battles plague the sport: Brook Macdonald and Evie Richards want to see change. Duration: 864</desc>
+    <desc lang="en">Injuries, accidents and mental battles plague the sport: Brook Macdonald and Evie Richards want to see change. (14 minutes)</desc>
     <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2023/4/19/u1nck4lbswbrykhjmzj8/evie-richards-uci-xcc-world-cup-italy-2022" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/19/u1nck4lbswbrykhjmzj8/evie-richards-uci-xcc-world-cup-italy-2022" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230930053221 +0200" stop="20230930054724 +0200">
+  <programme channel="RedBullTV.at" start="20230930033221 +0200" stop="20230930034724 +0200">
     <title lang="en">Parental advisory</title>
-    <desc lang="en">Junior racers Vali Höll and Jackson Goldstone make the daunting transition to the Elite MTB World Cup circuit. Duration: 833</desc>
+    <desc lang="en">Junior racers Vali Höll and Jackson Goldstone make the daunting transition to the Elite MTB World Cup circuit. (14 minutes)</desc>
     <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2023/4/12/cyum73aqzhdjutelxjhg/valentina-holl-uci-dh-mtb-world-championships-2022-les-gets" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/12/cyum73aqzhdjutelxjhg/valentina-holl-uci-dh-mtb-world-championships-2022-les-gets" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230930054724 +0200" stop="20230930062409 +0200">
+  <programme channel="RedBullTV.at" start="20230930034724 +0200" stop="20230930042409 +0200">
     <title lang="en">Brandon Semenuk – Steps to the Top</title>
-    <desc lang="en">Get an inside look at the creative process behind Brandon Semenuk’s Red Bull Rampage winning run in 2021.  Duration: 2204</desc>
+    <desc lang="en">Get an inside look at the creative process behind Brandon Semenuk’s Red Bull Rampage winning run in 2021.  (37 minutes)</desc>
     <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2022/10/3/h3axlc6y2gglk0zhtzqz/brandon-semenuk-steps-to-the-top-hero-art" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/3/h3axlc6y2gglk0zhtzqz/brandon-semenuk-steps-to-the-top-hero-art" />
   </programme>
-  <programme channel="RedBullTV.at" start="20230930062409 +0200" stop="20230930063630 +0200">
+  <programme channel="RedBullTV.at" start="20230930042409 +0200" stop="20230930043630 +0200">
     <title lang="en">2019's top car designs</title>
-    <desc lang="en">A genius reversing caravan, a bang-on tribute to Mr Bean and one very wobbly piñata took home 2019's gold stars for soapbox design.  Duration: 740</desc>
+    <desc lang="en">A genius reversing caravan, a bang-on tribute to Mr Bean and one very wobbly piñata took home 2019's gold stars for soapbox design.  (12 minutes)</desc>
     <category lang="en">Sport, Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/redbullcom/2022/8/2/thodfmm8cfz4zazzt5mk/red-bull-soapbox-race-2019-helsinki-finland" />
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/thodfmm8cfz4zazzt5mk/red-bull-soapbox-race-2019-helsinki-finland" />
   </programme>
 </tv>
 
