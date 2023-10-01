@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231001090918 +0200" stop="20231001101851 +0200">
-    <title lang="en">The Old World</title>
-    <desc lang="en">The Old World highlights the European riders who dominate the world stage in mountain biking. (69 minutes)</desc>
-    <category lang="en">Sport, MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231001101851 +0200" stop="20231001104413 +0200">
     <title lang="en">All in a day's work</title>
     <desc lang="en">Meet Annie Reickert and Moana Jones as they carve out careers as professional surfers. (25 minutes)</desc>
@@ -150,6 +144,12 @@
     <desc lang="en">Alex Johnson spent a decade trying to climb The Swarm, USA. The challenge forces her to face her true self. (22 minutes)</desc>
     <category lang="en">Sport, Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/ih4gy94ufhrghrh059nc/reel-rock-s8-e3-alex-johnson-swarm-usa" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231002032055 +0200" stop="20231002034108 +0200">
+    <title lang="en">Cenote</title>
+    <desc lang="en">Adolfo 'Fito' Trujillo’s discovery of climbing in the limestone sinkholes turns the farmer’s life around. (19 minutes)</desc>
+    <category lang="en">Sport, Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/gl3qlrwdaz1smqbizu1b/reel-rock-s8-e4-aldolfo-trujillo-yucatan-penninsula" />
   </programme>
 </tv>
 
