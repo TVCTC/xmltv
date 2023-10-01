@@ -1378,6 +1378,12 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
+  <programme channel="RedBullTV.at" start="20231001090918 +0200" stop="20231001101851 +0200">
+    <title lang="en">The Old World</title>
+    <desc lang="en">The Old World highlights the European riders who dominate the world stage in mountain biking. (69 minutes)</desc>
+    <category lang="en">Sport, MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual" />
+  </programme>
   <programme channel="RedBullTV.at" start="20231001101851 +0200" stop="20231001104413 +0200">
     <title lang="en">All in a day's work</title>
     <desc lang="en">Meet Annie Reickert and Moana Jones as they carve out careers as professional surfers. (25 minutes)</desc>
@@ -1515,12 +1521,6 @@
     <desc lang="en">Alex Johnson spent a decade trying to climb The Swarm, USA. The challenge forces her to face her true self. (22 minutes)</desc>
     <category lang="en">Sport, Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/ih4gy94ufhrghrh059nc/reel-rock-s8-e3-alex-johnson-swarm-usa" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231002032055 +0200" stop="20231002034108 +0200">
-    <title lang="en">Cenote</title>
-    <desc lang="en">Adolfo 'Fito' Trujillo’s discovery of climbing in the limestone sinkholes turns the farmer’s life around. (19 minutes)</desc>
-    <category lang="en">Sport, Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/gl3qlrwdaz1smqbizu1b/reel-rock-s8-e4-aldolfo-trujillo-yucatan-penninsula" />
   </programme>
   <channel id="TV538.nl">
     <display-name>TV 538</display-name>
@@ -6662,12 +6662,6 @@ See more Edwin Moses videos below.</desc>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/5f/93/OSKkiju1_o.png" />
   </channel>
-  <programme channel="FailArmy.us" start="20231001131200 +0000" stop="20231001134400 +0000">
-    <title lang="en">FailArmy Halloween - FailArmy Presents: Fail-O-Ween</title>
-    <desc lang="en">Season 1, The best tricks and fails of the season.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/650ca0fbd193e8001b808de0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="FailArmy.us" start="20231001134400 +0000" stop="20231001141600 +0000">
     <title lang="en">FailArmy Halloween - FailArmy Halloween</title>
     <desc lang="en">Season 1, Fall fails for Halloween.</desc>
@@ -6795,7 +6789,21 @@ Showcasing some of people's most popular fears.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/650ca0dfd193e8001b805adb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
-  <programme channel="FailArmy.us" start="20231002012200 +0000" stop="20231002023000 +0000">
+  <programme channel="FailArmy.us" start="20231002012200 +0000" stop="20231002015300 +0000">
+    <title lang="en">#Worst Fears - This Scares Me!</title>
+    <desc lang="en">Season 1, Episode 12 
+Showcasing kids, appliances, and many other fears.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0dfd193e8001b805adb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="FailArmy.us" start="20231002015300 +0000" stop="20231002022400 +0000">
+    <title lang="en">FailArmy Now - It All Falls Down</title>
+    <desc lang="en">Season 3, Episode 8 
+Featuring clips about dogs, balance and candy.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0dad193e8001b8052c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="FailArmy.us" start="20231002022400 +0000" stop="20231002030000 +0000">
     <title lang="en">FailArmy - FailArmy</title>
     <desc lang="en">no info available</desc>
     <category lang="en">no info available</category>
@@ -6806,13 +6814,6 @@ Showcasing some of people's most popular fears.</desc>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/a5/2a/yMz2mukZ_o.png" />
   </channel>
-  <programme channel="AlwaysFunnyVideos.us" start="20231001133000 +0000" stop="20231001140000 +0000">
-    <title lang="en">Fail Center - Episode 7</title>
-    <desc lang="en">Season 3, Episode 7 
-Always Funny Videos is family-friendly comedy programming from the creators of America’s Funniest Home Videos. 24/7 Laughs delivered in hilarious comedy home videos that are funny for all ages!</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/64513aa8649e97001bd0f375/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="AlwaysFunnyVideos.us" start="20231001140000 +0000" stop="20231001143000 +0000">
     <title lang="en">Funny Videos Now Top 10 Countdown - Episode 7</title>
     <desc lang="en">Season 1, Episode 7 
@@ -6964,7 +6965,21 @@ Jaleel White pops the funniest retro videos into the old VCR and presses play. G
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/640bb68f5d300f00130baed6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
-  <programme channel="AlwaysFunnyVideos.us" start="20231002013000 +0000" stop="20231002023000 +0000">
+  <programme channel="AlwaysFunnyVideos.us" start="20231002013000 +0000" stop="20231002020000 +0000">
+    <title lang="en">LOL Party - LOL Party</title>
+    <desc lang="en">Season 1, Episode 7 
+From knee slaps to giggles, this is your invitation to the LOL Party's Top 10 Countdown.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/6386c778d9c17f001455c5f0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="AlwaysFunnyVideos.us" start="20231002020000 +0000" stop="20231002023000 +0000">
+    <title lang="en">AFV's This Just In - Episode 6</title>
+    <desc lang="en">Season 2, Episode 6 
+The latest videos from the AFV library.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/6386c777d9c17f001455c555/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="AlwaysFunnyVideos.us" start="20231002023000 +0000" stop="20231002030000 +0000">
     <title lang="en">Always Funny Videos - Always Funny Videos</title>
     <desc lang="en">no info available</desc>
     <category lang="en">no info available</category>
@@ -6975,13 +6990,6 @@ Jaleel White pops the funniest retro videos into the old VCR and presses play. G
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/4f/c5/ScvlSxwU_o.png" />
   </channel>
-  <programme channel="StarTrek.us" start="20231001130000 +0000" stop="20231001140000 +0000">
-    <title lang="en">Star Trek: The Original Series - The Squire Of Gothos</title>
-    <desc lang="en">Season 1, Episode 17 
-A powerful entity known as Trelane torments the crew of the Enterprise.</desc>
-    <category lang="en">Classics</category>
-    <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="StarTrek.us" start="20231001140000 +0000" stop="20231001150000 +0000">
     <title lang="en">Star Trek: The Original Series - Arena</title>
     <desc lang="en">Season 1, Episode 18 
@@ -7066,24 +7074,18 @@ Kirk and the U.S.S. Enterprise must combat parasitic aliens.</desc>
     <category lang="en">Classics</category>
     <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
-  <programme channel="StarTrek.us" start="20231002020000 +0000" stop="20231002023000 +0000">
-    <title lang="en">Star Trek - Star Trek</title>
-    <desc lang="en">no info available</desc>
-    <category lang="en">no info available</category>
-    <icon src="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  <programme channel="StarTrek.us" start="20231002020000 +0000" stop="20231002030000 +0000">
+    <title lang="en">Star Trek: The Original Series - Amok Time</title>
+    <desc lang="en">Season 2, Episode 1 
+Spock must return to Vulcan to meet his intended future wife, betrothed from childhood.</desc>
+    <category lang="en">Classics</category>
+    <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="PlutoTVSci-Fi.us">
     <display-name>Pluto TV Sci-Fi</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/ef/68/NL7FR1wZ_o.png" />
   </channel>
-  <programme channel="PlutoTVSci-Fi.us" start="20231001130000 +0000" stop="20231001140000 +0000">
-    <title lang="en">RoboCop: The Series - 120 - Corporate Raiders</title>
-    <desc lang="en">Season 1, Episode 20 
-The city is rocked by anti-corporate violence as RoboCop and Officer Madigan are assigned to bring in a charming ex-terrorist, but a corrupt union leader and his sultry secretary have other plans.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/6349a59c53321600133aff49/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="PlutoTVSci-Fi.us" start="20231001140000 +0000" stop="20231001150000 +0000">
     <title lang="en">RoboCop: The Series - 121 - Public Enemies</title>
     <desc lang="en">Season 1, Episode 21 
@@ -7189,24 +7191,18 @@ A team of specialists race to solve the mystery of why an alarming number of car
     <category lang="en">Action &amp; Adventure</category>
     <icon src="https://images.pluto.tv/series/5d93be28605d03c289702b87/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
-  <programme channel="PlutoTVSci-Fi.us" start="20231002014500 +0000" stop="20231002023000 +0000">
-    <title lang="en">Pluto TV Sci-Fi - Pluto TV Sci-Fi</title>
-    <desc lang="en">no info available</desc>
-    <category lang="en">no info available</category>
-    <icon src="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  <programme channel="PlutoTVSci-Fi.us" start="20231002014500 +0000" stop="20231002033000 +0000">
+    <title lang="en">The Triangle - Part 02</title>
+    <desc lang="en">Season 1, Episode 2 
+Benirall’s team is detained by a mysterious contingent of black-clad military personnel, held captive, and questioned at an underwater facility.</desc>
+    <category lang="en">Action &amp; Adventure</category>
+    <icon src="https://images.pluto.tv/series/5d93be28605d03c289702b87/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="Crime360.us">
     <display-name>Crime 360</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/85/7d/Wut6FGg9_o.png" />
   </channel>
-  <programme channel="Crime360.us" start="20231001130000 +0000" stop="20231001140000 +0000">
-    <title lang="en">The First 48 - Up in Flames / Drive-By</title>
-    <desc lang="en">Season 8, Episode 12 
-In Birmingham, Detectives Jerry Williams and Chris Anderson investigate the murder of man found dead in the back of his burning pick-up truck. With most of the physical evidence destroyed, detectives must track down the people who were last seen.</desc>
-    <category lang="en">Documentaries</category>
-    <icon src="https://images.pluto.tv/series/56c7b4cf4d857c9b4d4b03a6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="Crime360.us" start="20231001140000 +0000" stop="20231001150000 +0000">
     <title lang="en">The First 48 - Brothers Down</title>
     <desc lang="en">Season 21, Episode 13 
@@ -7291,24 +7287,18 @@ In Birmingham, Detectives Jerry Williams and Chris Anderson investigate the murd
     <category lang="en">Documentaries</category>
     <icon src="https://images.pluto.tv/series/56c7b4cf4d857c9b4d4b03a6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
-  <programme channel="Crime360.us" start="20231002020000 +0000" stop="20231002023000 +0000">
-    <title lang="en">Crime 360 - Crime 360</title>
-    <desc lang="en">no info available</desc>
-    <category lang="en">no info available</category>
-    <icon src="https://images.pluto.tv/channels/6000a5a9e767980007b497ca/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  <programme channel="Crime360.us" start="20231002020000 +0000" stop="20231002030000 +0000">
+    <title lang="en">The First 48 - Brothers Down</title>
+    <desc lang="en">Season 21, Episode 13 
+In Tulsa, two brothers are shot down after checking on their night cleaning crew. Detectives struggle to find a motive before the killer strikes again.</desc>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.pluto.tv/series/56c7b4cf4d857c9b4d4b03a6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="PlutoTVTrueCrime.us">
     <display-name>Pluto TV True Crime</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/0f/16/UD4GZuAg_o.png" />
   </channel>
-  <programme channel="PlutoTVTrueCrime.us" start="20231001130000 +0000" stop="20231001140000 +0000">
-    <title lang="en">Trace of Evil - Conned to Death</title>
-    <desc lang="en">Season 3, Episode 309 
-The death of Michele MacNeill, and how her family, determined to get justice for her, led investigators to finally uncover the incredible circumstances surrounding her murder.</desc>
-    <category lang="en">Reality</category>
-    <icon src="https://images.pluto.tv/series/61f0636842817b001a960006/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="PlutoTVTrueCrime.us" start="20231001140000 +0000" stop="20231001150000 +0000">
     <title lang="en">Trace of Evil - Terror on Thanksgiving</title>
     <desc lang="en">Season 3, Episode 310 
@@ -7393,23 +7383,18 @@ Trace of Evil: Tragedy in the Canyon is the disturbing story of Jchandra Brown, 
     <category lang="en">Reality</category>
     <icon src="https://images.pluto.tv/series/61f0636842817b001a960006/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
-  <programme channel="PlutoTVTrueCrime.us" start="20231002020000 +0000" stop="20231002023000 +0000">
-    <title lang="en">Pluto TV True Crime - Pluto TV True Crime</title>
-    <desc lang="en">no info available</desc>
-    <category lang="en">no info available</category>
-    <icon src="https://images.pluto.tv/channels/5812be1c249444e05d09cc50/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  <programme channel="PlutoTVTrueCrime.us" start="20231002020000 +0000" stop="20231002030000 +0000">
+    <title lang="en">Trace of Evil - The Murder of Belen Perez</title>
+    <desc lang="en">Season 3, Episode 322 
+Trace of Evil: The Murder of Belen Perez follows the investigation into the death of an innocent mother, how detectives broke the case and how the guilt of the offender was eventually proven.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://images.pluto.tv/series/61f0636842817b001a960006/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="CBSNewsMiami.us">
     <display-name>CBS News Miami</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d1/35/I5qwoZbg_o.png" />
   </channel>
-  <programme channel="CBSNewsMiami.us" start="20231001133000 +0000" stop="20231001140000 +0000">
-    <title lang="en">CBS News National - CBS News National</title>
-    <desc lang="en">Season 1, National and World News.</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/6517424105bcdf001ab11594/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsMiami.us" start="20231001140000 +0000" stop="20231001150000 +0000">
     <title lang="en">CBS News National - CBS News National</title>
     <desc lang="en">Season 1, National and World News.</desc>
@@ -7489,6 +7474,12 @@ Trace of Evil: Tragedy in the Canyon is the disturbing story of Jchandra Brown, 
     <icon src="https://images.pluto.tv/series/6517424105bcdf001ab11594/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <programme channel="CBSNewsMiami.us" start="20231002020000 +0000" stop="20231002023000 +0000">
+    <title lang="en">CBS News National - CBS News National</title>
+    <desc lang="en">Season 1, National and World News.</desc>
+    <category lang="en">News and Information</category>
+    <icon src="https://images.pluto.tv/series/6517424105bcdf001ab11594/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="CBSNewsMiami.us" start="20231002023000 +0000" stop="20231002030000 +0000">
     <title lang="en">CBS News Miami - CBS News Miami</title>
     <desc lang="en">no info available</desc>
     <category lang="en">no info available</category>
@@ -7499,12 +7490,6 @@ Trace of Evil: Tragedy in the Canyon is the disturbing story of Jchandra Brown, 
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d6/2f/d6ilnDhv_o.png" />
   </channel>
-  <programme channel="CBSNewsNewYork.us" start="20231001130000 +0000" stop="20231001140000 +0000">
-    <title lang="en">CBS2 News Sunday (replay) - CBS2 News Sunday (replay)</title>
-    <desc lang="en">Season 1, Replay of CBS2 Sunday Newscast.</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/6306a685ce5c48001b1f3b02/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsNewYork.us" start="20231001140000 +0000" stop="20231001150000 +0000">
     <title lang="en">Latest New York News &amp; Headlines - Latest New York News &amp; Headlines</title>
     <desc lang="en">Season 1, Top stories in New York.</desc>
@@ -7613,23 +7598,17 @@ Trace of Evil: Tragedy in the Canyon is the disturbing story of Jchandra Brown, 
     <category lang="en">News and Information</category>
     <icon src="https://images.pluto.tv/series/63fdc2ee2fc2340013592965/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
-  <programme channel="CBSNewsNewYork.us" start="20231002020000 +0000" stop="20231002023000 +0000">
-    <title lang="en">CBS News New York - CBS News New York</title>
-    <desc lang="en">no info available</desc>
-    <category lang="en">no info available</category>
-    <icon src="https://images.pluto.tv/channels/5dc48170e280c80009a861ab/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  <programme channel="CBSNewsNewYork.us" start="20231002020000 +0000" stop="20231002030000 +0000">
+    <title lang="en">Latest New York News &amp; Headlines - Latest New York News &amp; Headlines</title>
+    <desc lang="en">Season 1, Top stories in New York.</desc>
+    <category lang="en">News and Information</category>
+    <icon src="https://images.pluto.tv/series/63fdc2ee2fc2340013592965/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="CBSNewsLosAngeles.us">
     <display-name>CBS News Los Angeles</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/81/93/zQ7h7Qsh_o.png" />
   </channel>
-  <programme channel="CBSNewsLosAngeles.us" start="20231001130000 +0000" stop="20231001140000 +0000">
-    <title lang="en">KCAL9 News 6am - KCAL9 News 6am</title>
-    <desc lang="en">Season 1, CBS News Los Angeles is hyper local news streaming 24/7... for free! It's SoCal's place to get top stories, breaking news, weather, traffic and more. Check us out. We're always on.</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/638e46dd7756bf00130203c3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsLosAngeles.us" start="20231001140000 +0000" stop="20231001150000 +0000">
     <title lang="en">KCAL News Mornings 7am - KCAL News Mornings 7am</title>
     <desc lang="en">Season 1, CBS News Los Angeles is hyper local news streaming 24/7... for free! It's SoCal's place to get top stories, breaking news, weather, traffic and more. Check us out. We're always on.</desc>
@@ -7720,11 +7699,11 @@ Trace of Evil: Tragedy in the Canyon is the disturbing story of Jchandra Brown, 
     <category lang="en">News and Information</category>
     <icon src="https://images.pluto.tv/series/63b67c9bbc65210013550c79/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
-  <programme channel="CBSNewsLosAngeles.us" start="20231002020000 +0000" stop="20231002023000 +0000">
-    <title lang="en">CBS News Los Angeles - CBS News Los Angeles</title>
-    <desc lang="en">no info available</desc>
-    <category lang="en">no info available</category>
-    <icon src="https://images.pluto.tv/channels/5dc481cda1d430000948a1b4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  <programme channel="CBSNewsLosAngeles.us" start="20231002020000 +0000" stop="20231002030000 +0000">
+    <title lang="en">KCAL News 6pm - KCAL News 6pm</title>
+    <desc lang="en">Season 1, CBS News Los Angeles is hyper local news streaming 24/7... for free! It's SoCal's place to get top stories, breaking news, weather, traffic and more. Check us out. We're always on.</desc>
+    <category lang="en">News and Information</category>
+    <icon src="https://images.pluto.tv/series/63b67c9bbc65210013550c79/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="StingrayNaturescape.stirr">
     <display-name>Stingray Naturescape</display-name>
@@ -7848,7 +7827,14 @@ Picard finds himself facing a strenuous test of his loyalty to Starfleet, one wh
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
-  <programme channel="StarTrek2.us" start="20231002012602 +0000" stop="20231002023000 +0000">
+  <programme channel="StarTrek2.us" start="20231002012602 +0000" stop="20231002021131 +0000">
+    <title lang="en">Star Trek: The Next Generation (Embed) - EVOLUTION*</title>
+    <desc lang="en">Season 3, Episode 150 
+The Enterprise is carrying an eminent scientist, Dr. Paul Stubbs, to the site of a binary star where they are expecting a massive stellar explosion to occur in a few hours.</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="StarTrek2.us" start="20231002021131 +0000" stop="20231002030000 +0000">
     <title lang="en">Star Trek 2 - Star Trek 2</title>
     <desc lang="en">no info available</desc>
     <category lang="en">no info available</category>
@@ -7859,13 +7845,6 @@ Picard finds himself facing a strenuous test of his loyalty to Starfleet, one wh
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/08/41/axqrAuK5_o.jpg" />
   </channel>
-  <programme channel="MoreStarTrek.us" start="20231001130000 +0000" stop="20231001140000 +0000">
-    <title lang="en">Star Trek: Voyager - Eye Of The Needle</title>
-    <desc lang="en">Season 1, Episode 7 
-The discovery of a wormhole in deep space raises the crew's hopes of finding a shortcut home.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="MoreStarTrek.us" start="20231001140000 +0000" stop="20231001150000 +0000">
     <title lang="en">Star Trek: Voyager - Ex Post Facto</title>
     <desc lang="en">Season 1, Episode 8 
@@ -7950,11 +7929,12 @@ The ship's holographic doctor experiences a world where illusion and reality col
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
-  <programme channel="MoreStarTrek.us" start="20231002020000 +0000" stop="20231002023000 +0000">
-    <title lang="en">More Star Trek - More Star Trek</title>
-    <desc lang="en">no info available</desc>
-    <category lang="en">no info available</category>
-    <icon src="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  <programme channel="MoreStarTrek.us" start="20231002020000 +0000" stop="20231002030000 +0000">
+    <title lang="en">Star Trek: Voyager - Elogium</title>
+    <desc lang="en">Season 2, Episode 4 
+The ship is surrounded by creatures whose presence accelerates Kes' reproductive process and threatens Voyager's key operating systems.</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="UnsolvedMysteries.us">
     <display-name>Unsolved Mysteries</display-name>
@@ -8045,7 +8025,14 @@ This episode includes: Missing Rock Star &amp; UD, UD: Wandering Fishman, St. Lo
     <category lang="en">Documentaries</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
-  <programme channel="UnsolvedMysteries.us" start="20231002010048 +0000" stop="20231002023000 +0000">
+  <programme channel="UnsolvedMysteries.us" start="20231002010048 +0000" stop="20231002020048 +0000">
+    <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 5</title>
+    <desc lang="en">Season 8, Episode 5 
+This episode includes: Fugitive Drug Dealer, UD: Model's Third Notebook, Tina's Search &amp; UD, Miracle Buffalo, Lost Gause &amp; UD and Who Killed Superman?</desc>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="UnsolvedMysteries.us" start="20231002020048 +0000" stop="20231002030000 +0000">
     <title lang="en">Unsolved Mysteries - Unsolved Mysteries</title>
     <desc lang="en">no info available</desc>
     <category lang="en">no info available</category>
@@ -8056,13 +8043,6 @@ This episode includes: Missing Rock Star &amp; UD, UD: Wandering Fishman, St. Lo
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/ef/ff/CdetRAsI_o.jpg" />
   </channel>
-  <programme channel="ColdCaseFiles.us" start="20231001130000 +0000" stop="20231001140000 +0000">
-    <title lang="en">Cold Case Files Classic - Cold Case Files Classics</title>
-    <desc lang="en">Season 2, Episode 10 
-Klan leader Sam Bowers goes on trial for ordering the murder of an African-American storeowner 32 years prior, and investigators reopen the unsolved case of an African-American truck driver who was forced to leap to his death from a bridge by Klan member</desc>
-    <category lang="en">Documentaries</category>
-    <icon src="https://images.pluto.tv/series/5c37f226394025ecbfc1f162/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="ColdCaseFiles.us" start="20231001140000 +0000" stop="20231001150000 +0000">
     <title lang="en">Cold Case Files Classic - Cold Case Files Classics</title>
     <desc lang="en">Season 5, Episode 1 
@@ -8147,11 +8127,12 @@ A murderer's saliva, found on envelopes, helps seal his doom 37 years after his 
     <category lang="en">Documentaries</category>
     <icon src="https://images.pluto.tv/series/5c37f226394025ecbfc1f162/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
-  <programme channel="ColdCaseFiles.us" start="20231002020000 +0000" stop="20231002023000 +0000">
-    <title lang="en">Cold Case Files - Cold Case Files</title>
-    <desc lang="en">no info available</desc>
-    <category lang="en">no info available</category>
-    <icon src="https://images.pluto.tv/channels/5c37d6712de254456f7ec340/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  <programme channel="ColdCaseFiles.us" start="20231002020000 +0000" stop="20231002030000 +0000">
+    <title lang="en">Cold Case Files Classic - Cold Case Files Classics</title>
+    <desc lang="en">Season 4, Episode 23 
+The brutal stabbing murder of a Florida woman is solved when police find crucial DNA evidence in spit left on the pavement. And a man is put away for rape and murder when his footprint matches the footprint he left at the crime scene 18 years before.</desc>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.pluto.tv/series/5c37f226394025ecbfc1f162/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="MST3K.us">
     <display-name>MST3K</display-name>
@@ -8213,6 +8194,12 @@ Ken and the crew of the Bacchus 3 return in Star Force: Fugitive Alien II (1987)
 A professor and his students camp out in the rural Arkansas swamp, in hopes of finding a Bigfoot-like creature.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/55af192827f18b7f8bc28207/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="MST3K.us" start="20231002024500 +0000" stop="20231002030000 +0000">
+    <title lang="en">MST3K - MST3K</title>
+    <desc lang="en">no info available</desc>
+    <category lang="en">no info available</category>
+    <icon src="https://images.pluto.tv/channels/545943f1c9f133a519bbac92/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="Afrobeats247TV.uk">
     <display-name>Afrobeats 24/7 TV</display-name>
