@@ -7,27 +7,6 @@
     <url>tvtv.us</url>
     <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
   </channel>
-  <programme channel="Bravo.us" start="20231002210000 +0200" stop="20231002220000 +0200">
-    <title lang="en">Below Deck Mediterranean - Fever Pitch</title>
-    <desc lang="en">Bravo TV programme
-EP023652880011</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
-  </programme>
-  <programme channel="Bravo.us" start="20231002220000 +0200" stop="20231002230000 +0200">
-    <title lang="en">Below Deck Mediterranean - Charter From Heaven, Charter From Hell?</title>
-    <desc lang="en">Bravo TV programme
-EP023652880012</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
-  </programme>
-  <programme channel="Bravo.us" start="20231002230000 +0200" stop="20231003000000 +0200">
-    <title lang="en">Below Deck Mediterranean - They Hate Us Cuz They Ain't Us</title>
-    <desc lang="en">Bravo TV programme
-EP023652880013</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
-  </programme>
   <programme channel="Bravo.us" start="20231003000000 +0200" stop="20231003010000 +0200">
     <title lang="en">Below Deck Mediterranean - The Beautiful Thing About Subpar</title>
     <desc lang="en">Bravo TV programme
@@ -196,25 +175,32 @@ EP044529600011</desc>
     <category lang="en">Entertainment</category>
     <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
   </programme>
+  <programme channel="Bravo.us" start="20231003220000 +0200" stop="20231003230000 +0200">
+    <title lang="en">Below Deck Adventure - Zero Fjords Given</title>
+    <desc lang="en">Bravo TV programme
+EP044529600012</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
+  </programme>
+  <programme channel="Bravo.us" start="20231003230000 +0200" stop="20231004000000 +0200">
+    <title lang="en">Below Deck Adventure - Crazy Rich Charter Guests</title>
+    <desc lang="en">Bravo TV programme
+EP044529600013</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
+  </programme>
+  <programme channel="Bravo.us" start="20231004000000 +0200" stop="20231004010000 +0200">
+    <title lang="en">Below Deck Adventure - The Long Fjord-Bye</title>
+    <desc lang="en">Bravo TV programme
+EP044529600014</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
+  </programme>
   <channel id="SyFy.us">
     <display-name>SyFy</display-name>
     <url>tvtv.us</url>
     <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
   </channel>
-  <programme channel="SyFy.us" start="20231002201500 +0200" stop="20231002223000 +0200">
-    <title lang="en">Pride and Prejudice and Zombies (2016, Horror)</title>
-    <desc lang="en">SyFy TV programme
-MV007910620000</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
-  </programme>
-  <programme channel="SyFy.us" start="20231002223000 +0200" stop="20231003003000 +0200">
-    <title lang="en">Zombieland (2009, Comedy)</title>
-    <desc lang="en">SyFy TV programme
-MV002510450000</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
-  </programme>
   <programme channel="SyFy.us" start="20231003003000 +0200" stop="20231003031500 +0200">
     <title lang="en">The Mummy (1999, Adventure)</title>
     <desc lang="en">SyFy TV programme
@@ -331,6 +317,13 @@ MV001045220000</desc>
     <title lang="en">The Mummy: Tomb of the Dragon Emperor (2008, Adventure)</title>
     <desc lang="en">SyFy TV programme
 MV002139820000</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
+  </programme>
+  <programme channel="SyFy.us" start="20231003230000 +0200" stop="20231004010200 +0200">
+    <title lang="en">John Wick (2014, Action)</title>
+    <desc lang="en">SyFy TV programme
+MV006178670000</desc>
     <category lang="en">Sci-Fi</category>
     <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
   </programme>
