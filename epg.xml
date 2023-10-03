@@ -1378,6 +1378,12 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
+  <programme channel="RedBullTV.at" start="20231003122142 +0200" stop="20231003124805 +0200">
+    <title lang="en">Hong Kong</title>
+    <desc lang="en">Some of the world’s most creative aircraft invade Victoria Harbour in Hong Kong for Red Bull Flugtag. (25 minutes)</desc>
+    <category lang="en">Sport, Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFK2BSMS2111/FO-1RFK2BSMS2111-featureMedia" />
+  </programme>
   <programme channel="RedBullTV.at" start="20231003124805 +0200" stop="20231003143206 +0200">
     <title lang="en">The Longest Wave</title>
     <desc lang="en">Joe Berlinger’s study of watersport legend Robby Naish gives an unexpected portrait of the gifted athlete. (103 minutes)</desc>
@@ -1521,12 +1527,6 @@
     <desc lang="en">Trent Alexander-Arnold is one of the world's best footballers. Can vision training help him to be even better? (47 minutes)</desc>
     <category lang="en">Sport, Soccer</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/5/19/e4ji5lljqroyq8j0jxmr/trents-vision-hero-art" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231004064520 +0200" stop="20231004071200 +0200">
-    <title lang="en">Hard Enduro</title>
-    <desc lang="en">Special guest Fabio Wibmer joins a star-studded line-up to discuss decades of progression in Hard Enduro. (26 minutes)</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/10/lgz7zoe1bj8tqc81vila/taddy-blazusiak-red-bull-hare-scramble-2019" />
   </programme>
   <channel id="TV538.nl">
     <display-name>TV 538</display-name>
