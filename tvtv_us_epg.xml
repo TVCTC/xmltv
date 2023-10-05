@@ -7,13 +7,6 @@
     <url>tvtv.us</url>
     <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
   </channel>
-  <programme channel="Bravo.us" start="20231006000000 +0200" stop="20231006010000 +0200">
-    <title lang="en">Southern Charm - Vows, Vendettas and Vibrators</title>
-    <desc lang="en">Bravo TV programme
-EP017207110171</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
-  </programme>
   <programme channel="Bravo.us" start="20231006010000 +0200" stop="20231006020000 +0200">
     <title lang="en">Southern Charm - Spilling the JT</title>
     <desc lang="en">Bravo TV programme
@@ -168,6 +161,13 @@ MV000281680000</desc>
     <category lang="en">Entertainment</category>
     <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
   </programme>
+  <programme channel="Bravo.us" start="20231007010000 +0200" stop="20231007033000 +0200">
+    <title lang="en">Back to the Future Part III (1990, Comedy)</title>
+    <desc lang="en">Bravo TV programme
+MV000315060000</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
+  </programme>
   <channel id="SyFy.us">
     <display-name>SyFy</display-name>
     <url>tvtv.us</url>
@@ -276,20 +276,6 @@ MV001503390000</desc>
     <url>tvtv.us</url>
     <icon src="https://images2.imgbox.com/51/ed/Mf3nzgHP_o.png" />
   </channel>
-  <programme channel="NASATVPublic.us" start="20231006003000 +0200" stop="20231006010000 +0200">
-    <title lang="en">Our Living Planet</title>
-    <desc lang="en">NASA TV airs a variety of regularly scheduled, pre-recorded educational and public relations programming 24 hours a day on its various channels. The network also provides an array of live programming, such as 24-hour coverage of missions, events (spacewalks, media interviews, educational broadcasts), press conferences and rocket launches.
-SH045182100000</desc>
-    <category lang="en">Science, Technology</category>
-    <icon src="https://images2.imgbox.com/51/ed/Mf3nzgHP_o.png" />
-  </programme>
-  <programme channel="NASATVPublic.us" start="20231006010000 +0200" stop="20231006013000 +0200">
-    <title lang="en">Surprisingly STEM</title>
-    <desc lang="en">NASA TV airs a variety of regularly scheduled, pre-recorded educational and public relations programming 24 hours a day on its various channels. The network also provides an array of live programming, such as 24-hour coverage of missions, events (spacewalks, media interviews, educational broadcasts), press conferences and rocket launches.
-SH045182090000</desc>
-    <category lang="en">Science, Technology</category>
-    <icon src="https://images2.imgbox.com/51/ed/Mf3nzgHP_o.png" />
-  </programme>
   <programme channel="NASATVPublic.us" start="20231006013000 +0200" stop="20231006023000 +0200">
     <title lang="en">Moon 101 Series</title>
     <desc lang="en">NASA TV airs a variety of regularly scheduled, pre-recorded educational and public relations programming 24 hours a day on its various channels. The network also provides an array of live programming, such as 24-hour coverage of missions, events (spacewalks, media interviews, educational broadcasts), press conferences and rocket launches.
@@ -462,6 +448,13 @@ SH034370750000</desc>
     <title lang="en">75 Years of Armstrong: Airborne Science</title>
     <desc lang="en">NASA TV airs a variety of regularly scheduled, pre-recorded educational and public relations programming 24 hours a day on its various channels. The network also provides an array of live programming, such as 24-hour coverage of missions, events (spacewalks, media interviews, educational broadcasts), press conferences and rocket launches.
 SH045181980000</desc>
+    <category lang="en">Science, Technology</category>
+    <icon src="https://images2.imgbox.com/51/ed/Mf3nzgHP_o.png" />
+  </programme>
+  <programme channel="NASATVPublic.us" start="20231007010000 +0200" stop="20231007020000 +0200">
+    <title lang="en">Ask an Astrobiologist</title>
+    <desc lang="en">NASA TV airs a variety of regularly scheduled, pre-recorded educational and public relations programming 24 hours a day on its various channels. The network also provides an array of live programming, such as 24-hour coverage of missions, events (spacewalks, media interviews, educational broadcasts), press conferences and rocket launches.
+SH039869630000</desc>
     <category lang="en">Science, Technology</category>
     <icon src="https://images2.imgbox.com/51/ed/Mf3nzgHP_o.png" />
   </programme>
