@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231005001716 +0200" stop="20231005012216 +0200">
-    <title lang="en">White Rhino</title>
-    <desc lang="en">Big wave surfers and photographers experience massive surf as three epic swells hit the South Pacific. (64 minutes)</desc>
-    <category lang="en">Sport, Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/4/14/resxmzg1fj6ltfwwqcqw/white-rhino-hero-art" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231005012216 +0200" stop="20231005024702 +0200">
     <title lang="en">Red Bull Hart Lines</title>
     <desc lang="en">The second edition of the groundbreaking contest sees the world's best skateboarders face off in Detroit, USA. (84 minutes)</desc>
@@ -156,6 +150,12 @@
     <desc lang="en">Robbie Maddison is a master of motocross on land. Now, he takes his bike to one of the globe's heaviest waves. (24 minutes)</desc>
     <category lang="en">Sport, Motocross</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1R937T8Q52111/FO-1R937T8Q52111-featureMedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231005172702 +0200" stop="20231005183706 +0200">
+    <title lang="en">The Old World</title>
+    <desc lang="en">The Old World highlights the European riders who dominate the world stage in mountain biking. (69 minutes)</desc>
+    <category lang="en">Sport, MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual" />
   </programme>
 </tv>
 
