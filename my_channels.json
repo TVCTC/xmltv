@@ -285,13 +285,14 @@
     "description": "NASA TV airs a variety of regularly scheduled, pre-recorded educational and public relations programming 24 hours a day on its various channels. The network also provides an array of live programming, such as 24-hour coverage of missions, events (spacewalks, media interviews, educational broadcasts), press conferences and rocket launches.",
     "icon": "https://images2.imgbox.com/51/ed/Mf3nzgHP_o.png",
     "guide": {
-      "url": "tvtv.us",
-      "id": "12553",
-      "timezone": "CET",
-      "filename": "tvtv_us_epg.xml",
-      "update_interval": 12,
+      "url": "https://www.ontvtonight.com/guide",
+      "id": "/listings/channel/69023157/nasa-television.html?dt=",
+      "timezone": "ET",
+      "filename": "ontvtonight_com_epg.xml",
+      "update_interval": 24,
       "programmes": []
-    }
+    },
+    "notes": "tvtvus channel id: 12553",
   },
   {
     "group": "Science",
