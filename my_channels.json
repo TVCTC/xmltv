@@ -996,11 +996,11 @@
     "description": "",
     "icon": "",
     "guide": {
-      "url": "",
-      "id": "",
-      "timezone": "",
-      "filename": "",
-      "update_interval": "",
+      "url": "https://www.a1.hr/raspored",
+      "id": "101",
+      "timezone": "CET",
+      "filename": "a1_epg.xml",
+      "update_interval": "24",
       "programmes": []
     }
   },
@@ -1017,11 +1017,11 @@
     "description": "",
     "icon": "",
     "guide": {
-      "url": "",
-      "id": "",
-      "timezone": "",
-      "filename": "",
-      "update_interval": "",
+      "url": "https://www.a1.hr/raspored",
+      "id": "851",
+      "timezone": "CET",
+      "filename": "a1_epg.xml",
+      "update_interval": "24",
       "programmes": []
     }
   },
@@ -1075,16 +1075,15 @@
     "name": "Live Webcam Crikvenica",
     "stream": "https://cdn-004.whatsupcams.com/hls/hr_crikvenica1.m3u8",
     "url": "",
-    "language": "",
-    "category": "",
-    "description": "",
-    "icon": "",
+    "language": "hr",
+    "category": "Live Webcam",
+    "description": "Live Webcam",
+    "icon": "https://images2.imgbox.com/c4/43/dhKaR7e6_o.png",
     "guide": {
-      "url": "",
-      "id": "",
-      "timezone": "",
-      "filename": "",
-      "update_interval": "",
+      "url": "Universal Guide",
+      "timezone": "CET",
+      "filename": "universal_epg.xml",
+      "update_interval": 24,
       "programmes": []
     }
   },
