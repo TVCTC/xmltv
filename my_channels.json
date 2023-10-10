@@ -1059,11 +1059,11 @@
     "description": "TV program",
     "icon": "https://images2.imgbox.com/c4/65/GulnSSuf_o.png",
     "guide": {
-      "url": "https://maxtv.hrvatskitelekom.hr/#/epg",
-      "id": 96,
+      "url": "https://www.a1.hr/raspored",
+      "id": "7139",
       "timezone": "CET",
-      "filename": "sportska_televizija_epg.xml",
-      "update_interval": "24 hours",
+      "filename": "a1_epg.xml",
+      "update_interval": "24",
       "programmes": []
     }
   },
