@@ -18,7 +18,22 @@
       "filename": "crime_and_investigation_epg.xml",
       "update_interval": "24 hours",
       "programmes": []
-    }
+    },
+    "source": [
+      {
+        "provider": "maxtv.hrvatskitelekom.hr",
+        "url": "https://maxtv.hrvatskitelekom.hr/#/epg",
+        "id": "227",
+      },
+      {
+        "provider": "mojtv.hr",
+        "url": "https://mojtv.hr/m2/tv-program/kanal.aspx?datum=${ today[ "D.M.YYYY" ] }&id=${ id }",
+        "id": "246",
+      },
+      {
+        "provider": "universal",
+      }
+    ]
   },
   {
     "group": "Documentary",
@@ -101,7 +116,16 @@
       "filename": "universal_epg.xml",
       "update_interval": 24,
       "programmes": []
-    }
+    },
+    "source": [
+      {
+        "provider": "universal",
+      },
+      {
+        "provider": "eurosport.com",
+        "url": "https://www.eurosport.com/tvschedule.shtml"
+      }
+    ]
   },
   {
     "group": "Sport",
@@ -121,7 +145,16 @@
       "filename": "universal_epg.xml",
       "update_interval": 24,
       "programmes": []
-    }
+    },
+    "source": [
+      {
+        "provider": "universal",
+      },
+      {
+        "provider": "eurosport.com",
+        "url": "https://www.eurosport.com/tvschedule.shtml"
+      }
+    ]
   },
   {
     "group": "Movies",
@@ -226,7 +259,17 @@
       "filename": "travel_channel_epg.xml",
       "update_interval": "24 hours",
       "programmes": []
-    }
+    },
+    "source": [
+      {
+        "provider": "mojtv.hr",
+        "url": "https://mojtv.hr/m2/tv-program/kanal.aspx?datum=${ today[ "D.M.YYYY" ] }&id=${ id }",
+        "id": "486",
+      },
+      {
+        "provider": "universal",
+      }
+    ]
   },
   {
     "group": "Entertainment",
@@ -538,7 +581,22 @@
       "filename": "a1_epg.xml",
       "update_interval": "24",
       "programmes": []
-    }
+    },
+    "source": [
+      {
+        "provider": "a1.hr",
+        "url": "https://www.a1.hr/raspored",
+        "id": "2475",
+      },
+      {
+        "provider": "mojtv.hr",
+        "url": "https://mojtv.hr/m2/tv-program/kanal.aspx?datum=${ today[ "D.M.YYYY" ] }&id=${ id }",
+        "id": "270",
+      },
+      {
+        "provider": "universal",
+      }
+    ]
   },
   {
     "group": "News",
@@ -725,7 +783,22 @@
       "filename": "a1_epg.xml",
       "update_interval": "24",
       "programmes": []
-    }
+    },
+    "source": [
+      {
+        "provider": "a1.hr",
+        "url": "https://www.a1.hr/raspored",
+        "id": "1024",
+      },
+      {
+        "provider": "mojtv.hr",
+        "url": "https://mojtv.hr/m2/tv-program/kanal.aspx?datum=${ today[ "D.M.YYYY" ] }&id=${ id }",
+        "id": "19",
+      },
+      {
+        "provider": "universal",
+      }
+    ]
   },
   {
     "group": "Slovenia",
@@ -746,7 +819,22 @@
       "filename": "a1_epg.xml",
       "update_interval": "24",
       "programmes": []
-    }
+    },
+    "source": [
+      {
+        "provider": "a1.hr",
+        "url": "https://www.a1.hr/raspored",
+        "id": "1012",
+      },
+      {
+        "provider": "mojtv.hr",
+        "url": "https://mojtv.hr/m2/tv-program/kanal.aspx?datum=${ today[ "D.M.YYYY" ] }&id=${ id }",
+        "id": "20",
+      },
+      {
+        "provider": "universal",
+      }
+    ]
   },
   {
     "group": "Slovenia",
@@ -766,7 +854,17 @@
       "filename": "universal_epg.xml",
       "update_interval": 24,
       "programmes": []
-    }
+    },
+    "source": [
+      {
+        "provider": "mojtv.hr",
+        "url": "https://mojtv.hr/m2/tv-program/kanal.aspx?datum=${ today[ "D.M.YYYY" ] }&id=${ id }",
+        "id": "221",
+      },
+      {
+        "provider": "universal",
+      }
+    ]
   },
   {
     "group": "Slovenia",
@@ -787,7 +885,22 @@
       "filename": "tv_koper_capodistria_epg.xml",
       "update_interval": "24 hours",
       "programmes": []
-    }
+    },
+    "source": [
+      {
+        "provider": "maxtv.hrvatskitelekom.hr",
+        "url": "https://maxtv.hrvatskitelekom.hr/#/epg",
+        "id": "771",
+      },
+      {
+        "provider": "mojtv.hr",
+        "url": "https://mojtv.hr/m2/tv-program/kanal.aspx?datum=${ today[ "D.M.YYYY" ] }&id=${ id }",
+        "id": "21",
+      },
+      {
+        "provider": "universal",
+      }
+    ]
   },
   {
     "group": "Slovenia",
@@ -807,7 +920,17 @@
       "filename": "universal_epg.xml",
       "update_interval": 24,
       "programmes": []
-    }
+    },
+    "source": [
+      {
+        "provider": "mojtv.hr",
+        "url": "https://mojtv.hr/m2/tv-program/kanal.aspx?datum=${ today[ "D.M.YYYY" ] }&id=${ id }",
+        "id": "22",
+      },
+      {
+        "provider": "universal",
+      }
+    ]
   },
   {
     "group": "Slovenia",
@@ -993,7 +1116,22 @@
       "filename": "a1_epg.xml",
       "update_interval": "24",
       "programmes": []
-    }
+    },
+    "source": [
+      {
+        "provider": "a1.hr",
+        "url": "https://www.a1.hr/raspored",
+        "id": "101",
+      },
+      {
+        "provider": "mojtv.hr",
+        "url": "https://mojtv.hr/m2/tv-program/kanal.aspx?datum=${ today[ "D.M.YYYY" ] }&id=${ id }",
+        "id": "32",
+      },
+      {
+        "provider": "universal",
+      }
+    ]
   },
   {
     "group": "Music",
@@ -1035,7 +1173,22 @@
       "filename": "a1_epg.xml",
       "update_interval": "24",
       "programmes": []
-    }
+    },
+    "source": [
+      {
+        "provider": "a1.hr",
+        "url": "https://www.a1.hr/raspored",
+        "id": "3507",
+      },
+      {
+        "provider": "mojtv.hr",
+        "url": "https://mojtv.hr/m2/tv-program/kanal.aspx?datum=${ today[ "D.M.YYYY" ] }&id=${ id }",
+        "id": "299",
+      },
+      {
+        "provider": "universal",
+      }
+    ]
   },
   {
     "group": "Sport",
