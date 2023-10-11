@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231011173230 +0200" stop="20231011184510 +0200">
-    <title lang="en">Magic Hour</title>
-    <desc lang="en">The 'magic hour' provides the perfect light to capture stunning images in the mountains. (71 minutes)</desc>
-    <category lang="en">Sport, Mountaineering</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/14/yyuc1fysrqdptglb8re6/simon-hillis-british-columbia-magic-hour-ski" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231011184510 +0200" stop="20231011193534 +0200">
     <title lang="en">Island X</title>
     <desc lang="en">Renowned surf photographer Mark McInnis tracks down undiscovered waves on the most unlikely of islands.  (50 minutes)</desc>
@@ -156,6 +150,12 @@
     <desc lang="en">Held in the Great Smoky Mountains, the world’s top off-road riders faced a brutal test of man and machine. (68 minutes)</desc>
     <category lang="en">Sport, Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/12/ccum6jekqlpcwerit1ru/kenda-tennessee-knockout-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231012120953 +0200" stop="20231012121856 +0200">
+    <title lang="en">Brighton Zeuner</title>
+    <desc lang="en">Tag along with Brighton Zeuner for an insightful day of thrifting, grocery shopping, sushi and skateboarding. (9 minutes)</desc>
+    <category lang="en">Sport, Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/8/qzjzdlpv9wnhepc4uflp/brighton-zeuner-field-day-s3-e4" />
   </programme>
 </tv>
 
