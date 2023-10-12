@@ -7,18 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231012004935 +0200" stop="20231012013317 +0200">
-    <title lang="en">Brussels, Belgium</title>
-    <desc lang="en">Fearless teams race through obstacles in their engineless machines, but who will win in Brussels? (44 minutes)</desc>
-    <category lang="en">Sport, Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/do7fajz6prkpoagayfnq/red-bull-soapbox-race-brussels-2022" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231012013317 +0200" stop="20231012015530 +0200">
-    <title lang="en">Crossing Tasmania</title>
-    <desc lang="en">MTB rider Payson McElveen attempts to cross Australia’s least populated state: the island of Tasmania. (22 minutes)</desc>
-    <category lang="en">Sport, MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/17/qur2mizj4fmcxx63hrns/crossing-tasmania-payson-mcelveen" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231012015530 +0200" stop="20231012025005 +0200">
     <title lang="en">The Tactician: A Cody Webb Story</title>
     <desc lang="en">At the top of the American Hard Enduro food chain, there’s one man that everyone looks up to: Cody Webb. (55 minutes)</desc>
@@ -156,6 +144,18 @@
     <desc lang="en">An intimate look beneath the success of legendary climber Beth Rodden, diving into her struggles and transformation. (19 minutes)</desc>
     <category lang="en">Sport, Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/kysfw3fryc93bqptemxk/reel-rock-s8-e7-beth-rodden" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231012142449 +0200" stop="20231012153700 +0200">
+    <title lang="en">Magic Hour</title>
+    <desc lang="en">The 'magic hour' provides the perfect light to capture stunning images in the mountains. (71 minutes)</desc>
+    <category lang="en">Sport, Mountaineering</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/14/yyuc1fysrqdptglb8re6/simon-hillis-british-columbia-magic-hour-ski" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231012153700 +0200" stop="20231012162723 +0200">
+    <title lang="en">Island X</title>
+    <desc lang="en">Renowned surf photographer Mark McInnis tracks down undiscovered waves on the most unlikely of islands.  (50 minutes)</desc>
+    <category lang="en">Sport, Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/16/gjjq5yjzpmlkqxmhwnnu/island-x-mark-mcinnis-surf-photography-film" />
   </programme>
 </tv>
 
