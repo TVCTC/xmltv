@@ -12,23 +12,23 @@
     "description": "",
     "icon": "https://images2.imgbox.com/eb/3e/FcRrkWbn_o.png",
     "guide": {
-      "url": "https://maxtv.hrvatskitelekom.hr/#/epg",
+      "url": "https://mojtv.hr/",
       "id": 227,
       "timezone": "CET",
-      "filename": "crime_and_investigation_epg.xml",
+      "filename": "mojtv_hr_epg.xml",
       "update_interval": "24 hours",
       "programmes": []
     },
     "source": [
       {
-        "provider": "maxtv.hrvatskitelekom.hr",
-        "url": "https://maxtv.hrvatskitelekom.hr/#/epg",
-        "id": "227"
-      },
-      {
         "provider": "mojtv.hr",
         "url": "https://mojtv.hr/m2/tv-program/kanal.aspx?datum=_____&id=_____",
         "id": "246"
+      },
+      {
+        "provider": "maxtv.hrvatskitelekom.hr",
+        "url": "https://maxtv.hrvatskitelekom.hr/#/epg",
+        "id": "227"
       },
       {
         "provider": "universal"
@@ -111,13 +111,18 @@
     "description": "Nema informacije",
     "icon": "https://images2.imgbox.com/4c/7c/FAlwG75D_o.png",
     "guide": {
-      "url": "Universal Guide",
+      "url": "https://mojtv.hr/",
       "timezone": "CET",
-      "filename": "universal_epg.xml",
+      "filename": "mojtv_hr_epg.xml",
       "update_interval": 24,
       "programmes": []
     },
     "source": [
+      {
+        "provider": "mojtv.hr",
+        "url": "https://mojtv.hr/m2/tv-program/kanal.aspx?datum=_____&id=_____",
+        "id": "246"
+      },
       {
         "provider": "universal"
       },
