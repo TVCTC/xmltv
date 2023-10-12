@@ -1,5 +1,361 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
-<tv source-info-name="pluto_tv_us" source-info-url="pluto.tv" />
+<tv source-info-name="pluto_tv_us" source-info-url="pluto.tv">
+  <channel id="TravelChannel.hr">
+    <display-name>Travel Channel</display-name>
+    <url>https://mojtv.hr/m2/tv-program/kanal.aspx?id=486</url>
+    <icon src="https://images2.imgbox.com/44/b4/9LcGOrup_o.png" />
+  </channel>
+  <programme channel="TravelChannel.hr" start="20231012060000 +0200" stop="20231012070000 +0200">
+    <title lang="hr">Izgradnja na Aljasci - Nindža frejmer</title>
+    <desc lang="hr">Kako izgraditi funkcionalan dom na nezahvalnom terenu Aljaske
+https://mojtv.hr/m2/film.aspx?id=29414&amp;program_id=118552584</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/b984ce2e-0eb5-4c39-a40e-177eed4a914a.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231012070000 +0200" stop="20231012080000 +0200">
+    <title lang="hr">Laboratorija duhova - Dedvud</title>
+    <desc lang="hr">Saznajte sve tajne modernih lovaca na paranormalno
+https://mojtv.hr/m2/film.aspx?id=14959&amp;program_id=118552585</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/b1b53528-5101-4594-afd3-d29f1cc6373c.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231012080000 +0200" stop="20231012090000 +0200">
+    <title lang="hr">Ekspedicija u nepoznato - Epizoda 4</title>
+    <desc lang="hr">Pratite avanture arheologa Josha Gatesa
+https://mojtv.hr/m2/film.aspx?id=34864&amp;program_id=118552586</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/2017-11/4d076398-cf40-4159-9a46-e97470.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231012090000 +0200" stop="20231012100000 +0200">
+    <title lang="hr">Potraga za Bigfutom - Majmun iz močvare</title>
+    <desc lang="hr">https://mojtv.hr/m2/film.aspx?id=16125&amp;program_id=118552587</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/b0b091be-8567-4adc-8922-ff5ce8cdc93a.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231012100000 +0200" stop="20231012110000 +0200">
+    <title lang="hr">Misterije iz muzeja - Smrt Van Goga, Žena maratonac, Montana u plamenu</title>
+    <desc lang="hr">Svaka vas epizoda vodi na čudesno i ponekad šokantno putovanje kroz povijest
+https://mojtv.hr/m2/film.aspx?id=22521&amp;program_id=118552588</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/2023-05/411dd3df-f63a-49c9-b5b4-9e69f1.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231012110000 +0200" stop="20231012120000 +0200">
+    <title lang="hr">NASA: Nerazjašnjeni slučajevi - 1. epizoda</title>
+    <desc lang="hr">Saznajte s kakvim se sve misterijima susreću NASA-ini znanstvenici
+https://mojtv.hr/m2/film.aspx?id=29897&amp;program_id=118552589</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/9c5f3b21-86ba-4b88-a389-371a644af27b.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231012120000 +0200" stop="20231012130000 +0200">
+    <title lang="hr">Srodne duše - Sotonska panika</title>
+    <desc lang="hr">Amy Bruni i Adam Berry posjećuju osobe koje vjeruju da su im kuće zaposjednute
+https://mojtv.hr/m2/film.aspx?id=49128&amp;program_id=118552590</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/8c0d96a1-6950-4e2e-a1d8-62ff97d0e4db.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231012130000 +0200" stop="20231012140000 +0200">
+    <title lang="hr">Izgradnja na Aljasci - Balansiranje</title>
+    <desc lang="hr">Kako izgraditi funkcionalan dom na nezahvalnom terenu Aljaske
+https://mojtv.hr/m2/film.aspx?id=29414&amp;program_id=118552591</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/b984ce2e-0eb5-4c39-a40e-177eed4a914a.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231012140000 +0200" stop="20231012150000 +0200">
+    <title lang="hr">Nacija duhova - Poltergejst zatvor</title>
+    <desc lang="hr">Ozbiljni slučajevi koji počinju sa zastrašujućom paranormalnom pričom
+https://mojtv.hr/m2/film.aspx?id=151577&amp;program_id=118552592</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/2020-12/dba5eb43-f2c3-4f16-8b12-49f7d9.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231012150000 +0200" stop="20231012160000 +0200">
+    <title lang="hr">Ekspedicija u nepoznato - Epizoda 4</title>
+    <desc lang="hr">Pratite avanture arheologa Josha Gatesa
+https://mojtv.hr/m2/film.aspx?id=34864&amp;program_id=118552593</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/2017-11/4d076398-cf40-4159-9a46-e97470.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231012160000 +0200" stop="20231012170000 +0200">
+    <title lang="hr">Potraga za Bigfutom - Lov na divljeg čoveka u Oregonu</title>
+    <desc lang="hr">https://mojtv.hr/m2/film.aspx?id=16125&amp;program_id=118552594</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/b0b091be-8567-4adc-8922-ff5ce8cdc93a.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231012170000 +0200" stop="20231012180000 +0200">
+    <title lang="hr">Misterije iz muzeja - Italijanski NLO, Preživeo sam sudnji dan, Rođenje GPS-a</title>
+    <desc lang="hr">Svaka vas epizoda vodi na čudesno i ponekad šokantno putovanje kroz povijest
+https://mojtv.hr/m2/film.aspx?id=22521&amp;program_id=118552595</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/2023-05/411dd3df-f63a-49c9-b5b4-9e69f1.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231012180000 +0200" stop="20231012190000 +0200">
+    <title lang="hr">NASA: Nerazjašnjeni slučajevi - Vanzemaljski smrtonosni zrak</title>
+    <desc lang="hr">Saznajte s kakvim se sve misterijima susreću NASA-ini znanstvenici
+https://mojtv.hr/m2/film.aspx?id=29897&amp;program_id=118552596</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/9c5f3b21-86ba-4b88-a389-371a644af27b.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231012190000 +0200" stop="20231012200000 +0200">
+    <title lang="hr">Srodne duše - Preokletstvo u Getisburgu</title>
+    <desc lang="hr">Amy Bruni i Adam Berry posjećuju osobe koje vjeruju da su im kuće zaposjednute
+https://mojtv.hr/m2/film.aspx?id=49128&amp;program_id=118552597</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/8c0d96a1-6950-4e2e-a1d8-62ff97d0e4db.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231012200000 +0200" stop="20231012210000 +0200">
+    <title lang="hr">Šifre i zavere - Bajkeri</title>
+    <desc lang="hr">Zaronite u svijet tajnih organizacija
+https://mojtv.hr/m2/film.aspx?id=32786&amp;program_id=118552598</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/c5ab44b1-4b8f-4ad8-a90c-6f3cf98995d7.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231012210000 +0200" stop="20231012220000 +0200">
+    <title lang="hr">Misterije u hotelu - Skandalozni televanđelisti</title>
+    <desc lang="hr">Otkrijte tajne i legende mnogih hotela, motela i resorta u SAD-u
+https://mojtv.hr/m2/film.aspx?id=129181&amp;program_id=118552599</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/2019-06/23256cd2-ae4a-408f-b044-4b00cf.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231012220000 +0200" stop="20231012230000 +0200">
+    <title lang="hr">Holcerovi dosijei - Fantom iz požara</title>
+    <desc lang="hr">Stručnjaci za paranormalno ponovno otvaraju slučajeve prvog lovca na duhove Hansa Holzera
+https://mojtv.hr/m2/film.aspx?id=140651&amp;program_id=118552600</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/2020-02/b09805dd-dd31-4a2e-84e9-657141.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231012230000 +0200" stop="20231013000000 +0200">
+    <title lang="hr">Otvaranje dosijea paranormalnog - Supervojnici</title>
+    <desc lang="hr">Paul Beban u potrazi je za istinom o morskim čudovištima
+https://mojtv.hr/m2/film.aspx?id=156491&amp;program_id=118552601</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/2021-02/2d2439e2-608f-4ce4-b43c-9ee964.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231013000000 +0200" stop="20231013010000 +0200">
+    <title lang="hr">Portali ka paklu - Kuća Grent Hamfrisa</title>
+    <desc lang="hr">Jack Osbourne i paranormalna istražiteljica Katrina Weidman tragaju za duhovima
+https://mojtv.hr/m2/film.aspx?id=149227&amp;program_id=118552602</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/2020-10/0b2ba317-9ac3-402c-87cf-791d25.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231013010000 +0200" stop="20231013020000 +0200">
+    <title lang="hr">Dosijei mrtvih - Kuća ogledala</title>
+    <desc lang="hr">Umirovljeni detektiv i žena-medij istražuju razne slučajeve
+https://mojtv.hr/m2/film.aspx?id=133631&amp;program_id=118552603</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/2019-09/234805b8-fe92-4e46-bc6d-4dda3d.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231013020000 +0200" stop="20231013030000 +0200">
+    <title lang="hr">Teror u gradu duhova - Dovedi pomoć</title>
+    <desc lang="hr">https://mojtv.hremisija.aspx?id=118552604</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://images2.imgbox.com/44/b4/9LcGOrup_o.png" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231013030000 +0200" stop="20231013040000 +0200">
+    <title lang="hr">Destinacija strah - Felps bolnica</title>
+    <desc lang="hr">Ekipa provodi noć u nekim od najstrašnijih lokacija. Koja je granica ljudskog straha?
+https://mojtv.hr/m2/film.aspx?id=140650&amp;program_id=118552605</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/2020-02/9b2e8213-9519-461f-9171-233e50.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231013040000 +0200" stop="20231013050000 +0200">
+    <title lang="hr">Otvaranje dosijea paranormalnog - Supervojnici</title>
+    <desc lang="hr">Paul Beban u potrazi je za istinom o morskim čudovištima
+https://mojtv.hr/m2/film.aspx?id=156491&amp;program_id=118552606</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/2021-02/2d2439e2-608f-4ce4-b43c-9ee964.jpg&amp;w=800" />
+  </programme>
+  <programme channel="TravelChannel.hr" start="20231013050000 +0200" stop="20231013060000 +0200">
+    <title lang="hr">Srodne duše - Preokletstvo u Getisburgu</title>
+    <desc lang="hr">Amy Bruni i Adam Berry posjećuju osobe koje vjeruju da su im kuće zaposjednute
+https://mojtv.hr/m2/film.aspx?id=49128&amp;program_id=118552607</desc>
+    <category lang="hr">Travel, Documentary</category>
+    <icon src="https://mojtv.hr/thumb.ashx?path=/images/8c0d96a1-6950-4e2e-a1d8-62ff97d0e4db.jpg&amp;w=800" />
+  </programme>
+  <channel id="TVMaribor.si">
+    <display-name>TV Maribor</display-name>
+    <url>Universal Guide</url>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </channel>
+  <programme channel="TVMaribor.si" start="20231012070000 +0200" stop="20231012092000 +0200">
+    <title lang="si">Infokanal - TV Maribor</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895433</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012092000 +0200" stop="20231012100000 +0200">
+    <title lang="si">TV nakup</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895434</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012100000 +0200" stop="20231012102000 +0200">
+    <title lang="si">Tele M</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895435</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012102000 +0200" stop="20231012105000 +0200">
+    <title lang="si">Odmevi</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895436</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012105000 +0200" stop="20231012110000 +0200">
+    <title lang="si">Šport</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895437</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012110000 +0200" stop="20231012110500 +0200">
+    <title lang="si">Kultura</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895438</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012110500 +0200" stop="20231012113500 +0200">
+    <title lang="si">Mostovi - Hidak</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895439</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012113500 +0200" stop="20231012121000 +0200">
+    <title lang="si">TV nakup</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895440</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012121000 +0200" stop="20231012123500 +0200">
+    <title lang="si">O živalih in ljudeh</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895441</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012123500 +0200" stop="20231012134000 +0200">
+    <title lang="si">Omizje</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895442</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012134000 +0200" stop="20231012155000 +0200">
+    <title lang="si">Dobro jutro</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895443</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012155000 +0200" stop="20231012161000 +0200">
+    <title lang="si">TV nakup</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895444</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012161000 +0200" stop="20231012164500 +0200">
+    <title lang="si">Pod drobnogledom - Nagyító alatt</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895445</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012164500 +0200" stop="20231012180000 +0200">
+    <title lang="si">Festival Vurberk 2016</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895446</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012180000 +0200" stop="20231012182500 +0200">
+    <title lang="si">Tele M</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895447</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012182500 +0200" stop="20231012183000 +0200">
+    <title lang="si">Zgodbe iz školjke</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895448</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012183000 +0200" stop="20231012185700 +0200">
+    <title lang="si">Zgodbe iz školjke</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895449</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012185700 +0200" stop="20231012192000 +0200">
+    <title lang="si">Dnevnik s slovenskim znakovnim jezikom</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895450</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012192000 +0200" stop="20231012193500 +0200">
+    <title lang="si">Slovenska kronika s slovenskim znakovnim jezikom</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895451</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012193500 +0200" stop="20231012194500 +0200">
+    <title lang="si">Šport s slovenskim znakovnim jezikom</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895452</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012194500 +0200" stop="20231012195500 +0200">
+    <title lang="si">Kultura s slovenskim znakovnim jezikom</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895453</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012195500 +0200" stop="20231012200000 +0200">
+    <title lang="si">Vreme s slovenskim znakovnim jezikom</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895454</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012200000 +0200" stop="20231012210000 +0200">
+    <title lang="si">Tarča s slovenskim znakovnim jezikom</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895455</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012210000 +0200" stop="20231012213000 +0200">
+    <title lang="si">Rojaki</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895456</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012213000 +0200" stop="20231012215500 +0200">
+    <title lang="si">Tele M</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895457</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012215500 +0200" stop="20231012222500 +0200">
+    <title lang="si">Pod drobnogledom - Nagyító alatt</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895458</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012222500 +0200" stop="20231012231500 +0200">
+    <title lang="si">Intervju</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895459</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231012231500 +0200" stop="20231013001500 +0200">
+    <title lang="si">Narodno-zabavna glasba</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118895460</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231013001500 +0200" stop="20231013010000 +0200">
+    <title lang="si">Narodno-zabavna glasba</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118917211</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+  <programme channel="TVMaribor.si" start="20231013010000 +0200" stop="20231013070000 +0200">
+    <title lang="si">Infokanal - TV Maribor</title>
+    <desc lang="si">https://mojtv.hremisija.aspx?id=118904525</desc>
+    <category lang="si">Regionalni</category>
+    <icon src="https://images2.imgbox.com/95/32/QBGKaZ9D_o.png" />
+  </programme>
+</tv>
 
