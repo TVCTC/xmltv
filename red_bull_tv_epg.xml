@@ -1,66 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
-<tv source-info-name="pluto_tv_us" source-info-url="pluto.tv">
+<tv source-info-name="TV" source-info-url="red_bull_tv_epg.xml">
   <channel id="RedBullTV.at">
     <display-name>Red Bull TV</display-name>
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231013120431 +0200" stop="20231013131241 +0200">
-    <title lang="en">Red Bull Rampage</title>
-    <desc lang="en">An elite group of 21 riders will bring their best man-made lines into the 13th edition of Red Bull Rampage. (67 minutes)</desc>
-    <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1XTARBWCH5N11/FO-1XTARBWCH5N11-featureMedia" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231013131241 +0200" stop="20231013142120 +0200">
-    <title lang="en">Red Bull Rampage</title>
-    <desc lang="en">Red Bull Rampage is the biggest test of courage, skill and creativity in mountain biking. (67 minutes)</desc>
-    <category lang="en">Sport, MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/24/dqqrmui5ydlpj35ncghm/signature2019-e8-rampage" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231013142120 +0200" stop="20231013150600 +0200">
-    <title lang="en">Red Bull Rampage</title>
-    <desc lang="en">Get a shot of adrenaline as you look back at the very best moments of Red Bull Rampage through the years. (44 minutes)</desc>
-    <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/5/6/dtkxk7cp2yqhdgwne9ou/carson-storch-rampage-2019-virgin-utah" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231013150600 +0200" stop="20231013151500 +0200">
-    <title lang="en">The first 10 years of Red Bull Rampage</title>
-    <desc lang="en">Two-time champion Kyle Strait looks back at the decade of races that changed mountain biking forever. (8 minutes)</desc>
-    <category lang="en">Sport, MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MA48G5ZH1W11/FO-1MA48G5ZH1W11-featureMedia" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231013191640 +0200" stop="20231013202533 +0200">
-    <title lang="en">The Old World</title>
-    <desc lang="en">The Old World highlights the European riders who dominate the world stage in mountain biking. (69 minutes)</desc>
-    <category lang="en">Sport, MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231013202533 +0200" stop="20231013202858 +0200">
-    <title lang="en">Tahnée Seagrave tears up Lousã, Portugal</title>
-    <desc lang="en">Tahnée Seagrave returns to full pace with an action edit showcasing her speed, skill and determination. (3 minutes)</desc>
-    <category lang="en">Sport, MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/5/mwnzepxeedppexavh1a7/tahnee-seagrave-riding-image-mtb-raw-s3-e5" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231013202858 +0200" stop="20231013203427 +0200">
-    <title lang="en">Darren Berrecloth shreds Vancouver Island</title>
-    <desc lang="en">Canadian mountain biker Darren Berrecloth explores the trails he's built in the forest near his home. (5 minutes)</desc>
-    <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/12/13/afli0jkrxz7elgk52spp/cycling-around-the-world-s1-e8-art" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231013203427 +0200" stop="20231013204442 +0200">
-    <title lang="en">F1 drivers vs Japanese show</title>
-    <desc lang="en">Drivers from each team will work together through a series of three challenges to win points for their team. (10 minutes)</desc>
-    <category lang="en">Sport, F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/3/uwitrznlhiaqzc7fqyhh/max-verstappen-sergio-perez-yuki-tsunoda-liam-lawson-unserious-race-series-japan-2023" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231013204442 +0200" stop="20231013210655 +0200">
-    <title lang="en">Crossing Tasmania</title>
-    <desc lang="en">MTB rider Payson McElveen attempts to cross Australia’s least populated state: the island of Tasmania. (22 minutes)</desc>
-    <category lang="en">Sport, MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/17/qur2mizj4fmcxx63hrns/crossing-tasmania-payson-mcelveen" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231013210655 +0200" stop="20231013220130 +0200">
     <title lang="en">The Tactician: A Cody Webb Story</title>
     <desc lang="en">At the top of the American Hard Enduro food chain, there’s one man that everyone looks up to: Cody Webb. (55 minutes)</desc>
@@ -150,6 +96,66 @@
     <desc lang="en">Climbers Janja Garnbret and Domen Škofic scale the tallest artificial multi-pitch route in the world. (48 minutes)</desc>
     <category lang="en">Sport, Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/26/qitalayy11zhvlrimmru/360-ascent-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231014064800 +0200" stop="20231014070308 +0200">
+    <title lang="en">The story behind The Crew Motorfest</title>
+    <desc lang="en">See behind the scenes and deep dive into the making of the new game by Ubisoft Studios, The Crew Motorfest. (15 minutes)</desc>
+    <category lang="en">Sport, Esports</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/19/iquk1uuj8t7esnmiaqyj/the-crew-motorfest-red-bull-rb18" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231014070308 +0200" stop="20231014073003 +0200">
+    <title lang="en">Varna, Bulgaria</title>
+    <desc lang="en">A crowd of 20,000 welcomes teams of amateur aviators who will attempt to fly on the coast of the Black Sea. (26 minutes)</desc>
+    <category lang="en">Sport, Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJBFUKH2111/FO-1RFJBFUKH2111-featureMedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231014073003 +0200" stop="20231014075549 +0200">
+    <title lang="en">Zurich, Switzerland</title>
+    <desc lang="en">Fifty teams fly homemade flying craft around (and in!) Lake Zurich, Switzerland. (26 minutes)</desc>
+    <category lang="en">Sport, Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJQX8DH2111/FO-1RFJQX8DH2111-featureMedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231014075549 +0200" stop="20231014081258 +0200">
+    <title lang="en">Reset</title>
+    <desc lang="en">Kai Lenny's balancing act looks different in 2023, and his home life and performance goals are ready to reset. (17 minutes)</desc>
+    <category lang="en">Sport, Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/13/otdspjrmavrpts3qjaty/kai-lenny-surf-life-of-kai-s3-e1" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231014081258 +0200" stop="20231014083235 +0200">
+    <title lang="en">Proving ground (part 1)</title>
+    <desc lang="en">The Eddie is on and Kai Lenny has plenty to prove on the North Shore of Oahu at both Pipeline and Waimea Bay. (20 minutes)</desc>
+    <category lang="en">Sport, Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/11/a1vmkblr0jd3ftqkfu69/life-of-kai-backdoor-shoutout" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231014083235 +0200" stop="20231014085536 +0200">
+    <title lang="en">Proving ground (part 2)</title>
+    <desc lang="en">Kai Lenny chases a dream win at The Eddie then takes on the World Tour’s best pro surfers at Sunset Beach. (22 minutes)</desc>
+    <category lang="en">Sport, Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/5/kqgfmcysszcob5il70wy/kai-lenny-the-eddie" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231014085536 +0200" stop="20231014091908 +0200">
+    <title lang="en">Alaska</title>
+    <desc lang="en">At mid-season, Kai Lenny heads to Alaska for surf and snow heli sessions with snowboarding icon Travis Rice. (24 minutes)</desc>
+    <category lang="en">Sport, Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/16/crhbstuitk2ipmpamtae/kai-lenny-alaska-life-of-kai-s3-e4" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231014091908 +0200" stop="20231014094048 +0200">
+    <title lang="en">Strike</title>
+    <desc lang="en">Kai Lenny goes on a 24-hour strike mission to Tahiti and pushes the limits of what’s possible in the ocean. (21 minutes)</desc>
+    <category lang="en">Sport, Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/16/bkkpecvbdqoelndaf9rx/kai-lenny-life-of-kai-s3" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231014094048 +0200" stop="20231014103515 +0200">
+    <title lang="en">DRX The Rise</title>
+    <desc lang="en">Entering Worlds 2022, nobody expected DRX to become champions of the biggest LoL tournament of the year. (54 minutes)</desc>
+    <category lang="en">Sport, Games</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/7/19/m9j1fghkjxg2wwl4bye6/drx-worlds-2022" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231014103515 +0200" stop="20231014104524 +0200">
+    <title lang="en">Lucas Rabelo</title>
+    <desc lang="en">Link up with Lucas Rabelo in Long Beach to learn how he started skating, training to pop higher and more. (10 minutes)</desc>
+    <category lang="en">Sport, Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/3/7/jblcrp8uekqidbwe3vsf/field-day-s2-e1-lucas-rabelo" />
   </programme>
 </tv>
 
