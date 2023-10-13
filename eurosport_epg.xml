@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
-<tv source-info-name="pluto_tv_us" source-info-url="pluto.tv">
+<tv source-info-name="TV" source-info-url="eurosport_epg.xml">
   <channel id="Eurosport1.uk">
     <display-name>Eurosport 1</display-name>
-    <url>https://mojtv.hr/</url>
+    <url>eurosport.com</url>
     <icon src="https://images2.imgbox.com/4c/7c/FAlwG75D_o.png" />
   </channel>
   <programme channel="Eurosport1.uk" start="20231013062619" stop="20231013104537">
@@ -32,7 +32,7 @@
     <icon src="https://i.eurosport.com/taiga/MagicBox/Crop/16_9/0_20221024-093509.jpeg" />
   </programme>
   <programme channel="Eurosport1.uk" start="20231013195312" stop="20231013195558">
-    <title lang="sr">Empty title: *</title>
+    <title lang="sr">No title *</title>
     <desc lang="sr">https://www.eurosport.com/the-minute_brdeurosport-e15303166c0ch0/video.shtml</desc>
     <category lang="sr">Sport</category>
     <icon src="https://i.eurosport.com/taiga/MagicBox/Crop/16_9/0_20221024-093509.jpeg" />
@@ -44,7 +44,7 @@
     <icon src="https://i.eurosport.com/taiga/MagicBox/Crop/16_9/0_20221024-093509.jpeg" />
   </programme>
   <programme channel="Eurosport1.uk" start="20231013215232" stop="20231013215601">
-    <title lang="sr">Empty title: *</title>
+    <title lang="sr">No title *</title>
     <desc lang="sr">https://www.eurosport.com/the-minute_brdeurosport-e15303165c0ch0/video.shtml</desc>
     <category lang="sr">Sport</category>
     <icon src="https://i.eurosport.com/taiga/MagicBox/Crop/16_9/0_20221024-093509.jpeg" />
@@ -63,7 +63,7 @@
   </programme>
   <channel id="Eurosport2.uk">
     <display-name>Eurosport 2</display-name>
-    <url>Universal Guide</url>
+    <url>eurosport.com</url>
     <icon src="https://images2.imgbox.com/6e/48/e8M9Qm3y_o.png" />
   </channel>
   <programme channel="Eurosport2.uk" start="20231013115606" stop="20231013135636">
