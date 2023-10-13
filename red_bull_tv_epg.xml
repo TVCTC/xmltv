@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231013120431 +0200" stop="20231013131241 +0200">
-    <title lang="en">Red Bull Rampage</title>
-    <desc lang="en">An elite group of 21 riders will bring their best man-made lines into the 13th edition of Red Bull Rampage. (67 minutes)</desc>
-    <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1XTARBWCH5N11/FO-1XTARBWCH5N11-featureMedia" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231013131241 +0200" stop="20231013142120 +0200">
     <title lang="en">Red Bull Rampage</title>
     <desc lang="en">Red Bull Rampage is the biggest test of courage, skill and creativity in mountain biking. (67 minutes)</desc>
@@ -150,6 +144,12 @@
     <desc lang="en">Climbers Janja Garnbret and Domen Škofic scale the tallest artificial multi-pitch route in the world. (48 minutes)</desc>
     <category lang="en">Sport, Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/26/qitalayy11zhvlrimmru/360-ascent-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231014064800 +0200" stop="20231014070308 +0200">
+    <title lang="en">The story behind The Crew Motorfest</title>
+    <desc lang="en">See behind the scenes and deep dive into the making of the new game by Ubisoft Studios, The Crew Motorfest. (15 minutes)</desc>
+    <category lang="en">Sport, Esports</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/19/iquk1uuj8t7esnmiaqyj/the-crew-motorfest-red-bull-rb18" />
   </programme>
 </tv>
 
