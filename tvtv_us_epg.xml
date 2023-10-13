@@ -1,89 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
-<tv source-info-name="pluto_tv_us" source-info-url="pluto.tv">
+<tv source-info-name="TV" source-info-url="tvtv_us_epg.xml">
   <channel id="Bravo.us">
     <display-name>Bravo</display-name>
     <url>tvtv.us</url>
     <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
   </channel>
-  <programme channel="Bravo.us" start="20231013120000 +0200" stop="20231013130000 +0200">
-    <title lang="en">Winter House - Winter Should Be Fun!</title>
-    <desc lang="en">Bravo TV programme
-EP040013720001</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
-  </programme>
-  <programme channel="Bravo.us" start="20231013130000 +0200" stop="20231013140000 +0200">
-    <title lang="en">Winter House - Cold Weather, Hot Secrets</title>
-    <desc lang="en">Bravo TV programme
-EP040013720003</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
-  </programme>
-  <programme channel="Bravo.us" start="20231013140000 +0200" stop="20231013150000 +0200">
-    <title lang="en">Winter House - A Slippery Slope</title>
-    <desc lang="en">Bravo TV programme
-EP040013720004</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
-  </programme>
-  <programme channel="Bravo.us" start="20231013150000 +0200" stop="20231013160000 +0200">
-    <title lang="en">Winter House - Sleigh All Day</title>
-    <desc lang="en">Bravo TV programme
-EP040013720005</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
-  </programme>
-  <programme channel="Bravo.us" start="20231013160000 +0200" stop="20231013170000 +0200">
-    <title lang="en">Winter House - Let the Games Begin</title>
-    <desc lang="en">Bravo TV programme
-EP040013720006</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
-  </programme>
-  <programme channel="Bravo.us" start="20231013170000 +0200" stop="20231013180000 +0200">
-    <title lang="en">Winter House - There's Snow Place Like Home</title>
-    <desc lang="en">Bravo TV programme
-EP040013720007</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
-  </programme>
-  <programme channel="Bravo.us" start="20231013180000 +0200" stop="20231013190000 +0200">
-    <title lang="en">Southern Charm - Vows, Vendettas and Vibrators</title>
-    <desc lang="en">Bravo TV programme
-EP017207110171</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
-  </programme>
-  <programme channel="Bravo.us" start="20231013190000 +0200" stop="20231013200000 +0200">
-    <title lang="en">Southern Charm - Spilling the JT</title>
-    <desc lang="en">Bravo TV programme
-EP017207110172</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
-  </programme>
-  <programme channel="Bravo.us" start="20231013200000 +0200" stop="20231013210000 +0200">
-    <title lang="en">Southern Charm - He Said, She Said</title>
-    <desc lang="en">Bravo TV programme
-EP017207110174</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
-  </programme>
-  <programme channel="Bravo.us" start="20231013210000 +0200" stop="20231013220000 +0200">
-    <title lang="en">Southern Charm - In Vino Veritas</title>
-    <desc lang="en">Bravo TV programme
-EP017207110175</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
-  </programme>
-  <programme channel="Bravo.us" start="20231013220000 +0200" stop="20231013230000 +0200">
-    <title lang="en">Southern Charm - Party Fowl</title>
-    <desc lang="en">Bravo TV programme
-EP017207110176</desc>
-    <category lang="en">Entertainment</category>
-    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
-  </programme>
   <programme channel="Bravo.us" start="20231013230000 +0200" stop="20231014020000 +0200">
     <title lang="en">The Karate Kid (1984, Drama)</title>
     <desc lang="en">Bravo TV programme
@@ -133,60 +56,74 @@ MV002598060000</desc>
     <category lang="en">Entertainment</category>
     <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
   </programme>
+  <programme channel="Bravo.us" start="20231014140000 +0200" stop="20231014150000 +0200">
+    <title lang="en">Below Deck - Cool Your Jets</title>
+    <desc lang="en">Bravo TV programme
+EP015543320001</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
+  </programme>
+  <programme channel="Bravo.us" start="20231014150000 +0200" stop="20231014160000 +0200">
+    <title lang="en">Below Deck - It's Not Easy Being Green</title>
+    <desc lang="en">Bravo TV programme
+EP015543320004</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
+  </programme>
+  <programme channel="Bravo.us" start="20231014160000 +0200" stop="20231014170000 +0200">
+    <title lang="en">Below Deck - Luggage, Luggage Everywhere</title>
+    <desc lang="en">Bravo TV programme
+EP015543320006</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
+  </programme>
+  <programme channel="Bravo.us" start="20231014170000 +0200" stop="20231014180000 +0200">
+    <title lang="en">Below Deck - I'm Living With the Devil</title>
+    <desc lang="en">Bravo TV programme
+EP015543320007</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
+  </programme>
+  <programme channel="Bravo.us" start="20231014180000 +0200" stop="20231014190000 +0200">
+    <title lang="en">Below Deck - Sleeping With the Enemy</title>
+    <desc lang="en">Bravo TV programme
+EP015543320009</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
+  </programme>
+  <programme channel="Bravo.us" start="20231014190000 +0200" stop="20231014200000 +0200">
+    <title lang="en">Below Deck - Naughty Yachties</title>
+    <desc lang="en">Bravo TV programme
+EP015543320010</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
+  </programme>
+  <programme channel="Bravo.us" start="20231014200000 +0200" stop="20231014210000 +0200">
+    <title lang="en">Below Deck - There's a New Captain in Town</title>
+    <desc lang="en">Bravo TV programme
+EP015543320011</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
+  </programme>
+  <programme channel="Bravo.us" start="20231014210000 +0200" stop="20231014220000 +0200">
+    <title lang="en">Below Deck - Land Ahoy... Finally</title>
+    <desc lang="en">Bravo TV programme
+EP015543320012</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
+  </programme>
+  <programme channel="Bravo.us" start="20231014220000 +0200" stop="20231015002700 +0200">
+    <title lang="en">Ted (2012, Comedy)</title>
+    <desc lang="en">Bravo TV programme
+MV003858640000</desc>
+    <category lang="en">Entertainment</category>
+    <icon src="https://images2.imgbox.com/12/e4/J78GlldY_o.png" />
+  </programme>
   <channel id="SyFy.us">
     <display-name>SyFy</display-name>
     <url>tvtv.us</url>
     <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
   </channel>
-  <programme channel="SyFy.us" start="20231013120000 +0200" stop="20231013130000 +0200">
-    <title lang="en">Bates Motel - The Deal</title>
-    <desc lang="en">SyFy TV programme
-EP016164380025</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
-  </programme>
-  <programme channel="SyFy.us" start="20231013130000 +0200" stop="20231013140000 +0200">
-    <title lang="en">Bates Motel - Norma Louise</title>
-    <desc lang="en">SyFy TV programme
-EP016164380026</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
-  </programme>
-  <programme channel="SyFy.us" start="20231013140000 +0200" stop="20231013150000 +0200">
-    <title lang="en">Bates Motel - The Last Supper</title>
-    <desc lang="en">SyFy TV programme
-EP016164380027</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
-  </programme>
-  <programme channel="SyFy.us" start="20231013150000 +0200" stop="20231013170000 +0200">
-    <title lang="en">The Cave (2005, Horror)</title>
-    <desc lang="en">SyFy TV programme
-MV001562950000</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
-  </programme>
-  <programme channel="SyFy.us" start="20231013170000 +0200" stop="20231013190000 +0200">
-    <title lang="en">Winchester (2018, Horror)</title>
-    <desc lang="en">SyFy TV programme
-MV010312540000</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
-  </programme>
-  <programme channel="SyFy.us" start="20231013190000 +0200" stop="20231013210000 +0200">
-    <title lang="en">Hell Fest (2018, Holiday)</title>
-    <desc lang="en">SyFy TV programme
-MV011080560000</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
-  </programme>
-  <programme channel="SyFy.us" start="20231013210000 +0200" stop="20231013230000 +0200">
-    <title lang="en">I Know What You Did Last Summer (1997, Horror)</title>
-    <desc lang="en">SyFy TV programme
-MV000524250000</desc>
-    <category lang="en">Sci-Fi</category>
-    <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
-  </programme>
   <programme channel="SyFy.us" start="20231013230000 +0200" stop="20231014010000 +0200">
     <title lang="en">I Still Know What You Did Last Summer (1998, Horror)</title>
     <desc lang="en">SyFy TV programme
@@ -240,6 +177,62 @@ SH039670360000</desc>
     <title lang="en">True Crime 2023: Who Stole My Life?</title>
     <desc lang="en">SyFy TV programme
 SH046925100000</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
+  </programme>
+  <programme channel="SyFy.us" start="20231014130000 +0200" stop="20231014133000 +0200">
+    <title lang="en">Ninja Woodfire Outdoor Grill</title>
+    <desc lang="en">SyFy TV programme
+SH046669670000</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
+  </programme>
+  <programme channel="SyFy.us" start="20231014133000 +0200" stop="20231014140000 +0200">
+    <title lang="en">DraftKings Sportsbook Report</title>
+    <desc lang="en">SyFy TV programme
+SH046636770000</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
+  </programme>
+  <programme channel="SyFy.us" start="20231014140000 +0200" stop="20231014143000 +0200">
+    <title lang="en">The Twilight Zone - The Shelter</title>
+    <desc lang="en">SyFy TV programme
+EP000191100106</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
+  </programme>
+  <programme channel="SyFy.us" start="20231014143000 +0200" stop="20231014163000 +0200">
+    <title lang="en">Child's Play 2 (1990, Horror)</title>
+    <desc lang="en">SyFy TV programme
+MV000127720000</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
+  </programme>
+  <programme channel="SyFy.us" start="20231014163000 +0200" stop="20231014183500 +0200">
+    <title lang="en">Child's Play 3 (1991, Horror)</title>
+    <desc lang="en">SyFy TV programme
+MV000338600000</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
+  </programme>
+  <programme channel="SyFy.us" start="20231014183500 +0200" stop="20231014203500 +0200">
+    <title lang="en">Bride of Chucky (1998, Horror)</title>
+    <desc lang="en">SyFy TV programme
+MV000649160000</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
+  </programme>
+  <programme channel="SyFy.us" start="20231014203500 +0200" stop="20231014230500 +0200">
+    <title lang="en">Pride and Prejudice and Zombies (2016, Horror)</title>
+    <desc lang="en">SyFy TV programme
+MV007910620000</desc>
+    <category lang="en">Sci-Fi</category>
+    <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
+  </programme>
+  <programme channel="SyFy.us" start="20231014230500 +0200" stop="20231015015700 +0200">
+    <title lang="en">The Mummy (1999, Adventure)</title>
+    <desc lang="en">SyFy TV programme
+MV000747180000</desc>
     <category lang="en">Sci-Fi</category>
     <icon src="https://images2.imgbox.com/a6/0c/EtJXxlV4_o.png" />
   </programme>
