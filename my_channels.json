@@ -113,11 +113,16 @@
     "guide": {
       "url": "https://mojtv.hr/",
       "timezone": "CET",
-      "filename": "mojtv_hr_epg.xml",
+      "filename": "eurosport_epg.xml",
       "update_interval": 24,
       "programmes": []
     },
     "source": [
+      {
+        "provider": "eurosport.com",
+        "url": "https://www.eurosport.com/tvschedule.shtml",
+        "id": "Y2hhbm5lbDpldXJvc3BvcnQtMA=="
+      },
       {
         "provider": "mojtv.hr",
         "url": "https://mojtv.hr/m2/tv-program/kanal.aspx?datum=_____&id=_____",
@@ -125,10 +130,6 @@
       },
       {
         "provider": "universal"
-      },
-      {
-        "provider": "eurosport.com",
-        "url": "https://www.eurosport.com/tvschedule.shtml"
       }
     ]
   },
@@ -147,17 +148,18 @@
     "guide": {
       "url": "Universal Guide",
       "timezone": "CET",
-      "filename": "universal_epg.xml",
+      "filename": "eurosport_epg.xml",
       "update_interval": 24,
       "programmes": []
     },
     "source": [
       {
-        "provider": "universal"
+        "provider": "eurosport.com",
+        "url": "https://www.eurosport.com/tvschedule.shtml",
+        "id": "Y2hhbm5lbDpldXJvc3BvcnQtMjAw"
       },
       {
-        "provider": "eurosport.com",
-        "url": "https://www.eurosport.com/tvschedule.shtml"
+        "provider": "universal"
       }
     ]
   },
