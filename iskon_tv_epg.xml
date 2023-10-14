@@ -1,92 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
-<tv source-info-name="pluto_tv_us" source-info-url="pluto.tv">
+<tv source-info-name="TV" source-info-url="iskon_tv_epg.xml">
   <channel id="StarMovies.hr">
     <display-name>Star Movies</display-name>
     <url>https://www.iskon.hr/</url>
     <icon src="https://images2.imgbox.com/35/1b/Y6eSWKO0_o.png" />
   </channel>
-  <programme channel="StarMovies.hr" start="20231013014500 +0200" stop="20231013060000 +0200">
-    <title lang="hr">Kasino</title>
-    <desc lang="hr">Casino - (biograf. drama, SAD, 1995) Priča o pohlepi, prevari, novcu, moći i ubojstvu koje se dogodilo između dva najbolja prijatelja: mafijaš i voditelj kasina natječu se za kockarsko carstvo i naklonost djevojke.
- R.: Martin Scorsese
- Ul.: Robert De Niro (Sam 'Ace' Rothstein), Sharon Stone (Ginger McKenna), Joe Pesci (Nicky Santoro), James Woods (Lester Diamond), Kevin Pollak (Phillip Green)...</desc>
-    <category lang="hr">Movies</category>
-    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/92ea08e1e1862b7266add05d6ccc69a0.jpg" />
-  </programme>
-  <programme channel="StarMovies.hr" start="20231013060000 +0200" stop="20231013080000 +0200">
-    <title lang="hr">Step Up 3</title>
-    <desc lang="hr">Step Up 3D - (glazb. drama, SAD, 2010) Bliska skupina uličnih plesača iz New Yorka, uključujući Lukea i Natalie, udružuju se s brucošem Mooseom, a plesni obračun visokih uloga protiv najboljih hip hop plesača zavijek će promijeniti njihov život.
- R.: Jon M. Chu
- Ul.: Rick Malambri (Luke), Adam Sevani (Moose), Sharni Vinson (Natalie), Alyson Stoner (Camille), Keith Stallworth (Jacob)...</desc>
-    <category lang="hr">Movies</category>
-    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/d23dcdc80c27b8465615787b8c47601d.jpg" />
-  </programme>
-  <programme channel="StarMovies.hr" start="20231013080000 +0200" stop="20231013105500 +0200">
-    <title lang="hr">Igra pobjednika</title>
-    <desc lang="hr">Moneyball - (biograf. drama, SAD, 2011) Istinita priča o karijeri legendarnog Billyja Beanea, sportskog menadžera bejzbolskog kluba Oakland Athletics koji će učiniti sve da s malo novca sastavi novi tim eksperimentalnom tehnikom računalne analize potencijalnih talenata.
- R.: Bennett Miller
- Ul.: Brad Pitt (Billy Beane), Robin Wright (Sharon), Jonah Hill (Peter Brand), Philip Seymour Hoffman (Art Howe), Chris Pratt (Scott Hatteberg)...</desc>
-    <category lang="hr">Movies</category>
-    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/96670b8357e1f9932c9244d51e4b5266.jpg" />
-  </programme>
-  <programme channel="StarMovies.hr" start="20231013105500 +0200" stop="20231013131500 +0200">
-    <title lang="hr">Potrebno je dvoje</title>
-    <desc lang="hr">It Takes Two - (obitelj. komedija, SAD, 1995) Alyssa (bogatašica) i Amanda (siroče) dvije su identične djevojčice koje se jednog dana slučajno sretnu. U pokušaju sprječavanja Alyssinog oca da se oženi umišljenom Clarice, djevojke ga upoznaju s Amandinom socijalnom radnicom, te zamijene mjesta.
- R.: Andy Tennant
- Ul.: Mary-Kate Olsen (Alyssa Callaway), Ashley Olsen (Amanda Lemmon), Kirstie Alley (Diane Barrows), Steve Guttenberg (Roger Callaway), Jane Sibbett (Clarice Kensington)...</desc>
-    <category lang="hr">Movies</category>
-    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/f4f82f9d794348e99b0f5b5ee2f5672d.jpg" />
-  </programme>
-  <programme channel="StarMovies.hr" start="20231013131500 +0200" stop="20231013152000 +0200">
-    <title lang="hr">Hotel za pse</title>
-    <desc lang="hr">Hotel for Dogs - (komedija, SAD, 2009) Dvoje djece potajno udomljavaju pse lutalice u praznom hotelu.
- R.: Thor Freudenthal
- Ul.: Emma Roberts (Andi), Jake T. Austin (Bruce), Don Cheadle (Bernie), Johnny Simmons (Dave), Kyla Pratt (Heather)...</desc>
-    <category lang="hr">Movies</category>
-    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/916f78238946f18f40c934cf3997262e.jpg" />
-  </programme>
-  <programme channel="StarMovies.hr" start="20231013152000 +0200" stop="20231013174500 +0200">
-    <title lang="hr">Footloose</title>
-    <desc lang="hr">Footloose - (glazb. komedija, SAD, 2011) Tinejdžer iz grada, Ren MacCormack seli se u gradić u kojem su rock glazba i ples zabranjeni, ali njegov buntovnički duh uzburkat će lokalno pučanstvo.
- R.: Craig Brewer
- Ul.: Kenny Wormald (Ren), Julianne Hough (Ariel), Dennis Quaid (Shaw Moore), Andie MacDowell (Vi Moore), Miles Teller (Willard)...</desc>
-    <category lang="hr">Movies</category>
-    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/f63c24f7a003dd8ecf709d458f34e308.jpg" />
-  </programme>
-  <programme channel="StarMovies.hr" start="20231013174500 +0200" stop="20231013200000 +0200">
-    <title lang="hr">Pravovremeno</title>
-    <desc lang="hr">In Time - (akc. SF film, SAD, 2011) U budućnosti ljudi prestaju stariti s 25 godina i podešeni su da žive još godinu dana, uz mogućnost da si kupe izlaz u vječnu mladost. Will Salas optužen je za ubojstvo i bježi s taocem - njihova veza postaje važan dio otpora sustavu.
- R.: Andrew Niccol
- Ul.: Justin Timberlake (Will Salas), Amanda Seyfried (Sylvia Weis), Cillian Murphy (Raymond Leon), Olivia Wilde (Rachel Salas), Vincent Kartheiser (Philippe Weis)...</desc>
-    <category lang="hr">Movies</category>
-    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/067ba0ea330a29447beec9306378a944.jpg" />
-  </programme>
-  <programme channel="StarMovies.hr" start="20231013200000 +0200" stop="20231013210000 +0200">
-    <title lang="hr">Krv i blago</title>
-    <desc lang="hr">Blood &amp; Treasure - (S02, E07, pust. serija, SAD, 2022) Danny McNamara bivši je agent koji je nakon odlaska iz FBI-a odlučio iskoristiti svoje znanje o umjetnosti i antikvitetima. Udružit će se s Lexi Vaziri, zgodnom i snalažljivom kradljivicom umjetnina, kako bi zajedno uhvatili nemilosrdnog terorista koji financira svoje napade ukradenim blagom. Dok progone kriminalce ulicama najljepših svjetskih gradova, otkrit će davno zaboravljene misterije egipatskih grobnica i borbu između dobra i zla koje su stare više od 2000 godina.
- R.: Stephen Scaia
- Ul.: Matt Barr (Danny McNamara), Sofia Pernas (Lexi Vaziri), Mark Gagliardi (Father Chuck), Lindsay Wagner (Dani Kowalski), Victoria Diamond (Kate Reece)...</desc>
-    <category lang="hr">Movies</category>
-    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/d9a731226faf91afcececf0b4e3724bd.jpg" />
-  </programme>
-  <programme channel="StarMovies.hr" start="20231013210000 +0200" stop="20231013232500 +0200">
-    <title lang="hr">Progonjeni</title>
-    <desc lang="hr">The Haunting - (horor, SAD, 1999) Eleanor, Theo i Luke odluče sudjelovati u studiji koja proučava spavanje u ogromnoj palači, ali dobivaju više nego što su dogovorili, kada im dr. Marrow ispriča o sablasnoj prošlosti kuće.
- R.: Jan de Bont
- Ul.: Liam Neeson (Dr. David Marrow), Catherine Zeta-Jones (Theo), Owen Wilson (Luke Sanderson), Lili Taylor (Nell), Bruce Dern (Mr. Dudley)...</desc>
-    <category lang="hr">Movies</category>
-    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/f3102128cbd859a5c84052a1973e0025.jpg" />
-  </programme>
-  <programme channel="StarMovies.hr" start="20231013232500 +0200" stop="20231014014500 +0200">
-    <title lang="hr">Krug 2</title>
-    <desc lang="hr">The Ring Two - (horor, SAD, 2005) Rachel Keller i njezin sin Aidan sele se u gradić zvan Astoria, gdje ona počinje raditi kao novinarka. Saznaje za ubojstvo koje se dogodilo nakon što je tinejdžer s djevojkom pogledao neobičnu videokasetu i počinje sumnjati da je prati prošlost.
- R.: Hideo Nakata
- Ul.: Naomi Watts (Rachel), David Dorfman (Aidan), Daveigh Chase (Samara), Simon Baker (Max Rourke), Elizabeth Perkins (Dr. Emma Temple)...</desc>
-    <category lang="hr">Movies</category>
-    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/5f7295b751ff84598eebf3fcce5d53af.jpg" />
-  </programme>
   <programme channel="StarMovies.hr" start="20231014014500 +0200" stop="20231014060000 +0200">
     <title lang="hr">Leon</title>
     <desc lang="hr">Léon - (akc. film, Francuska, 1994) Profesionalni ubojica Leon nevoljko prima 12-godišnju Mathildu kojoj su ubijeni roditelji. Među njima nastane neobičan odnos. Mathilda postaje Leonova štićenica i uči postati ubojica.
@@ -94,6 +14,94 @@
  Ul.: Jean Reno (Leon), Natalie Portman (Mathilda), Gary Oldman (Stansfield), Danny Aiello (Tony), Peter Appel (Malky)...</desc>
     <category lang="hr">Movies</category>
     <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/1d6c93b44f70c5608616a201aee65f04.jpg" />
+  </programme>
+  <programme channel="StarMovies.hr" start="20231014060000 +0200" stop="20231014075500 +0200">
+    <title lang="hr">Rango</title>
+    <desc lang="hr">Rango - (anim. film, SAD, 2011) Rango je običan kameleon koji spletom okolnosti završi u gradu Dirtu, mjestu u kojem vlada bezakonje i koje očajno treba novog šerifa.
+ R.: Gore Verbinski
+ Ul.: Johnny Depp (Lars / Rango), Isla Fisher (Beans), Abigail Breslin (Priscilla), Ned Beatty (Mayor), Alfred Molina (Roadkill)...</desc>
+    <category lang="hr">Movies</category>
+    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/8ac402792150f807c6f17e1377480be2.jpg" />
+  </programme>
+  <programme channel="StarMovies.hr" start="20231014075500 +0200" stop="20231014100000 +0200">
+    <title lang="hr">Potrebno je dvoje</title>
+    <desc lang="hr">It Takes Two - (obitelj. komedija, SAD, 1995) Alyssa (bogatašica) i Amanda (siroče) dvije su identične djevojčice koje se jednog dana slučajno sretnu. U pokušaju sprječavanja Alyssinog oca da se oženi umišljenom Clarice, djevojke ga upoznaju s Amandinom socijalnom radnicom, te zamijene mjesta.
+ R.: Andy Tennant
+ Ul.: Mary-Kate Olsen (Alyssa Callaway), Ashley Olsen (Amanda Lemmon), Kirstie Alley (Diane Barrows), Steve Guttenberg (Roger Callaway), Jane Sibbett (Clarice Kensington)...</desc>
+    <category lang="hr">Movies</category>
+    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/b8575aed5dc517f98b5fce8fad5f7419.jpg" />
+  </programme>
+  <programme channel="StarMovies.hr" start="20231014100000 +0200" stop="20231014115500 +0200">
+    <title lang="hr">Laku noć i sretno</title>
+    <desc lang="hr">Good Night, and Good Luck - (drama, SAD, 2005) Televizijski novinar Edward R. Murrow suprotstavlja se zloglasnom senatoru Josephu McCarthyju.
+ R.: George Clooney
+ Ul.: David Strathairn (Edward R. Murrow), George Clooney (Fred Friendly), Patricia Clarkson (Shirley Wershba), Robert Downey Jr. (Joe Wershba), Frank Langella (William Paley)...</desc>
+    <category lang="hr">Movies</category>
+    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/f6a64e8a5ad7511d443b2777ec2e2ab2.jpg" />
+  </programme>
+  <programme channel="StarMovies.hr" start="20231014115500 +0200" stop="20231014140000 +0200">
+    <title lang="hr">Step Up</title>
+    <desc lang="hr">Step Up - (romant. drama, SAD, 2006) Tyler Gage odrastao je na opasnim ulicama Baltimorea. Zbog nevolja sa zakonom Tyler završava na dobrotvornom radu u školi za primijenjenu umjetnost. Ondje upoznaje balerinu Noru i cijeli mu se život drastično mijenja.
+ R.: Anne Fletcher
+ Ul.: Channing Tatum (Tyler Gage), Jenna Dewan (Nora Clark), Damaine Radcliff (Mac Carter), De'Shawn Washington (Skinny Carter), Mario (Miles Darby)...</desc>
+    <category lang="hr">Movies</category>
+    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/6e40ea16d46abc94c6d4c51880a85934.jpg" />
+  </programme>
+  <programme channel="StarMovies.hr" start="20231014140000 +0200" stop="20231014160000 +0200">
+    <title lang="hr">LEGO film</title>
+    <desc lang="hr">The Lego Movie - (film, SAD, 2014) Prvi cjelovečernji LEGO film prati Emmeta, savršeno prosječnu LEGO mini figuru koja se pridržava pravila, ali koja je pogrešno identificirana kao ključ za spašavanje LEGO svijeta. Sad je sudbina svijeta u njegovim sitnim žutim rukama.
+ R.: Christopher Miller
+ Ul.: Chris Pratt (Emmet Brickowski), Will Arnett (Bruce Wayne / Batman), Elizabeth Banks (Lucy / Wyldstyle), Morgan Freeman (Vitruvius), Will Ferrell (Lord Business / President Business)...</desc>
+    <category lang="hr">Movies</category>
+    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/fcf9c9eea3f2927c9a31e36bcc20ea39.jpg" />
+  </programme>
+  <programme channel="StarMovies.hr" start="20231014160000 +0200" stop="20231014180000 +0200">
+    <title lang="hr">Tatica se vratio</title>
+    <desc lang="hr">Daddy's Home - (komedija, SAD, 2015) Brad Whitaker radijski je voditelj koji želi da ga njegove pastorke zavole i zovu ga tata. Ali njegovi se planovi okreću naglavačke kada se vrati njihov biološki otac, Dusty Mayron.
+ R.: Sean Anders
+ Ul.: Will Ferrell (Brad Whitaker), Mark Wahlberg (Dusty Mayron), Linda Cardellini (Sara), Thomas Haden Church (Leo Holt), Scarlett Estevez (Megan)...</desc>
+    <category lang="hr">Movies</category>
+    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/34e67e13927b48cf703825fbc57ad470.jpg" />
+  </programme>
+  <programme channel="StarMovies.hr" start="20231014180000 +0200" stop="20231014200500 +0200">
+    <title lang="hr">Taksi</title>
+    <desc lang="hr">Taxi - (akc. komedija, SAD, 2004) Brbljavi i žustri taksist ima dobre savjete za mladog i neiskusnog policajca, koji pokušava riješiti niz pljački banaka koje je izvela banda brazilskih pljačkašica.
+ R.: Tim Story
+ Ul.: Queen Latifah (Isabelle 'Belle' Williams), Jimmy Fallon (Andrew 'Andy' Washburn), Henry Simmons (Jesse), Jennifer Esposito (Lt. Marta Robbins), Gisele Bündchen (Vanessa)...</desc>
+    <category lang="hr">Movies</category>
+    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/bcad0c91c56d86225a8e635ced5291db.jpg" />
+  </programme>
+  <programme channel="StarMovies.hr" start="20231014200500 +0200" stop="20231014224500 +0200">
+    <title lang="hr">Genijalni um</title>
+    <desc lang="hr">A Beautiful Mind - (drama, SAD, 2001) Matematički genij je na početku svoje karijere otkrio nešto nevjerojatno i bio na rubu međunarodnog priznanja. No, zgodni i arogantni Nash ipak se mora na bolan način suočiti sa samim sobom i nakon dugo godina i tragedije, dobiti Nobelovu nagradu.
+ R.: Ron Howard
+ Ul.: Russell Crowe (John Nash), Jennifer Connelly (Alicia Nash), Ed Harris (Parcher), Christopher Plummer (Dr. Rosen), Paul Bettany (Charles)...</desc>
+    <category lang="hr">Movies</category>
+    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/08abf52715c3aef1d05be5707cc1e8ef.jpg" />
+  </programme>
+  <programme channel="StarMovies.hr" start="20231014224500 +0200" stop="20231015012000 +0200">
+    <title lang="hr">Tajna veza</title>
+    <desc lang="hr">Allied - (triler, SAD, 2016) U Casablanci 1942. godine obavještajac Max preuzima identitet muža špijunke francuskog pokreta otpora, Marianne, u koju se zaljubljuje. Nakon vjenčanja vode miran život u Engleskoj sve dok Max ne dobije upozorenje da mu supruga skriva mračnu tajnu.
+ R.: Robert Zemeckis
+ Ul.: Brad Pitt (Max Vatan), Marion Cotillard (Marianne Beausejour), Camille Cottin (Monique), Vincent Latorre (Vincent), Xavier de Guillebon (Claude)...</desc>
+    <category lang="hr">Movies</category>
+    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/31377b9873ef3cecb3770d2a6bb0d06a.jpg" />
+  </programme>
+  <programme channel="StarMovies.hr" start="20231015012000 +0200" stop="20231015031500 +0200">
+    <title lang="hr">Zabranjene fotografije</title>
+    <desc lang="hr">One Hour Photo - (triler, SAD, 2002) Seymour "Sy" Parrish je povučeni djelatnik malog foto studija koji se nalazi u sklopu supermarketa. I dok njega ljudi rijetko primjećuju, Sy ih promatra i na neki način intimno poznaje, jer svakodnevno izrađuje njihove uspomene. Tijekom godina posebno je postao privržen obitelj Yorkin. Vodeći osamljeni život, Sy će razviti opsesiju tom naizgled savršenom obitelji.
+ R.: Mark Romanek
+ Ul.: Robin Williams (Seymour Parrish), Connie Nielsen (Nina Yorkin), Michael Vartan (Will Yorkin), Gary Cole (Bill Owens), Eriq La Salle (James Van Der Zee)...</desc>
+    <category lang="hr">Movies</category>
+    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/29b983603342c164238b94d61bc5f268.jpg" />
+  </programme>
+  <programme channel="StarMovies.hr" start="20231015031500 +0200" stop="20231015060000 +0200">
+    <title lang="hr">Od sumraka do zore</title>
+    <desc lang="hr">From Dusk Till Dawn - (akc. film, SAD, 1995) Braća Gecko dva su opasna pljačkaša koji su nakon niza odrađenih pljački, ostavili iza sebe rijeku krvi. Nakon posljednje pljačke u Teksasu, kreću u Meksiko kako bi uživali u opljačkanim novcima. Otmu propovjednika i njegovo dvoje djece i sakriju se u neki sumnjivi bar. Uskoro shvaćaju da u baru nisu tipični gosti...
+ R.: Robert Rodriguez
+ Ul.: George Clooney (Seth Gecko), Quentin Tarantino (Richard Gecko), Harvey Keitel (Jacob Fuller), Juliette Lewis (Kate Fuller), Ernest Liu (Scott Fuller)...</desc>
+    <category lang="hr">Movies</category>
+    <icon src="https://tv.iskon.hr/var/ezdemo_site/storage/epg/111285/1296c9933bfc4d3d8f5f46d976ff893b.jpg" />
   </programme>
 </tv>
 
