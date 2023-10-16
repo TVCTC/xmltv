@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv source-info-name="TV" source-info-url="deluxe_music_epg.xml">
+  <channel id="DeLuxeLounge.de">
+    <display-name>DeLuxe Lounge</display-name>
+    <url>https://deluxemusic.de/wp-json/dm-rest/v1/dlx-sender/15035/programs?action=get_programs</url>
+    <icon src="https://images2.imgbox.com/00/00/5PSiozk9_o.png" />
+  </channel>
+  <programme channel="DeLuxeLounge.de" start="20231017060000 +0200" stop="20231017120000 +0200">
+    <title lang="de">Morning Lounge</title>
+    <desc lang="de">Sometimes you've got to have the best.
+Starte entspannt in deinen Tag und genieße die schönsten Naturaufnahmen zu entspannten Lounge-Klängen. Du bringst den Kaffee und wir die Entspannung.
+(show id: 646f7d1dbfc75)</desc>
+    <category lang="de">Music, Lounge</category>
+    <icon src="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/morning.jpg" />
+  </programme>
+  <programme channel="DeLuxeLounge.de" start="20231017120000 +0200" stop="20231017180000 +0200">
+    <title lang="de">Sashimi Lounge</title>
+    <desc lang="de">Sometimes you've got to have the best.
+Dein Ruhepool im turbulenten Alltag. Hier findest du deine Mitte und schöpfst neue Energie mit Chill-Out-Garantie und Wohlfühlfaktor.
+(show id: 646f7d1dbfcf4)</desc>
+    <category lang="de">Music, Lounge</category>
+    <icon src="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/sashimi.jpg" />
+  </programme>
+  <programme channel="DeLuxeLounge.de" start="20231017180000 +0200" stop="20231017220000 +0200">
+    <title lang="de">Gold Lounge</title>
+    <desc lang="de">Sometimes you've got to have the best.
+Alltag aus, DELUXE LOUNGE an. Wir bringen dich entspannt in deinen Feierabend. Mit unseren Easy-Tunes gleisen wir dich relaxed aus dem Alltag ab.
+(show id: 646f7d1dbfd73)</desc>
+    <category lang="de">Music, Lounge</category>
+    <icon src="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/gold.jpg" />
+  </programme>
+  <programme channel="DeLuxeLounge.de" start="20231017220000 +0200" stop="20231018060000 +0200">
+    <title lang="de">Night Lounge</title>
+    <desc lang="de">Sometimes you've got to have the best.
+Vergiss Lavendelkissen und Hopfen-Dragees, denn wir begleiten dich mit der Night-Lounge entspannt durch die Nacht.
+(show id: 646f7d1dbfdf1)</desc>
+    <category lang="de">Music, Lounge</category>
+    <icon src="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/night.jpg" />
+  </programme>
+</tv>
+
