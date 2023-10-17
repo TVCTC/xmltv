@@ -1064,69 +1064,6 @@
     }
   },
   {
-    "group": "Lounge",
-    "tvg_name": "DeLuxe Lounge",
-    "id": "DeLuxeLounge.de",
-    "logo": "https://thumbs2.imgbox.com/7f/8d/WSd1A6Dw_t.png",
-    "name": "DeLuxe Lounge",
-    "stream": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips",
-    "enabled": "true",
-    "url": "https://deluxemusic.de/sender/deluxe-lounge/",
-    "language": "de",
-    "category": "Lounge",
-    "description": "Pure relaxation for the eyes and ears. Special-interest music station with lounge sounds and high-definition nature recordings. High-quality images of beautiful landscapes and city shots combined with fantastic lounge music (down beat, chill out, ambient). That's all you need to relax.",
-    "icon": "https://images2.imgbox.com/00/00/5PSiozk9_o.png",
-    "guide": {
-      "url": "https://deluxemusic.de/wp-json/dm-rest/v1/dlx-sender/15035/programs?action=get_programs",
-      "timezone": "CET",
-      "filename": "deluxe_music_epg.xml",
-      "update_interval": 24,
-      "programmes": []
-    }
-  },
-  {
-    "group": "Music",
-    "tvg_name": "DeLuxe Dance",
-    "id": "DeLuxeDance.de",
-    "logo": "https://thumbs2.imgbox.com/0e/7f/hAQn4squ_t.png",
-    "name": "DeLuxe Dance by Kontor",
-    "stream": "-",
-    "enabled": "false",
-    "url": "https://deluxemusic.de/sender/deluxe-lounge/",
-    "language": "de",
-    "category": "Dance Music",
-    "description": "Legendary club hits, massive chart breakers and the next trends. KONTOR RECORDS and DELUXE MUSIC bring you the dance station you've always wanted. From Scooter and ATB to Robin Schulz and David Guetta to VIZE and Felix Jaehn.",
-    "icon": "https://images2.imgbox.com/7f/8d/WSd1A6Dw_o.png",
-    "guide": {
-      "url": "https://deluxemusic.de/wp-json/dm-rest/v1/dlx-sender/15035/programs?action=get_programs",
-      "timezone": "CET",
-      "filename": "deluxe_music_epg.xml",
-      "update_interval": 24,
-      "programmes": []
-    }
-  }
-  {
-    "group": "Music",
-    "tvg_name": "One World TV",
-    "id": "OneWorldTV.be",
-    "logo": "https://thumbs2.imgbox.com/cf/51/S8JOqlzr_t.png",
-    "name": "One World TV",
-    "stream": "https://d1puoz0n3annj1.cloudfront.net/Winter_Loop.mp4",
-    "url": "https://d1puoz0n3annj1.cloudfront.net/Winter_Loop.mp4",
-    "language": "en",
-    "category": "Music Festival",
-    "description": "Tomorrowland will be returning to the breathtaking French ski resort and mountains of Alpe d’Huez in 2023 for the third edition of Tomorrowland Winter – scheduled to take place from March 18-25, 2023.",
-    "icon": "https://images2.imgbox.com/cf/51/S8JOqlzr_o.png",
-    "guide": {
-      "url": "https://www.tomorrowland.com/en/winter/",
-      "id": "",
-      "timezone": "CET",
-      "filename": "one_world_tv_epg.xml",
-      "update_interval": "none",
-      "programmes": []
-    }
-  },
-  {
     "group": "Music",
     "tvg_name": "CMC TV",
     "id": "CmcTV.hr",
@@ -1550,6 +1487,90 @@
       "timezone": "UTC",
       "filename": "pluto_tv_epg.xml",
       "update_interval": 24,
+      "programmes": []
+    }
+  },
+  {
+    "group": "Lounge",
+    "tvg_name": "DeLuxe Lounge",
+    "id": "DeLuxeLounge.de",
+    "logo": "https://thumbs2.imgbox.com/7f/8d/WSd1A6Dw_t.png",
+    "name": "DeLuxe Lounge",
+    "stream": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips",
+    "url": "https://deluxemusic.de/sender/deluxe-lounge/",
+    "language": "de",
+    "category": "Lounge",
+    "description": "Pure relaxation for the eyes and ears. Special-interest music station with lounge sounds and high-definition nature recordings. High-quality images of beautiful landscapes and city shots combined with fantastic lounge music (down beat, chill out, ambient). That's all you need to relax.",
+    "icon": "https://images2.imgbox.com/00/00/5PSiozk9_o.png",
+    "guide": {
+      "url": "https://deluxemusic.de/wp-json/dm-rest/v1/dlx-sender/15035/programs?action=get_programs",
+      "timezone": "CET",
+      "filename": "deluxe_music_epg.xml",
+      "update_interval": 24,
+      "programmes": []
+    }
+  },
+  {
+    "group": "Music",
+    "tvg_name": "DeLuxe Dance",
+    "id": "DeLuxeDance.de",
+    "logo": "https://thumbs2.imgbox.com/0e/7f/hAQn4squ_t.png",
+    "name": "DeLuxe Dance by Kontor",
+    "stream": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8",
+    "url": "https://deluxemusic.de/sender/deluxe-dance-by-kontor/",
+    "language": "de",
+    "category": "Dance Music",
+    "description": "Legendary club hits, massive chart breakers and the next trends. KONTOR RECORDS and DELUXE MUSIC bring you the dance station you've always wanted. From Scooter and ATB to Robin Schulz and David Guetta to VIZE and Felix Jaehn.",
+    "icon": "https://images2.imgbox.com/0e/7f/hAQn4squ_o.png",
+    "guide": {
+      "url": "https://deluxemusic.de/wp-json/dm-rest/v1/dlx-sender/15035/programs?action=get_programs",
+      "timezone": "CET",
+      "filename": "DISABLED_deluxe_music_epg.xml",
+      "update_interval": 24,
+      "programmes": []
+    }
+  },
+  {
+    "group": "Music",
+    "tvg_name": "One World TV",
+    "id": "OneWorldTV.be",
+    "logo": "https://thumbs2.imgbox.com/19/70/T179sj2e_t.png",
+    "name": "One World TV",
+    "stream": "https://d1puoz0n3annj1.cloudfront.net/Winter_Loop.mp4",
+    "url": "https://d1puoz0n3annj1.cloudfront.net/Winter_Loop.mp4",
+    "language": "en",
+    "category": "Music Festival, Dance Music",
+    "description": "Tomorrowland will be returning to the breathtaking French ski resort and mountains of Alpe d’Huez in 2023 for the third edition of Tomorrowland Winter – scheduled to take place from March 18-25, 2023.",
+    "icon": "https://images2.imgbox.com/19/70/T179sj2e_o.png",
+    "guide": {
+      "url": "https://www.tomorrowland.com/en/winter/",
+      "id": "",
+      "timezone": "CET",
+      "filename": "DISABLED_tomorrowland_com_epg.xml",
+      "update_interval": "daily",
+      "update_value": 5,
+      "programmes": []
+    }
+  },
+  {
+    "group": "Radio",
+    "tvg_name": "One World Radio",
+    "id": "OneWorldRadio.be",
+    "logo": "https://thumbs2.imgbox.com/de/1a/H3dDhBzN_t.png",
+    "name": "One World Radio",
+    "stream": "https://25493.live.streamtheworld.com/OWR_INTERNATIONAL_ADP_SC?sbmid=fde807eb-6931-47db-a758-9c3b0c7e84d0",
+    "url": "https://www.tomorrowland.com/home/radio",
+    "language": "en",
+    "category": "Live Radio, Dance Music",
+    "description": "One World Radio is Tomorrowland's official digital radio & content platform, bringing you the sound of Tomorrowland.",
+    "icon": "https://images2.imgbox.com/de/1a/H3dDhBzN_o.png",
+    "guide": {
+      "url": "https://www.tomorrowland.com/home/radio",
+      "id": "",
+      "timezone": "CET",
+      "filename": "tomorrowland_com_epg.xml",
+      "update_interval": "daily",
+      "update_value": 5,
       "programmes": []
     }
   }
