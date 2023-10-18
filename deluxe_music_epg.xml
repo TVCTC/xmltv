@@ -39,5 +39,10 @@ Vergiss Lavendelkissen und Hopfen-Dragees, denn wir begleiten dich mit der Night
     <category lang="de">Music, Lounge</category>
     <icon src="https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/night.jpg" />
   </programme>
+  <channel id="DeLuxeDance.de">
+    <display-name>DeLuxe Dance by Kontor</display-name>
+    <url>https://deluxemusic.de/wp-json/dm-rest/v1/dlx-sender/15021/programs?action=get_programs</url>
+    <icon src="https://images2.imgbox.com/0e/7f/hAQn4squ_o.png" />
+  </channel>
 </tv>
 
