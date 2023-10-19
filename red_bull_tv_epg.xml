@@ -7,18 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231019121943 +0200" stop="20231019124709 +0200">
-    <title lang="en">Varna, Bulgaria</title>
-    <desc lang="en">A crowd of 20,000 welcomes teams of amateur aviators who will attempt to fly on the coast of the Black Sea. (26 minutes)</desc>
-    <category lang="en">Sport, Red Bull Flugtag</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJBFUKH2111/FO-1RFJBFUKH2111-featureMedia" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231019124709 +0200" stop="20231019131255 +0200">
-    <title lang="en">Zurich, Switzerland</title>
-    <desc lang="en">Fifty teams fly homemade flying craft around (and in!) Lake Zurich, Switzerland. (26 minutes)</desc>
-    <category lang="en">Sport, Red Bull Flugtag</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJQX8DH2111/FO-1RFJQX8DH2111-featureMedia" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231019131255 +0200" stop="20231019133004 +0200">
     <title lang="en">Reset</title>
     <desc lang="en">Kai Lenny's balancing act looks different in 2023, and his home life and performance goals are ready to reset. (17 minutes)</desc>
@@ -156,6 +144,18 @@
     <desc lang="en">As Crankworx Innsbruck returns for 2021, Erik Fedko and Emil Johansson prepare to put on a show. (15 minutes)</desc>
     <category lang="en">Sport, Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/11/26/u4aj88i17ib4e0rpixgt/raising-the-bar-ep2-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231020014634 +0200" stop="20231020020226 +0200">
+    <title lang="en">Erik Fedko checks out Emil Johansson's home spots</title>
+    <desc lang="en">After success in New Zealand, Erik Fedko heads to Sweden to check out Emil Johansson’s favourite home spots. (15 minutes)</desc>
+    <category lang="en">Sport, Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/11/26/a1dt3oip6dxxtfhohepw/raising-the-bar-ep1-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231020020226 +0200" stop="20231020034139 +0200">
+    <title lang="en">Valley Uprising</title>
+    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite. (99 minutes)</desc>
+    <category lang="en">Sport, Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art" />
   </programme>
 </tv>
 
