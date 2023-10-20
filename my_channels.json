@@ -1573,5 +1573,27 @@
       "update_value": 5,
       "programmes": []
     }
+  },
+  {
+    "group": "Music",
+    "tvg_name": "Vibe To Beat",
+    "id": "V2Beat.uk",
+    "logo": "https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png",
+    "name": "Vibe To Beat",
+    "stream": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+    "url": "https://www.vibee.tv/",
+    "language": "en",
+    "category": "Dance Music",
+    "description": "Looking for Best of European dance music? Tune in to the hottest dance music from across Europe. From chart-topping hits and underground classics, to exclusive mixes and live events.",
+    "icon": "https://images2.imgbox.com/19/a2/y8u9O1oV_o.png",
+    "guide": {
+      "url": "https://www.vibee.tv/schedule/",
+      "id": "",
+      "timezone": "CET",
+      "filename": "vibee_tv_epg.xml",
+      "update_interval": "daily",
+      "update_value": 1,
+      "programmes": []
+    }
   }
 ]
