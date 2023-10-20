@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231020034139 +0200" stop="20231020043437 +0200">
-    <title lang="en">Crunch time</title>
-    <desc lang="en">The iconic Mostar bridge challenged the divers and spiced up the battle for the title on the penultimate stop. (52 minutes)</desc>
-    <category lang="en">Sport, Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/18/eoyr4n97icwrgweaiv4p/gary-hunt" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231020043437 +0200" stop="20231020054330 +0200">
     <title lang="en">The Old World</title>
     <desc lang="en">The Old World highlights the European riders who dominate the world stage in mountain biking. (69 minutes)</desc>
@@ -156,6 +150,12 @@
     <desc lang="en">How the small sub-culture of big air kitesurfing came to be a fully-fledged competitive discipline. (29 minutes)</desc>
     <category lang="en">Sport, Kitesurfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/19/yzi1zxjxrzjp7ejvybax/kings-of-the-air-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231020163206 +0200" stop="20231020165707 +0200">
+    <title lang="en">ABC of... Kayaking</title>
+    <desc lang="en">Jessica Fox takes you on an epic run through the origins of kayaking and the paddlers who shaped the sport. (25 minutes)</desc>
+    <category lang="en">Sport, Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/1/15/ygoc19j6uct7bqyuzyy8/jessica-fox-training-session-sydney" />
   </programme>
 </tv>
 
