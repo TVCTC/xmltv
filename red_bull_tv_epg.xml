@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231025132217 +0200" stop="20231025141021 +0200">
-    <title lang="en">Driven</title>
-    <desc lang="en">A film about the motivation, inspiration and drive that fuels a three-year snowboard project. (47 minutes)</desc>
-    <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/11/30/paywfuql9uvzlagofhyo/driven-hero-art" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231025141021 +0200" stop="20231025143449 +0200">
     <title lang="en">Knowledge</title>
     <desc lang="en">In an introduction to the complex human connection to the natural world, athletes share their experiences. (24 minutes)</desc>
@@ -156,6 +150,12 @@
     <desc lang="en">Andrzej Bargiel and Jędrek Baranowski roam through Karakoram to create history on their own terms. (47 minutes)</desc>
     <category lang="en">Sport, Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/11/17/fck0xpi7le89jmdteyfn/doo-sar-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231025230606 +0200" stop="20231025233029 +0200">
+    <title lang="en">Encouraged</title>
+    <desc lang="en">At age 16 Courage Adams turned pro, taking the BMX world by storm. Now, he returns to his roots in Nigeria. (24 minutes)</desc>
+    <category lang="en">Sport, BMX</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/1/9/znhmnqmxxewl6ww11nkr/courage-adams-bmx-nigeria-trip-benin-city" />
   </programme>
 </tv>
 
