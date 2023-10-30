@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231030125714 +0100" stop="20231030135221 +0100">
-    <title lang="en">DRX The Rise</title>
-    <desc lang="en">Entering Worlds 2022, nobody expected DRX to become champions of the biggest LoL tournament of the year. (54 minutes)</desc>
-    <category lang="en">Sport, Games</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/7/19/m9j1fghkjxg2wwl4bye6/drx-worlds-2022" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231030135221 +0100" stop="20231030143537 +0100">
     <title lang="en">Nexus</title>
     <desc lang="en">Follow five distinct groups of female skiers and learn how the mountains offer refuge and shape friendships. (43 minutes)</desc>
@@ -156,6 +150,12 @@
     <desc lang="en">Leticia Bufoni and Aldana Bertran fire up South Africa's female skate movement. (20 minutes)</desc>
     <category lang="en">Sport, Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/16/ejhbu6yidn6qa006n68f/leticia-bufoni-leticia-pushes-mzanzi" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231031085257 +0100" stop="20231031091556 +0100">
+    <title lang="en">Skate the Museum</title>
+    <desc lang="en">Leticia Bufoni, Margy Didal, Lore Bruggeman and Aldana Bertran let loose in London's Natural History Museum. (23 minutes)</desc>
+    <category lang="en">Sport, Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/13/jtxc3fukqmwjeeeykjrx/skate-the-museum-image" />
   </programme>
 </tv>
 
