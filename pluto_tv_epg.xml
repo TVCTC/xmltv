@@ -7,13 +7,6 @@
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/85/7d/Wut6FGg9_o.png" />
   </channel>
-  <programme channel="Crime360.us" start="20231030230000 +0000" stop="20231030233000 +0000">
-    <title lang="en">Steven Seagal: Lawman - The Student Becomes the Master</title>
-    <desc lang="en">Season 1, Episode 6 
-Be it apprehending suspects or making sure a woman is safe in her home, Deputy Chief Steven Seagal and his team patrol the streets of Jefferson Parish in honor of their former boss, the late Harry Lee.</desc>
-    <category lang="en">Documentaries</category>
-    <icon src="https://images.pluto.tv/series/6021d4646d7ca5001ae96782/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="Crime360.us" start="20231030233000 +0000" stop="20231031000000 +0000">
     <title lang="en">Steven Seagal: Lawman - The Perfect Target</title>
     <desc lang="en">Season 2, Episode 4 
@@ -112,17 +105,17 @@ In Cincinnati, Detectives Keith Witherell and Bill Hilbert attempt to crack the 
     <category lang="en">Documentaries</category>
     <icon src="https://images.pluto.tv/series/56c7b4cf4d857c9b4d4b03a6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="Crime360.us" start="20231031120000 +0000" stop="20231031123000 +0000">
+    <title lang="en">Crime 360 - Crime 360</title>
+    <desc lang="en">no info available</desc>
+    <category lang="en">no info available</category>
+    <icon src="https://images.pluto.tv/channels/6000a5a9e767980007b497ca/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="CBSNewsMiami.us">
     <display-name>CBS News Miami</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d1/35/I5qwoZbg_o.png" />
   </channel>
-  <programme channel="CBSNewsMiami.us" start="20231030230000 +0000" stop="20231030233000 +0000">
-    <title lang="en">CBS News Miami at 7PM - CBS News Miami at 7PM</title>
-    <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/650d1f6425fde2001a50dcd8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsMiami.us" start="20231030233000 +0000" stop="20231031000000 +0000">
     <title lang="en">CBS News Miami 7PM - CBS News Miami 7PM</title>
     <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
@@ -206,6 +199,12 @@ In Cincinnati, Detectives Keith Witherell and Bill Hilbert attempt to crack the 
     <desc lang="en">Season 1, Top stories in Miami.</desc>
     <category lang="en">News and Information</category>
     <icon src="https://images.pluto.tv/series/63fdc2f92fc2340013593df8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="CBSNewsMiami.us" start="20231031120000 +0000" stop="20231031123000 +0000">
+    <title lang="en">CBS News Miami - CBS News Miami</title>
+    <desc lang="en">no info available</desc>
+    <category lang="en">no info available</category>
+    <icon src="https://images.pluto.tv/channels/60fb299b79498900070b29e0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="CBSNewsNewYork.us">
     <display-name>CBS News New York</display-name>
@@ -295,6 +294,12 @@ In Cincinnati, Detectives Keith Witherell and Bill Hilbert attempt to crack the 
     <desc lang="en">Season 1, CBS News New York is hyper local news streaming 24/7... for free! It's the Tri-State area's place to get top stories, breaking news, weather, traffic and more. Check us out. We're always on.</desc>
     <category lang="en">News and Information</category>
     <icon src="https://images.pluto.tv/series/62d5e5fa997d5700138dc378/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="CBSNewsNewYork.us" start="20231031120000 +0000" stop="20231031123000 +0000">
+    <title lang="en">CBS News New York - CBS News New York</title>
+    <desc lang="en">no info available</desc>
+    <category lang="en">no info available</category>
+    <icon src="https://images.pluto.tv/channels/5dc48170e280c80009a861ab/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="CBSNewsLosAngeles.us">
     <display-name>CBS News Los Angeles</display-name>
@@ -403,6 +408,12 @@ In Cincinnati, Detectives Keith Witherell and Bill Hilbert attempt to crack the 
     <category lang="en">News and Information</category>
     <icon src="https://images.pluto.tv/series/63b67c9cbc65210013550ca6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="CBSNewsLosAngeles.us" start="20231031120000 +0000" stop="20231031123000 +0000">
+    <title lang="en">CBS News Los Angeles - CBS News Los Angeles</title>
+    <desc lang="en">no info available</desc>
+    <category lang="en">no info available</category>
+    <icon src="https://images.pluto.tv/channels/5dc481cda1d430000948a1b4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StingrayNaturescape.stirr">
     <display-name>Stingray Naturescape</display-name>
     <url>Pluto TV Guide</url>
@@ -489,7 +500,7 @@ Camping out in nature with a relaxing fire next to a quiet lake.</desc>
     <category lang="en">Faith and Spirituality</category>
     <icon src="https://images.pluto.tv/series/634a92bc0e42030013495a61/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
-  <programme channel="StingrayNaturescape.stirr" start="20231031115900 +0000" stop="20231031120000 +0000">
+  <programme channel="StingrayNaturescape.stirr" start="20231031115900 +0000" stop="20231031123000 +0000">
     <title lang="en">Naturescape - Naturescape</title>
     <desc lang="en">no info available</desc>
     <category lang="en">no info available</category>
@@ -612,6 +623,12 @@ Karyn Slover's been offered to work as a model by an agency in Los Angeles. Leav
     <category lang="en">Documentaries</category>
     <icon src="https://images.pluto.tv/series/63c0a1e0501aab0013bd0a23/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="PlutoTVTrueCrime.us" start="20231031120000 +0000" stop="20231031123000 +0000">
+    <title lang="en">Pluto TV True Crime - Pluto TV True Crime</title>
+    <desc lang="en">no info available</desc>
+    <category lang="en">no info available</category>
+    <icon src="https://images.pluto.tv/channels/5812be1c249444e05d09cc50/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek.us">
     <display-name>Star Trek</display-name>
     <url>Pluto TV Guide</url>
@@ -708,6 +725,12 @@ Kirk, McCoy, and Sulu are stranded on a barren planet where a mysterious woman a
     <category lang="en">Classics</category>
     <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="StarTrek.us" start="20231031120000 +0000" stop="20231031123000 +0000">
+    <title lang="en">Star Trek - Star Trek</title>
+    <desc lang="en">no info available</desc>
+    <category lang="en">no info available</category>
+    <icon src="https://images.pluto.tv/channels/5efbd39f8c4ce900075d7698/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="PlutoTVSci-Fi.us">
     <display-name>Pluto TV Sci-Fi</display-name>
     <url>Pluto TV Guide</url>
@@ -774,12 +797,6 @@ Three young conspiracy theorists attempt to uncover the mysteries of Area 51, th
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/5f/93/OSKkiju1_o.png" />
   </channel>
-  <programme channel="FailArmy.us" start="20231030223900 +0000" stop="20231030231100 +0000">
-    <title lang="en">FailArmy Halloween - FailArmy Halloween</title>
-    <desc lang="en">Season 1, Fall fails for Halloween.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/650ca0fbd193e8001b808de0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="FailArmy.us" start="20231030231100 +0000" stop="20231030234200 +0000">
     <title lang="en">FailArmy: Halloween II - FailArmy: Halloween II</title>
     <desc lang="en">Season 1, Featuring an all-Halloween collection of fails.</desc>
@@ -933,7 +950,7 @@ Seeing what monster trucks can do.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/650ca0dcd193e8001b80552c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
-  <programme channel="FailArmy.us" start="20231031111000 +0000" stop="20231031120000 +0000">
+  <programme channel="FailArmy.us" start="20231031111000 +0000" stop="20231031123000 +0000">
     <title lang="en">FailArmy - FailArmy</title>
     <desc lang="en">no info available</desc>
     <category lang="en">no info available</category>
@@ -944,13 +961,6 @@ Seeing what monster trucks can do.</desc>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/a5/2a/yMz2mukZ_o.png" />
   </channel>
-  <programme channel="AlwaysFunnyVideos.us" start="20231030230000 +0000" stop="20231030233000 +0000">
-    <title lang="en">Fail 101 - Episode 6</title>
-    <desc lang="en">Season 2, Episode 6 
-Class is in session and it's time to laugh and learn from fails of the past, or be doomed to repeat them.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/6386c777d9c17f001455c572/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="AlwaysFunnyVideos.us" start="20231030233000 +0000" stop="20231031000000 +0000">
     <title lang="en">Fail 101 - Episode 3</title>
     <desc lang="en">Season 2, Episode 3 
@@ -1115,18 +1125,17 @@ Featuring the best clips of the day and comedians who always have something funn
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/6386c775d9c17f001455c4d9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="AlwaysFunnyVideos.us" start="20231031120000 +0000" stop="20231031123000 +0000">
+    <title lang="en">Always Funny Videos - Always Funny Videos</title>
+    <desc lang="en">no info available</desc>
+    <category lang="en">no info available</category>
+    <icon src="https://images.pluto.tv/channels/5e82b55ad0213e00079c509f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek2.us">
     <display-name>Star Trek 2</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/27/e4/fXrWe4Dd_o.jpg" />
   </channel>
-  <programme channel="StarTrek2.us" start="20231030223300 +0000" stop="20231030231832 +0000">
-    <title lang="en">Star Trek: The Next Generation (Embed) - HOME SOIL</title>
-    <desc lang="en">Season 1, Episode 117 
-Picard finds himself facing a strenuous test of his loyalty to Starfleet, one which the other members of the crew are struggling to cope with, whilst Wesley faces an equally challenging entrance exam at Starfleet Academy.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="StarTrek2.us" start="20231030231832 +0000" stop="20231031000401 +0000">
     <title lang="en">Star Trek: The Next Generation (Embed) - EVOLUTION*</title>
     <desc lang="en">Season 3, Episode 150 
@@ -1239,7 +1248,7 @@ The Enterprise is carrying an eminent scientist, Dr. Paul Stubbs, to the site of
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
-  <programme channel="StarTrek2.us" start="20231031112631 +0000" stop="20231031120000 +0000">
+  <programme channel="StarTrek2.us" start="20231031112631 +0000" stop="20231031123000 +0000">
     <title lang="en">Star Trek 2 - Star Trek 2</title>
     <desc lang="en">no info available</desc>
     <category lang="en">no info available</category>
@@ -1341,18 +1350,17 @@ Janeway's holographic love interest becomes more than just a way to pass the tim
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="MoreStarTrek.us" start="20231031120000 +0000" stop="20231031123000 +0000">
+    <title lang="en">More Star Trek - More Star Trek</title>
+    <desc lang="en">no info available</desc>
+    <category lang="en">no info available</category>
+    <icon src="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="UnsolvedMysteries.us">
     <display-name>Unsolved Mysteries</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/2a/c4/j0wnCQ1X_o.jpg" />
   </channel>
-  <programme channel="UnsolvedMysteries.us" start="20231030220048 +0000" stop="20231030230048 +0000">
-    <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 16</title>
-    <desc lang="en">Season 2, Episode 16 
-This episode includes: Reincarnation Pts. 1 &amp; 2, Rookie Death &amp; UD and Thumper.</desc>
-    <category lang="en">Documentaries</category>
-    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="UnsolvedMysteries.us" start="20231030230048 +0000" stop="20231031000048 +0000">
     <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 15</title>
     <desc lang="en">Season 2, Episode 15 
@@ -1437,7 +1445,7 @@ This episode includes: Ice Woman, Airline Employee Murder, Silicon Valley Hit, F
     <category lang="en">Documentaries</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
-  <programme channel="UnsolvedMysteries.us" start="20231031110048 +0000" stop="20231031120000 +0000">
+  <programme channel="UnsolvedMysteries.us" start="20231031110048 +0000" stop="20231031123000 +0000">
     <title lang="en">Unsolved Mysteries - Unsolved Mysteries</title>
     <desc lang="en">no info available</desc>
     <category lang="en">no info available</category>
@@ -1539,18 +1547,17 @@ Looks at how law enforcers stick with cases for many years, using fresh evidence
     <category lang="en">Documentaries</category>
     <icon src="https://images.pluto.tv/series/5c37f226394025ecbfc1f162/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="ColdCaseFiles.us" start="20231031120000 +0000" stop="20231031123000 +0000">
+    <title lang="en">Cold Case Files - Cold Case Files</title>
+    <desc lang="en">no info available</desc>
+    <category lang="en">no info available</category>
+    <icon src="https://images.pluto.tv/channels/5c37d6712de254456f7ec340/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="MST3K.us">
     <display-name>MST3K</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images.pluto.tv/channels/545943f1c9f133a519bbac92/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </channel>
-  <programme channel="MST3K.us" start="20231030210000 +0000" stop="20231030233000 +0000">
-    <title lang="en">MST3K: Gamera vs. Jiger - MST3K: Gamera vs. Jiger</title>
-    <desc lang="en">Season 1, Episode 1 
-Jonah's crew watch Gamera save the day at Osaka's Expo '70, in GAMERA VS JIGER (1970). Pearl tries to convince Kinga to take a break.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/63fe6cb8689edb0013ab703b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="MST3K.us" start="20231030233000 +0000" stop="20231031013000 +0000">
     <title lang="en">MST3K: The Batwoman - MST3K: The Batwoman</title>
     <desc lang="en">Season 1, Episode 1 
@@ -1593,7 +1600,7 @@ All three hosts watch a group of precocious orphans attempt save a dying Father 
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/63fd3329afdc9d001377ca23/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
-  <programme channel="MST3K.us" start="20231031113000 +0000" stop="20231031120000 +0000">
+  <programme channel="MST3K.us" start="20231031113000 +0000" stop="20231031123000 +0000">
     <title lang="en">MST3K - MST3K</title>
     <desc lang="en">no info available</desc>
     <category lang="en">no info available</category>
@@ -1653,7 +1660,7 @@ Mary-Louise Parker stars as a vibrant young woman who breaks off an uninspired r
     <category lang="en">Drama</category>
     <icon src="https://images.pluto.tv/series/62eb15dd6df8ae001a00adc6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
-  <programme channel="HallmarkMoviesAndMore.us" start="20231031113000 +0000" stop="20231031120000 +0000">
+  <programme channel="HallmarkMoviesAndMore.us" start="20231031113000 +0000" stop="20231031123000 +0000">
     <title lang="en">Hallmark Movies &amp; More - Hallmark Movies &amp; More</title>
     <desc lang="en">no info available</desc>
     <category lang="en">no info available</category>
@@ -1754,6 +1761,12 @@ The search for Lt. Ford leads Sheppard and Teyla to planet P3M-736 where they ar
 While on Planet Thenora, the team is shocked when McKay and marine officer Laura Cadman are suddenly taken aboard a Wraith Dart. When the team shoots down the Dart, they discover a technical glitch has put Cadman's consciousness in McKay's body.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/622fa743d5556100138052e9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="Stargate.us" start="20231031120000 +0000" stop="20231031123000 +0000">
+    <title lang="en">Stargate - Stargate</title>
+    <desc lang="en">no info available</desc>
+    <category lang="en">no info available</category>
+    <icon src="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
 </tv>
 
