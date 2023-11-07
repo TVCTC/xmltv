@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231107004639 +0100" stop="20231107015026 +0100">
-    <title lang="en">North of Nightfall</title>
-    <desc lang="en">A group of mountain bikers set out to the most remote region on Earth to pioneer the largest mountain lines. (63 minutes)</desc>
-    <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YUTPNWXH5N11/fo-1yutpnwxh5n11-featuremedia" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231107015026 +0100" stop="20231107030425 +0100">
     <title lang="en">Stoke the Fire</title>
     <desc lang="en">At the end of the day, it's all about fun and being stoked in this ski movie, filmed in several locations. (73 minutes)</desc>
@@ -150,6 +144,12 @@
     <desc lang="en">Experience a cinematic journey that'll transport you to the feeling of total immersion you get on a bike ride. (47 minutes)</desc>
     <category lang="en">Sport, Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/5/16/ntdmfphzq7latorx1yt4/returntoearth_landscape_hero" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231107150007 +0100" stop="20231107155438 +0100">
+    <title lang="en">Toby Price: Ridin’ Shotgun</title>
+    <desc lang="en">Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels? (54 minutes)</desc>
+    <category lang="en">Sport, Offroad</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/9/22/uizpbk9kquu6ustdsgnf/toby-price-ridin-shotgun-hero-art" />
   </programme>
 </tv>
 
