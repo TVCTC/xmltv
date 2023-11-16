@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231116132005 +0100" stop="20231116134555 +0100">
-    <title lang="en">Kriss Kyle: Out of Season</title>
-    <desc lang="en">Watch as Kriss transitions from BMX to all-around bike athlete in classic British winter weather. (25 minutes)</desc>
-    <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/4/13/bru6qjulua9s7zg4ihk3/kriss-kyle-out-of-season-hero-art" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231116134555 +0100" stop="20231116143354 +0100">
     <title lang="en">Red Bull Imagination 4.0 recap</title>
     <desc lang="en">Watch Tyler Bereman and the world’s top freeride MX riders best face off at Red Bull Imagination 2023. (48 minutes)</desc>
@@ -156,6 +150,12 @@
     <desc lang="en">Paddy goes to Austria to find out how Simon Dumont’s results-oriented approach is the key to his success. (22 minutes)</desc>
     <category lang="en">Sport, Freeskiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/2/4/hncufhwdljeiti1phyj8/dropping-in-s1-e1-simon-dumont-freeski" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231117012145 +0100" stop="20231117030058 +0100">
+    <title lang="en">Valley Uprising</title>
+    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite. (99 minutes)</desc>
+    <category lang="en">Sport, Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art" />
   </programme>
 </tv>
 
