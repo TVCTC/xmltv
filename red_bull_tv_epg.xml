@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231126011524 +0100" stop="20231126020804 +0100">
-    <title lang="en">Red Bull Cape Fear</title>
-    <desc lang="en">In Sydney's unforgiving Botany Bay, 16 big wave surfers ride the six-to-eight foot sets across a deadly reef. (52 minutes)</desc>
-    <category lang="en">Sport, Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z9VJDJDS5N11/FO-1Z9VJDJDS5N11-featureMedia" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231126020804 +0100" stop="20231126025506 +0100">
     <title lang="en">Return to Earth</title>
     <desc lang="en">Experience a cinematic journey that'll transport you to the feeling of total immersion you get on a bike ride. (47 minutes)</desc>
@@ -150,6 +144,12 @@
     <desc lang="en">Three athletes from three different backgrounds use freestyle football to showcase their athleticism. (26 minutes)</desc>
     <category lang="en">Sport, Freestyle Soccer</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/2/qrsrcpi0m4kehvl9dwno/pushing-progression-s1-e1-red-bull-street-style" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231126140606 +0100" stop="20231126142233 +0100">
+    <title lang="en">Julien Regnier</title>
+    <desc lang="en">Paddy discovers how French skier Julien Regnier changed the face of European freeskiing with new techniques. (16 minutes)</desc>
+    <category lang="en">Sport, Freeskiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/2/4/mspz8f0wn8aw2pcp3qgm/dropping-in-s1-e4-julien-regnier-freeski" />
   </programme>
 </tv>
 
