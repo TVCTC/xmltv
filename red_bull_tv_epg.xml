@@ -7,36 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231129174540 +0100" stop="20231129185648 +0100">
-    <title lang="en">Broken Molds</title>
-    <desc lang="en">Take an inside look at the origins of windsurfing and how it became one of the world's fastest growing sports. (71 minutes)</desc>
-    <category lang="en">Sport, Windsurfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/20/qibyjmco0mhsfbnwbyka/broken-molds-hero-art" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231129185648 +0100" stop="20231129191954 +0100">
-    <title lang="en">Dan Mancina</title>
-    <desc lang="en">Madars Apse meets up with blind skateboarder Dan Mancina to hear his journey of relearning to skate. (23 minutes)</desc>
-    <category lang="en">Sport, Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/16/gffv1sk4dy4lsyod7yzf/skate-tales-s1e3-art" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231129191954 +0100" stop="20231129203544 +0100">
-    <title lang="en">Winterland</title>
-    <desc lang="en">Follow an adventurous crew as they leave their mark on fabled locations and chase the ghosts of the greats. (75 minutes)</desc>
-    <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/14/oshsqz0ljtt7judgg9c2/winterland_landscape_hero" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231129203544 +0100" stop="20231129205913 +0100">
-    <title lang="en">New Zealand</title>
-    <desc lang="en">Rob Warner and slopestyle genius Matt Jones make their way through New Zealand’s South Island trails. (24 minutes)</desc>
-    <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/11/11/8a793db2-f907-4adb-94b8-40cecbebe495/rob-warners-wild-rides-ep-5-new-zealand" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231129205913 +0100" stop="20231129212417 +0100">
-    <title lang="en">Colombia</title>
-    <desc lang="en">In Colombia, Rob Warner and MTB star Finn Iles find one of the most stunning trails on the planet. (24 minutes)</desc>
-    <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/11/13/6a9d9a27-ed8a-49d9-a3f5-369212d20f7d/rob-warner-wild-rides-night-riding" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231129222543 +0100" stop="20231129224842 +0100">
     <title lang="en">Finland</title>
     <desc lang="en">Mark and Craig McMorris link up with their childhood hero, Eero Ettala, in Finland. (22 minutes)</desc>
@@ -150,6 +120,36 @@
     <desc lang="en">The race with no engine and many obstacles will test the participants in San Marino, Italy.  (43 minutes)</desc>
     <category lang="en">Sport, Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/ixhalqhev7dsljmvkix8/red-bull-soapbox-race-san-marino-2022" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231130075019 +0100" stop="20231130081507 +0100">
+    <title lang="en">EMIL – Every Mystery I’ve Lived</title>
+    <desc lang="en">Emil Johansson spent 2018 struggling with an autoimmune disease, but now he’s ready to make his comeback. (25 minutes)</desc>
+    <category lang="en">Sport, MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZHZ821CD5N11/fo-1zhz821cd5n11-featuremedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231130081507 +0100" stop="20231130083152 +0100">
+    <title lang="en">EMIL – Every Mystery I've Lived: The Next Chapter</title>
+    <desc lang="en">We tap into the mindset of MTB slopestyle champion Emil Johansson as he attempts to regain his title in 2020. (18 minutes)</desc>
+    <category lang="en">Sport, Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/26/kcat6tnivvlc79vzqsqd/emilthenextchapter_landscape_hero" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231130083152 +0100" stop="20231130085736 +0100">
+    <title lang="en">Boston, USA</title>
+    <desc lang="en">A strong headwind challenges the weird and wonderful flying machines in one of America's great academic cities. (25 minutes)</desc>
+    <category lang="en">Sport, Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFK19H3D2111/FO-1RFK19H3D2111-featureMedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231130085736 +0100" stop="20231130094039 +0100">
+    <title lang="en">Fleeting Time</title>
+    <desc lang="en">Ben Ferguson and a crew of professional snowboarders document two winters of chasing storms. (42 minutes)</desc>
+    <category lang="en">Sport, Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/21/i3nu64ojjxqwogr2c7g8/fleeting-time-ben-ferguson-snowboarding-film" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231130094039 +0100" stop="20231130103319 +0100">
+    <title lang="en">Red Bull Cape Fear</title>
+    <desc lang="en">In Sydney's unforgiving Botany Bay, 16 big wave surfers ride the six-to-eight foot sets across a deadly reef. (52 minutes)</desc>
+    <category lang="en">Sport, Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z9VJDJDS5N11/FO-1Z9VJDJDS5N11-featureMedia" />
   </programme>
 </tv>
 
