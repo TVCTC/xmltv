@@ -7,18 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231129013212 +0100" stop="20231129015402 +0100">
-    <title lang="en">Alaska</title>
-    <desc lang="en">The McMorris brothers have been all around the world, but Alaska remained out of reach – until now. (22 minutes)</desc>
-    <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/02/0670a69b-74fa-4577-aba3-b64dc1cf10ca/mcmorrises-alaska" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231129015402 +0100" stop="20231129021624 +0100">
-    <title lang="en">Colorado</title>
-    <desc lang="en">Flipping the script, Mark and Craig take on the role of surly vets with a crew of up-and-comers. (22 minutes)</desc>
-    <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/02/5c71a6ee-ce79-429f-a36c-f0c8cc1505d2/mcmorrises-aspen" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231129021624 +0100" stop="20231129030305 +0100">
     <title lang="en">Chapters II</title>
     <desc lang="en">Follow Japanese superstar Kanoa Igarashi on the WSL Championship Tour as he chases his world title dreams. (46 minutes)</desc>
@@ -156,6 +144,18 @@
     <desc lang="en">In Sydney's unforgiving Botany Bay, 16 big wave surfers ride the six-to-eight foot sets across a deadly reef. (52 minutes)</desc>
     <category lang="en">Sport, Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z9VJDJDS5N11/FO-1Z9VJDJDS5N11-featureMedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231129140653 +0100" stop="20231129145354 +0100">
+    <title lang="en">Return to Earth</title>
+    <desc lang="en">Experience a cinematic journey that'll transport you to the feeling of total immersion you get on a bike ride. (47 minutes)</desc>
+    <category lang="en">Sport, Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/5/16/ntdmfphzq7latorx1yt4/returntoearth_landscape_hero" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231129145354 +0100" stop="20231129150909 +0100">
+    <title lang="en">The return of the fastest MX racer on the planet</title>
+    <desc lang="en">Jeffrey Herlings looks to get back to winning ways following a year filled with injuries and disappointments. (15 minutes)</desc>
+    <category lang="en">Sport, Motocross</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/1/jrcluhbztt8d3lodopsd/jeffrey-herlings-fim-mxgp-motocross-world-championship-italy-2021" />
   </programme>
 </tv>
 
