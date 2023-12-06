@@ -7,54 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231205224847 +0100" stop="20231205230214 +0100">
-    <title lang="en">Alt-rock</title>
-    <desc lang="en">XC racers Nino Schurter, Laura Stigger, Payson McElveen and Haley Batten show us their different methods. (13 minutes)</desc>
-    <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/12/lbd9c0gttgmllmtypgm3/nino-schurter-uci-xc-mtb-world-cup-2022-brazil" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231205230214 +0100" stop="20231205235414 +0100">
-    <title lang="en">Red Bull Joyride</title>
-    <desc lang="en">Fusing slopestyle, dirt jump and classic downhill mountain biking, Joyride is the big finale of Crankworx. (52 minutes)</desc>
-    <category lang="en">Sport, MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MMRUZ45N1W11/FO-1MMRUZ45N1W11-featureMedia" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231205235414 +0100" stop="20231206001042 +0100">
-    <title lang="en">Jackie Paaso</title>
-    <desc lang="en">Paddy talks with Jackie Paaso about challenging gender stereotypes – and her reputation for being reckless. (15 minutes)</desc>
-    <category lang="en">Sport, Freeskiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/2/4/f0heifriwflm0y6omiju/dropping-in-s1-e3-jackie-paaso-freeskie" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231206001042 +0100" stop="20231206003244 +0100">
-    <title lang="en">Simon Dumont</title>
-    <desc lang="en">Paddy goes to Austria to find out how Simon Dumont’s results-oriented approach is the key to his success. (22 minutes)</desc>
-    <category lang="en">Sport, Freeskiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/2/4/hncufhwdljeiti1phyj8/dropping-in-s1-e1-simon-dumont-freeski" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231206003244 +0100" stop="20231206005000 +0100">
-    <title lang="en">Pro motocross prodigy</title>
-    <desc lang="en">Jett has a surprise meeting with a fellow former motocross prodigy: Travis Pastrana. (17 minutes)</desc>
-    <category lang="en">Sport, Motocross</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/1/12/dvhnscu8yoll03zgba1t/flight-plan-lawrence-brothers-s1-e1" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231206005000 +0100" stop="20231206010831 +0100">
-    <title lang="en">Ignoring distractions</title>
-    <desc lang="en">Jett sits down with former Supercross star Josh Hansen to talk cars, fame and rookie mistakes as a young pro. (19 minutes)</desc>
-    <category lang="en">Sport, Motocross</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/1/12/jkpm7lhyodjezybhzsbc/flight-plan-lawrence-brothers-s1-e2" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231206010831 +0100" stop="20231206012648 +0100">
-    <title lang="en">Donut bet with Márquez</title>
-    <desc lang="en">Jett goes to the Grand Prix of the Americas in Texas to hang with multi-time MotoGP™ world champ Marc Márquez. (18 minutes)</desc>
-    <category lang="en">Sport, Motocross</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/1/12/qfx5op2jjguxgfswz6jx/flight-plan-lawrence-brothers-s1-e3" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231206012648 +0100" stop="20231206021039 +0100">
-    <title lang="en">Toulouse, France</title>
-    <desc lang="en">To win or To(ulouse)? That is the question that will be answered today in this gravity-powered race! (43 minutes)</desc>
-    <category lang="en">Sport, Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/zpafu4se3ambjjhqy1wb/team-2-red-bull-soapbox-race-2022" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231206021039 +0100" stop="20231206030319 +0100">
     <title lang="en">Red Bull Dreamline</title>
     <desc lang="en">Asheville, North Carolina, USA is a perfect backdrop for epic BMX tricks off 10 two-storey jumps. (52 minutes)</desc>
@@ -156,6 +108,54 @@
     <desc lang="en">The Old World highlights the European riders who dominate the world stage in mountain biking. (69 minutes)</desc>
     <category lang="en">Sport, MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231206113452 +0100" stop="20231206115533 +0100">
+    <title lang="en">Osaka Daggers</title>
+    <desc lang="en">Madars Apse meets the Osaka Daggers, a skate crew who built the underground skate scene in Japan. (20 minutes)</desc>
+    <category lang="en">Sport, Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/17/l38whbcbbpc5lfwovywj/skate-tales-s1e5-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231206115533 +0100" stop="20231206121303 +0100">
+    <title lang="en">Sergio Yuppie</title>
+    <desc lang="en">Join Madars Apse as he travels to Brazil to learn from downhill legend Sergio Yuppie. (18 minutes)</desc>
+    <category lang="en">Sport, Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/16/u6emnwbzrxhzzpybwp7i/skate-tales-s1e2-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231206121303 +0100" stop="20231206123957 +0100">
+    <title lang="en">Target on their backs</title>
+    <desc lang="en">The brothers are in Riga, Latvia, home to the season’s fastest, most technical and most dangerous track. (27 minutes)</desc>
+    <category lang="en">Sport, Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/x36obwyfv3jpqpbtdh4t/sideways-with-full-throttle-the-drift-brothers-ep3-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231206123957 +0100" stop="20231206130712 +0100">
+    <title lang="en">In case of doubt, flat out</title>
+    <desc lang="en">When the unexpected happens, the Hountondji brothers must rely on the team – and each other. (27 minutes)</desc>
+    <category lang="en">Sport, Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/blqtyi00jcgc2086megx/sideways-with-full-throttle-the-drift-brothers-ep4-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231206130712 +0100" stop="20231206135552 +0100">
+    <title lang="en">Rolling Away</title>
+    <desc lang="en">Get an in-depth look at Ryan Sheckler’s three-year journey to complete a career-defining video part. (47 minutes)</desc>
+    <category lang="en">Sport, Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/7/28/moqmuxllpdhvsilodave/ryan-sheckler" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231206135552 +0100" stop="20231206145520 +0100">
+    <title lang="en">One at a Time</title>
+    <desc lang="en">Follow professional slopestyle rider Brett Rheeder through the ups and downs of a Crankworx contest season. (59 minutes)</desc>
+    <category lang="en">Sport, Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ju0vdt30ad36f7oel2k4/one-at-a-time-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231206145520 +0100" stop="20231206154122 +0100">
+    <title lang="en">Neguin shows Kastet the city of São Paulo</title>
+    <desc lang="en">B-Girl Kastet joins B-Boy Neguin in São Paulo to experience the vibrant blend of the Brazilian breaking style. (46 minutes)</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/4/gjklxqzily2dnwdr2bu5/breaking-beyond-s1-e2-neguin-kastet-sao-paolo" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231206154122 +0100" stop="20231206162657 +0100">
+    <title lang="en">Ronnie and Neguin explore Las Vegas</title>
+    <desc lang="en">Ronnie and Neguin meet pro artists, explore Full Force Crew's roots and chill with Jabbawockeez in Las Vegas. (45 minutes)</desc>
+    <category lang="en">Sport, Dance</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/4/odkdgjvsjw0jujjyp8st/breaking-beyond-s1-e3-ronnie-neguin-las-vegas" />
   </programme>
 </tv>
 
