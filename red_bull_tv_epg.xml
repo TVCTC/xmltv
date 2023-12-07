@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231207094518 +0100" stop="20231207101303 +0100">
-    <title lang="en">In case of doubt, flat out</title>
-    <desc lang="en">When the unexpected happens, the Hountondji brothers must rely on the team – and each other. (27 minutes)</desc>
-    <category lang="en">Sport, Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/blqtyi00jcgc2086megx/sideways-with-full-throttle-the-drift-brothers-ep4-art" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231207101303 +0100" stop="20231207110113 +0100">
     <title lang="en">Rolling Away</title>
     <desc lang="en">Get an in-depth look at Ryan Sheckler’s three-year journey to complete a career-defining video part. (47 minutes)</desc>
@@ -156,6 +150,12 @@
     <desc lang="en">Three Red Bull Cliff Diving World Champions take a road trip across Guatemala to find remote diving spots. (42 minutes)</desc>
     <category lang="en">Sport, Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/19/kj0bdmkbq4yr8vxd7pn8/rhiannan-iffland-rio-dulce-guatemala" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231207222756 +0100" stop="20231207223843 +0100">
+    <title lang="en">Skating the streets of Barcelona</title>
+    <desc lang="en">Gustavo Ribeiro and the Ementa crew try some tricks on the streets of skateboarding’s first city – Barcelona. (11 minutes)</desc>
+    <category lang="en">Sport, Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/9/3/um9ldxzau7mdc9wquqca/gustavo-ribeiro-hardflip-bcn-gaston-francisco" />
   </programme>
 </tv>
 
