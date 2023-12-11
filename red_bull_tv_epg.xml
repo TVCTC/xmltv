@@ -7,18 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231211094305 +0100" stop="20231211100527 +0100">
-    <title lang="en">Colorado</title>
-    <desc lang="en">Flipping the script, Mark and Craig take on the role of surly vets with a crew of up-and-comers. (22 minutes)</desc>
-    <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/02/5c71a6ee-ce79-429f-a36c-f0c8cc1505d2/mcmorrises-aspen" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231211100527 +0100" stop="20231211105011 +0100">
-    <title lang="en">Red Bull Drift Masters</title>
-    <desc lang="en">Strap in for some full-throttle action as we look back on the world's most infamous drifting event. (44 minutes)</desc>
-    <category lang="en">Sport, Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/12/gixrm4euhxciusfuhj24/red-bull-drift-masters-hero-art" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231211105011 +0100" stop="20231211113612 +0100">
     <title lang="en">Chapters II</title>
     <desc lang="en">Follow Japanese superstar Kanoa Igarashi on the WSL Championship Tour as he chases his world title dreams. (46 minutes)</desc>
@@ -156,6 +144,18 @@
     <desc lang="en">Things turn decidely alpine as Nico Hojac and the team battle through the worst summer weather in decades. (24 minutes)</desc>
     <category lang="en">Sport, Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/2/28/iq03vvvaur1mhbmium3a/the-soloist-vr-ep3-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231212001018 +0100" stop="20231212011645 +0100">
+    <title lang="en">Burton US Open</title>
+    <desc lang="en">For snowboarders, the Burton US Open is the contest that matters most. (67 minutes)</desc>
+    <category lang="en">Sport, Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/3/30/k0wvv35y3lt3z1wuqizd/scotty-james-burton-us-open" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231212011645 +0100" stop="20231212013955 +0100">
+    <title lang="en">Atita Verghese</title>
+    <desc lang="en">Atita Verghese is India’s foremost female skateboarder and an inspiration to millions. (23 minutes)</desc>
+    <category lang="en">Sport, Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/lbr5d7m65udzwwoqmr4d/urmila-pabale-mysore-india-skate-tales" />
   </programme>
 </tv>
 
