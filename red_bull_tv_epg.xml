@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231212173150 +0100" stop="20231212181704 +0100">
-    <title lang="en">Nitro Rallycross</title>
-    <desc lang="en">For the fourth year in a row, the best motorcycle athletes battle it out in Travis Pastrana's spectacular competition. (44 minutes)</desc>
-    <category lang="en">Sport, Motorbike Stuntriding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/24/tud1xuzbigal0zarvatb/signature2019-e9-nitro-rallycross" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231212181704 +0100" stop="20231212190003 +0100">
     <title lang="en">Shigekix shows Ronnie around Tokyo</title>
     <desc lang="en">B-Boys Shigekix and Ronnie reveal Tokyo's secret: the pursuit of perfection in dance, food and craftsmanship. (42 minutes)</desc>
@@ -156,6 +150,12 @@
     <desc lang="en">Rick Ross and acclaimed all-Black symphony Orchestra Noir bring Red Bull Symphonic to Atlanta. (24 minutes)</desc>
     <category lang="en">Sport, Music</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/18/lpxvcamjafpavqtgxrmw/rick-ross-red-bull-symphonic-2022-atlanta" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231213083028 +0100" stop="20231213091758 +0100">
+    <title lang="en">Rolling Away</title>
+    <desc lang="en">Get an in-depth look at Ryan Sheckler’s three-year journey to complete a career-defining video part. (47 minutes)</desc>
+    <category lang="en">Sport, Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/7/28/moqmuxllpdhvsilodave/ryan-sheckler" />
   </programme>
 </tv>
 
