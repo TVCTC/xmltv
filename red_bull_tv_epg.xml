@@ -7,18 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231214213521 +0100" stop="20231214215821 +0100">
-    <title lang="en">Alaska</title>
-    <desc lang="en">The McMorris brothers have been all around the world, but Alaska remained out of reach – until now. (22 minutes)</desc>
-    <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/02/0670a69b-74fa-4577-aba3-b64dc1cf10ca/mcmorrises-alaska" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231214215821 +0100" stop="20231214222043 +0100">
-    <title lang="en">Colorado</title>
-    <desc lang="en">Flipping the script, Mark and Craig take on the role of surly vets with a crew of up-and-comers. (22 minutes)</desc>
-    <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/02/5c71a6ee-ce79-429f-a36c-f0c8cc1505d2/mcmorrises-aspen" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231214222043 +0100" stop="20231214230527 +0100">
     <title lang="en">Red Bull Drift Masters</title>
     <desc lang="en">Strap in for some full-throttle action as we look back on the world's most infamous drifting event. (44 minutes)</desc>
@@ -156,6 +144,18 @@
     <desc lang="en">Alex Honnold, Nico Hojac and team take on an epic climb and film shoot on Les Drus in the Mont Blanc massif. (24 minutes)</desc>
     <category lang="en">Sport, Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/2/28/idsv2akpnjictw5yrcbv/the-soloist-vr-ep2-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231215112636 +0100" stop="20231215115050 +0100">
+    <title lang="en">The eternal optimist</title>
+    <desc lang="en">Things turn decidely alpine as Nico Hojac and the team battle through the worst summer weather in decades. (24 minutes)</desc>
+    <category lang="en">Sport, Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/2/28/iq03vvvaur1mhbmium3a/the-soloist-vr-ep3-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231215115050 +0100" stop="20231215125717 +0100">
+    <title lang="en">Burton US Open</title>
+    <desc lang="en">For snowboarders, the Burton US Open is the contest that matters most. (67 minutes)</desc>
+    <category lang="en">Sport, Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/3/30/k0wvv35y3lt3z1wuqizd/scotty-james-burton-us-open" />
   </programme>
 </tv>
 
