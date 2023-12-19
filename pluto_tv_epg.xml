@@ -110,12 +110,6 @@ As three new participants enter the program, the others fight for acceptance in 
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d1/35/I5qwoZbg_o.png" />
   </channel>
-  <programme channel="CBSNewsMiami.us" start="20231219230000 +0000" stop="20231219233000 +0000">
-    <title lang="en">CBS News Miami at 6PM - CBS News Miami at 6PM</title>
-    <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/650d114d3e6938001ae1d0b8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsMiami.us" start="20231219233000 +0000" stop="20231220000000 +0000">
     <title lang="en">CBS News Miami 6PM - CBS News Miami 6PM</title>
     <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
@@ -217,12 +211,6 @@ As three new participants enter the program, the others fight for acceptance in 
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d6/2f/d6ilnDhv_o.png" />
   </channel>
-  <programme channel="CBSNewsNewYork.us" start="20231219230000 +0000" stop="20231219233000 +0000">
-    <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
-    <desc lang="en">Season 1, .</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/63066e509bd9c6001b668575/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsNewYork.us" start="20231219233000 +0000" stop="20231220000000 +0000">
     <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
     <desc lang="en">Season 1, .</desc>
@@ -747,13 +735,6 @@ Geordi defies Picard's commands and risks his life in what appears to be a futil
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/ef/68/NL7FR1wZ_o.png" />
   </channel>
-  <programme channel="PlutoTVSci-Fi.us" start="20231219230000 +0000" stop="20231219233000 +0000">
-    <title lang="en">The Twilight Zone - What's in the Box</title>
-    <desc lang="en">Season 5, Episode 24 
-A cheating husband sees his secret revealed and its horrible consequences on his just-repaired TV set.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="PlutoTVSci-Fi.us" start="20231219233000 +0000" stop="20231220000000 +0000">
     <title lang="en">The Twilight Zone - The Masks</title>
     <desc lang="en">Season 5, Episode 25 
@@ -829,13 +810,6 @@ Jimmy Sang, a martial arts movie star, is filming in the dojo. When a stuntman i
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/5f/93/OSKkiju1_o.png" />
   </channel>
-  <programme channel="FailArmy.us" start="20231219224400 +0000" stop="20231219231500 +0000">
-    <title lang="en">FailArmy Now - Fail-O-Mania</title>
-    <desc lang="en">Season 4, Episode 3 
-What pets, landlords and workplaces have in common.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/650ca0dad193e8001b8052c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="FailArmy.us" start="20231219231500 +0000" stop="20231219234600 +0000">
     <title lang="en">FailArmy Now - Failscape Chronicles</title>
     <desc lang="en">Season 4, Episode 4 
@@ -1011,6 +985,13 @@ Combing through the archives for the priciest episode in "Expensive Fails" histo
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/650ca0dcd193e8001b80552c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="FailArmy.us" start="20231220121600 +0000" stop="20231220124700 +0000">
+    <title lang="en">FailArmy Now - The Fumble Files</title>
+    <desc lang="en">Season 4, Episode 5 
+What fish, lakes and tech have in common.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0dad193e8001b8052c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="AlwaysFunnyVideos.us">
     <display-name>Always Funny Videos</display-name>
     <url>Pluto TV Guide</url>
@@ -1142,6 +1123,13 @@ Host Eric Artell counts down the funniest festive videos to keep one occupied un
 Host Eric Artell counts down the funniest festive videos to keep one occupied until Christmas.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/63993535501aab0013af6b05/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="AlwaysFunnyVideos.us" start="20231220123000 +0000" stop="20231220130000 +0000">
+    <title lang="en">A Clipsmas Carol - A Clipsmas Carol</title>
+    <desc lang="en">Season 1, Episode 9 
+Always Funny Videos is family-friendly comedy programming from the creators of America’s Funniest Home Videos. 24/7 Laughs delivered in hilarious comedy home videos that are funny for all ages!</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/657cb08653180b00130ee85b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="StarTrek2.us">
     <display-name>Star Trek 2</display-name>
@@ -1602,6 +1590,27 @@ Mike and the Bots watch a cheap ripoff of The Most Dangerous Game, where a rich 
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/5daa49cd4d8bff9cc171c83b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="MST3K.us" start="20231220000000 +0000" stop="20231220014500 +0000">
+    <title lang="en">MST3K: Bloodlust - MST3K: Bloodlust</title>
+    <desc lang="en">Season 1, Episode 1 
+Mike and the Bots watch a cheap ripoff of The Most Dangerous Game, where a rich game hunter tricks a group of stranded college kids into becoming prey for his latest blood sport.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/5daa49cd4d8bff9cc171c83b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="MST3K.us" start="20231220000000 +0000" stop="20231220014500 +0000">
+    <title lang="en">MST3K: Bloodlust - MST3K: Bloodlust</title>
+    <desc lang="en">Season 1, Episode 1 
+Mike and the Bots watch a cheap ripoff of The Most Dangerous Game, where a rich game hunter tricks a group of stranded college kids into becoming prey for his latest blood sport.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/5daa49cd4d8bff9cc171c83b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="MST3K.us" start="20231220000000 +0000" stop="20231220014500 +0000">
+    <title lang="en">MST3K: Bloodlust - MST3K: Bloodlust</title>
+    <desc lang="en">Season 1, Episode 1 
+Mike and the Bots watch a cheap ripoff of The Most Dangerous Game, where a rich game hunter tricks a group of stranded college kids into becoming prey for his latest blood sport.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/5daa49cd4d8bff9cc171c83b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <programme channel="MST3K.us" start="20231220014500 +0000" stop="20231220020000 +0000">
     <title lang="en">MST3K Shorts - MST3K Shorts: The Selling Wizard</title>
     <desc lang="en">Season 2, Episode 20 
@@ -1704,6 +1713,13 @@ Hannah Higgins--a smart, driven Harvard-educated professor--attempts to turn blu
 10-year-old Luke had never kept a secret or told a lie. But when two groups of migrant workers-and two dangerous men-come to work the family's Arkansas cotton farm, mysteries suddenly flood Luke's world.</desc>
     <category lang="en">Drama</category>
     <icon src="https://images.pluto.tv/series/62c4913d7a94bf0013891537/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="HallmarkMoviesAndMore.us" start="20231220121500 +0000" stop="20231220140000 +0000">
+    <title lang="en">All's Fair in Love and Advertising - All's Fair in Love and Advertising</title>
+    <desc lang="en">Season 1, Episode 1 
+Creative director Tom Burns may be at the top of his game, but he's still considered old for being over forty in the trendy business of advertising.  So he hires young con-artist Dick Sweeney to be his stand-in at an ad agency.</desc>
+    <category lang="en">Romance</category>
+    <icon src="https://images.pluto.tv/series/62c485f88fd582001333df06/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="Stargate.us">
     <display-name>Stargate</display-name>
