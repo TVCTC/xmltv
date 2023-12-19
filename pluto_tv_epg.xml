@@ -224,6 +224,12 @@ In Atlanta, a brash murder in front of an elementary school turns up a familiar 
     <category lang="en">News and Information</category>
     <icon src="https://images.pluto.tv/series/650d1f6425fde2001a50dcd8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="CBSNewsMiami.us" start="20231220003000 +0000" stop="20231220010000 +0000">
+    <title lang="en">CBS News Miami 7PM - CBS News Miami 7PM</title>
+    <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
+    <category lang="en">News and Information</category>
+    <icon src="https://images.pluto.tv/series/650d0340a61c2a001b3a7b43/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="CBSNewsNewYork.us">
     <display-name>CBS News New York</display-name>
     <url>Pluto TV Guide</url>
@@ -526,13 +532,6 @@ In Atlanta, a brash murder in front of an elementary school turns up a familiar 
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/0f/16/UD4GZuAg_o.png" />
   </channel>
-  <programme channel="PlutoTVTrueCrime.us" start="20231219104500 +0000" stop="20231219113000 +0000">
-    <title lang="en">Bizarre Murders - Thrill Spree</title>
-    <desc lang="en">Season 1, Episode 17 
-When a couple disappears from a Georgia beach town, detectives interrogate a pair of gun-toting cat burglars with dueling cover stories, some sordid souvenirs, and a telltale scrapbook.</desc>
-    <category lang="en">Reality</category>
-    <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="PlutoTVTrueCrime.us" start="20231219113000 +0000" stop="20231219120000 +0000">
     <title lang="en">Bizarre Murders - Smoking Bun</title>
     <desc lang="en">Season 1, Episode 7 
@@ -886,17 +885,18 @@ On the day an unpopular idealist is to be executed for the killing of a racist b
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="PlutoTVSci-Fi.us" start="20231220003000 +0000" stop="20231220010000 +0000">
+    <title lang="en">The Twilight Zone - Sounds and Silences</title>
+    <desc lang="en">Season 5, Episode 27 
+A man's wish to listen to loud noise backfires.</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="FailArmy.us">
     <display-name>FailArmy</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/5f/93/OSKkiju1_o.png" />
   </channel>
-  <programme channel="FailArmy.us" start="20231219103600 +0000" stop="20231219110800 +0000">
-    <title lang="en">FailArmy Presents: Very Merry Fail-mas - FailArmy Presents: Very Merry Fail-mas</title>
-    <desc lang="en">Season 1, A very special gift of the most hilarious fails wrapped in the FailArmy Christmas special.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/6552d51f727df0001a670b79/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="FailArmy.us" start="20231219110800 +0000" stop="20231219113900 +0000">
     <title lang="en">FailArmy Presents: Very Merry Fail-mas II - FailArmy Presents: Very Merry Fail-mas II</title>
     <desc lang="en">Season 1, Featuring funny fails wrapped in a Christmas special.</desc>
@@ -1062,17 +1062,18 @@ The best of the worst for January 2021.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/650ca0d8d193e8001b80503b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="FailArmy.us" start="20231220001800 +0000" stop="20231220005000 +0000">
+    <title lang="en">Best Fails of the Month - Episode 2</title>
+    <desc lang="en">Season 4, Episode 2 
+The best of the worst for February 2021.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0d8d193e8001b80503b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="AlwaysFunnyVideos.us">
     <display-name>Always Funny Videos</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/a5/2a/yMz2mukZ_o.png" />
   </channel>
-  <programme channel="AlwaysFunnyVideos.us" start="20231219103000 +0000" stop="20231219113000 +0000">
-    <title lang="en">Ho Ho Hilarious Holiday Countdown - Ho Ho Hilarious Holiday Countdown</title>
-    <desc lang="en">Season 1, Santa is flying in to host this holiday special; he's counting down some jolly videos and highlighting clips that have made it on his super nice list this year.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/63a141aa377c6f00134ecaa1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="AlwaysFunnyVideos.us" start="20231219113000 +0000" stop="20231219123000 +0000">
     <title lang="en">AFV's 12 LOLs of Christmas - AFV's 12 LOLs of Christmas</title>
     <desc lang="en">Season 1, This holiday season is full of laugh out loud goodness; counting down some of the best gift-giving, Christmas tree mishaps, and Santa blunders.</desc>
