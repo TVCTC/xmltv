@@ -7,36 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231219060035 +0100" stop="20231219070850 +0100">
-    <title lang="en">Crandon World Cup</title>
-    <desc lang="en">The world's best off-road drivers race on the longest, fastest short-course track at Crandon Raceway. (68 minutes)</desc>
-    <category lang="en">Sport, Trophy Truck</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/12/nxkjuwxaueshw3jsz12s/crandon-world-cup-hero-art" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231219070850 +0100" stop="20231219083534 +0100">
-    <title lang="en">Going In</title>
-    <desc lang="en">This is the story of what it takes to compete at the highest level of professional mountain bike racing. (86 minutes)</desc>
-    <category lang="en">Sport, MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/3/25/vvj2xcsej0crzlwkgwft/goingin_landscape_herohero" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231219083534 +0100" stop="20231219090034 +0100">
-    <title lang="en">San Francisco</title>
-    <desc lang="en">Dive into the fray and get to meet one of surfing’s most hardcore communities. (25 minutes)</desc>
-    <category lang="en">Sport, Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/vow0vxpiesj06e7emued/jamie-obrien-no-contest-s2-e1-san-francisco" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231219090034 +0100" stop="20231219092434 +0100">
-    <title lang="en">Tahiti</title>
-    <desc lang="en">Michel Bourez and Kauli Vaast take you on a tour of beautiful islands of Tahiti.  (24 minutes)</desc>
-    <category lang="en">Sport, Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/uywqkknj6cylyanrdz1n/kauli-vaast-no-contest-s2-e3-tahiti" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20231219092434 +0100" stop="20231219095019 +0100">
-    <title lang="en">Jeffrey Herlings prepares for high stakes GP</title>
-    <desc lang="en">The KTM Factory Racing team leave nothing to chance when it comes to race prep and planning. (25 minutes)</desc>
-    <category lang="en">Sport, Motocross</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/8/ilgujvt60s1yfih9pt56/jeffrey-herlings-mxgp-germany-2023" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231219095019 +0100" stop="20231219100409 +0100">
     <title lang="en">Jeffrey Herlings is not done yet!</title>
     <desc lang="en">Jeffrey Herlings sets his sights on the 2024 MXGP season as he looks to add to his trophy haul.  (14 minutes)</desc>
@@ -156,6 +126,36 @@
     <desc lang="en">Madars Apse meets the Japanese skateboarder who shaped an alternative skate movement. (21 minutes)</desc>
     <category lang="en">Sport, Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/u2tupkishahsetcu9lla/madars-apse-and-takahiro-morita-tokyo-japan-skate-tales" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231219232201 +0100" stop="20231219234254 +0100">
+    <title lang="en">Vitória Mendonça</title>
+    <desc lang="en">Inspirational Brazilian Vitória Mendonça is changing the face of pro skateboarding culture. (20 minutes)</desc>
+    <category lang="en">Sport, Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/tfdirjr0iwykq7e0otmc/madars-apse-and-vitoria-mendonca-sao-paulo-brazil-skate-tales" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231219234254 +0100" stop="20231220012611 +0100">
+    <title lang="en">And Two If By Sea</title>
+    <desc lang="en">Watch the iconic story of sibling rivalry between pro surfers and identical twins CJ and Damien Hobgood. (103 minutes)</desc>
+    <category lang="en">Sport, Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/3/18/pyv4rszk7tj6t7jvkbax/andtwoifbythesea_landscape_hero" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231220012611 +0100" stop="20231220023741 +0100">
+    <title lang="en">Magic Hour</title>
+    <desc lang="en">The 'magic hour' provides the perfect light to capture stunning images in the mountains. (71 minutes)</desc>
+    <category lang="en">Sport, Mountaineering</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/14/yyuc1fysrqdptglb8re6/simon-hillis-british-columbia-magic-hour-ski" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231220023741 +0100" stop="20231220025852 +0100">
+    <title lang="en">Leticia Pushes Mzansi</title>
+    <desc lang="en">Leticia Bufoni and Aldana Bertran fire up South Africa's female skate movement. (20 minutes)</desc>
+    <category lang="en">Sport, Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/16/ejhbu6yidn6qa006n68f/leticia-bufoni-leticia-pushes-mzanzi" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231220025852 +0100" stop="20231220040707 +0100">
+    <title lang="en">Crandon World Cup</title>
+    <desc lang="en">The world's best off-road drivers race on the longest, fastest short-course track at Crandon Raceway. (68 minutes)</desc>
+    <category lang="en">Sport, Trophy Truck</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/12/nxkjuwxaueshw3jsz12s/crandon-world-cup-hero-art" />
   </programme>
 </tv>
 
