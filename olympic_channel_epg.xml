@@ -7,42 +7,6 @@
     <url>https://olympics.com/en/live/</url>
     <icon src="https://thumbs2.imgbox.com/45/27/1M1IrWhV_t.png" />
   </channel>
-  <programme channel="OlympicChannel.int" start="20231223232446 +0000" stop="20231224021629 +0000">
-    <title lang="en">Salt Lake 2002 - Opening Ceremony</title>
-    <desc lang="en">The ceremony  took place at the Rice-Eccles Olympic Stadium in Salt Lake City on 8 February 2002.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/d2bivro0sop63hkukafe" />
-  </programme>
-  <programme channel="OlympicChannel.int" start="20231224021629 +0000" stop="20231224060247 +0000">
-    <title lang="en">Athens 2004 - Opening Ceremony</title>
-    <desc lang="en">The opening ceremony was held on August 13, 2004 at the Olympic Stadium in Maroussi, Greece.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/rm333v4yus4tvb8r8x63" />
-  </programme>
-  <programme channel="OlympicChannel.int" start="20231224060000 +0000" stop="20231224092806 +0000">
-    <title lang="en">Opening Ceremony | Barcelona 1992 | Great Olympic Moments</title>
-    <desc lang="en">Relive the greatest Olympic Moments and watch Barcelona's Opening Ceremony for the Barcelona Summer Olympic Games in 1992</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/wz2gme7taqkxvap0sjum" />
-  </programme>
-  <programme channel="OlympicChannel.int" start="20231224092806 +0000" stop="20231224130751 +0000">
-    <title lang="en">Opening Ceremony | Athens 2004 | Great Olympic Moments</title>
-    <desc lang="en">Watch the spectacular Opening Ceremony of the Athens Summer Olympic Games in 2004 once more and remember the greatest moments</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/mzjgeaabnbpwtnkbjdku" />
-  </programme>
-  <programme channel="OlympicChannel.int" start="20231224130751 +0000" stop="20231224174100 +0000">
-    <title lang="en">Opening Ceremony | Beijing 2008 | Great Olympic Moments</title>
-    <desc lang="en">Remember the greatest moments from the Opening Ceremony of the Beijing Summer Olympic Games in 2008 and watch it once more</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/j6exwcq6zm7qrynh7kg4" />
-  </programme>
-  <programme channel="OlympicChannel.int" start="20231224174100 +0000" stop="20231224210756 +0000">
-    <title lang="en">Opening Ceremony | Barcelona 1992 | Great Olympic Moments</title>
-    <desc lang="en">Relive the greatest Olympic Moments and watch Barcelona's Opening Ceremony for the Barcelona Summer Olympic Games in 1992</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/wz2gme7taqkxvap0sjum" />
-  </programme>
   <programme channel="OlympicChannel.int" start="20231224210756 +0000" stop="20231225004743 +0000">
     <title lang="en">Opening Ceremony | Athens 2004 | Great Olympic Moments</title>
     <desc lang="en">Watch the spectacular Opening Ceremony of the Athens Summer Olympic Games in 2004 once more and remember the greatest moments</desc>
@@ -102,6 +66,125 @@
     <desc lang="en">The Closing Ceremony of the 2010 Winter Olympics took place on February 28, 2010, at the BC Place Stadium in Vancouver.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/netvnewivi2kr8cl6ws3" />
+  </programme>
+  <programme channel="OlympicChannel.int" start="20231226024237 +0000" stop="20231226060221 +0000">
+    <title lang="en">Closing Ceremony | London 2012 Replays</title>
+    <desc lang="en">The ceremony was held on 12–13 August in the Olympic Stadium. It's also known as A Symphony of British Music.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/cj0erex1y1y9suawzxqo" />
+  </programme>
+  <programme channel="OlympicChannel.int" start="20231226060000 +0000" stop="20231226062921 +0000">
+    <title lang="en">Fashion Behind The Games: Shoes</title>
+    <desc lang="en">A brief history of the evolution of sports shoes in the past 100 years and the role they’ve played at the Olympics.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/vyrtm5yn3ceczgandosk" />
+  </programme>
+  <programme channel="OlympicChannel.int" start="20231226062921 +0000" stop="20231226072342 +0000">
+    <title lang="en">Ice Hockey: Team Switzerland Men</title>
+    <desc lang="en">Relive PyeongChang 2018 through the eyes of the Men’s Swiss Ice Hockey Team and follow their quest for an Olympic Medal</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/hwcgtxgzotfglgrsugcg" />
+  </programme>
+  <programme channel="OlympicChannel.int" start="20231226072342 +0000" stop="20231226084359 +0000">
+    <title lang="en">Table Tennis: Women's Gold Match | Rio 2016 Replays</title>
+    <desc lang="en">Ding Ning (CHN) 4:3 Li Xiaoxia (CHN)</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/ggx45psl40beto12yehb" />
+  </programme>
+  <programme channel="OlympicChannel.int" start="20231226084359 +0000" stop="20231226103459 +0000">
+    <title lang="en">Table Tennis: Women's Team Gold Match | Rio 2016 Replays</title>
+    <desc lang="en">CHN 3:0 GER</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/dgnntrlxmqar1wrfhzb1" />
+  </programme>
+  <programme channel="OlympicChannel.int" start="20231226103459 +0000" stop="20231226105457 +0000">
+    <title lang="en">Beijing 2022 - Biathlon - Men's</title>
+    <desc lang="en">Don't miss the best Biathlon - Men's moments from Beijing 2022.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/njqw0v9tsmcgmkufwgms" />
+  </programme>
+  <programme channel="OlympicChannel.int" start="20231226105457 +0000" stop="20231226111845 +0000">
+    <title lang="en">Beijing 2022 - Biathlon - Women's</title>
+    <desc lang="en">Don't miss the best Biathlon - Women's moments from Beijing 2022.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/njqw0v9tsmcgmkufwgms" />
+  </programme>
+  <programme channel="OlympicChannel.int" start="20231226111845 +0000" stop="20231226121336 +0000">
+    <title lang="en">Ice Hockey: Team Switzerland Men</title>
+    <desc lang="en">Relive PyeongChang 2018 through the eyes of the Men’s Swiss Ice Hockey Team and follow their quest for an Olympic Medal</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/hwcgtxgzotfglgrsugcg" />
+  </programme>
+  <programme channel="OlympicChannel.int" start="20231226121336 +0000" stop="20231226131553 +0000">
+    <title lang="en">Biathlon - Men's 12.5km pursuit | Sochi 2014 Replays</title>
+    <desc lang="en">G: M. Fourcade (FRA) 33:48.6
+S: O. Moravec (CZE) 34:02.7
+B: J. G. Béatrix (FRA) 34:12.8</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/gcvxwugrnmhra4dydeyi" />
+  </programme>
+  <programme channel="OlympicChannel.int" start="20231226131553 +0000" stop="20231226165032 +0000">
+    <title lang="en">Men's 500m - Speed Skating | Sochi 2014 Replays</title>
+    <desc lang="en">G: Michel Mulder (NED)
+S: Jan Smeekens (NED)
+B: Ronald Mulder (NED)</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/uy1a7klnjevzgg73vv43" />
+  </programme>
+  <programme channel="OlympicChannel.int" start="20231226165032 +0000" stop="20231226171030 +0000">
+    <title lang="en">Beijing 2022 - Biathlon - Men's</title>
+    <desc lang="en">Don't miss the best Biathlon - Men's moments from Beijing 2022.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/njqw0v9tsmcgmkufwgms" />
+  </programme>
+  <programme channel="OlympicChannel.int" start="20231226171030 +0000" stop="20231226173245 +0000">
+    <title lang="en">Beijing 2022 - Biathlon - Women's</title>
+    <desc lang="en">Don't miss the best Biathlon - Women's moments from Beijing 2022.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/njqw0v9tsmcgmkufwgms" />
+  </programme>
+  <programme channel="OlympicChannel.int" start="20231226173245 +0000" stop="20231226182533 +0000">
+    <title lang="en">Ice Hockey: Team Switzerland Men</title>
+    <desc lang="en">Relive PyeongChang 2018 through the eyes of the Men’s Swiss Ice Hockey Team and follow their quest for an Olympic Medal</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/hwcgtxgzotfglgrsugcg" />
+  </programme>
+  <programme channel="OlympicChannel.int" start="20231226182533 +0000" stop="20231226195608 +0000">
+    <title lang="en">Men's Pool Stage DEN-CAN - Ice Hockey | Winter Youth Olympic Games 2020</title>
+    <desc lang="en">Watch the Men's Ice Hockey Pool Stage match between the Denmark and Canada of Lausanne 2020 YOG</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/e5cvkjylmbix3r6hbhvf" />
+  </programme>
+  <programme channel="OlympicChannel.int" start="20231226195608 +0000" stop="20231226213729 +0000">
+    <title lang="en">Men's Pool Stage SUI-USA - Ice Hockey | Winter Youth Olympic Games 2020</title>
+    <desc lang="en">Follow the Women's Ice Hockey Pool Stage match between Switzerland and the United States of America of Lausanne 2020 YOG</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/f4wi5wn8pqaifjpdqjoy" />
+  </programme>
+  <programme channel="OlympicChannel.int" start="20231226213729 +0000" stop="20231226220641 +0000">
+    <title lang="en">Fashion Behind The Games: Shoes</title>
+    <desc lang="en">A brief history of the evolution of sports shoes in the past 100 years and the role they’ve played at the Olympics.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/vyrtm5yn3ceczgandosk" />
+  </programme>
+  <programme channel="OlympicChannel.int" start="20231226220641 +0000" stop="20231226222639 +0000">
+    <title lang="en">Beijing 2022 - Biathlon - Men's</title>
+    <desc lang="en">Don't miss the best Biathlon - Men's moments from Beijing 2022.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/njqw0v9tsmcgmkufwgms" />
+  </programme>
+  <programme channel="OlympicChannel.int" start="20231226222639 +0000" stop="20231226224957 +0000">
+    <title lang="en">Beijing 2022 - Biathlon - Women's</title>
+    <desc lang="en">Don't miss the best Biathlon - Women's moments from Beijing 2022.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/njqw0v9tsmcgmkufwgms" />
+  </programme>
+  <programme channel="OlympicChannel.int" start="20231226224957 +0000" stop="20231227004439 +0000">
+    <title lang="en">USA v SWE, Women's Ice Hockey Semifinals | Sochi 2014 Replays</title>
+    <desc lang="en">United States (USA) 6
+Sweden (SWE) 1</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/wnbwfeu9aqvof8oj8ose" />
   </programme>
 </tv>
 
