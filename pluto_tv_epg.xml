@@ -7,13 +7,6 @@
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/85/7d/Wut6FGg9_o.png" />
   </channel>
-  <programme channel="Crime360.us" start="20231227101500 +0000" stop="20231227111500 +0000">
-    <title lang="en">60 Days In - 60 Days In: Best of Clark County</title>
-    <desc lang="en">Season 2, Episode 14 
-Memorable moments from Season 2 of 60 Days In</desc>
-    <category lang="en">Documentaries</category>
-    <icon src="https://images.pluto.tv/series/603057bfa9a1af001a8e56ed/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="Crime360.us" start="20231227111500 +0000" stop="20231227121500 +0000">
     <title lang="en">60 Days In - Institutional Knowledge</title>
     <desc lang="en">Season 2, Episode 8 
@@ -205,6 +198,12 @@ New challenges emerge after the men switch pods and the women suspect a snitch.<
     <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
     <category lang="en">News and Information</category>
     <icon src="https://images.pluto.tv/series/650d1f6425fde2001a50dcd8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="CBSNewsMiami.us" start="20231228003000 +0000" stop="20231228010000 +0000">
+    <title lang="en">CBS News Miami 7PM - CBS News Miami 7PM</title>
+    <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
+    <category lang="en">News and Information</category>
+    <icon src="https://images.pluto.tv/series/650d0340a61c2a001b3a7b43/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="CBSNewsNewYork.us">
     <display-name>CBS News New York</display-name>
@@ -502,13 +501,6 @@ New challenges emerge after the men switch pods and the women suspect a snitch.<
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/0f/16/UD4GZuAg_o.png" />
   </channel>
-  <programme channel="PlutoTVTrueCrime.us" start="20231227104500 +0000" stop="20231227113000 +0000">
-    <title lang="en">Bizarre Murders - Truth Hurts</title>
-    <desc lang="en">Season 1, Episode 34 
-A Miami cocktail waitress tells her scandalous truth on a tell-all game show and ends up dead.</desc>
-    <category lang="en">Reality</category>
-    <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="PlutoTVTrueCrime.us" start="20231227113000 +0000" stop="20231227120000 +0000">
     <title lang="en">Bizarre Murders - Stranger Than Fiction</title>
     <desc lang="en">Season 1, Episode 13 
@@ -862,18 +854,18 @@ An alcoholic bookie regrets that he wasn't a better father to his son, Pip, crit
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="PlutoTVSci-Fi.us" start="20231228003000 +0000" stop="20231228010000 +0000">
+    <title lang="en">The Twilight Zone - Steel</title>
+    <desc lang="en">Season 5, Episode 2 
+Boxing robot "Battling Maxo" breaks down before the scheduled bout, forcing his manager to take its place.</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="FailArmy.us">
     <display-name>FailArmy</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/5f/93/OSKkiju1_o.png" />
   </channel>
-  <programme channel="FailArmy.us" start="20231227104600 +0000" stop="20231227111600 +0000">
-    <title lang="en">FAILARMY - FAILARMY</title>
-    <desc lang="en">Season 1, Episode 21 
-A girl has a hard time getting over things; a bad case of pilot error; it's all fun and games until someone loses consciousness.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/650ca0dcd193e8001b8055b7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="FailArmy.us" start="20231227111600 +0000" stop="20231227114700 +0000">
     <title lang="en">FAILARMY - FAILARMY</title>
     <desc lang="en">Season 1, Episode 22 
@@ -1055,18 +1047,18 @@ Getting an F in science; galloping from the law; taking a spin on acute bike.</d
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/650ca0dcd193e8001b8055b7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="FailArmy.us" start="20231228002400 +0000" stop="20231228005500 +0000">
+    <title lang="en">FAILARMY - FAILARMY</title>
+    <desc lang="en">Season 1, Episode 16 
+A girl flies high at the dentist; packing bags for camp; when pranks backfire.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0dcd193e8001b8055b7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="AlwaysFunnyVideos.us">
     <display-name>Always Funny Videos</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/a5/2a/yMz2mukZ_o.png" />
   </channel>
-  <programme channel="AlwaysFunnyVideos.us" start="20231227110000 +0000" stop="20231227113000 +0000">
-    <title lang="en">Best of the Year Funny Video Countdown - Episode 10</title>
-    <desc lang="en">Season 1, Episode 10 
-We are narrowing down the LOLs from every month this year.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/6386c779d9c17f001455c5fe/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="AlwaysFunnyVideos.us" start="20231227113000 +0000" stop="20231227120000 +0000">
     <title lang="en">Best of the Year Funny Video Countdown - Episode 11</title>
     <desc lang="en">Season 1, Episode 11 
@@ -1235,18 +1227,18 @@ We are narrowing down the LOLs from every month this year.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/6386c779d9c17f001455c5fe/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="AlwaysFunnyVideos.us" start="20231228003000 +0000" stop="20231228010000 +0000">
+    <title lang="en">Best of the Year Funny Video Countdown - Episode 11</title>
+    <desc lang="en">Season 1, Episode 11 
+We are narrowing down the LOLs from every month this year.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/6386c779d9c17f001455c5fe/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek2.us">
     <display-name>Star Trek 2</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/27/e4/fXrWe4Dd_o.jpg" />
   </channel>
-  <programme channel="StarTrek2.us" start="20231227104301 +0000" stop="20231227112830 +0000">
-    <title lang="en">Star Trek: The Next Generation (Embed) - LEGACY</title>
-    <desc lang="en">Season 4, Episode 180 
-The crew of the Enterprise enters into orbit around the home planet of their former crew-mate, Tasha Yar, where they encounter her sister.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="StarTrek2.us" start="20231227112830 +0000" stop="20231227121402 +0000">
     <title lang="en">Star Trek: The Next Generation (Embed) - HOME SOIL</title>
     <desc lang="en">Season 1, Episode 117 
@@ -1363,6 +1355,13 @@ Picard finds himself facing a strenuous test of his loyalty to Starfleet, one wh
     <title lang="en">Star Trek: The Next Generation (Embed) - EVOLUTION*</title>
     <desc lang="en">Season 3, Episode 150 
 The Enterprise is carrying an eminent scientist, Dr. Paul Stubbs, to the site of a binary star where they are expecting a massive stellar explosion to occur in a few hours.</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="StarTrek2.us" start="20231228002201 +0000" stop="20231228010730 +0000">
+    <title lang="en">Star Trek: The Next Generation (Embed) - LEGACY</title>
+    <desc lang="en">Season 4, Episode 180 
+The crew of the Enterprise enters into orbit around the home planet of their former crew-mate, Tasha Yar, where they encounter her sister.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
@@ -1562,6 +1561,13 @@ This episode includes: Miram's Memory &amp; UD, Ghost Blimp, Fugitive Fireman &a
     <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 14</title>
     <desc lang="en">Season 6, Episode 14 
 This episode includes: Mystery Mummy, Mississippi Hangings, UD: Killer Boyfriend, Baby Girl X &amp; UD and Jeanne Boylan.</desc>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="UnsolvedMysteries.us" start="20231228000036 +0000" stop="20231228010036 +0000">
+    <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 7</title>
+    <desc lang="en">Season 3, Episode 7 
+This episode includes: Friendly Ghost, Vision Quest &amp; UD, Powers of Miss Katie and Update: Reincarnation.</desc>
     <category lang="en">Documentaries</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
