@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20231228213625 +0100" stop="20231228221455 +0100">
-    <title lang="en">Abstract</title>
-    <desc lang="en">Faction's fourth feature film exhibits pure creativity through a series of high-octane freeski sequences. (38 minutes)</desc>
-    <category lang="en">Sport, Freeskiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/w67ikgbwzwzaqvlr5kut/abstract-skiing-film" />
-  </programme>
   <programme channel="RedBullTV.at" start="20231228221455 +0100" stop="20231228225408 +0100">
     <title lang="en">Here, Hold My Kid</title>
     <desc lang="en">Two pro skiers, two new mums, one sponsorship: a film about the highs and lows of two women aiming to succeed. (39 minutes)</desc>
@@ -156,6 +150,12 @@
     <desc lang="en">The iconic Mostar bridge challenged the divers and spiced up the battle for the title on the penultimate stop. (52 minutes)</desc>
     <category lang="en">Sport, Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/18/eoyr4n97icwrgweaiv4p/gary-hunt" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20231229124534 +0100" stop="20231229132035 +0100">
+    <title lang="en">Flying Between Giants</title>
+    <desc lang="en">Paraglider pilots Tom de Dorlodot and Horacio Llorens flew past four of Pakistan's peaks in just one day. (33 minutes)</desc>
+    <category lang="en">Sport, Paragliding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/10/rdqy0acz8hiwoqgk0916/flying-between-giants-tom-de-dorlodot" />
   </programme>
 </tv>
 
