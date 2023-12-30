@@ -198,12 +198,6 @@ A young man is shot down while walking home and rumors swirl about who could hav
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d6/2f/d6ilnDhv_o.png" />
   </channel>
-  <programme channel="CBSNewsNewYork.us" start="20231230223000 +0000" stop="20231230233000 +0000">
-    <title lang="en">Latest News &amp; Headlines - Latest News &amp; Headlines</title>
-    <desc lang="en">Season 1, Top stories in New York.</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/637f24bcd81fcc0014ba94a5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsNewYork.us" start="20231230233000 +0000" stop="20231231000000 +0000">
     <title lang="en">Club Calvi Special - Club Calvi Special</title>
     <desc lang="en">Season 1, Celebrate the season with a look back at CBS New York Book Club's first year.</desc>
@@ -312,6 +306,12 @@ A young man is shot down while walking home and rumors swirl about who could hav
     <category lang="en">News and Information</category>
     <icon src="https://images.pluto.tv/series/6306836b3568a9001bbec30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="CBSNewsNewYork.us" start="20231231123000 +0000" stop="20231231130000 +0000">
+    <title lang="en">Snapshot New York Holiday Special - Snapshot New York Holiday Special</title>
+    <desc lang="en">Season 1, Celebrate the season with CBS New York's Steve Overmyer.</desc>
+    <category lang="en">News and Information</category>
+    <icon src="https://images.pluto.tv/series/6584a06f53180b0013424a81/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="CBSNewsLosAngeles.us">
     <display-name>CBS News Los Angeles</display-name>
     <url>Pluto TV Guide</url>
@@ -418,6 +418,12 @@ A young man is shot down while walking home and rumors swirl about who could hav
     <desc lang="en">Season 1, A look back at the most exciting and meaningful moments from the CBS News Los Angeles original stream show, "The Morning Wrap"; Kalyna Astrinos hosts.</desc>
     <category lang="en">News and Information</category>
     <icon src="https://images.pluto.tv/series/6585a4907295a60014436676/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="CBSNewsLosAngeles.us" start="20231231123000 +0000" stop="20231231130000 +0000">
+    <title lang="en">Latest Los Angeles News &amp; Headlines - Latest Los Angeles News &amp; Headlines</title>
+    <desc lang="en">Season 1, Top stories in Los Angeles.</desc>
+    <category lang="en">News and Information</category>
+    <icon src="https://images.pluto.tv/series/63fdc9d4d3b02d00136327be/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="StingrayNaturescape.stirr">
     <display-name>Stingray Naturescape</display-name>
@@ -712,13 +718,6 @@ Spock hijacks the Enterprise to return an injured Captain Pike to Talos IV.</des
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/ef/68/NL7FR1wZ_o.png" />
   </channel>
-  <programme channel="PlutoTVSci-Fi.us" start="20231230230000 +0000" stop="20231230233000 +0000">
-    <title lang="en">The Twilight Zone - And When the Sky Was Opened</title>
-    <desc lang="en">Season 1, Episode 11 
-Three astronauts have returned from this first space flight. Major Gart is hospitalized with a broken leg. The other two, Colonels Harrington and Forbes head for a bar. Harrington gets a strange feeling…</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="PlutoTVSci-Fi.us" start="20231230233000 +0000" stop="20231231000000 +0000">
     <title lang="en">The Twilight Zone - What You Need</title>
     <desc lang="en">Season 1, Episode 12 
@@ -794,13 +793,6 @@ When two Watchers end up dead by Kalas' hand, Joe realizes that Kalas is looking
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/5f/93/OSKkiju1_o.png" />
   </channel>
-  <programme channel="FailArmy.us" start="20231230225700 +0000" stop="20231230232800 +0000">
-    <title lang="en">World's Most Expensive Fails - Citizen Fail</title>
-    <desc lang="en">Season 2, Episode 11 
-A definitive collection of the most insanely expensive fails seen on the internet; Lambos get wrecked, houses destroyed, rockets explode, silos collapse; all of these fails cost a pretty penny.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/650ca0dcd193e8001b80552c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="FailArmy.us" start="20231230232800 +0000" stop="20231230235900 +0000">
     <title lang="en">World's Most Expensive Fails - World's Most Expensive Fails ----- Fantastic Fails</title>
     <desc lang="en">Season 2, Episode 12 
@@ -976,18 +968,18 @@ Highlights from each month on "Fail Army."</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/650ca0d8d193e8001b80503b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="FailArmy.us" start="20231231122900 +0000" stop="20231231130000 +0000">
+    <title lang="en">Best Fails of the Month - Best Fails of the Month ----- Ep. 6.4</title>
+    <desc lang="en">Season 6, Episode 4 
+The best of the worst for March '23.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0d8d193e8001b80503b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="AlwaysFunnyVideos.us">
     <display-name>Always Funny Videos</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/a5/2a/yMz2mukZ_o.png" />
   </channel>
-  <programme channel="AlwaysFunnyVideos.us" start="20231230230000 +0000" stop="20231230233000 +0000">
-    <title lang="en">Fail Center - Fail Center</title>
-    <desc lang="en">Season 3, Episode 39 
-Always Funny Videos is family-friendly comedy programming from the creators of America’s Funniest Home Videos. 24/7 Laughs delivered in hilarious comedy home videos that are funny for all ages!</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/64513aa8649e97001bd0f375/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="AlwaysFunnyVideos.us" start="20231230233000 +0000" stop="20231231000000 +0000">
     <title lang="en">Best of the Year Funny Video Countdown - Best of the Year Funny Video Countdown</title>
     <desc lang="en">Season 1, Episode 6 
@@ -1150,6 +1142,13 @@ We're counting down the biggest the biggest laughs and LOLs of the year. Hosted 
   <programme channel="AlwaysFunnyVideos.us" start="20231231120000 +0000" stop="20231231123000 +0000">
     <title lang="en">Ultimate New Year's Countdown - Ultimate New Year's Countdown</title>
     <desc lang="en">Season 1, Episode 3 
+We're counting down the biggest the biggest laughs and LOLs of the year. Hosted by Eric Artell.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/63ab9c31d576210013fdf5b1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="AlwaysFunnyVideos.us" start="20231231123000 +0000" stop="20231231130000 +0000">
+    <title lang="en">Ultimate New Year's Countdown - Ultimate New Year's Countdown</title>
+    <desc lang="en">Season 1, Episode 4 
 We're counting down the biggest the biggest laughs and LOLs of the year. Hosted by Eric Artell.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/63ab9c31d576210013fdf5b1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
@@ -1393,13 +1392,6 @@ Janeway and Paris join forces to defeat the evil Doctor Chaotica.</desc>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/2a/c4/j0wnCQ1X_o.jpg" />
   </channel>
-  <programme channel="UnsolvedMysteries.us" start="20231230220036 +0000" stop="20231230230036 +0000">
-    <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 7</title>
-    <desc lang="en">Season 9, Episode 7 
-This episode includes: Love on the Run &amp; UD, Georgetown Arson, Lottery Miracle and Lucky School.</desc>
-    <category lang="en">Documentaries</category>
-    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="UnsolvedMysteries.us" start="20231230230036 +0000" stop="20231231000036 +0000">
     <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 4</title>
     <desc lang="en">Season 1, Episode 4 
@@ -1488,6 +1480,13 @@ This episode includes: Fatima (Pts. 1, 2 &amp; 3), Log Cabin Fraud &amp; UD, UD:
     <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 15</title>
     <desc lang="en">Season 2, Episode 15 
 This episode includes: Wheat Fields, Hit and Run, Update: Sharon's Search and Novel Disappearance.</desc>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="UnsolvedMysteries.us" start="20231231120036 +0000" stop="20231231130036 +0000">
+    <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 7</title>
+    <desc lang="en">Season 11, Episode 7 
+This episode includes: Jesse James Hollywood &amp; UD, Rider Down &amp; UD, Bad Dad and Picture Kristen Gone.</desc>
     <category lang="en">Documentaries</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
@@ -1667,13 +1666,6 @@ A new test subject arrives on the Simulator of Love, and her crew watches BEYOND
     <url>Pluto TV Guide</url>
     <icon src="https://images.pluto.tv/channels/628e685ba3811100070551a8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </channel>
-  <programme channel="HallmarkMoviesAndMore.us" start="20231230200000 +0000" stop="20231230231500 +0000">
-    <title lang="en">A Tale of Two Cities - A Tale of Two Cities</title>
-    <desc lang="en">Season 1, Episode 1 
-Based on Charles Dickens' classic, two identical men (both played by Chris Sarandon) - one from England and one from France - fall for the same woman during the height of the French Revolution.</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://images.pluto.tv/series/62f5a77c946347001beefc53/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="HallmarkMoviesAndMore.us" start="20231230231500 +0000" stop="20231231004500 +0000">
     <title lang="en">Once Upon a Winter's Date - Once Upon a Winter's Date</title>
     <desc lang="en">Season 1, Episode 1 
@@ -1722,6 +1714,13 @@ A young girl goes to live with her father and stepmother in the Australian outba
 An 11 year old girl is left an orphan when her mother commits suicide and her abusive, alcoholic father drinks himself to death. Stars Jena Malone, Julie Harris and Debra Monk. From the Hallmark Hall of Fame Collection.</desc>
     <category lang="en">Drama</category>
     <icon src="https://images.pluto.tv/series/62d8a3a8ddb7ac0014534f0d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="HallmarkMoviesAndMore.us" start="20231231121500 +0000" stop="20231231141500 +0000">
+    <title lang="en">Anne Tyler's Saint Maybe - Anne Tyler's Saint Maybe</title>
+    <desc lang="en">Season 1, Episode 1 
+The story of a young man seeking forgiveness for his brother's death.  Stars Mary Louise Parker and Blythe Danner. From the Hallmark Hall of Fame Collection.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://images.pluto.tv/series/62c47f0079f0320014056523/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="Stargate.us">
     <display-name>Stargate</display-name>
