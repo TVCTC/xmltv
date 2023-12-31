@@ -7,13 +7,6 @@
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/85/7d/Wut6FGg9_o.png" />
   </channel>
-  <programme channel="Crime360.us" start="20231231221500 +0000" stop="20231231231500 +0000">
-    <title lang="en">The First 48 - Spellbound (#310)</title>
-    <desc lang="en">Season 21, Episode 48 
-In Atlanta, the life of a promising young college student takes a tragic turn.</desc>
-    <category lang="en">Reality</category>
-    <icon src="https://images.pluto.tv/series/56c7b4cf4d857c9b4d4b03a6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="Crime360.us" start="20231231231500 +0000" stop="20240101001500 +0000">
     <title lang="en">The First 48 - Schools Out (#450)</title>
     <desc lang="en">Season 21, Episode 49 
@@ -205,12 +198,6 @@ In the mid-to-late 1970s, Bundy, Gacy and BTK begin claiming victims, while Dahm
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d6/2f/d6ilnDhv_o.png" />
   </channel>
-  <programme channel="CBSNewsNewYork.us" start="20231231230000 +0000" stop="20231231233000 +0000">
-    <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
-    <desc lang="en">Season 1, .</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/63066e509bd9c6001b668575/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsNewYork.us" start="20231231233000 +0000" stop="20240101003000 +0000">
     <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
     <desc lang="en">Season 1, CBS News New York is hyper local news streaming 24/7... for free! It's the Tri-State area's place to get top stories, breaking news, weather, traffic and more. Check us out. We're always on.</desc>
@@ -407,6 +394,12 @@ In the mid-to-late 1970s, Bundy, Gacy and BTK begin claiming victims, while Dahm
     <desc lang="en">Season 1, A look back at the most exciting and meaningful moments from the CBS News Los Angeles original stream show, "The Morning Wrap"; Kalyna Astrinos hosts.</desc>
     <category lang="en">News and Information</category>
     <icon src="https://images.pluto.tv/series/6585a4907295a60014436676/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="CBSNewsLosAngeles.us" start="20240101123000 +0000" stop="20240101130000 +0000">
+    <title lang="en">SoCal Spotlight Special - SoCal Spotlight Special</title>
+    <desc lang="en">Season 1, Sheba Turk hosts this special featuring the best moments of SoCal Spotlight. We take viewers to several Southern California cities and share the best of what they have to offer.</desc>
+    <category lang="en">News and Information</category>
+    <icon src="https://images.pluto.tv/series/6584a07153180b0013424d65/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="StingrayNaturescape.stirr">
     <display-name>Stingray Naturescape</display-name>
@@ -620,6 +613,13 @@ Celebrity little people and twin wrestlers Jorge and Miguel have a larger-than-l
     <category lang="en">Reality</category>
     <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="PlutoTVTrueCrime.us" start="20240101123000 +0000" stop="20240101130000 +0000">
+    <title lang="en">Bizarre Murders - Body Double</title>
+    <desc lang="en">Season 1, Episode 21 
+A Michigan man is found burned to death in his own garage, and as the bizarre evidence piles up, investigators discover the body in the garage isn't his.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek.us">
     <display-name>Star Trek</display-name>
     <url>Pluto TV Guide</url>
@@ -728,13 +728,6 @@ Very alien visitors to our galaxy attempt to connect with human consciousness bu
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/ef/68/NL7FR1wZ_o.png" />
   </channel>
-  <programme channel="PlutoTVSci-Fi.us" start="20231231230000 +0000" stop="20231231233000 +0000">
-    <title lang="en">The Twilight Zone - The Big Tall Wish</title>
-    <desc lang="en">Season 1, Episode 27 
-An over-the-hill boxer gets a boost from one of his biggest fans - a little boy with an unwavering belief in magic.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="PlutoTVSci-Fi.us" start="20231231233000 +0000" stop="20240101000000 +0000">
     <title lang="en">The Twilight Zone - A Nice Place to Visit</title>
     <desc lang="en">Season 1, Episode 28 
@@ -798,18 +791,18 @@ Anne helps save the life of a young woman who turns out to be smuggling drugs fo
     <category lang="en">Classics</category>
     <icon src="https://images.pluto.tv/series/5d6edc6c895e82d1174d99e3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="PlutoTVSci-Fi.us" start="20240101123000 +0000" stop="20240101133000 +0000">
+    <title lang="en">Highlander: The Series - Mortal Sins</title>
+    <desc lang="en">Season 3, Episode 19 
+Duncan meets an old mortal friend from the days of the French Resistance, who harbors a dark and dangerous secret.</desc>
+    <category lang="en">Classics</category>
+    <icon src="https://images.pluto.tv/series/5d6edc6c895e82d1174d99e3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="FailArmy.us">
     <display-name>FailArmy</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/5f/93/OSKkiju1_o.png" />
   </channel>
-  <programme channel="FailArmy.us" start="20231231225400 +0000" stop="20231231232500 +0000">
-    <title lang="en">Best Fails of the Month - Best Fails of the Month; Ep. 6.1</title>
-    <desc lang="en">Season 6, Episode 1 
-The best of the worst for December 2022.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/650ca0d8d193e8001b80503b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="FailArmy.us" start="20231231232500 +0000" stop="20231231235600 +0000">
     <title lang="en">Best Fails of the Month - January '23</title>
     <desc lang="en">Season 6, Episode 1 
@@ -969,18 +962,18 @@ The best of the worst for August '23.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/650ca0d8d193e8001b80503b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="FailArmy.us" start="20240101121800 +0000" stop="20240101124900 +0000">
+    <title lang="en">Best Fails of the Month - Best Fails of the Month</title>
+    <desc lang="en">Season 6, Episode 10 
+The best of the worst for September '23.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0d8d193e8001b80503b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="AlwaysFunnyVideos.us">
     <display-name>Always Funny Videos</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/a5/2a/yMz2mukZ_o.png" />
   </channel>
-  <programme channel="AlwaysFunnyVideos.us" start="20231231230000 +0000" stop="20231231233000 +0000">
-    <title lang="en">Ultimate New Year's Countdown - Ultimate New Year's Countdown</title>
-    <desc lang="en">Season 1, Episode 9 
-We're counting down the biggest the biggest laughs and LOLs of the year. Hosted by Eric Artell.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/63ab9c31d576210013fdf5b1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="AlwaysFunnyVideos.us" start="20231231233000 +0000" stop="20240101000000 +0000">
     <title lang="en">Ultimate New Year's Countdown - Ultimate New Year's Countdown</title>
     <desc lang="en">Season 1, Episode 10 
@@ -1131,18 +1124,18 @@ We're counting down the biggest the biggest laughs and LOLs of the year. Hosted 
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/63ab9c31d576210013fdf5b1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="AlwaysFunnyVideos.us" start="20240101123000 +0000" stop="20240101130000 +0000">
+    <title lang="en">Ultimate New Year's Countdown - Ultimate New Year's Countdown</title>
+    <desc lang="en">Season 1, Episode 1 
+We're counting down the biggest the biggest laughs and LOLs of the year. Hosted by Eric Artell.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/63ab9c31d576210013fdf5b1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek2.us">
     <display-name>Star Trek 2</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/27/e4/fXrWe4Dd_o.jpg" />
   </channel>
-  <programme channel="StarTrek2.us" start="20231231222400 +0000" stop="20231231230932 +0000">
-    <title lang="en">Star Trek: The Next Generation (Embed) - HOME SOIL</title>
-    <desc lang="en">Season 1, Episode 117 
-Picard finds himself facing a strenuous test of his loyalty to Starfleet, one which the other members of the crew are struggling to cope with, whilst Wesley faces an equally challenging entrance exam at Starfleet Academy.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="StarTrek2.us" start="20231231230932 +0000" stop="20231231235501 +0000">
     <title lang="en">Star Trek: The Next Generation (Embed) - EVOLUTION*</title>
     <desc lang="en">Season 3, Episode 150 
@@ -1262,6 +1255,13 @@ The crew of the Enterprise enters into orbit around the home planet of their for
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="StarTrek2.us" start="20240101120300 +0000" stop="20240101124832 +0000">
+    <title lang="en">Star Trek: The Next Generation (Embed) - HOME SOIL</title>
+    <desc lang="en">Season 1, Episode 117 
+Picard finds himself facing a strenuous test of his loyalty to Starfleet, one which the other members of the crew are struggling to cope with, whilst Wesley faces an equally challenging entrance exam at Starfleet Academy.</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="MoreStarTrek.us">
     <display-name>More Star Trek</display-name>
     <url>Pluto TV Guide</url>
@@ -1370,13 +1370,6 @@ An aphasia-like virus planted in DS9's food replicator system by the Bajoran und
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/2a/c4/j0wnCQ1X_o.jpg" />
   </channel>
-  <programme channel="UnsolvedMysteries.us" start="20231231220036 +0000" stop="20231231230036 +0000">
-    <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 11</title>
-    <desc lang="en">Season 11, Episode 11 
-This episode includes: The Other Intern &amp; UD, Artist for the Persecution, Waag, the Dog &amp; UD and Patti's Little Girls &amp; UD.</desc>
-    <category lang="en">Documentaries</category>
-    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="UnsolvedMysteries.us" start="20231231230036 +0000" stop="20240101000036 +0000">
     <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 11</title>
     <desc lang="en">Season 6, Episode 11 
@@ -1465,6 +1458,13 @@ This episode includes: After Death Visits, Father Solanus Casey, Blood Relative 
     <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 1</title>
     <desc lang="en">Season 8, Episode 1 
 This episode includes: Brandon Lee, Missing Anchorwoman, First Love, Second Chance &amp; UD, Killer Castro and Gulf P.O.W. Dream.</desc>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="UnsolvedMysteries.us" start="20240101120036 +0000" stop="20240101130036 +0000">
+    <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 2</title>
+    <desc lang="en">Season 3, Episode 2 
+This episode includes: Bermuda Triangle, Prison Mom &amp; UD, Heck He's Gone &amp; UD and Scare Tactics.</desc>
     <category lang="en">Documentaries</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
