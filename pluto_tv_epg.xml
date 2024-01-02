@@ -110,12 +110,6 @@ When a Tulsa man is gunned down at the wheel of his car detectives turn to a pas
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d1/35/I5qwoZbg_o.png" />
   </channel>
-  <programme channel="CBSNewsMiami.us" start="20240102230000 +0000" stop="20240102233000 +0000">
-    <title lang="en">CBS News Miami at 6PM - CBS News Miami at 6PM</title>
-    <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/650d114d3e6938001ae1d0b8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsMiami.us" start="20240102233000 +0000" stop="20240103000000 +0000">
     <title lang="en">CBS News Miami 6PM - CBS News Miami 6PM</title>
     <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
@@ -217,12 +211,6 @@ When a Tulsa man is gunned down at the wheel of his car detectives turn to a pas
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d6/2f/d6ilnDhv_o.png" />
   </channel>
-  <programme channel="CBSNewsNewYork.us" start="20240102230000 +0000" stop="20240102233000 +0000">
-    <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
-    <desc lang="en">Season 1, .</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/63066e509bd9c6001b668575/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsNewYork.us" start="20240102233000 +0000" stop="20240103000000 +0000">
     <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
     <desc lang="en">Season 1, .</desc>
@@ -644,6 +632,13 @@ A wannabe serial killer ropes in his first unsuspecting victim. But it turns out
     <category lang="en">Reality</category>
     <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="PlutoTVTrueCrime.us" start="20240103123000 +0000" stop="20240103130000 +0000">
+    <title lang="en">Bizarre Murders - Sex, Lies &amp; Smoothies</title>
+    <desc lang="en">Season 1, Episode 23 
+A rich Canadian expat in Dubai reports that her husband is missing. And detectives soon find his decomposing body in a box in the building's utility room.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek.us">
     <display-name>Star Trek</display-name>
     <url>Pluto TV Guide</url>
@@ -752,13 +747,6 @@ While on a mission to a planet called Haven, Counselor Troi meets her husband to
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/ef/68/NL7FR1wZ_o.png" />
   </channel>
-  <programme channel="PlutoTVSci-Fi.us" start="20240102230000 +0000" stop="20240102233000 +0000">
-    <title lang="en">The Twilight Zone - 100 Yards over the Rim</title>
-    <desc lang="en">Season 2, Episode 23 
-A pioneer from a wagon train in 1847 sets off to find something for his ill son and stumbles into present-day New Mexico.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="PlutoTVSci-Fi.us" start="20240102233000 +0000" stop="20240103000000 +0000">
     <title lang="en">The Twilight Zone - The Rip Van Winkle Caper</title>
     <desc lang="en">Season 2, Episode 24 
@@ -834,12 +822,6 @@ Richie finds Mikey, a mentally handicapped Immortal, wandering around a rural st
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/5f/93/OSKkiju1_o.png" />
   </channel>
-  <programme channel="FailArmy.us" start="20240102223100 +0000" stop="20240102230300 +0000">
-    <title lang="en">FailFactory - A Series of Failure Events</title>
-    <desc lang="en">Season 1, Try as they might, people wiping out is inevitable.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/650ca0d9d193e8001b805097/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="FailArmy.us" start="20240102230300 +0000" stop="20240102233500 +0000">
     <title lang="en">FailArmy Now - Vegan Dance Party</title>
     <desc lang="en">Season 1, Episode 1 
@@ -1015,18 +997,18 @@ Even the home isn't safe from fails.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/650ca0dcd193e8001b80552c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="FailArmy.us" start="20240103120900 +0000" stop="20240103124100 +0000">
+    <title lang="en">FailArmy Now - Tooth Wisdom</title>
+    <desc lang="en">Season 1, Episode 3 
+Dental procedures; beach bods; hard hats.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0dad193e8001b8052c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="AlwaysFunnyVideos.us">
     <display-name>Always Funny Videos</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/a5/2a/yMz2mukZ_o.png" />
   </channel>
-  <programme channel="AlwaysFunnyVideos.us" start="20240102230000 +0000" stop="20240102233000 +0000">
-    <title lang="en">Hot 100 Countdown - Episode 10</title>
-    <desc lang="en">Season 2, Episode 10 
-A countdown to see which video gets the Platinum Video of the Week.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/6386c776d9c17f001455c512/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="AlwaysFunnyVideos.us" start="20240102233000 +0000" stop="20240103000000 +0000">
     <title lang="en">Hot 100 Countdown - Episode 1</title>
     <desc lang="en">Season 2, Episode 1 
@@ -1206,6 +1188,13 @@ Counting down the funniest videos and choosing favorites.</desc>
     <title lang="en">Funny Videos Now Top 10 Countdown - Episode 6</title>
     <desc lang="en">Season 1, Episode 6 
 There's a time and place for funny videos, and time is now. This is the Funny Videos Now Top 10 Countdown.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/6386c778d9c17f001455c5e9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="AlwaysFunnyVideos.us" start="20240103123000 +0000" stop="20240103130000 +0000">
+    <title lang="en">Funny Videos Now Top 10 Countdown - Episode 4</title>
+    <desc lang="en">Season 1, Episode 4 
+There's a time and place for funny videos and that time is now.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/6386c778d9c17f001455c5e9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
@@ -1448,13 +1437,6 @@ A trapped crew fights to save the station from self-destruction when an automate
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/2a/c4/j0wnCQ1X_o.jpg" />
   </channel>
-  <programme channel="UnsolvedMysteries.us" start="20240102220036 +0000" stop="20240102231536 +0000">
-    <title lang="en">Unsolved Mysteries: Behind the Legacy - Unsolved Mysteries: Behind the Legacy</title>
-    <desc lang="en">Season 1, Episode 1 
-'Unsolved Mysteries: Behind the Legacy' is an hour-long tribute to the iconic series that shaped future generations of true crime TV, featuring interviews with the creators and exclusive behind-the-scenes footage.</desc>
-    <category lang="en">Reality</category>
-    <icon src="https://images.pluto.tv/series/6512075391ee7c001a02986b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="UnsolvedMysteries.us" start="20240102231536 +0000" stop="20240103001536 +0000">
     <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 5</title>
     <desc lang="en">Season 2, Episode 5 
@@ -1536,6 +1518,13 @@ This episode: Bigfoot II, Wandering Fishman &amp; UD, UD: Fatal Obsession, Threa
     <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 15</title>
     <desc lang="en">Season 8, Episode 15 
 This episode includes: Massachusetts Marine, UD: Taunting Bank Robber, Packer Church Fire , Ms. Miracle and Train Wreck Amnesia &amp; UD.</desc>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="UnsolvedMysteries.us" start="20240103121536 +0000" stop="20240103131536 +0000">
+    <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 24</title>
+    <desc lang="en">Season 4, Episode 24 
+This episode includes: Broken Hearts &amp; UD, Burning Car &amp; UD, Armored Car Killings &amp; UD and Amnesia Victim.</desc>
     <category lang="en">Documentaries</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
@@ -1722,13 +1711,6 @@ The guys face off against Hercules once again as the strong man fights evil Quee
     <url>Pluto TV Guide</url>
     <icon src="https://images.pluto.tv/channels/628e685ba3811100070551a8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </channel>
-  <programme channel="HallmarkMoviesAndMore.us" start="20240102214500 +0000" stop="20240102233000 +0000">
-    <title lang="en">Debbie Macomber's Mr. Miracle - Debbie Macomber's Mr. Miracle</title>
-    <desc lang="en">Season 1, Episode 1 
-Heaven and earth collide when angel-in-training Harry Mills, A.K.A "Mr. Miracle" is sent down to a community college during Christmas for his first assignment: to help an insecure student realize her life purpose.</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://images.pluto.tv/series/62d82ef0521f4a001365afff/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="HallmarkMoviesAndMore.us" start="20240102233000 +0000" stop="20240103013000 +0000">
     <title lang="en">A Dog Named Christmas - A Dog Named Christmas</title>
     <desc lang="en">Season 1, Episode 1 
