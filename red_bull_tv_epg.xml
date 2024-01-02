@@ -7,18 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240102204103 +0100" stop="20240102220018 +0100">
-    <title lang="en">Highlight Show Rampage 2023</title>
-    <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.   (78 minutes)</desc>
-    <category lang="en">Sport, MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/20/jgwfqrsesqonxiy5n8lk/carson-storch-tom-van-steenbergen" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240102220018 +0100" stop="20240102223022 +0100">
-    <title lang="en">Schnitzel Time – An Austrian Dream</title>
-    <desc lang="en">Niels Schack’s latest snowboard film showcases a diverse Austrian-only line-up of Burton team riders. (30 minutes)</desc>
-    <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/30/s8irmmqw5mam9xmjigev/schnitzel-time-an-austrian-dream-header-image" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240102223022 +0100" stop="20240102230858 +0100">
     <title lang="en">Cake</title>
     <desc lang="en">Part of the Layers documentary project, Cake is dedicated to showcasing the current level of fun progression. (38 minutes)</desc>
@@ -156,6 +144,18 @@
     <desc lang="en">Local flavours rule the day, as teams dress up homemade flying machines in honour of food, festivals and more. (26 minutes)</desc>
     <category lang="en">Sport, Red Bull Flugtag</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1NPQ4G1J52111/FO-1NPQ4G1J52111-featureMedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240103113952 +0100" stop="20240103120647 +0100">
+    <title lang="en">Varna, Bulgaria</title>
+    <desc lang="en">A crowd of 20,000 welcomes teams of amateur aviators who will attempt to fly on the coast of the Black Sea. (26 minutes)</desc>
+    <category lang="en">Sport, Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJBFUKH2111/FO-1RFJBFUKH2111-featureMedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240103120647 +0100" stop="20240103125113 +0100">
+    <title lang="en">Nexus</title>
+    <desc lang="en">Follow five distinct groups of female skiers and learn how the mountains offer refuge and shape friendships. (43 minutes)</desc>
+    <category lang="en">Sport, Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/13/owype0k7l1tob5uh9pik/nexus-artwork" />
   </programme>
 </tv>
 
