@@ -7,18 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240102051653 +0100" stop="20240102060051 +0100">
-    <title lang="en">Tokyo, Japan</title>
-    <desc lang="en">Creativity reaches new heights at the 2019 Red Bull Soapbox Race in Tokyo, Japan. (44 minutes)</desc>
-    <category lang="en">Sport, Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/29/jrm18vxvcstqeiizw6rp/red-bull-soapbox-race-s2019-e5-tokyo-art" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240102060051 +0100" stop="20240102064514 +0100">
-    <title lang="en">Brussels, Belgium</title>
-    <desc lang="en">Fearless teams race through obstacles in their engineless machines, but who will win in Brussels? (44 minutes)</desc>
-    <category lang="en">Sport, Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/do7fajz6prkpoagayfnq/red-bull-soapbox-race-brussels-2022" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240102064514 +0100" stop="20240102070223 +0100">
     <title lang="en">Reset</title>
     <desc lang="en">Kai Lenny's balancing act looks different in 2023, and his home life and performance goals are ready to reset. (17 minutes)</desc>
@@ -156,6 +144,18 @@
     <desc lang="en">The judges are ready to be dazzled by creativity and fast descents in this first event – in Iowa, USA. (44 minutes)</desc>
     <category lang="en">Sport, Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/dnfzchjz25jg82sgke3k/team-cyclone-soap-box-red-bull-soapbox-race-2022" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240102195224 +0100" stop="20240102204103 +0100">
+    <title lang="en">Red Bull Imagination 4.0 recap</title>
+    <desc lang="en">Watch Tyler Bereman and the world’s top freeride MX riders best face off at Red Bull Imagination 2023. (48 minutes)</desc>
+    <category lang="en">Sport, FMX</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/6/ycjcfuf3zupk0wzbdvy0/red-bull-imagination" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240102204103 +0100" stop="20240102220018 +0100">
+    <title lang="en">Highlight Show Rampage 2023</title>
+    <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.   (78 minutes)</desc>
+    <category lang="en">Sport, MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/20/jgwfqrsesqonxiy5n8lk/carson-storch-tom-van-steenbergen" />
   </programme>
 </tv>
 
