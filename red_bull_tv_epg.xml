@@ -7,18 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240106093452 +0100" stop="20240106101846 +0100">
-    <title lang="en">Iowa, USA</title>
-    <desc lang="en">The judges are ready to be dazzled by creativity and fast descents in this first event – in Iowa, USA. (44 minutes)</desc>
-    <category lang="en">Sport, Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/dnfzchjz25jg82sgke3k/team-cyclone-soap-box-red-bull-soapbox-race-2022" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240106101846 +0100" stop="20240106104758 +0100">
-    <title lang="en">Racing against Hard Enduro athlete Wade Young</title>
-    <desc lang="en">Despite the odds not being in his favour, Jason challenges Wade Young to a race up the perilous Sani Pass. (29 minutes)</desc>
-    <category lang="en">Sport, Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/18/o5jz9gunmpbeje4otufy/wade-young-image" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240106104758 +0100" stop="20240106110032 +0100">
     <title lang="en">Against the tide: Alex Maloney and Molly Meech</title>
     <desc lang="en">Alex Maloney and Molly Meech set out to achieve their goal to qualify for a spot in the year's biggest event. (12 minutes)</desc>
@@ -156,6 +144,18 @@
     <desc lang="en">Elite power duo Babsi and Jacopo attempt a coveted free ascent of the Nameless Tower in Pakistan. (24 minutes)</desc>
     <category lang="en">Sport, Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/zmpo02mtlydgmpfzy7no/reel-rock-s9-e2-babsi-zangerl-jacopo-larcher" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240106231533 +0100" stop="20240106234129 +0100">
+    <title lang="en">Burning the flame part 2</title>
+    <desc lang="en">Babsi Zangerl and Jacopo Larcher’s two-year big wall climbing quest comes down to one short weather window. (26 minutes)</desc>
+    <category lang="en">Sport, Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/gfhlivdykyqwj1wobfmq/reel-rock-s9-e3-jacopo-larcher" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240106234129 +0100" stop="20240107000809 +0100">
+    <title lang="en">Portland, USA</title>
+    <desc lang="en">The influence of past winners is evident as a new generation of homemade flying machines takes to the skies. (26 minutes)</desc>
+    <category lang="en">Sport, Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1NPQ21XCS2111/FO-1NPQ21XCS2111-featureMedia" />
   </programme>
 </tv>
 
