@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240111012211 +0100" stop="20240111024638 +0100">
-    <title lang="en">The Engine Inside</title>
-    <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world. (84 minutes)</desc>
-    <category lang="en">Sport, Cycling</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240111024638 +0100" stop="20240111030706 +0100">
     <title lang="en">Noah</title>
     <desc lang="en">Discover the art of surfing through the world of Noah Beschen, a pro surfer from the North Shore of Oahu. (20 minutes)</desc>
@@ -156,6 +150,12 @@
     <desc lang="en">Koa Smith goes on a South African surf adventure, where waves (or lack thereof) lead to profound discoveries. (33 minutes)</desc>
     <category lang="en">Sport, Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/30/ltrm5vmnhrsj3ze9cdn3/koa-smith-the-source" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240111154557 +0100" stop="20240111162950 +0100">
+    <title lang="en">Red Bull Soapbox Race</title>
+    <desc lang="en">The judges are ready to be dazzled by creativity and fast descents in this first event – in Iowa, USA. (44 minutes)</desc>
+    <category lang="en">Sport, Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/9/qku7jnbucbzirwkrxxbp/space-travelers" />
   </programme>
 </tv>
 
