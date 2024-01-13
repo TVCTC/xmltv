@@ -343,6 +343,12 @@ Fifteen-year-old Juanita Payne was killed outside a party by a stray round from 
     <category lang="en">News and Information</category>
     <icon src="https://images.pluto.tv/series/634cef84f030950013a23220/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="CBSNewsNewYork.us" start="20240114003000 +0000" stop="20240114010000 +0000">
+    <title lang="en">CBS2 News 7pm - CBS2 News 7pm</title>
+    <desc lang="en">Season 1, CBS News New York is hyper local news streaming 24/7... for free! It's the Tri-State area's place to get top stories, breaking news, weather, traffic and more. Check us out. We're always on.</desc>
+    <category lang="en">News and Information</category>
+    <icon src="https://images.pluto.tv/series/634cef84f030950013a23220/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="CBSNewsLosAngeles.us">
     <display-name>CBS News Los Angeles</display-name>
     <url>Pluto TV Guide</url>
@@ -437,6 +443,12 @@ Fifteen-year-old Juanita Payne was killed outside a party by a stray round from 
     <desc lang="en">Season 1, Suzanne Marques takes a look at the week in entertainment, including interviews with favorite celebs, original stories and on-location shoots.</desc>
     <category lang="en">News and Information</category>
     <icon src="https://images.pluto.tv/series/63871bb12da7ac00139778dc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="CBSNewsLosAngeles.us" start="20240114003000 +0000" stop="20240114010000 +0000">
+    <title lang="en">Latest Los Angeles News &amp; Headlines - Latest Los Angeles News &amp; Headlines</title>
+    <desc lang="en">Season 1, Top stories in Los Angeles.</desc>
+    <category lang="en">News and Information</category>
+    <icon src="https://images.pluto.tv/series/63fdc9d4d3b02d00136327be/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="StingrayNaturescape.stirr">
     <display-name>Stingray Naturescape</display-name>
@@ -780,13 +792,6 @@ A transporter malfunction causes Captain Kirk to split into his "good" and "evil
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/ef/68/NL7FR1wZ_o.png" />
   </channel>
-  <programme channel="PlutoTVSci-Fi.us" start="20240113103000 +0000" stop="20240113113000 +0000">
-    <title lang="en">Highlander: The Series - Dramatic License</title>
-    <desc lang="en">Season 5, Episode 5 
-Carolyn Marsh's latest best-seller is a hot and sexy romance novel featuring a smoky-eyed swashbuckling Highland hero named Duncan MacLeod.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5d6edc6c895e82d1174d99e3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="PlutoTVSci-Fi.us" start="20240113113000 +0000" stop="20240113123000 +0000">
     <title lang="en">Highlander: The Series - Money No Object</title>
     <desc lang="en">Season 5, Episode 6 
@@ -934,18 +939,18 @@ Gaining telepathic abilities when his coin lands on its edge bank clerk Hector B
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="PlutoTVSci-Fi.us" start="20240114003000 +0000" stop="20240114033000 +0000">
+    <title lang="en">The Island - The Island</title>
+    <desc lang="en">Season 1, Episode 1 
+A man goes on the run after he discovers that he is actually a "harvested being", and is being kept along with others in a utopian facility.</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/61e9ea6c6f81a5001bd28639/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="FailArmy.us">
     <display-name>FailArmy</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/5f/93/OSKkiju1_o.png" />
   </channel>
-  <programme channel="FailArmy.us" start="20240113104600 +0000" stop="20240113111800 +0000">
-    <title lang="en">Best Fails of the Month - Episode 8</title>
-    <desc lang="en">Season 4, Episode 8 
-The best of the worst for August 2021.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/650ca0d8d193e8001b80503b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="FailArmy.us" start="20240113111800 +0000" stop="20240113115000 +0000">
     <title lang="en">Best Fails of the Month - Episode 9</title>
     <desc lang="en">Season 4, Episode 9 
@@ -1121,17 +1126,18 @@ Non-stop FailArmy action, with your daily dose of fails and hilarious videos.</d
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/650ca0e5d193e8001b8064ca/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="FailArmy.us" start="20240114001600 +0000" stop="20240114004700 +0000">
+    <title lang="en">FAILARMY: 50 VS. 50 - Bad Habits vs Resolutions</title>
+    <desc lang="en">Season 1, Episode 9 
+A battle for the ages to see where the bigger fails lie; in our bad habits or our well-intended resolutions.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0e5d193e8001b8064ca/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="AlwaysFunnyVideos.us">
     <display-name>Always Funny Videos</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/a5/2a/yMz2mukZ_o.png" />
   </channel>
-  <programme channel="AlwaysFunnyVideos.us" start="20240113110000 +0000" stop="20240113113000 +0000">
-    <title lang="en">Lacy Laughs - Lacy Laughs</title>
-    <desc lang="en">Season 1, Always Funny Videos is family-friendly comedy programming from the creators of America’s Funniest Home Videos. 24/7 Laughs delivered in hilarious comedy home videos that are funny for all ages!</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/65996afc0687dc001364fd8a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="AlwaysFunnyVideos.us" start="20240113113000 +0000" stop="20240113120000 +0000">
     <title lang="en">Lacy Laughs - Lacy Laughs</title>
     <desc lang="en">Season 1, Always Funny Videos is family-friendly comedy programming from the creators of America’s Funniest Home Videos. 24/7 Laughs delivered in hilarious comedy home videos that are funny for all ages!</desc>
@@ -1293,18 +1299,17 @@ Featuring clips of the day and comedians who always have something funny to say.
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/65996afc0687dc001364fd8a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="AlwaysFunnyVideos.us" start="20240114003000 +0000" stop="20240114010000 +0000">
+    <title lang="en">Lacy Laughs - Lacy Laughs</title>
+    <desc lang="en">Season 1, Always Funny Videos is family-friendly comedy programming from the creators of America’s Funniest Home Videos. 24/7 Laughs delivered in hilarious comedy home videos that are funny for all ages!</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/65996afc0687dc001364fd8a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek2.us">
     <display-name>Star Trek 2</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/27/e4/fXrWe4Dd_o.jpg" />
   </channel>
-  <programme channel="StarTrek2.us" start="20240113104200 +0000" stop="20240113112732 +0000">
-    <title lang="en">Star Trek: The Next Generation (Embed) - HOME SOIL</title>
-    <desc lang="en">Season 1, Episode 117 
-Picard finds himself facing a strenuous test of his loyalty to Starfleet, one which the other members of the crew are struggling to cope with, whilst Wesley faces an equally challenging entrance exam at Starfleet Academy.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="StarTrek2.us" start="20240113112732 +0000" stop="20240113121301 +0000">
     <title lang="en">Star Trek: The Next Generation (Embed) - EVOLUTION*</title>
     <desc lang="en">Season 3, Episode 150 
@@ -1421,6 +1426,13 @@ The Enterprise is carrying an eminent scientist, Dr. Paul Stubbs, to the site of
     <title lang="en">Star Trek: The Next Generation (Embed) - LEGACY</title>
     <desc lang="en">Season 4, Episode 180 
 The crew of the Enterprise enters into orbit around the home planet of their former crew-mate, Tasha Yar, where they encounter her sister.</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="StarTrek2.us" start="20240114002100 +0000" stop="20240114010632 +0000">
+    <title lang="en">Star Trek: The Next Generation (Embed) - HOME SOIL</title>
+    <desc lang="en">Season 1, Episode 117 
+Picard finds himself facing a strenuous test of his loyalty to Starfleet, one which the other members of the crew are struggling to cope with, whilst Wesley faces an equally challenging entrance exam at Starfleet Academy.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
