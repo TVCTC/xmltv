@@ -7,24 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240115224138 +0100" stop="20240115230538 +0100">
-    <title lang="en">Tahiti</title>
-    <desc lang="en">Michel Bourez and Kauli Vaast take you on a tour of beautiful islands of Tahiti.  (24 minutes)</desc>
-    <category lang="en">Sport, Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/uywqkknj6cylyanrdz1n/kauli-vaast-no-contest-s2-e3-tahiti" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240115230538 +0100" stop="20240115235417 +0100">
-    <title lang="en">Red Bull Imagination 4.0 recap</title>
-    <desc lang="en">Watch Tyler Bereman and the world’s top freeride MX riders best face off at Red Bull Imagination 2023. (48 minutes)</desc>
-    <category lang="en">Sport, FMX</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/6/ycjcfuf3zupk0wzbdvy0/red-bull-imagination" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240115235417 +0100" stop="20240116011331 +0100">
-    <title lang="en">Highlight Show Rampage 2023</title>
-    <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.   (78 minutes)</desc>
-    <category lang="en">Sport, MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/20/jgwfqrsesqonxiy5n8lk/carson-storch-tom-van-steenbergen" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240116011331 +0100" stop="20240116025245 +0100">
     <title lang="en">Valley Uprising</title>
     <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite. (99 minutes)</desc>
@@ -156,6 +138,24 @@
     <desc lang="en">A crowd of 20,000 welcomes teams of amateur aviators who will attempt to fly on the coast of the Black Sea. (26 minutes)</desc>
     <category lang="en">Sport, Red Bull Flugtag</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJBFUKH2111/FO-1RFJBFUKH2111-featureMedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240116184608 +0100" stop="20240116191233 +0100">
+    <title lang="en">Zurich, Switzerland</title>
+    <desc lang="en">Fifty teams fly homemade flying craft around (and in!) Lake Zurich, Switzerland. (26 minutes)</desc>
+    <category lang="en">Sport, Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJQX8DH2111/FO-1RFJQX8DH2111-featureMedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240116191233 +0100" stop="20240116193703 +0100">
+    <title lang="en">South Africa</title>
+    <desc lang="en">Let Ashton Goggans be your tour guide along South Africa’s wave-rich coastline from Durban to Cape Town. (25 minutes)</desc>
+    <category lang="en">Sport, Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/zzvtv9xuihj5vehbuyk4/crew-no-contest-s2-e4-south-africa" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240116193703 +0100" stop="20240116195933 +0100">
+    <title lang="en">Morocco</title>
+    <desc lang="en">Ashton Goggans guides you through Morocco to discover why it's one of surfing’s fastest growing hotspots. (23 minutes)</desc>
+    <category lang="en">Sport, Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/qkw1zzldvoa8eczq26nq/alan-van-gysen-no-contest-s2-e2-morocco" />
   </programme>
 </tv>
 
