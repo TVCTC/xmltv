@@ -131,12 +131,6 @@ Yonkers first responders Alex and Jamal face unexpected challenges when they res
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d1/35/I5qwoZbg_o.png" />
   </channel>
-  <programme channel="CBSNewsMiami.us" start="20240117230000 +0000" stop="20240117233000 +0000">
-    <title lang="en">CBS News Miami at 6PM - CBS News Miami at 6PM</title>
-    <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/650d114d3e6938001ae1d0b8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsMiami.us" start="20240117233000 +0000" stop="20240118000000 +0000">
     <title lang="en">CBS News Miami 6PM - CBS News Miami 6PM</title>
     <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
@@ -238,12 +232,6 @@ Yonkers first responders Alex and Jamal face unexpected challenges when they res
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d6/2f/d6ilnDhv_o.png" />
   </channel>
-  <programme channel="CBSNewsNewYork.us" start="20240117230000 +0000" stop="20240117233000 +0000">
-    <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
-    <desc lang="en">Season 1, .</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/63066e509bd9c6001b668575/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsNewYork.us" start="20240117233000 +0000" stop="20240118000000 +0000">
     <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
     <desc lang="en">Season 1, .</desc>
@@ -669,6 +657,13 @@ A privileged prep school kid will do anything to live on easy street, and when h
     <category lang="en">Reality</category>
     <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="PlutoTVTrueCrime.us" start="20240118123000 +0000" stop="20240118130000 +0000">
+    <title lang="en">Bizarre Murders - Welcome Home</title>
+    <desc lang="en">Season 1, Episode 3 
+A young teen disappears from a small American town. Then several years later, he turns up, in Europe. But is it really him? And if not, what happened to the young teen?</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek.us">
     <display-name>Star Trek</display-name>
     <url>Pluto TV Guide</url>
@@ -777,13 +772,6 @@ Riker has to quit his birthday party during a so-far uneventful patrol voyage at
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/ef/68/NL7FR1wZ_o.png" />
   </channel>
-  <programme channel="PlutoTVSci-Fi.us" start="20240117230000 +0000" stop="20240117233000 +0000">
-    <title lang="en">The Twilight Zone - The Whole Truth</title>
-    <desc lang="en">Season 2, Episode 14 
-A used car salesman buys a car that dooms him to tell only the truth.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="PlutoTVSci-Fi.us" start="20240117233000 +0000" stop="20240118000000 +0000">
     <title lang="en">The Twilight Zone - The Invaders</title>
     <desc lang="en">Season 2, Episode 15 
@@ -859,13 +847,6 @@ One by one, Kronos is putting the Four Horsemen back together.</desc>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/5f/93/OSKkiju1_o.png" />
   </channel>
-  <programme channel="FailArmy.us" start="20240117225700 +0000" stop="20240117232800 +0000">
-    <title lang="en">FailArmy Now - MetaFails</title>
-    <desc lang="en">Season 3, Episode 5 
-What luck, luxury and chilies have in common.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/650ca0dad193e8001b8052c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="FailArmy.us" start="20240117232800 +0000" stop="20240117235900 +0000">
     <title lang="en">FailArmy Now - Cringe Fest</title>
     <desc lang="en">Season 3, Episode 6 
@@ -1041,18 +1022,18 @@ This one should go without saying, but when cars catch on fire, it costs money.<
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/650ca0dcd193e8001b80552c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="FailArmy.us" start="20240118121900 +0000" stop="20240118125000 +0000">
+    <title lang="en">FailArmy Now - In the Spirit of Fails</title>
+    <desc lang="en">Season 3, Episode 7 
+Parks, running and shoes.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0dad193e8001b8052c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="AlwaysFunnyVideos.us">
     <display-name>Always Funny Videos</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/a5/2a/yMz2mukZ_o.png" />
   </channel>
-  <programme channel="AlwaysFunnyVideos.us" start="20240117230000 +0000" stop="20240117233000 +0000">
-    <title lang="en">Prank Video Showdown - Prank Video Showdown</title>
-    <desc lang="en">Season 1, Episode 9 
-The funniest jumps, scares, and "who cares" moments; clips are put head-to-head for the title of "Ultimate Prank of the Day."</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/6386c776d9c17f001455c536/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="AlwaysFunnyVideos.us" start="20240117233000 +0000" stop="20240118000000 +0000">
     <title lang="en">Prank Video Showdown - Episode 8</title>
     <desc lang="en">Season 1, Episode 8 
@@ -1232,18 +1213,18 @@ Videos that showcase the home disasters.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/6386c77bd9c17f001455c691/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="AlwaysFunnyVideos.us" start="20240118123000 +0000" stop="20240118130000 +0000">
+    <title lang="en">Home Disaster Zone - Home Disaster Zone</title>
+    <desc lang="en">Season 2, Episode 2 
+Videos that showcase the home disasters.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/6386c77bd9c17f001455c691/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek2.us">
     <display-name>Star Trek 2</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/27/e4/fXrWe4Dd_o.jpg" />
   </channel>
-  <programme channel="StarTrek2.us" start="20240117222302 +0000" stop="20240117230831 +0000">
-    <title lang="en">Star Trek: The Next Generation (Embed) - EVOLUTION*</title>
-    <desc lang="en">Season 3, Episode 150 
-The Enterprise is carrying an eminent scientist, Dr. Paul Stubbs, to the site of a binary star where they are expecting a massive stellar explosion to occur in a few hours.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="StarTrek2.us" start="20240117230831 +0000" stop="20240117235400 +0000">
     <title lang="en">Star Trek: The Next Generation (Embed) - LEGACY</title>
     <desc lang="en">Season 4, Episode 180 
@@ -1363,6 +1344,13 @@ Picard finds himself facing a strenuous test of his loyalty to Starfleet, one wh
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="StarTrek2.us" start="20240118120202 +0000" stop="20240118124731 +0000">
+    <title lang="en">Star Trek: The Next Generation (Embed) - EVOLUTION*</title>
+    <desc lang="en">Season 3, Episode 150 
+The Enterprise is carrying an eminent scientist, Dr. Paul Stubbs, to the site of a binary star where they are expecting a massive stellar explosion to occur in a few hours.</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="MoreStarTrek.us">
     <display-name>More Star Trek</display-name>
     <url>Pluto TV Guide</url>
@@ -1471,13 +1459,6 @@ Worf must face his failures as a father when his estranged son volunteers for du
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/2a/c4/j0wnCQ1X_o.jpg" />
   </channel>
-  <programme channel="UnsolvedMysteries.us" start="20240117221536 +0000" stop="20240117231536 +0000">
-    <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 4</title>
-    <desc lang="en">Season 7, Episode 4 
-This episode includes: Life After Lightning, Near Death Experiences, Always Karen, Pts. 1 &amp; 2 and Gordy's Ghost, Pts. 1 &amp; 2.</desc>
-    <category lang="en">Documentaries</category>
-    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="UnsolvedMysteries.us" start="20240117231536 +0000" stop="20240118001536 +0000">
     <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 6</title>
     <desc lang="en">Season 11, Episode 6 
@@ -1566,6 +1547,13 @@ This episode includes: Canadian UFO, UD: Brenda's Bunch, Dropped Off DOE &amp; U
     <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 3</title>
     <desc lang="en">Season 5, Episode 3 
 This episode includes: Arson King, Huey Long (Pts. 1 &amp; 2) &amp; UD and Brother X &amp; UD.</desc>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="UnsolvedMysteries.us" start="20240118121536 +0000" stop="20240118131536 +0000">
+    <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 1</title>
+    <desc lang="en">Season 8, Episode 1 
+This episode includes: Brandon Lee, Missing Anchorwoman, First Love, Second Chance &amp; UD, Killer Castro and Gulf P.O.W. Dream.</desc>
     <category lang="en">Documentaries</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
