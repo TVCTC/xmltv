@@ -7,13 +7,6 @@
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/85/7d/Wut6FGg9_o.png" />
   </channel>
-  <programme channel="Crime360.us" start="20240119110000 +0000" stop="20240119113000 +0000">
-    <title lang="en">Court Cam - Court Cam - 312</title>
-    <desc lang="en">Season 3, Episode 12 
-A look at some of the wildest courtroom moments: family members of defendants and victims erupt in a Florida courthouse; a murderer's shocking courtroom outburst; an unforgettable adoption brings a judge to tears; and more.</desc>
-    <category lang="en">Reality</category>
-    <icon src="https://images.pluto.tv/series/6109d40fcfc2d60014ff772f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="Crime360.us" start="20240119113000 +0000" stop="20240119120000 +0000">
     <title lang="en">Court Cam - Court Cam - 314</title>
     <desc lang="en">Season 3, Episode 13 
@@ -196,6 +189,13 @@ A look at some of the wildest courtroom moments: two teenage former best friends
     <category lang="en">Reality</category>
     <icon src="https://images.pluto.tv/series/6109d40fcfc2d60014ff772f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="Crime360.us" start="20240120003000 +0000" stop="20240120010000 +0000">
+    <title lang="en">Court Cam - Court Cam - 311</title>
+    <desc lang="en">Season 3, Episode 15 
+A teenage defendant faces the wrath of a furious judge; a notorious killer breaks down in court; a defiant judge refuses to let Covid 19 disrupt business as usual; and more.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://images.pluto.tv/series/6109d40fcfc2d60014ff772f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="CBSNewsMiami.us">
     <display-name>CBS News Miami</display-name>
     <url>Pluto TV Guide</url>
@@ -320,6 +320,12 @@ A look at some of the wildest courtroom moments: two teenage former best friends
     <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
     <category lang="en">News and Information</category>
     <icon src="https://images.pluto.tv/series/650d1f6425fde2001a50dcd8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="CBSNewsMiami.us" start="20240120003000 +0000" stop="20240120010000 +0000">
+    <title lang="en">CBS News Miami 7PM - CBS News Miami 7PM</title>
+    <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
+    <category lang="en">News and Information</category>
+    <icon src="https://images.pluto.tv/series/650d0340a61c2a001b3a7b43/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="CBSNewsNewYork.us">
     <display-name>CBS News New York</display-name>
@@ -635,13 +641,6 @@ A bird's-eye view of Indonesia's spectacular scenery.</desc>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/0f/16/UD4GZuAg_o.png" />
   </channel>
-  <programme channel="PlutoTVTrueCrime.us" start="20240119104500 +0000" stop="20240119113000 +0000">
-    <title lang="en">Bizarre Murders - Last Curtain</title>
-    <desc lang="en">Season 1, Episode 15 
-Faced with mounting debts and his upcoming honeymoon, a delusional bloodthirsty actor casts himself in a role that includes murder and dismemberment.</desc>
-    <category lang="en">Reality</category>
-    <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="PlutoTVTrueCrime.us" start="20240119113000 +0000" stop="20240119120000 +0000">
     <title lang="en">Bizarre Murders - Vampire Diaries</title>
     <desc lang="en">Season 1, Episode 22 
@@ -995,18 +994,18 @@ When a nuclear attack appears imminent, several suburban friends and neighbors f
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="PlutoTVSci-Fi.us" start="20240120003000 +0000" stop="20240120010000 +0000">
+    <title lang="en">The Twilight Zone - The Passersby</title>
+    <desc lang="en">Season 3, Episode 4 
+On the road home from the Civil War, a Confederate soldier stops at a burned-out house and gets to know the owner, a recent widow.</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="FailArmy.us">
     <display-name>FailArmy</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/5f/93/OSKkiju1_o.png" />
   </channel>
-  <programme channel="FailArmy.us" start="20240119103400 +0000" stop="20240119110500 +0000">
-    <title lang="en">Best Fails of the Month - Best Fails of the Month ----- Ep. 6.4</title>
-    <desc lang="en">Season 6, Episode 4 
-The best of the worst for March '23.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/650ca0d8d193e8001b80503b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="FailArmy.us" start="20240119110500 +0000" stop="20240119113500 +0000">
     <title lang="en">Best Fails of the Month - Best Fails of the Month</title>
     <desc lang="en">Season 6, Episode 5 
@@ -1182,17 +1181,18 @@ What pugs, birds and winter have in common.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/650ca0dad193e8001b8052c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="FailArmy.us" start="20240120001000 +0000" stop="20240120004100 +0000">
+    <title lang="en">Best Fails of the Month - May-23</title>
+    <desc lang="en">Season 6, Episode 5 
+Highlights from each month on "Fail Army."</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0d8d193e8001b80503b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="AlwaysFunnyVideos.us">
     <display-name>Always Funny Videos</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/a5/2a/yMz2mukZ_o.png" />
   </channel>
-  <programme channel="AlwaysFunnyVideos.us" start="20240119110000 +0000" stop="20240119113000 +0000">
-    <title lang="en">Epic Funny Videos Countdown - Epic Funny Videos Countdown</title>
-    <desc lang="en">Season 1, Counting down the 100 funniest videos of all time.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/6386c775d9c17f001455c4f5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="AlwaysFunnyVideos.us" start="20240119113000 +0000" stop="20240119120000 +0000">
     <title lang="en">Epic Funny Videos Countdown - Epic Funny Videos Countdown</title>
     <desc lang="en">Season 1, Counting down the 100 funniest videos of all time.</desc>
@@ -1346,6 +1346,13 @@ Jaleel White pops the funniest retro videos into the old VCR and presses play. G
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/640bb68f5d300f00130baed6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="AlwaysFunnyVideos.us" start="20240120003000 +0000" stop="20240120010000 +0000">
+    <title lang="en">Vintage Videos - Vintage Videos</title>
+    <desc lang="en">Season 1, Episode 6 
+Jaleel White pops the funniest retro videos into the old VCR and presses play. Get ready for Vintage Videos!</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/640bb68f5d300f00130baed6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek2.us">
     <display-name>Star Trek 2</display-name>
     <url>Pluto TV Guide</url>
@@ -1477,6 +1484,13 @@ Picard finds himself facing a strenuous test of his loyalty to Starfleet, one wh
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="StarTrek2.us" start="20240120002602 +0000" stop="20240120011131 +0000">
+    <title lang="en">Star Trek: The Next Generation (Embed) - EVOLUTION*</title>
+    <desc lang="en">Season 3, Episode 150 
+The Enterprise is carrying an eminent scientist, Dr. Paul Stubbs, to the site of a binary star where they are expecting a massive stellar explosion to occur in a few hours.</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="MoreStarTrek.us">
     <display-name>More Star Trek</display-name>
     <url>Pluto TV Guide</url>
@@ -1585,13 +1599,6 @@ Ezri summons the suppressed homicidal memories of a previous Dax incarnation in 
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/2a/c4/j0wnCQ1X_o.jpg" />
   </channel>
-  <programme channel="UnsolvedMysteries.us" start="20240119101536 +0000" stop="20240119111536 +0000">
-    <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 11</title>
-    <desc lang="en">Season 4, Episode 11 
-This episode includes: Best Friends &amp; UD, Marine Captain Murder, Florida Fires &amp; UD, UD: Stamper's Rampage and Mucho Oro.</desc>
-    <category lang="en">Documentaries</category>
-    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="UnsolvedMysteries.us" start="20240119111536 +0000" stop="20240119121536 +0000">
     <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 3</title>
     <desc lang="en">Season 12, Episode 3 
