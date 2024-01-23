@@ -103,12 +103,6 @@ In the Fulton County Jail, participants Matt and Michelle are faced with tough c
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d1/35/I5qwoZbg_o.png" />
   </channel>
-  <programme channel="CBSNewsMiami.us" start="20240123230000 +0000" stop="20240123233000 +0000">
-    <title lang="en">CBS News Miami at 6PM - CBS News Miami at 6PM</title>
-    <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/650d114d3e6938001ae1d0b8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsMiami.us" start="20240123233000 +0000" stop="20240124000000 +0000">
     <title lang="en">CBS News Miami 6PM - CBS News Miami 6PM</title>
     <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
@@ -210,12 +204,6 @@ In the Fulton County Jail, participants Matt and Michelle are faced with tough c
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d6/2f/d6ilnDhv_o.png" />
   </channel>
-  <programme channel="CBSNewsNewYork.us" start="20240123230000 +0000" stop="20240123233000 +0000">
-    <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
-    <desc lang="en">Season 1, .</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/63066e509bd9c6001b668575/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsNewYork.us" start="20240123233000 +0000" stop="20240124000000 +0000">
     <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
     <desc lang="en">Season 1, .</desc>
@@ -643,6 +631,13 @@ A high-rolling, high-priced fortune-teller is slaughtered, and detectives must d
     <category lang="en">Reality</category>
     <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="PlutoTVTrueCrime.us" start="20240124123000 +0000" stop="20240124130000 +0000">
+    <title lang="en">Bizarre Murders - Vampire Diaries</title>
+    <desc lang="en">Season 1, Episode 22 
+In a picture-perfect East Coast town, an 80-year-old widow is viciously murdered in a gruesome ritual killing, and the evidence indicates the killer cut out her heart and drank her blood.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek.us">
     <display-name>Star Trek</display-name>
     <url>Pluto TV Guide</url>
@@ -751,13 +746,6 @@ Both Capt. Picard and Lt. Worf must decide where their priorities lie as the Kli
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/ef/68/NL7FR1wZ_o.png" />
   </channel>
-  <programme channel="PlutoTVSci-Fi.us" start="20240123230000 +0000" stop="20240123233000 +0000">
-    <title lang="en">The Twilight Zone - The Little People</title>
-    <desc lang="en">Season 3, Episode 28 
-An astronaut declares himself a god when his ship lands on a planet populated by people smaller than ants.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="PlutoTVSci-Fi.us" start="20240123233000 +0000" stop="20240124000000 +0000">
     <title lang="en">The Twilight Zone - Four O'Clock</title>
     <desc lang="en">Season 3, Episode 29 
@@ -833,13 +821,6 @@ Duncan runs into Alex Raven, a beautiful Immortal set upon fulfilling a vow dati
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/5f/93/OSKkiju1_o.png" />
   </channel>
-  <programme channel="FailArmy.us" start="20240123224600 +0000" stop="20240123231700 +0000">
-    <title lang="en">FailArmy Now - Failscape Chronicles</title>
-    <desc lang="en">Season 4, Episode 4 
-What bad decisions, pants and New Year have in common.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/650ca0dad193e8001b8052c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="FailArmy.us" start="20240123231700 +0000" stop="20240123234800 +0000">
     <title lang="en">FailArmy Now - The Fumble Files</title>
     <desc lang="en">Season 4, Episode 5 
@@ -1009,18 +990,18 @@ Supersizing the fails.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/650ca0dcd193e8001b80552c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="FailArmy.us" start="20240124122500 +0000" stop="20240124125600 +0000">
+    <title lang="en">FailArmy Now - Fail Endeavors</title>
+    <desc lang="en">Season 4, Episode 6 
+What pets, games and bridesmaids have in common.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0dad193e8001b8052c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="AlwaysFunnyVideos.us">
     <display-name>Always Funny Videos</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/a5/2a/yMz2mukZ_o.png" />
   </channel>
-  <programme channel="AlwaysFunnyVideos.us" start="20240123230000 +0000" stop="20240123233000 +0000">
-    <title lang="en">Best of the Best Funny Video Countdown - Episode 9</title>
-    <desc lang="en">Season 1, Episode 9 
-Counting down the best of the best videos of the year.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/64513aa5649e97001bd0eff9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="AlwaysFunnyVideos.us" start="20240123233000 +0000" stop="20240124000000 +0000">
     <title lang="en">Best of the Best Funny Video Countdown - Episode 7</title>
     <desc lang="en">Season 1, Episode 7 
@@ -1202,18 +1183,18 @@ Class is in session and it's time to laugh and learn from fails of the past, or 
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/6386c777d9c17f001455c572/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="AlwaysFunnyVideos.us" start="20240124123000 +0000" stop="20240124130000 +0000">
+    <title lang="en">Fail 101 - Episode 9</title>
+    <desc lang="en">Season 2, Episode 9 
+Class is in session and it's time to laugh and learn from fails of the past, or be doomed to repeat them.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/6386c777d9c17f001455c572/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek2.us">
     <display-name>Star Trek 2</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/27/e4/fXrWe4Dd_o.jpg" />
   </channel>
-  <programme channel="StarTrek2.us" start="20240123222801 +0000" stop="20240123231330 +0000">
-    <title lang="en">Star Trek: The Next Generation (Embed) - LEGACY</title>
-    <desc lang="en">Season 4, Episode 180 
-The crew of the Enterprise enters into orbit around the home planet of their former crew-mate, Tasha Yar, where they encounter her sister.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="StarTrek2.us" start="20240123231330 +0000" stop="20240123235902 +0000">
     <title lang="en">Star Trek: The Next Generation (Embed) - HOME SOIL</title>
     <desc lang="en">Season 1, Episode 117 
@@ -1333,6 +1314,13 @@ The Enterprise is carrying an eminent scientist, Dr. Paul Stubbs, to the site of
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="StarTrek2.us" start="20240124120701 +0000" stop="20240124125230 +0000">
+    <title lang="en">Star Trek: The Next Generation (Embed) - LEGACY</title>
+    <desc lang="en">Season 4, Episode 180 
+The crew of the Enterprise enters into orbit around the home planet of their former crew-mate, Tasha Yar, where they encounter her sister.</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="MoreStarTrek.us">
     <display-name>More Star Trek</display-name>
     <url>Pluto TV Guide</url>
@@ -1441,13 +1429,6 @@ While Ezri searches for a missing Worf, Sisko makes plans to marry Kasidy Yates.
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/2a/c4/j0wnCQ1X_o.jpg" />
   </channel>
-  <programme channel="UnsolvedMysteries.us" start="20240123221536 +0000" stop="20240123231536 +0000">
-    <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 12</title>
-    <desc lang="en">Season 7, Episode 12 
-This episode includes: Padre Pio, Pts. 1 &amp; 2, Model's Third Notebook &amp; UD, Calculating Coroners &amp; UD and Nazi's Lazarus.</desc>
-    <category lang="en">Documentaries</category>
-    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="UnsolvedMysteries.us" start="20240123231536 +0000" stop="20240124001536 +0000">
     <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 2</title>
     <desc lang="en">Season 5, Episode 2 
@@ -1529,6 +1510,13 @@ This episode includes: Campus Calamity, Borden House, Kerouac Fan and Kentucky B
     <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 7</title>
     <desc lang="en">Season 12, Episode 7 
 This episode includes: Black Hope Curse, Pts. 1 &amp; 2, Con Artist Cop &amp; UD and Without a Song.</desc>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="UnsolvedMysteries.us" start="20240124120036 +0000" stop="20240124130036 +0000">
+    <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 2</title>
+    <desc lang="en">Season 3, Episode 2 
+This episode includes: Bermuda Triangle, Prison Mom &amp; UD, Heck He's Gone &amp; UD and Scare Tactics.</desc>
     <category lang="en">Documentaries</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
@@ -1701,13 +1689,6 @@ Movie constructed from two episodes of a Japanese television show. An alien mara
     <url>Pluto TV Guide</url>
     <icon src="https://images.pluto.tv/channels/628e685ba3811100070551a8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </channel>
-  <programme channel="HallmarkMoviesAndMore.us" start="20240123213000 +0000" stop="20240123233000 +0000">
-    <title lang="en">The Locket - The Locket</title>
-    <desc lang="en">Season 1, Episode 1 
-After his mother dies, a college dropout befriends a patient at a health-care center who gives him support and guidance. Stars Vanessa Redgrave. From the Hallmark Hall of Fame.</desc>
-    <category lang="en">Drama</category>
-    <icon src="https://images.pluto.tv/series/62d9d2005c70310013cf0043/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="HallmarkMoviesAndMore.us" start="20240123233000 +0000" stop="20240124024500 +0000">
     <title lang="en">A Tale of Two Cities - A Tale of Two Cities</title>
     <desc lang="en">Season 1, Episode 1 
