@@ -109,12 +109,6 @@ In Austin, Texas, Luddy and Finch practice parking-lot medicine when they respon
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d1/35/I5qwoZbg_o.png" />
   </channel>
-  <programme channel="CBSNewsMiami.us" start="20240124230000 +0000" stop="20240124233000 +0000">
-    <title lang="en">CBS News Miami at 6PM - CBS News Miami at 6PM</title>
-    <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/650d114d3e6938001ae1d0b8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsMiami.us" start="20240124233000 +0000" stop="20240125000000 +0000">
     <title lang="en">CBS News Miami 6PM - CBS News Miami 6PM</title>
     <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
@@ -216,12 +210,6 @@ In Austin, Texas, Luddy and Finch practice parking-lot medicine when they respon
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d6/2f/d6ilnDhv_o.png" />
   </channel>
-  <programme channel="CBSNewsNewYork.us" start="20240124230000 +0000" stop="20240124233000 +0000">
-    <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
-    <desc lang="en">Season 1, .</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/63066e509bd9c6001b668575/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsNewYork.us" start="20240124233000 +0000" stop="20240125000000 +0000">
     <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
     <desc lang="en">Season 1, .</desc>
@@ -646,6 +634,13 @@ A wannabe serial killer ropes in his first unsuspecting victim. But it turns out
     <category lang="en">Reality</category>
     <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="PlutoTVTrueCrime.us" start="20240125123000 +0000" stop="20240125130000 +0000">
+    <title lang="en">Bizarre Murders - Sex, Lies &amp; Smoothies</title>
+    <desc lang="en">Season 1, Episode 23 
+A rich Canadian expat in Dubai reports that her husband is missing. And detectives soon find his decomposing body in a box in the building's utility room.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek.us">
     <display-name>Star Trek</display-name>
     <url>Pluto TV Guide</url>
@@ -754,13 +749,6 @@ Geordi and Ro are pronounced dead after a transporting maneuver from a distresse
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/ef/68/NL7FR1wZ_o.png" />
   </channel>
-  <programme channel="PlutoTVSci-Fi.us" start="20240124230000 +0000" stop="20240124233000 +0000">
-    <title lang="en">The Twilight Zone - The Old Man in the Cave</title>
-    <desc lang="en">Season 5, Episode 7 
-A mysterious guardian helps a tiny community survive after the Bomb destroys much of the Earth.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="PlutoTVSci-Fi.us" start="20240124233000 +0000" stop="20240125000000 +0000">
     <title lang="en">The Twilight Zone - Uncle Simon</title>
     <desc lang="en">Season 5, Episode 8 
@@ -824,18 +812,18 @@ Devon Marek was a spoiled aristocrat whose mentor, MacLeod, forced him to give u
     <category lang="en">Classics</category>
     <icon src="https://images.pluto.tv/series/5d6edc6c895e82d1174d99e3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="PlutoTVSci-Fi.us" start="20240125121500 +0000" stop="20240125131500 +0000">
+    <title lang="en">Highlander: The Series - Unusual Suspects</title>
+    <desc lang="en">Season 6, Episode 7 
+In 1929, Fitz is enjoying the life of an English lord. He has good friends, a beautiful wife, trusted servants... until one of them "murders" him.</desc>
+    <category lang="en">Classics</category>
+    <icon src="https://images.pluto.tv/series/5d6edc6c895e82d1174d99e3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="FailArmy.us">
     <display-name>FailArmy</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/5f/93/OSKkiju1_o.png" />
   </channel>
-  <programme channel="FailArmy.us" start="20240124225600 +0000" stop="20240124232700 +0000">
-    <title lang="en">FailArmy Now - Fail Endeavors</title>
-    <desc lang="en">Season 4, Episode 6 
-What pets, games and bridesmaids have in common.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/650ca0dad193e8001b8052c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="FailArmy.us" start="20240124232700 +0000" stop="20240124235800 +0000">
     <title lang="en">FailArmy Now - Fail Quest</title>
     <desc lang="en">Season 4, Episode 7 
@@ -1002,17 +990,18 @@ People shouldn't feed these animals.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/650ca0dcd193e8001b80552c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="FailArmy.us" start="20240125120200 +0000" stop="20240125123400 +0000">
+    <title lang="en">World's Most Expensive Fails - Date Night</title>
+    <desc lang="en">Season 1, Episode 4 
+A date with some expensive fails.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0dcd193e8001b80552c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="AlwaysFunnyVideos.us">
     <display-name>Always Funny Videos</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/a5/2a/yMz2mukZ_o.png" />
   </channel>
-  <programme channel="AlwaysFunnyVideos.us" start="20240124230000 +0000" stop="20240124233000 +0000">
-    <title lang="en">Always Funny Top 25 - Always Funny Top 25</title>
-    <desc lang="en">Season 1, Always Funny Videos is family-friendly comedy programming from the creators of America’s Funniest Home Videos. 24/7 Laughs delivered in hilarious comedy home videos that are funny for all ages!</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/648de6999cb24a00134325ae/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="AlwaysFunnyVideos.us" start="20240124233000 +0000" stop="20240125000000 +0000">
     <title lang="en">Always Funny Top 25 - Always Funny Top 25</title>
     <desc lang="en">Season 1, Always Funny Videos is family-friendly comedy programming from the creators of America’s Funniest Home Videos. 24/7 Laughs delivered in hilarious comedy home videos that are funny for all ages!</desc>
@@ -1190,18 +1179,18 @@ There's a time and place for funny videos and that time is now.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/6386c778d9c17f001455c5e9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="AlwaysFunnyVideos.us" start="20240125123000 +0000" stop="20240125130000 +0000">
+    <title lang="en">Funny Videos Now Top 10 Countdown - Episode 6</title>
+    <desc lang="en">Season 1, Episode 6 
+There's a time and place for funny videos, and time is now. This is the Funny Videos Now Top 10 Countdown.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/6386c778d9c17f001455c5e9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek2.us">
     <display-name>Star Trek 2</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/27/e4/fXrWe4Dd_o.jpg" />
   </channel>
-  <programme channel="StarTrek2.us" start="20240124224402 +0000" stop="20240124232931 +0000">
-    <title lang="en">Star Trek: The Next Generation (Embed) - EVOLUTION*</title>
-    <desc lang="en">Season 3, Episode 150 
-The Enterprise is carrying an eminent scientist, Dr. Paul Stubbs, to the site of a binary star where they are expecting a massive stellar explosion to occur in a few hours.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="StarTrek2.us" start="20240124232931 +0000" stop="20240125001500 +0000">
     <title lang="en">Star Trek: The Next Generation (Embed) - LEGACY</title>
     <desc lang="en">Season 4, Episode 180 
@@ -1321,6 +1310,13 @@ Picard finds himself facing a strenuous test of his loyalty to Starfleet, one wh
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="StarTrek2.us" start="20240125122302 +0000" stop="20240125130831 +0000">
+    <title lang="en">Star Trek: The Next Generation (Embed) - EVOLUTION*</title>
+    <desc lang="en">Season 3, Episode 150 
+The Enterprise is carrying an eminent scientist, Dr. Paul Stubbs, to the site of a binary star where they are expecting a massive stellar explosion to occur in a few hours.</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="MoreStarTrek.us">
     <display-name>More Star Trek</display-name>
     <url>Pluto TV Guide</url>
@@ -1429,13 +1425,6 @@ A stubborn old Bajoran farmer forces Kira to take a good look at how much she ha
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/2a/c4/j0wnCQ1X_o.jpg" />
   </channel>
-  <programme channel="UnsolvedMysteries.us" start="20240124221536 +0000" stop="20240124231536 +0000">
-    <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 20</title>
-    <desc lang="en">Season 3, Episode 20 
-This episode includes: Edgar Cayce, Crystal and War of the Depues &amp; UD.</desc>
-    <category lang="en">Documentaries</category>
-    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="UnsolvedMysteries.us" start="20240124231536 +0000" stop="20240125001536 +0000">
     <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 15</title>
     <desc lang="en">Season 7, Episode 15 
@@ -1524,6 +1513,13 @@ This episode includes: The Man Who Knew Too Much, Update: Sweetheart Swindler, D
     <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 20</title>
     <desc lang="en">Season 6, Episode 20 
 This episode includes: Dutch Shultz Treasure, Computer Con Killer, Lost Lauren and Mother/Son Murder &amp; UD.</desc>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="UnsolvedMysteries.us" start="20240125121536 +0000" stop="20240125131536 +0000">
+    <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 10</title>
+    <desc lang="en">Season 3, Episode 10 
+This episode includes: Down on the Farm, Update: The Promise, Trucker Death, Miracle Staircase and Follow the Shadow.</desc>
     <category lang="en">Documentaries</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
