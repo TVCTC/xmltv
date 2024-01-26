@@ -7,18 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240126212525 +0100" stop="20240126214448 +0100">
-    <title lang="en">The hurt part 2</title>
-    <desc lang="en">Alex Honnold gears up for the hardest section of his Red Rock Canyon climb so far just in time for nightfall. (19 minutes)</desc>
-    <category lang="en">Sport, Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/otjzpavrbg5uvl0sagg0/reel-rock-s9-e10-alex-honnold" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240126214448 +0100" stop="20240126223155 +0100">
-    <title lang="en">The King Snow Movie</title>
-    <desc lang="en">Groundbreaking snowboarding and stunning visuals in Canada's iconic landscape are what this film is all about. (46 minutes)</desc>
-    <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/12/6/fxfkk9viohan9staqfdb/the-king-snow-movie-hero-art" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240126223155 +0100" stop="20240126231508 +0100">
     <title lang="en">San Marino, Italy</title>
     <desc lang="en">The race with no engine and many obstacles will test the participants in San Marino, Italy.  (43 minutes)</desc>
@@ -156,6 +144,18 @@
     <desc lang="en">Part of the Layers documentary project, Cake is dedicated to showcasing the current level of fun progression. (38 minutes)</desc>
     <category lang="en">Sport, Snowboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/8/bgfplymylak0sltu0hqx/cake-snowboarding-film" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240127171023 +0100" stop="20240127183914 +0100">
+    <title lang="en">Layers</title>
+    <desc lang="en">Discover and celebrate the unique people, places, personalities and layers behind what we call snowboarding. (88 minutes)</desc>
+    <category lang="en">Sport, Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/a24wabmgl2h2stzq5tyk/snowboard-movie-layers" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240127183914 +0100" stop="20240127190047 +0100">
+    <title lang="en">Crossing Tasmania</title>
+    <desc lang="en">MTB rider Payson McElveen attempts to cross Australia’s least populated state: the island of Tasmania. (22 minutes)</desc>
+    <category lang="en">Sport, MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/17/qur2mizj4fmcxx63hrns/crossing-tasmania-payson-mcelveen" />
   </programme>
 </tv>
 
