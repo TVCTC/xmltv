@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240127013620 +0100" stop="20240127023936 +0100">
-    <title lang="en">Snowsurf</title>
-    <desc lang="en">Photographer Shane Peel travels to Hokkaido to follow a diverse pod of breakaway snowboarders and surfers. (63 minutes)</desc>
-    <category lang="en">Sport, Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/6/qwkor9ufoizfq47ciaw9/snowsurf-hero-art" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240127023936 +0100" stop="20240127032439 +0100">
     <title lang="en">Red Bull Soapbox Race</title>
     <desc lang="en">The judges are ready to be dazzled by creativity and fast descents in this first event – in Iowa, USA. (44 minutes)</desc>
@@ -156,6 +150,12 @@
     <desc lang="en">Take an inside look at the origins of windsurfing and how it became one of the world's fastest growing sports. (71 minutes)</desc>
     <category lang="en">Sport, Windsurfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/20/qibyjmco0mhsfbnwbyka/broken-molds-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240127233205 +0100" stop="20240128002549 +0100">
+    <title lang="en">Red Bull Cliff Diving: Boston</title>
+    <desc lang="en">For the 2023 season opener in Boston, divers take on shaky weather conditions as they send it off 27m.  (53 minutes)</desc>
+    <category lang="en">Sport, Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/t3rffyziihgl2tirpxxv/constantin-popovici" />
   </programme>
 </tv>
 
