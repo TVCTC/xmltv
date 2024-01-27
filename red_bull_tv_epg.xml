@@ -7,6 +7,12 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
+  <programme channel="RedBullTV.at" start="20240127093224 +0100" stop="20240127095341 +0100">
+    <title lang="en">Momentum: Angie Scarth-Johnson</title>
+    <desc lang="en">Spend a year touring the world with Australia’s Angie Scarth-Johnson as she pushes the boundaries of climbing. (21 minutes)</desc>
+    <category lang="en">Sport, Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/20/jaaohxwjtljbh9ffnrqk/momentum-angie-scarth-johnson" />
+  </programme>
   <programme channel="RedBullTV.at" start="20240127095341 +0100" stop="20240127112623 +0100">
     <title lang="en">Au Revoir</title>
     <desc lang="en">The story of wakeboarding champion Raph Derome as he retires from riding in front of crowds and cameras. (92 minutes)</desc>
@@ -139,17 +145,11 @@
     <category lang="en">Sport, Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/1/31/vrpp8fdzrxfa9ilrwrso/red-bull-monserrate-cerro-abajo-2022-night-time-ride-johny-salido" />
   </programme>
-  <programme channel="RedBullTV.at" start="20240128063000 +0100" stop="20240128065147 +0100">
+  <programme channel="RedBullTV.at" start="20240127093224 +0100" stop="20240127095341 +0100">
     <title lang="en">Momentum: Angie Scarth-Johnson</title>
     <desc lang="en">Spend a year touring the world with Australia’s Angie Scarth-Johnson as she pushes the boundaries of climbing. (21 minutes)</desc>
     <category lang="en">Sport, Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/20/jaaohxwjtljbh9ffnrqk/momentum-angie-scarth-johnson" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240127095341 +0100" stop="20240127112623 +0100">
-    <title lang="en">Au Revoir</title>
-    <desc lang="en">The story of wakeboarding champion Raph Derome as he retires from riding in front of crowds and cameras. (92 minutes)</desc>
-    <category lang="en">Sport, Wakeboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/21/six64tifrqioqukziszs/raph-derome-au-revoir-screenshot-wakeboarding" />
   </programme>
 </tv>
 
