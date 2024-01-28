@@ -7,24 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240128021137 +0100" stop="20240128030513 +0100">
-    <title lang="en">The sacred leap</title>
-    <desc lang="en">Divers show their skills in a never-before-seen Red Bull Cliff Diving World Series location in Japan.  (52 minutes)</desc>
-    <category lang="en">Sport, Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/11/o1lf6qilqpl7asl3nk88/madeleine-bayon" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240128030513 +0100" stop="20240128035811 +0100">
-    <title lang="en">Crunch time</title>
-    <desc lang="en">The iconic Mostar bridge challenged the divers and spiced up the battle for the title on the penultimate stop. (52 minutes)</desc>
-    <category lang="en">Sport, Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/18/eoyr4n97icwrgweaiv4p/gary-hunt" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240128035811 +0100" stop="20240128040000 +0100">
-    <title lang="en">Night-time ride of the urban downhill course</title>
-    <desc lang="en">Johny Salido hits up the iconic staircase of Bogotá at night ahead of Red Bull Monserrate Cerro Abajo 2022. (2 minutes)</desc>
-    <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/1/31/vrpp8fdzrxfa9ilrwrso/red-bull-monserrate-cerro-abajo-2022-night-time-ride-johny-salido" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240128063000 +0100" stop="20240128065147 +0100">
     <title lang="en">Momentum: Angie Scarth-Johnson</title>
     <desc lang="en">Spend a year touring the world with Australia’s Angie Scarth-Johnson as she pushes the boundaries of climbing. (21 minutes)</desc>
@@ -103,17 +85,23 @@
     <category lang="en">Sport, Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/7/11/l1tcpi2virhzpc0fg5pw/maria-paula-quintero-red-bull-cliff-diving-world-series-polignano-a-mare-2023" />
   </programme>
-  <programme channel="RedBullTV.at" start="20240128021137 +0100" stop="20240128030513 +0100">
+  <programme channel="RedBullTV.at" start="20240128161321 +0100" stop="20240128170657 +0100">
     <title lang="en">The sacred leap</title>
     <desc lang="en">Divers show their skills in a never-before-seen Red Bull Cliff Diving World Series location in Japan.  (52 minutes)</desc>
     <category lang="en">Sport, Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/11/o1lf6qilqpl7asl3nk88/madeleine-bayon" />
   </programme>
-  <programme channel="RedBullTV.at" start="20240128030513 +0100" stop="20240128035811 +0100">
+  <programme channel="RedBullTV.at" start="20240128170657 +0100" stop="20240128175954 +0100">
     <title lang="en">Crunch time</title>
     <desc lang="en">The iconic Mostar bridge challenged the divers and spiced up the battle for the title on the penultimate stop. (52 minutes)</desc>
     <category lang="en">Sport, Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/18/eoyr4n97icwrgweaiv4p/gary-hunt" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240128175954 +0100" stop="20240128203034 +0100">
+    <title lang="en">Finals – Auckland</title>
+    <desc lang="en">The action wraps with an urban twist, at a brand-new waterfront location: Auckland, the City of Sails. (NaN minutes)</desc>
+    <category lang="en">Sport, Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/28/ie23ftujc0unsckmar5g/chinnock-auckland-2024" />
   </programme>
   <programme channel="RedBullTV.at" start="20240128203034 +0100" stop="20240128212128 +0100">
     <title lang="en">Island X</title>
@@ -138,6 +126,30 @@
     <desc lang="en">Brazilian skimboard world champion Lucas Fink faces Portugal's iconic Nazaré wave with a skimboard shape.  (28 minutes)</desc>
     <category lang="en">Sport, Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/3/10/ina1rimvhdtflhveik3q/skimboard-nazare-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240129011956 +0100" stop="20240129024925 +0100">
+    <title lang="en">Madrid, Spain</title>
+    <desc lang="en">A churros-powered descent is taking place in the steep road of Madrid! Who will come out on top? (89 minutes)</desc>
+    <category lang="en">Sport, Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/xifrq4b6kfis2z2uzxkm/sardinatti-team-red-bull-soapbox-race-madrid-2022" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240129024925 +0100" stop="20240129041913 +0100">
+    <title lang="en">London, UK</title>
+    <desc lang="en">Engenious, fast and brave is the recipe to success for a man-made-machine race, but who has it all in London? (89 minutes)</desc>
+    <category lang="en">Sport, Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/11/rkzzj4pulbfgnuswtsqe/asterix-and-obelix-contra-alexandra-palace-red-bull-soapbox-race-london-2022" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240129041913 +0100" stop="20240129045202 +0100">
+    <title lang="en">Australia Tour</title>
+    <desc lang="en">The skateboard demo tour hits Melbourne, Brisbane, Gold Coast and Sydney with Jamie Foy, TJ Rogers and more. (33 minutes)</desc>
+    <category lang="en">Sport, Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/12/c1cuulekhr76jf4t3pgr/jamie-foy-red-bull-drop-in-tour-2023-australia-skateboarding" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240128063000 +0100" stop="20240128065147 +0100">
+    <title lang="en">Momentum: Angie Scarth-Johnson</title>
+    <desc lang="en">Spend a year touring the world with Australia’s Angie Scarth-Johnson as she pushes the boundaries of climbing. (21 minutes)</desc>
+    <category lang="en">Sport, Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/20/jaaohxwjtljbh9ffnrqk/momentum-angie-scarth-johnson" />
   </programme>
 </tv>
 
