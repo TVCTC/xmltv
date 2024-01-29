@@ -123,12 +123,6 @@ Surveillance cameras at a convenience store capture more than just a shooting; M
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d1/35/I5qwoZbg_o.png" />
   </channel>
-  <programme channel="CBSNewsMiami.us" start="20240129230000 +0000" stop="20240129233000 +0000">
-    <title lang="en">CBS News Miami at 6PM - CBS News Miami at 6PM</title>
-    <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/650d114d3e6938001ae1d0b8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsMiami.us" start="20240129233000 +0000" stop="20240130000000 +0000">
     <title lang="en">CBS News Miami 6PM - CBS News Miami 6PM</title>
     <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
@@ -230,12 +224,6 @@ Surveillance cameras at a convenience store capture more than just a shooting; M
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d6/2f/d6ilnDhv_o.png" />
   </channel>
-  <programme channel="CBSNewsNewYork.us" start="20240129230000 +0000" stop="20240129233000 +0000">
-    <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
-    <desc lang="en">Season 1, .</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/63066e509bd9c6001b668575/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsNewYork.us" start="20240129233000 +0000" stop="20240130000000 +0000">
     <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
     <desc lang="en">Season 1, .</desc>
@@ -656,6 +644,13 @@ A young teen disappears from a small American town. Then several years later, he
     <category lang="en">Reality</category>
     <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="PlutoTVTrueCrime.us" start="20240130123000 +0000" stop="20240130130000 +0000">
+    <title lang="en">Bizarre Murders - Dying for Love</title>
+    <desc lang="en">Season 1, Episode 8 
+After a whirlwind romance, a 40-something San Francisco woman finds herself married to the man of her dreams. Only she soon finds herself hospitalized with a mysterious illness, and her fairytale becomes a bizarre murder mystery instead.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek.us">
     <display-name>Star Trek</display-name>
     <url>Pluto TV Guide</url>
@@ -764,13 +759,6 @@ Tensions run high when the Enterprise transports ambassadors to the Babel confer
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/ef/68/NL7FR1wZ_o.png" />
   </channel>
-  <programme channel="PlutoTVSci-Fi.us" start="20240129230000 +0000" stop="20240129233000 +0000">
-    <title lang="en">The Twilight Zone - The Invaders</title>
-    <desc lang="en">Season 2, Episode 15 
-When a woman investigates a clamor on the roof of her rural house, she discovers a small UFO and little aliens emerging from it. Or so it seems.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="PlutoTVSci-Fi.us" start="20240129233000 +0000" stop="20240130000000 +0000">
     <title lang="en">The Twilight Zone - Penny For Your Thoughts</title>
     <desc lang="en">Season 2, Episode 16 
@@ -839,13 +827,6 @@ Richie tries to protect an old girlfriend from drug dealers led by Immortal Vosh
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/5f/93/OSKkiju1_o.png" />
   </channel>
-  <programme channel="FailArmy.us" start="20240129223300 +0000" stop="20240129230500 +0000">
-    <title lang="en">FailFactory - 9 to Fail</title>
-    <desc lang="en">Season 6, Episode 5 
-Someone might need HR for this one.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/650ca0d9d193e8001b805097/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="FailArmy.us" start="20240129230500 +0000" stop="20240129233700 +0000">
     <title lang="en">FailArmy Now - Tooth Wisdom</title>
     <desc lang="en">Season 1, Episode 3 
@@ -1020,18 +1001,18 @@ Even the home isn't safe from fails.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/650ca0dcd193e8001b80552c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="FailArmy.us" start="20240130121500 +0000" stop="20240130124700 +0000">
+    <title lang="en">FailArmy Now - Bathtub Bliss</title>
+    <desc lang="en">Season 1, Episode 5 
+A look at what a bathroom blogger, raccoons and mother nature have in common.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0dad193e8001b8052c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="AlwaysFunnyVideos.us">
     <display-name>Always Funny Videos</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/a5/2a/yMz2mukZ_o.png" />
   </channel>
-  <programme channel="AlwaysFunnyVideos.us" start="20240129230000 +0000" stop="20240129233000 +0000">
-    <title lang="en">Best of the Best Funny Video Countdown - Episode 9</title>
-    <desc lang="en">Season 1, Episode 9 
-Counting down the best of the best videos of the year.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/64513aa5649e97001bd0eff9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="AlwaysFunnyVideos.us" start="20240129233000 +0000" stop="20240130000000 +0000">
     <title lang="en">Best of the Best Funny Video Countdown - Best of the Best Funny Video Countdown</title>
     <desc lang="en">Season 1, Episode 2 
@@ -1214,18 +1195,18 @@ A countdown to see which video gets the Platinum Video of the Week.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/6386c776d9c17f001455c512/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="AlwaysFunnyVideos.us" start="20240130123000 +0000" stop="20240130130000 +0000">
+    <title lang="en">Hot 100 Countdown - Episode 10</title>
+    <desc lang="en">Season 2, Episode 10 
+A countdown to see which video gets the Platinum Video of the Week.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/6386c776d9c17f001455c512/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek2.us">
     <display-name>Star Trek 2</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/27/e4/fXrWe4Dd_o.jpg" />
   </channel>
-  <programme channel="StarTrek2.us" start="20240129223300 +0000" stop="20240129231832 +0000">
-    <title lang="en">Star Trek: The Next Generation (Embed) - HOME SOIL</title>
-    <desc lang="en">Season 1, Episode 117 
-Picard finds himself facing a strenuous test of his loyalty to Starfleet, one which the other members of the crew are struggling to cope with, whilst Wesley faces an equally challenging entrance exam at Starfleet Academy.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="StarTrek2.us" start="20240129231832 +0000" stop="20240130000401 +0000">
     <title lang="en">Star Trek: The Next Generation (Embed) - EVOLUTION*</title>
     <desc lang="en">Season 3, Episode 150 
@@ -1342,6 +1323,13 @@ The Enterprise is carrying an eminent scientist, Dr. Paul Stubbs, to the site of
     <title lang="en">Star Trek: The Next Generation (Embed) - LEGACY</title>
     <desc lang="en">Season 4, Episode 180 
 The crew of the Enterprise enters into orbit around the home planet of their former crew-mate, Tasha Yar, where they encounter her sister.</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="StarTrek2.us" start="20240130121200 +0000" stop="20240130125732 +0000">
+    <title lang="en">Star Trek: The Next Generation (Embed) - HOME SOIL</title>
+    <desc lang="en">Season 1, Episode 117 
+Picard finds himself facing a strenuous test of his loyalty to Starfleet, one which the other members of the crew are struggling to cope with, whilst Wesley faces an equally challenging entrance exam at Starfleet Academy.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
