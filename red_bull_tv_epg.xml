@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240202123754 +0100" stop="20240202141006 +0100">
-    <title lang="en">Au Revoir</title>
-    <desc lang="en">The story of wakeboarding champion Raph Derome as he retires from riding in front of crowds and cameras. (92 minutes)</desc>
-    <category lang="en">Sport, Wakeboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/21/six64tifrqioqukziszs/raph-derome-au-revoir-screenshot-wakeboarding" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240202141006 +0100" stop="20240202145558 +0100">
     <title lang="en">(Un)credited</title>
     <desc lang="en">Dive deep into the origins of Afro Dance in Nigeria and how it has shaped a global mainstream culture. (46 minutes)</desc>
@@ -156,6 +150,12 @@
     <desc lang="en">Nadine Wallner ventured to the rarely skied location of El Chaltén, Argentina, for some serious alpinism. (21 minutes)</desc>
     <category lang="en">Sport, Freeskiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/4/eeerdp0sqel7uaglzw3x/infinita-patagonia-nadine-wallner-freeski" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240203072752 +0100" stop="20240203081115 +0100">
+    <title lang="en">Bunny Hop</title>
+    <desc lang="en">From the crew that brought you Pretty Sweet, Yeah Right, and Fully Flared, this will have you hyped to skate. (43 minutes)</desc>
+    <category lang="en">Sport, Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/22/ld7pccpwydi1t8jkta7d/bunny-hop-hero-art" />
   </programme>
 </tv>
 
