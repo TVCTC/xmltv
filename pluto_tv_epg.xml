@@ -101,12 +101,6 @@ A New Orleans man is shot in front of his grandmother's home, and police detecti
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d1/35/I5qwoZbg_o.png" />
   </channel>
-  <programme channel="CBSNewsMiami.us" start="20240205230000 +0000" stop="20240205233000 +0000">
-    <title lang="en">CBS News Miami at 6PM - CBS News Miami at 6PM</title>
-    <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/650d114d3e6938001ae1d0b8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsMiami.us" start="20240205233000 +0000" stop="20240206000000 +0000">
     <title lang="en">CBS News Miami 6PM - CBS News Miami 6PM</title>
     <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
@@ -208,12 +202,6 @@ A New Orleans man is shot in front of his grandmother's home, and police detecti
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d6/2f/d6ilnDhv_o.png" />
   </channel>
-  <programme channel="CBSNewsNewYork.us" start="20240205230000 +0000" stop="20240205233000 +0000">
-    <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
-    <desc lang="en">Season 1, .</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/63066e509bd9c6001b668575/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsNewYork.us" start="20240205233000 +0000" stop="20240206000000 +0000">
     <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
     <desc lang="en">Season 1, .</desc>
@@ -635,6 +623,13 @@ A rich Canadian expat in Dubai reports that her husband is missing. And detectiv
     <category lang="en">Reality</category>
     <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="PlutoTVTrueCrime.us" start="20240206123000 +0000" stop="20240206130000 +0000">
+    <title lang="en">Bizarre Murders - Episode 152</title>
+    <desc lang="en">Season 1, Episode 52 
+A small town celebrity goes missing, just as body parts start tuning up around town.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek.us">
     <display-name>Star Trek</display-name>
     <url>Pluto TV Guide</url>
@@ -743,13 +738,6 @@ Enterprise is sent to planet Ekos to investigate a disappearance of Federation h
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/ef/68/NL7FR1wZ_o.png" />
   </channel>
-  <programme channel="PlutoTVSci-Fi.us" start="20240205230000 +0000" stop="20240205233000 +0000">
-    <title lang="en">The Twilight Zone - The Last Flight</title>
-    <desc lang="en">Season 1, Episode 18 
-A World War I flying ace flies through a mysterious cloud - and lands at a modern U.S. airbase in the year 1959!</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="PlutoTVSci-Fi.us" start="20240205233000 +0000" stop="20240206000000 +0000">
     <title lang="en">The Twilight Zone - The Purple Testament</title>
     <desc lang="en">Season 1, Episode 19 
@@ -818,13 +806,6 @@ Immortal Duncan MacLeod cannot stay out of the Immortal conflict with his love T
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/5f/93/OSKkiju1_o.png" />
   </channel>
-  <programme channel="FailArmy.us" start="20240205224400 +0000" stop="20240205231600 +0000">
-    <title lang="en">FailArmy Now - Platter of Mishap</title>
-    <desc lang="en">Season 2, Episode 3 
-Beverages, bad attitude and karma.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/650ca0dad193e8001b8052c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="FailArmy.us" start="20240205231600 +0000" stop="20240205234800 +0000">
     <title lang="en">FailArmy Now - Fail Galore</title>
     <desc lang="en">Season 2, Episode 5 
@@ -1000,17 +981,18 @@ How much does a fail cost?</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/650ca0dcd193e8001b80552c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="FailArmy.us" start="20240206123000 +0000" stop="20240206130200 +0000">
+    <title lang="en">FailArmy Now - Fail Fest</title>
+    <desc lang="en">Season 2, Episode 6 
+Dogs, bears and Friday plans.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0dad193e8001b8052c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="AlwaysFunnyVideos.us">
     <display-name>Always Funny Videos</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/a5/2a/yMz2mukZ_o.png" />
   </channel>
-  <programme channel="AlwaysFunnyVideos.us" start="20240205230000 +0000" stop="20240205233000 +0000">
-    <title lang="en">AnimaLOLs - AnimaLOLs</title>
-    <desc lang="en">Season 1, Always Funny Videos is family-friendly comedy programming from the creators of America’s Funniest Home Videos. 24/7 Laughs delivered in hilarious comedy home videos that are funny for all ages!</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/65a80eb5b8685b0013a30c92/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="AlwaysFunnyVideos.us" start="20240205233000 +0000" stop="20240206000000 +0000">
     <title lang="en">AnimaLOLs - AnimaLOLs</title>
     <desc lang="en">Season 1, Episode 3 
@@ -1186,6 +1168,13 @@ Bringing the top laugh out loud moments.</desc>
   <programme channel="AlwaysFunnyVideos.us" start="20240206120000 +0000" stop="20240206123000 +0000">
     <title lang="en">Prank Video Showdown - Episode 1</title>
     <desc lang="en">Season 2, Episode 1 
+The funniest jumps, scares, and "who cares" moments; clips are put head-to-head for the title of "Ultimate Prank of the Day."</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/6386c776d9c17f001455c536/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="AlwaysFunnyVideos.us" start="20240206123000 +0000" stop="20240206130000 +0000">
+    <title lang="en">Prank Video Showdown - Episode 3</title>
+    <desc lang="en">Season 2, Episode 3 
 The funniest jumps, scares, and "who cares" moments; clips are put head-to-head for the title of "Ultimate Prank of the Day."</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/6386c776d9c17f001455c536/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
@@ -1429,13 +1418,6 @@ Bashir and O'Brien link minds with the man who holds the cure to Odo's deadly di
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/2a/c4/j0wnCQ1X_o.jpg" />
   </channel>
-  <programme channel="UnsolvedMysteries.us" start="20240205221536 +0000" stop="20240205231536 +0000">
-    <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 6</title>
-    <desc lang="en">Season 6, Episode 6 
-This episode includes: Lake Wales Haunting (Pts. 1 &amp; 2), Bomb Shelter Friends &amp; UD, Murder in Agawam, UD: Surprise Sister and Down to the Wire.</desc>
-    <category lang="en">Documentaries</category>
-    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="UnsolvedMysteries.us" start="20240205231536 +0000" stop="20240206001536 +0000">
     <title lang="en">Unsolved Mysteries with Robert Stack - Unsolved Mysteries with Robert Stack</title>
     <desc lang="en">Season 2, Episode 1 
@@ -1649,13 +1631,6 @@ A detective vows not to shave until he solves the murder of a young woman; inves
     <url>Pluto TV Guide</url>
     <icon src="https://images.pluto.tv/channels/545943f1c9f133a519bbac92/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </channel>
-  <programme channel="MST3K.us" start="20240205213000 +0000" stop="20240205231500 +0000">
-    <title lang="en">Mystery Science Theater 3000 - Boggy Creek II: And The Legend Continues</title>
-    <desc lang="en">Season 11, Episode 6 
-A professor and his students camp out in the rural Arkansas swamp, in hopes of finding a Bigfoot-like creature.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/55af192827f18b7f8bc28207/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="MST3K.us" start="20240205231500 +0000" stop="20240206011500 +0000">
     <title lang="en">MST3K: The Batwoman - MST3K: The Batwoman</title>
     <desc lang="en">Season 1, Episode 1 
