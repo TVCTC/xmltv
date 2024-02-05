@@ -7,36 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240205023316 +0100" stop="20240205024828 +0100">
-    <title lang="en">Big hits at Crankworx Innsbruck</title>
-    <desc lang="en">As Crankworx Innsbruck returns for 2021, Erik Fedko and Emil Johansson prepare to put on a show. (15 minutes)</desc>
-    <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/11/26/u4aj88i17ib4e0rpixgt/raising-the-bar-ep2-art" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240205024828 +0100" stop="20240205030526 +0100">
-    <title lang="en">Competing at Audi Nines</title>
-    <desc lang="en">Summer's arrived, which means it’s time for Emil and Erik to send it at the progressive Audi Nines MTB event. (16 minutes)</desc>
-    <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/11/26/cyf0sp81x98mkxmoofbd/raising-the-bar-ep3-art" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240205030526 +0100" stop="20240205032725 +0100">
-    <title lang="en">Exploring British Columbia</title>
-    <desc lang="en">After sending it at Crankworx SilverStar in Canada, Erik explores BC, while Emil heads to Vancouver Island. (22 minutes)</desc>
-    <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/11/26/opl6jjykbsn0rzitfeym/raising-the-bar-ep4-art" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240205032725 +0100" stop="20240205042156 +0100">
-    <title lang="en">Toby Price: Ridin’ Shotgun</title>
-    <desc lang="en">Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels? (54 minutes)</desc>
-    <category lang="en">Sport, Offroad</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/9/22/uizpbk9kquu6ustdsgnf/toby-price-ridin-shotgun-hero-art" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240205042156 +0100" stop="20240205050922 +0100">
-    <title lang="en">Trent’s Vision</title>
-    <desc lang="en">Trent Alexander-Arnold is one of the world's best footballers. Can vision training help him to be even better? (47 minutes)</desc>
-    <category lang="en">Sport, Soccer</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/5/19/e4ji5lljqroyq8j0jxmr/trents-vision-hero-art" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240205050922 +0100" stop="20240205055722 +0100">
     <title lang="en">360 Ascent</title>
     <desc lang="en">Climbers Janja Garnbret and Domen Škofic scale the tallest artificial multi-pitch route in the world. (48 minutes)</desc>
@@ -150,6 +120,36 @@
     <desc lang="en">Ride with Gustavo Ribeiro as he shows us around his hometown of Lisbon, Portugal. (19 minutes)</desc>
     <category lang="en">Sport, Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/5/7/sdzobkoh8czel4z2jtpy/mundo-gustavo-ep1-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240205152515 +0100" stop="20240205153734 +0100">
+    <title lang="en">How a skateboard gets made</title>
+    <desc lang="en">Join Gustavo Ribeiro as he visits the Basque Country to see his pro board being made. (12 minutes)</desc>
+    <category lang="en">Sport, Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/5/7/jbeyeunzxasudl6m0myy/mundo-gustavo-ep2-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240205153734 +0100" stop="20240205171647 +0100">
+    <title lang="en">Valley Uprising</title>
+    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite. (99 minutes)</desc>
+    <category lang="en">Sport, Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240205171647 +0100" stop="20240205180957 +0100">
+    <title lang="en">Red Bull Cape Fear</title>
+    <desc lang="en">In Sydney's unforgiving Botany Bay, 16 big wave surfers ride the six-to-eight foot sets across a deadly reef. (52 minutes)</desc>
+    <category lang="en">Sport, Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z9VJDJDS5N11/FO-1Z9VJDJDS5N11-featureMedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240205180957 +0100" stop="20240205190845 +0100">
+    <title lang="en">One at a Time</title>
+    <desc lang="en">Follow professional slopestyle rider Brett Rheeder through the ups and downs of a Crankworx contest season. (59 minutes)</desc>
+    <category lang="en">Sport, Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ju0vdt30ad36f7oel2k4/one-at-a-time-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240205190845 +0100" stop="20240205193205 +0100">
+    <title lang="en">Smile and fight</title>
+    <desc lang="en">Can big wall climber Natalia Grossman handle the pressure of defending her IFSC World Cup Champion title? (23 minutes)</desc>
+    <category lang="en">Sport, Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/mc7bjmfxmd7ueucvx4qc/reel-rock-s9-e1-natalia-grossman" />
   </programme>
 </tv>
 
