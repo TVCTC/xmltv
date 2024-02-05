@@ -7,30 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240205062323 +0100" stop="20240205065027 +0100">
-    <title lang="en">Oslo, Norway</title>
-    <desc lang="en">Local flavours rule the day, as teams dress up homemade flying machines in honour of food, festivals and more. (26 minutes)</desc>
-    <category lang="en">Sport, Red Bull Flugtag</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1NPQ4G1J52111/FO-1NPQ4G1J52111-featureMedia" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240205072727 +0100" stop="20240205075230 +0100">
-    <title lang="en">Encouraged</title>
-    <desc lang="en">At age 16 Courage Adams turned pro, taking the BMX world by storm. Now, he returns to his roots in Nigeria. (24 minutes)</desc>
-    <category lang="en">Sport, BMX</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/1/9/znhmnqmxxewl6ww11nkr/courage-adams-bmx-nigeria-trip-benin-city" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240205075230 +0100" stop="20240205083632 +0100">
-    <title lang="en">Mumbai, India</title>
-    <desc lang="en">Thousands of frenzied fans swarmed to Mumbai, India, to watch brave soapbox racers compete all day and night. (45 minutes)</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SER7WMGH5N11/FO-1SER7WMGH5N11-featureMedia" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240205083632 +0100" stop="20240205092202 +0100">
-    <title lang="en">Santiago, Chile</title>
-    <desc lang="en">Teams of intrepid soapbox racers test their skills in Santiago, Chile, on a steep and treacherous course. (45 minutes)</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SERBKFRS5N11/FO-1SERBKFRS5N11-featureMedia" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240205092202 +0100" stop="20240205094530 +0100">
     <title lang="en">Taking to the skies</title>
     <desc lang="en">Jason and Nick find themselves in the Eastern Cape where they visit legend of the skies Patrick Davidson. (23 minutes)</desc>
@@ -150,6 +126,36 @@
     <desc lang="en">At the end of the day, it's all about fun and being stoked in this ski movie, filmed in several locations. (73 minutes)</desc>
     <category lang="en">Sport, Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/12/9/i5sqiq5zo0swskyffxmo/stoke-the-fire-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240205210948 +0100" stop="20240205221904 +0100">
+    <title lang="en">Legend Has It</title>
+    <desc lang="en">For 28 years, Teton Gravity Research has been travelling the globe and creating legends along the way. (72 minutes)</desc>
+    <category lang="en">Sport, Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/20/kzt1k9frjcgtfokployt/legend-has-it-ski-film" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240205221904 +0100" stop="20240205224051 +0100">
+    <title lang="en">Infinita Patagonia</title>
+    <desc lang="en">Nadine Wallner ventured to the rarely skied location of El Chaltén, Argentina, for some serious alpinism. (21 minutes)</desc>
+    <category lang="en">Sport, Freeskiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/4/eeerdp0sqel7uaglzw3x/infinita-patagonia-nadine-wallner-freeski" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240205224051 +0100" stop="20240205232415 +0100">
+    <title lang="en">Bunny Hop</title>
+    <desc lang="en">From the crew that brought you Pretty Sweet, Yeah Right, and Fully Flared, this will have you hyped to skate. (43 minutes)</desc>
+    <category lang="en">Sport, Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/22/ld7pccpwydi1t8jkta7d/bunny-hop-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240205232415 +0100" stop="20240205233927 +0100">
+    <title lang="en">Erik Fedko checks out Emil Johansson's home spots</title>
+    <desc lang="en">After success in New Zealand, Erik Fedko heads to Sweden to check out Emil Johansson’s favourite home spots. (15 minutes)</desc>
+    <category lang="en">Sport, Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/11/26/a1dt3oip6dxxtfhohepw/raising-the-bar-ep1-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240205233927 +0100" stop="20240205235438 +0100">
+    <title lang="en">Big hits at Crankworx Innsbruck</title>
+    <desc lang="en">As Crankworx Innsbruck returns for 2021, Erik Fedko and Emil Johansson prepare to put on a show. (15 minutes)</desc>
+    <category lang="en">Sport, Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/11/26/u4aj88i17ib4e0rpixgt/raising-the-bar-ep2-art" />
   </programme>
 </tv>
 
