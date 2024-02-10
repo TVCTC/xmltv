@@ -115,12 +115,6 @@ Detectives seek the public's help when an unidentified body is found dismembered
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d1/35/I5qwoZbg_o.png" />
   </channel>
-  <programme channel="CBSNewsMiami.us" start="20240210230000 +0000" stop="20240210233000 +0000">
-    <title lang="en">Game Changers - Game Changers</title>
-    <desc lang="en">Season 1, Jim Berry and the CBS Miami sports team debate the latest in South Florida sports.</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/64103ec53448750014ef3db5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsMiami.us" start="20240210233000 +0000" stop="20240211000000 +0000">
     <title lang="en">CBS News National - CBS News National</title>
     <desc lang="en">Season 1, National and World News.</desc>
@@ -216,12 +210,6 @@ Detectives seek the public's help when an unidentified body is found dismembered
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d6/2f/d6ilnDhv_o.png" />
   </channel>
-  <programme channel="CBSNewsNewYork.us" start="20240210230000 +0000" stop="20240210233000 +0000">
-    <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
-    <desc lang="en">Season 1, .</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/63066e509bd9c6001b668575/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsNewYork.us" start="20240210233000 +0000" stop="20240211000000 +0000">
     <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
     <desc lang="en">Season 1, .</desc>
@@ -616,6 +604,13 @@ When four college students are murdered at the University of Idaho, online sleut
     <category lang="en">Reality</category>
     <icon src="https://images.pluto.tv/series/65c11c8544bc6e0013bd1da0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="PlutoTVTrueCrime.us" start="20240211121500 +0000" stop="20240211133000 +0000">
+    <title lang="en">#Cybersleuths: The Idaho Murders - Crime Goes Viral</title>
+    <desc lang="en">Season 1, Episode 1 
+When four college students are murdered at the University of Idaho, online sleuths - with no training or expertise - throw themselves into the investigation. Stream all episodes now, only on Paramount+.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://images.pluto.tv/series/65c11c8544bc6e0013bd1da0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek.us">
     <display-name>Star Trek</display-name>
     <url>Pluto TV Guide</url>
@@ -724,13 +719,6 @@ While visiting a planet under civil war, Dr. Crusher is taken hostage by an oppo
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/ef/68/NL7FR1wZ_o.png" />
   </channel>
-  <programme channel="PlutoTVSci-Fi.us" start="20240210230000 +0000" stop="20240210233000 +0000">
-    <title lang="en">The Twilight Zone - The Dummy</title>
-    <desc lang="en">Season 3, Episode 33 
-A ventriloquist is convinced that his dummy, Willie, is alive and evil. He makes plans for a new act with a new dummy: plans that Willie doesn't support!</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="PlutoTVSci-Fi.us" start="20240210233000 +0000" stop="20240211000000 +0000">
     <title lang="en">The Twilight Zone - Young Man's Fancy</title>
     <desc lang="en">Season 3, Episode 34 
@@ -806,13 +794,6 @@ A mysterious death at the Paris Opera re-acquaints Duncan with one of the strang
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/5f/93/OSKkiju1_o.png" />
   </channel>
-  <programme channel="FailArmy.us" start="20240210224600 +0000" stop="20240210231800 +0000">
-    <title lang="en">FailArmy Now - Platter of Mishap</title>
-    <desc lang="en">Season 2, Episode 3 
-Beverages, bad attitude and karma.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/650ca0dad193e8001b8052c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="FailArmy.us" start="20240210231800 +0000" stop="20240210235000 +0000">
     <title lang="en">FailArmy Now - Fail Galore</title>
     <desc lang="en">Season 2, Episode 5 
@@ -981,18 +962,18 @@ Grace is the name of the game as dancing, pole dancing, cheer, and aerial fail t
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/650ca0fcd193e8001b808f75/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="FailArmy.us" start="20240211122700 +0000" stop="20240211125800 +0000">
+    <title lang="en">FAILARMY: 50 VS. 50 - Fixes vs. Tricks</title>
+    <desc lang="en">Season 1, Episode 12 
+Fixers, who will do anything to curb an urge, or those adventurous tricksters.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0e5d193e8001b8064ca/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="AlwaysFunnyVideos.us">
     <display-name>Always Funny Videos</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/a5/2a/yMz2mukZ_o.png" />
   </channel>
-  <programme channel="AlwaysFunnyVideos.us" start="20240210230000 +0000" stop="20240210233000 +0000">
-    <title lang="en">Fail Center - Episode 19</title>
-    <desc lang="en">Season 3, Episode 19 
-Always Funny Videos is family-friendly comedy programming from the creators of America’s Funniest Home Videos. 24/7 Laughs delivered in hilarious comedy home videos that are funny for all ages!</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/64513aa8649e97001bd0f375/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="AlwaysFunnyVideos.us" start="20240210233000 +0000" stop="20240211000000 +0000">
     <title lang="en">Fail Center - Episode 2</title>
     <desc lang="en">Season 3, Episode 2 
@@ -1149,13 +1130,6 @@ Featuring the best clips of the day and comedians who always have something funn
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/27/e4/fXrWe4Dd_o.jpg" />
   </channel>
-  <programme channel="StarTrek2.us" start="20240210224301 +0000" stop="20240210232830 +0000">
-    <title lang="en">Star Trek: The Next Generation (Embed) - LEGACY</title>
-    <desc lang="en">Season 4, Episode 180 
-The crew of the Enterprise enters into orbit around the home planet of their former crew-mate, Tasha Yar, where they encounter her sister.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="StarTrek2.us" start="20240210232830 +0000" stop="20240211001402 +0000">
     <title lang="en">Star Trek: The Next Generation (Embed) - HOME SOIL</title>
     <desc lang="en">Season 1, Episode 117 
@@ -1272,6 +1246,13 @@ Picard finds himself facing a strenuous test of his loyalty to Starfleet, one wh
     <title lang="en">Star Trek: The Next Generation (Embed) - EVOLUTION*</title>
     <desc lang="en">Season 3, Episode 150 
 The Enterprise is carrying an eminent scientist, Dr. Paul Stubbs, to the site of a binary star where they are expecting a massive stellar explosion to occur in a few hours.</desc>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="StarTrek2.us" start="20240211122201 +0000" stop="20240211130730 +0000">
+    <title lang="en">Star Trek: The Next Generation (Embed) - LEGACY</title>
+    <desc lang="en">Season 4, Episode 180 
+The crew of the Enterprise enters into orbit around the home planet of their former crew-mate, Tasha Yar, where they encounter her sister.</desc>
     <category lang="en">Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
