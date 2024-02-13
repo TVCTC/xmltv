@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240213232212 +0100" stop="20240213235232 +0100">
-    <title lang="en">Hard Enduro</title>
-    <desc lang="en">Special guest Fabio Wibmer joins a star-studded line-up to discuss decades of progression in Hard Enduro. (26 minutes)</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/10/lgz7zoe1bj8tqc81vila/taddy-blazusiak-red-bull-hare-scramble-2019" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240213235232 +0100" stop="20240214001828 +0100">
     <title lang="en">Moto Maverick</title>
     <desc lang="en">Ryan Sipes examines the current state of motocross racing through a stylised and cinematic lens. (24 minutes)</desc>
@@ -156,6 +150,12 @@
     <desc lang="en">Red Bull Rampage is mountain biking’s truest test of skill and mental toughness. (26 minutes)</desc>
     <category lang="en">Sport, MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/5/vihjpazjvloactehdhrb/dustin-gilding-carson-storch-rampage-build" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240214164748 +0100" stop="20240214170902 +0100">
+    <title lang="en">Cenote</title>
+    <desc lang="en">Adolfo 'Fito' Trujillo’s discovery of climbing in the limestone sinkholes turns the farmer’s life around. (19 minutes)</desc>
+    <category lang="en">Sport, Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/gl3qlrwdaz1smqbizu1b/reel-rock-s8-e4-aldolfo-trujillo-yucatan-penninsula" />
   </programme>
 </tv>
 
