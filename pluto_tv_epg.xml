@@ -124,12 +124,6 @@ Mardi Gras proves hectic for the responders; a man impales his hand on a fence, 
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d1/35/I5qwoZbg_o.png" />
   </channel>
-  <programme channel="CBSNewsMiami.us" start="20240214230000 +0000" stop="20240214233000 +0000">
-    <title lang="en">CBS News Miami at 6PM - CBS News Miami at 6PM</title>
-    <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/650d114d3e6938001ae1d0b8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsMiami.us" start="20240214233000 +0000" stop="20240215000000 +0000">
     <title lang="en">CBS News Miami 6PM - CBS News Miami 6PM</title>
     <desc lang="en">Season 1, CBS News Miami is hyper local news streaming 24/7... for free! It’s South Florida’s place to get top stories, breaking news, weather, traffic and more. Check us out. We’re always on.</desc>
@@ -231,12 +225,6 @@ Mardi Gras proves hectic for the responders; a man impales his hand on a fence, 
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d6/2f/d6ilnDhv_o.png" />
   </channel>
-  <programme channel="CBSNewsNewYork.us" start="20240214230000 +0000" stop="20240214233000 +0000">
-    <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
-    <desc lang="en">Season 1, .</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/63066e509bd9c6001b668575/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsNewYork.us" start="20240214233000 +0000" stop="20240215000000 +0000">
     <title lang="en">CBS2 News 6pm - CBS2 News 6pm</title>
     <desc lang="en">Season 1, .</desc>
@@ -660,6 +648,13 @@ A high-rolling, high-priced fortune-teller is slaughtered, and detectives must d
     <category lang="en">Reality</category>
     <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="PlutoTVTrueCrime.us" start="20240215123000 +0000" stop="20240215130000 +0000">
+    <title lang="en">Bizarre Murders - Vampire Diaries</title>
+    <desc lang="en">Season 1, Episode 22 
+In a picture-perfect East Coast town, an 80-year-old widow is viciously murdered in a gruesome ritual killing, and the evidence indicates the killer cut out her heart and drank her blood.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek.us">
     <display-name>Star Trek</display-name>
     <url>Pluto TV Guide</url>
@@ -768,13 +763,6 @@ The Enterprise picks up a intergalactic conman, Harry Mudd, and three incredibly
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/ef/68/NL7FR1wZ_o.png" />
   </channel>
-  <programme channel="PlutoTVSci-Fi.us" start="20240214230000 +0000" stop="20240214233000 +0000">
-    <title lang="en">The Twilight Zone - A World of Difference</title>
-    <desc lang="en">Season 1, Episode 23 
-Businessman Arthur Curtis discovers that life as he knows it doesn't really exist.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="PlutoTVSci-Fi.us" start="20240214233000 +0000" stop="20240215000000 +0000">
     <title lang="en">The Twilight Zone - Long Live Walter Jameson</title>
     <desc lang="en">Season 1, Episode 24 
@@ -850,12 +838,6 @@ Duncan must handle the return of the old friend and the Immortal serial killer w
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/5f/93/OSKkiju1_o.png" />
   </channel>
-  <programme channel="FailArmy.us" start="20240214230000 +0000" stop="20240214233000 +0000">
-    <title lang="en">FailArmy Now - FailArmy Now</title>
-    <desc lang="en">Season 1, Non-stop FailArmy action, with your daily dose of fails and hilarious videos.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/650ca0dad193e8001b8052c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="FailArmy.us" start="20240214233000 +0000" stop="20240215000000 +0000">
     <title lang="en">FailArmy Now - FailArmy Now</title>
     <desc lang="en">Season 1, Non-stop FailArmy action, with your daily dose of fails and hilarious videos.</desc>
@@ -997,18 +979,17 @@ Construction mishaps abound in today's costly collection.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/650ca0dcd193e8001b80552c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="FailArmy.us" start="20240215122200 +0000" stop="20240215125400 +0000">
+    <title lang="en">FailArmy Presents Love Hurts - FailArmy Presents Love Hurts</title>
+    <desc lang="en">Season 1, Love is no fairytale for these couples - it's pain, literally.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0fcd193e8001b808f75/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="AlwaysFunnyVideos.us">
     <display-name>Always Funny Videos</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/a5/2a/yMz2mukZ_o.png" />
   </channel>
-  <programme channel="AlwaysFunnyVideos.us" start="20240214230000 +0000" stop="20240214233000 +0000">
-    <title lang="en">Laugh It Up Countdown - Laugh It Up Countdown</title>
-    <desc lang="en">Season 1, Episode 3 
-The funniest fails and comic clips out there today.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/6386c777d9c17f001455c55d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="AlwaysFunnyVideos.us" start="20240214233000 +0000" stop="20240215000000 +0000">
     <title lang="en">Laugh It Up Countdown - Episode 1</title>
     <desc lang="en">Season 1, Episode 1 
@@ -1184,18 +1165,18 @@ Videos that showcase the home disasters.</desc>
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/6386c77bd9c17f001455c691/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="AlwaysFunnyVideos.us" start="20240215123000 +0000" stop="20240215130000 +0000">
+    <title lang="en">Home Disaster Zone - Episode 1</title>
+    <desc lang="en">Season 3, Episode 1 
+Videos that showcase the home disasters.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/6386c77bd9c17f001455c691/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek2.us">
     <display-name>Star Trek 2</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/27/e4/fXrWe4Dd_o.jpg" />
   </channel>
-  <programme channel="StarTrek2.us" start="20240214221601 +0000" stop="20240214230130 +0000">
-    <title lang="en">Star Trek: The Next Generation (Embed) - LEGACY</title>
-    <desc lang="en">Season 4, Episode 180 
-The crew of the Enterprise enters into orbit around the home planet of their former crew-mate, Tasha Yar, where they encounter her sister.</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5f83b47690766d00074cf30d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="StarTrek2.us" start="20240214230130 +0000" stop="20240214234702 +0000">
     <title lang="en">Star Trek: The Next Generation (Embed) - HOME SOIL</title>
     <desc lang="en">Season 1, Episode 117 
@@ -1430,13 +1411,6 @@ After their ship is destroyed, Sisko is stranded on a distant planet with an inc
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/2a/c4/j0wnCQ1X_o.jpg" />
   </channel>
-  <programme channel="UnsolvedMysteries.us" start="20240214220036 +0000" stop="20240214230036 +0000">
-    <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 2</title>
-    <desc lang="en">Season 10, Episode 2 
-This episode includes: Campus Murder Expose &amp; UD, Walk-Ins, Texas Wife Murder, Pick Ax Savior and Stella.</desc>
-    <category lang="en">Documentaries</category>
-    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="UnsolvedMysteries.us" start="20240214230036 +0000" stop="20240215000036 +0000">
     <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 21</title>
     <desc lang="en">Season 7, Episode 21 
@@ -1525,6 +1499,13 @@ This episode includes: Missing Medic &amp; UD, Update: Serial Molester, Killer C
     <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 12</title>
     <desc lang="en">Season 7, Episode 12 
 This episode includes: Padre Pio, Pts. 1 &amp; 2, Model's Third Notebook &amp; UD, Calculating Coroners &amp; UD and Nazi's Lazarus.</desc>
+    <category lang="en">Documentaries</category>
+    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="UnsolvedMysteries.us" start="20240215120036 +0000" stop="20240215130036 +0000">
+    <title lang="en">Unsolved Mysteries with Robert Stack - Episode: 8</title>
+    <desc lang="en">Season 10, Episode 8 
+This episode includes: Profiling the Paranormal, Casino Cowboy &amp; UD, Missing on a Cruise and Police Woman Savior.</desc>
     <category lang="en">Documentaries</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
