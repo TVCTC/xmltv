@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240215134022 +0100" stop="20240215152103 +0100">
-    <title lang="en">Layers</title>
-    <desc lang="en">Discover and celebrate the unique people, places, personalities and layers behind what we call snowboarding. (88 minutes)</desc>
-    <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/a24wabmgl2h2stzq5tyk/snowboard-movie-layers" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240215152103 +0100" stop="20240215154350 +0100">
     <title lang="en">Momentum: Angie Scarth-Johnson</title>
     <desc lang="en">Spend a year touring the world with Australia’s Angie Scarth-Johnson as she pushes the boundaries of climbing. (21 minutes)</desc>
@@ -144,6 +138,12 @@
     <desc lang="en">From the creative mind of Danny MacAskill comes an immersive and deeply personal fantasy of trial riding. (8 minutes)</desc>
     <category lang="en">Sport, MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1N5CB7D7N1W11/FO-1N5CB7D7N1W11-featureMedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240214225440 +0100" stop="20240214232445 +0100">
+    <title lang="en">Zurich, Switzerland</title>
+    <desc lang="en">Fifty teams fly homemade flying craft around (and in!) Lake Zurich, Switzerland. (26 minutes)</desc>
+    <category lang="en">Sport, Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJQX8DH2111/FO-1RFJQX8DH2111-featureMedia" />
   </programme>
 </tv>
 
