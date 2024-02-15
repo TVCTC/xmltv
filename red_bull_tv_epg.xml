@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240215152103 +0100" stop="20240215154350 +0100">
-    <title lang="en">Momentum: Angie Scarth-Johnson</title>
-    <desc lang="en">Spend a year touring the world with Australia’s Angie Scarth-Johnson as she pushes the boundaries of climbing. (21 minutes)</desc>
-    <category lang="en">Sport, Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/20/jaaohxwjtljbh9ffnrqk/momentum-angie-scarth-johnson" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240215154350 +0100" stop="20240215160946 +0100">
     <title lang="en">Spitting distance</title>
     <desc lang="en">A team of scientists and climbers descend into a volcano to get as close as possible to an active lava lake. (24 minutes)</desc>
@@ -144,6 +138,12 @@
     <desc lang="en">Fifty teams fly homemade flying craft around (and in!) Lake Zurich, Switzerland. (26 minutes)</desc>
     <category lang="en">Sport, Red Bull Flugtag</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJQX8DH2111/FO-1RFJQX8DH2111-featureMedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240214232445 +0100" stop="20240214235410 +0100">
+    <title lang="en">Louisville, USA</title>
+    <desc lang="en">Forty teams try to avoid dropping into the Ohio River by piloting inventive homemade flying machines. (26 minutes)</desc>
+    <category lang="en">Sport, Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJTM7852111/FO-1RFJTM7852111-featureMedia" />
   </programme>
 </tv>
 
