@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240216191530 +0100" stop="20240216194053 +0100">
-    <title lang="en">Progression of freestyle</title>
-    <desc lang="en">The foursome called "The New Canadian Airforce" creatively progresses freestyle skiing to the next level. (23 minutes)</desc>
-    <category lang="en">Sport, Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1M1TTMUKD2111/FO-1M1TTMUKD2111-featureMedia" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240216194053 +0100" stop="20240216200641 +0100">
     <title lang="en">Bralorne</title>
     <desc lang="en">Skiers scope out lines in the peaks of the nearly-deserted former mining town of Bralorne, British Columbia. (23 minutes)</desc>
@@ -150,6 +144,12 @@
     <desc lang="en">This action-packed feature explores the backyards and zones that pro skiers frequent to seek new experiences. (78 minutes)</desc>
     <category lang="en">Sport, Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/12/6/kk1ifzug0sozilwhfefh/the-stomping-grounds-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240217074921 +0100" stop="20240217081411 +0100">
+    <title lang="en">Smile and fight</title>
+    <desc lang="en">Can big wall climber Natalia Grossman handle the pressure of defending her IFSC World Cup Champion title? (23 minutes)</desc>
+    <category lang="en">Sport, Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/mc7bjmfxmd7ueucvx4qc/reel-rock-s9-e1-natalia-grossman" />
   </programme>
 </tv>
 
