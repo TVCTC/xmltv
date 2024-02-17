@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240217222114 +0100" stop="20240217231006 +0100">
-    <title lang="en">Fleeting Time</title>
-    <desc lang="en">Ben Ferguson and a crew of professional snowboarders document two winters of chasing storms. (42 minutes)</desc>
-    <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/21/i3nu64ojjxqwogr2c7g8/fleeting-time-ben-ferguson-snowboarding-film" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240217231006 +0100" stop="20240217233450 +0100">
     <title lang="en">Life on ice</title>
     <desc lang="en">Ice climber Will Gadd exploits a rare mid-winter cataract freeze to scale a natural wonder: Niagara Falls. (23 minutes)</desc>
@@ -156,6 +150,12 @@
     <desc lang="en">At the final stop in the Triple Crown of Slopestyle, two riders try to make history on the 1,500m descent. (58 minutes)</desc>
     <category lang="en">Sport, MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1M7KM4NU92111/FO-1M7KM4NU92111-featureMedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240218135052 +0100" stop="20240218145049 +0100">
+    <title lang="en">Red Bull Romaniacs</title>
+    <desc lang="en">Four days of brutal Transylvanian terrain and 24 hours in the saddle makes up Hard Enduro's longest race. (53 minutes)</desc>
+    <category lang="en">Sport, Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1M7KMFXUW2111/FO-1M7KMFXUW2111-featureMedia" />
   </programme>
 </tv>
 
