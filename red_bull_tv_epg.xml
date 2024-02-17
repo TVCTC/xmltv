@@ -7,36 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240217111840 +0100" stop="20240217115100 +0100">
-    <title lang="en">Best moments of 2023</title>
-    <desc lang="en">From Xross Hard Enduro to GetzenRodeo, relive the best moments from the 2023 Hard Enduro World Championship. (28 minutes)</desc>
-    <category lang="en">Sport, Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/21/cbofzivks1dlqjaft3kb/manuel-lettenbichler-red-bull-outliers-2023" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240217115100 +0100" stop="20240217132537 +0100">
-    <title lang="en">The Engine Inside</title>
-    <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world. (84 minutes)</desc>
-    <category lang="en">Sport, Cycling</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240217132537 +0100" stop="20240217135713 +0100">
-    <title lang="en">Red Bull Dual Ascent</title>
-    <desc lang="en">Look back at the best bits as 24 of the world’s best climbers go head to head at Red Bull Dual Ascent 2023. (27 minutes)</desc>
-    <category lang="en">Sport, Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/9/vpbs0htflubulplolnyi/petra-klingler-red-bull-dual-ascent-2023" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240217135713 +0100" stop="20240217143422 +0100">
-    <title lang="en">Australia Tour</title>
-    <desc lang="en">The skateboard demo tour hits Melbourne, Brisbane, Gold Coast and Sydney with Jamie Foy, TJ Rogers and more. (33 minutes)</desc>
-    <category lang="en">Sport, Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/12/c1cuulekhr76jf4t3pgr/jamie-foy-red-bull-drop-in-tour-2023-australia-skateboarding" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240217143422 +0100" stop="20240217150846 +0100">
-    <title lang="en">Schnitzel Time – An Austrian Dream</title>
-    <desc lang="en">Niels Schack’s latest snowboard film showcases a diverse Austrian-only line-up of Burton team riders. (30 minutes)</desc>
-    <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/30/s8irmmqw5mam9xmjigev/schnitzel-time-an-austrian-dream-header-image" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240217150846 +0100" stop="20240217153741 +0100">
     <title lang="en">Boston, USA</title>
     <desc lang="en">A strong headwind challenges the weird and wonderful flying machines in one of America's great academic cities. (25 minutes)</desc>
@@ -156,6 +126,36 @@
     <desc lang="en">Madars Apse meets the Japanese skateboarder who shaped an alternative skate movement. (21 minutes)</desc>
     <category lang="en">Sport, Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/u2tupkishahsetcu9lla/madars-apse-and-takahiro-morita-tokyo-japan-skate-tales" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240218023430 +0100" stop="20240218032555 +0100">
+    <title lang="en">The crevasse</title>
+    <desc lang="en">Air Zermatt’s teamwork is put to the ultimate test when a skier falls into a 30m glacial crevasse. (45 minutes)</desc>
+    <category lang="en">Sport, Adventure</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PSK9TXUH1W11/FO-1PSK9TXUH1W11-featureMedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240218032555 +0100" stop="20240218042020 +0100">
+    <title lang="en">The mountain</title>
+    <desc lang="en">The Matterhorn and its surrounding mountains can be treacherous, especially during winter. (48 minutes)</desc>
+    <category lang="en">Sport, Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PSKE1X851W11/FO-1PSKE1X851W11-featureMedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240217233450 +0100" stop="20240218000031 +0100">
+    <title lang="en">Mind on the wire</title>
+    <desc lang="en">Pro slackliner Alex Schulz attempts to break the highline world record with a lofty traverse in China. (24 minutes)</desc>
+    <category lang="en">Sport, Slacklining</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1NZDBSKK52111/FO-1NZDBSKK52111-featureMedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240217022658 +0100" stop="20240217024145 +0100">
+    <title lang="en">Road less travelled</title>
+    <desc lang="en">Can road bikers make the move to mountain biking? And vice versa? Tom Pidcock and Jolanda Neff give it a try. (13 minutes)</desc>
+    <category lang="en">Sport, Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/12/eaef2ojago0splz7kgpl/thomas-pidcock-uci-xc-mtb-world-cup-2022-nove-mesto" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240218050000 +0100" stop="20240218055000 +0100">
+    <title lang="en">Red Bull X-Alps 2023</title>
+    <desc lang="en">2023 marks the 20th anniversary of the world's toughest adventure race across the Alps with elite athletes. (44 minutes)</desc>
+    <category lang="en">Sport, Adventure Racing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/2/xg4pfpelekgevstwvp3s/patrick-von-kanel-red-bull-x-alps-2023" />
   </programme>
 </tv>
 
