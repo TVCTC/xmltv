@@ -7,24 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240217025756 +0100" stop="20240217031333 +0100">
-    <title lang="en">Alt-rock</title>
-    <desc lang="en">XC racers Nino Schurter, Laura Stigger, Payson McElveen and Haley Batten show us their different methods. (13 minutes)</desc>
-    <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/12/lbd9c0gttgmllmtypgm3/nino-schurter-uci-xc-mtb-world-cup-2022-brazil" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240217031333 +0100" stop="20240217032928 +0100">
-    <title lang="en">The freeracers</title>
-    <desc lang="en">Freeriding meets racing as downhill rider Kade Edwards and freerider Kaos Seagrave balance the joys of both. (14 minutes)</desc>
-    <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/12/ssyhguyh62kc8h9qr4wf/kade-edwards-dyfi-bike-park-wales-2022" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240217032928 +0100" stop="20240217034603 +0100">
-    <title lang="en">Between the ears</title>
-    <desc lang="en">Injuries, accidents and mental battles plague the sport: Brook Macdonald and Evie Richards want to see change. (14 minutes)</desc>
-    <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/19/u1nck4lbswbrykhjmzj8/evie-richards-uci-xcc-world-cup-italy-2022" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240217034603 +0100" stop="20240217050000 +0100">
     <title lang="en">Huck Yeah!</title>
     <desc lang="en">Join a crew of the world's top skiers as they charge hard in some of the most spectacular locations. (65 minutes)</desc>
@@ -156,6 +138,24 @@
     <desc lang="en">Follow the journey of pro stand-up paddle athlete Casper Steinfath as he paddles from Denmark to Norway. (54 minutes)</desc>
     <category lang="en">Sport, SUP</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/3/5/unw19sp0sytrgbyk0btp/skagerrak_landscape_hero" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240217194213 +0100" stop="20240217200821 +0100">
+    <title lang="en">Deep Everest</title>
+    <desc lang="en">Adventurer Annelie Pompe aims to become the highest-climbing and lowest-freediving woman on record. (24 minutes)</desc>
+    <category lang="en">Sport, Freediving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1M1UPGDHS1W11/FO-1M1UPGDHS1W11-featureMedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240217200821 +0100" stop="20240217203358 +0100">
+    <title lang="en">Crossing the white void</title>
+    <desc lang="en">Survival expert Joe Vogel single-handedly crosses a vast salt lakebed in Bolivia. (24 minutes)</desc>
+    <category lang="en">Sport, Exploration</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/14/hxaqnuloypbacmducjhg/explorers-adventures-of-the-century-s2-e3-image" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240217203358 +0100" stop="20240217210000 +0100">
+    <title lang="en">Across the ice</title>
+    <desc lang="en">Sebastian Copeland and Eric McNair-Landry endure a record-setting journey to cross the Greenland ice sheet. (24 minutes)</desc>
+    <category lang="en">Sport, Snowkiting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/14/qltjeoqceyjsglnzfry5/explorers-adventures-of-the-century-s2-e4" />
   </programme>
 </tv>
 
