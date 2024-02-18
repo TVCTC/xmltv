@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240218184833 +0100" stop="20240218191859 +0100">
-    <title lang="en">ABC of... Mountain Biking</title>
-    <desc lang="en">Get a crash course in mountain biking, with lessons in the terminology, history and heroes of the sport. (26 minutes)</desc>
-    <category lang="en">Sport, MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RTEWYES91W11/FO-1RTEWYES91W11-featureMedia" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240218191859 +0100" stop="20240218193329 +0100">
     <title lang="en">United States of awesome</title>
     <desc lang="en">These action sports stars pledge allegiance to the pursuit of adrenaline in these top five stateside stunts. (12 minutes)</desc>
@@ -150,6 +144,12 @@
     <desc lang="en">How will the Hountondjis’ powerful new BMWs fair against the other teams' more drift-established cars? (29 minutes)</desc>
     <category lang="en">Sport, Drifting</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/dmgasgubspd5h4irdszz/sideways-with-full-throttle-the-drift-brothers-ep2-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240217062051 +0100" stop="20240217074921 +0100">
+    <title lang="en">The Stomping Grounds</title>
+    <desc lang="en">This action-packed feature explores the backyards and zones that pro skiers frequent to seek new experiences. (78 minutes)</desc>
+    <category lang="en">Sport, Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/12/6/kk1ifzug0sozilwhfefh/the-stomping-grounds-hero-art" />
   </programme>
 </tv>
 
