@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240219225045 +0100" stop="20240219231357 +0100">
-    <title lang="en">Takahiro Morita</title>
-    <desc lang="en">Madars Apse meets the Japanese skateboarder who shaped an alternative skate movement. (21 minutes)</desc>
-    <category lang="en">Sport, Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/u2tupkishahsetcu9lla/madars-apse-and-takahiro-morita-tokyo-japan-skate-tales" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240219231357 +0100" stop="20240220000522 +0100">
     <title lang="en">The crevasse</title>
     <desc lang="en">Air Zermatt’s teamwork is put to the ultimate test when a skier falls into a 30m glacial crevasse. (45 minutes)</desc>
@@ -156,6 +150,12 @@
     <desc lang="en">Climbers Janja Garnbret and Domen Škofic scale the tallest artificial multi-pitch route in the world. (48 minutes)</desc>
     <category lang="en">Sport, Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/26/qitalayy11zhvlrimmru/360-ascent-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240220153640 +0100" stop="20240220162810 +0100">
+    <title lang="en">The Last Ascent</title>
+    <desc lang="en">Will Gadd embarks on a mission to have one last shot at climbing the glaciers of Mount Kilimanjaro. (45 minutes)</desc>
+    <category lang="en">Sport, Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/9/4/ujvk7q3ykepnbq8lu1ul/the-last-ascent-will-gadd-hero-art" />
   </programme>
 </tv>
 
