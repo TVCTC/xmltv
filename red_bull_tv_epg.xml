@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240221101936 +0100" stop="20240221110959 +0100">
-    <title lang="en">Helsinki, Finland</title>
-    <desc lang="en">Red Bull Soapbox Race 2019 headed to Helsinki, Finland and things got out-of-hand funny. (44 minutes)</desc>
-    <category lang="en">Sport, Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/29/sw0rqdfmz17nw4e3ojz1/red-bull-soapbox-race-s2019-e2-finland-art" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240221110959 +0100" stop="20240221114219 +0100">
     <title lang="en">Best moments of 2023</title>
     <desc lang="en">From Xross Hard Enduro to GetzenRodeo, relive the best moments from the 2023 Hard Enduro World Championship. (28 minutes)</desc>
@@ -150,6 +144,12 @@
     <desc lang="en">Renowned surf photographer Mark McInnis tracks down undiscovered waves on the most unlikely of islands.  (50 minutes)</desc>
     <category lang="en">Sport, Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/16/gjjq5yjzpmlkqxmhwnnu/island-x-mark-mcinnis-surf-photography-film" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240220223128 +0100" stop="20240221004145 +0100">
+    <title lang="en">Racing Together</title>
+    <desc lang="en">The history of motorcycle racing is charted through its best riders, from former legends to today’s stars. (119 minutes)</desc>
+    <category lang="en">Sport, MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z73WM3KH5N11/racing-together-motorcycle-race" />
   </programme>
 </tv>
 
