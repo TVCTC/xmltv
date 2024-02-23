@@ -7,42 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240222232147 +0100" stop="20240223004614 +0100">
-    <title lang="en">The Engine Inside</title>
-    <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world. (84 minutes)</desc>
-    <category lang="en">Sport, Cycling</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240223004614 +0100" stop="20240223011330 +0100">
-    <title lang="en">Red Bull Dual Ascent</title>
-    <desc lang="en">Look back at the best bits as 24 of the world’s best climbers go head to head at Red Bull Dual Ascent 2023. (27 minutes)</desc>
-    <category lang="en">Sport, Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/9/vpbs0htflubulplolnyi/petra-klingler-red-bull-dual-ascent-2023" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240223011330 +0100" stop="20240223014619 +0100">
-    <title lang="en">Australia Tour</title>
-    <desc lang="en">The skateboard demo tour hits Melbourne, Brisbane, Gold Coast and Sydney with Jamie Foy, TJ Rogers and more. (33 minutes)</desc>
-    <category lang="en">Sport, Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/12/c1cuulekhr76jf4t3pgr/jamie-foy-red-bull-drop-in-tour-2023-australia-skateboarding" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240223014619 +0100" stop="20240223021704 +0100">
-    <title lang="en">Schnitzel Time – An Austrian Dream</title>
-    <desc lang="en">Niels Schack’s latest snowboard film showcases a diverse Austrian-only line-up of Burton team riders. (30 minutes)</desc>
-    <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/30/s8irmmqw5mam9xmjigev/schnitzel-time-an-austrian-dream-header-image" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240223021704 +0100" stop="20240223024138 +0100">
-    <title lang="en">Boston, USA</title>
-    <desc lang="en">A strong headwind challenges the weird and wonderful flying machines in one of America's great academic cities. (25 minutes)</desc>
-    <category lang="en">Sport, Red Bull Flugtag</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFK19H3D2111/FO-1RFK19H3D2111-featureMedia" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240223024138 +0100" stop="20240223030731 +0100">
-    <title lang="en">Hong Kong</title>
-    <desc lang="en">Some of the world’s most creative aircraft invade Victoria Harbour in Hong Kong for Red Bull Flugtag. (25 minutes)</desc>
-    <category lang="en">Sport, Red Bull Flugtag</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFK2BSMS2111/FO-1RFK2BSMS2111-featureMedia" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240223030731 +0100" stop="20240223043320 +0100">
     <title lang="en">Volcom Pipe Pro</title>
     <desc lang="en">Surfers gather at the legendary North Shore in Hawaii for one of big wave surfing's most revered contests. (85 minutes)</desc>
@@ -120,6 +84,48 @@
     <desc lang="en">Richie Jackson is skateboarding's last true outlaw, challenging every facet of skateboarding culture. (21 minutes)</desc>
     <category lang="en">Sport, Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/efq5y0chesyr2jhorite/madars-apse-and-richie-jackson-barcelona-spain-skate-tales" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240223130537 +0100" stop="20240223132639 +0100">
+    <title lang="en">Takahiro Morita</title>
+    <desc lang="en">Madars Apse meets the Japanese skateboarder who shaped an alternative skate movement. (21 minutes)</desc>
+    <category lang="en">Sport, Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/u2tupkishahsetcu9lla/madars-apse-and-takahiro-morita-tokyo-japan-skate-tales" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240223132639 +0100" stop="20240223134306 +0100">
+    <title lang="en">Julien Regnier</title>
+    <desc lang="en">Paddy discovers how French skier Julien Regnier changed the face of European freeskiing with new techniques. (16 minutes)</desc>
+    <category lang="en">Sport, Freeskiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/2/4/mspz8f0wn8aw2pcp3qgm/dropping-in-s1-e4-julien-regnier-freeski" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240223134306 +0100" stop="20240223140218 +0100">
+    <title lang="en">Ahmet Dadali</title>
+    <desc lang="en">Paddy chats with Ahmet Dadali about how growing up in the mountains led to a lifelong passion for freeskiing. (19 minutes)</desc>
+    <category lang="en">Sport, Freeskiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/2/4/jdpugg4a83oeddny5meb/dropping-in-s1-e2-ahmet-dadali-freeski" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240223140218 +0100" stop="20240223141816 +0100">
+    <title lang="en">Jackie Paaso</title>
+    <desc lang="en">Paddy talks with Jackie Paaso about challenging gender stereotypes – and her reputation for being reckless. (15 minutes)</desc>
+    <category lang="en">Sport, Freeskiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/2/4/f0heifriwflm0y6omiju/dropping-in-s1-e3-jackie-paaso-freeskie" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240223141816 +0100" stop="20240223144018 +0100">
+    <title lang="en">Simon Dumont</title>
+    <desc lang="en">Paddy goes to Austria to find out how Simon Dumont’s results-oriented approach is the key to his success. (22 minutes)</desc>
+    <category lang="en">Sport, Freeskiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/2/4/hncufhwdljeiti1phyj8/dropping-in-s1-e1-simon-dumont-freeski" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240223144018 +0100" stop="20240223150055 +0100">
+    <title lang="en">Infinita Patagonia</title>
+    <desc lang="en">Nadine Wallner ventured to the rarely skied location of El Chaltén, Argentina, for some serious alpinism. (21 minutes)</desc>
+    <category lang="en">Sport, Freeskiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/4/eeerdp0sqel7uaglzw3x/infinita-patagonia-nadine-wallner-freeski" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240223150055 +0100" stop="20240223152035 +0100">
+    <title lang="en">BLOOOM</title>
+    <desc lang="en">Niels Schack's snowboard film features Burton team riders expressing themselves through creative riding. (19 minutes)</desc>
+    <category lang="en">Sport, Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/2/lfimkveyasgrd96eeb00/bloom-snowboard-film" />
   </programme>
 </tv>
 
