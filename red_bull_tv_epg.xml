@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240224145933 +0100" stop="20240224153723 +0100">
-    <title lang="en">Abstract</title>
-    <desc lang="en">Faction's fourth feature film exhibits pure creativity through a series of high-octane freeski sequences. (38 minutes)</desc>
-    <category lang="en">Sport, Freeskiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/w67ikgbwzwzaqvlr5kut/abstract-skiing-film" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240224153723 +0100" stop="20240224160205 +0100">
     <title lang="en">Red Bull Rapids</title>
     <desc lang="en">A wild whitewater race where teams create their own man-made vessels and race down a 258-yard rapids course.  (24 minutes)</desc>
@@ -126,6 +120,12 @@
     <desc lang="en">Featuring the world's best skiers, The Land of Giants captures the power and sheer beauty of the mountains.  (73 minutes)</desc>
     <category lang="en">Sport, Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/10/dk8jryraqqiowysuxjvn/the-land-of-giants-eader" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240225041404 +0100" stop="20240225045734 +0100">
+    <title lang="en">Red Bull X-Alps 2023</title>
+    <desc lang="en">2023 marks the 20th anniversary of the world's toughest adventure race across the Alps with elite athletes. (44 minutes)</desc>
+    <category lang="en">Sport, Adventure Racing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/2/xg4pfpelekgevstwvp3s/patrick-von-kanel-red-bull-x-alps-2023" />
   </programme>
 </tv>
 
