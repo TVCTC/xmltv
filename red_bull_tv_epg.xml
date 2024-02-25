@@ -7,6 +7,18 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
+  <programme channel="RedBullTV.at" start="20240225144825 +0100" stop="20240225150452 +0100">
+    <title lang="en">Julien Regnier</title>
+    <desc lang="en">Paddy discovers how French skier Julien Regnier changed the face of European freeskiing with new techniques. (16 minutes)</desc>
+    <category lang="en">Sport, Freeskiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/2/4/mspz8f0wn8aw2pcp3qgm/dropping-in-s1-e4-julien-regnier-freeski" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240225150452 +0100" stop="20240225152010 +0100">
+    <title lang="en">Jackie Paaso</title>
+    <desc lang="en">Paddy talks with Jackie Paaso about challenging gender stereotypes – and her reputation for being reckless. (15 minutes)</desc>
+    <category lang="en">Sport, Freeskiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/2/4/f0heifriwflm0y6omiju/dropping-in-s1-e3-jackie-paaso-freeskie" />
+  </programme>
   <programme channel="RedBullTV.at" start="20240225152010 +0100" stop="20240225153922 +0100">
     <title lang="en">Ahmet Dadali</title>
     <desc lang="en">Paddy chats with Ahmet Dadali about how growing up in the mountains led to a lifelong passion for freeskiing. (19 minutes)</desc>
@@ -108,6 +120,12 @@
     <desc lang="en">Fifty teams fly homemade flying craft around (and in!) Lake Zurich, Switzerland. (26 minutes)</desc>
     <category lang="en">Sport, Red Bull Flugtag</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJQX8DH2111/FO-1RFJQX8DH2111-featureMedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240226011737 +0100" stop="20240226014322 +0100">
+    <title lang="en">Louisville, USA</title>
+    <desc lang="en">Forty teams try to avoid dropping into the Ohio River by piloting inventive homemade flying machines. (26 minutes)</desc>
+    <category lang="en">Sport, Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJTM7852111/FO-1RFJTM7852111-featureMedia" />
   </programme>
 </tv>
 
