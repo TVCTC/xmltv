@@ -187,12 +187,6 @@ Bergen County, N.J., Chief of Detectives Robert Anzilotti continues his mission 
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/d6/2f/d6ilnDhv_o.png" />
   </channel>
-  <programme channel="CBSNewsNewYork.us" start="20240225230000 +0000" stop="20240225233000 +0000">
-    <title lang="en">Eye on Health - Eye on Health</title>
-    <desc lang="en">Season 1, Eye on Health - 04/30/2023.</desc>
-    <category lang="en">News and Information</category>
-    <icon src="https://images.pluto.tv/series/645ea1d754afb6001a0a8bb6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="CBSNewsNewYork.us" start="20240225233000 +0000" stop="20240226000000 +0000">
     <title lang="en">CBS2 News 6:30pm - CBS2 News 6:30pm</title>
     <desc lang="en">Season 1, CBS2 News 6:30pm - 10/15/2023.</desc>
@@ -624,6 +618,13 @@ A Michigan man is found burned to death in his own garage, and as the bizarre ev
     <category lang="en">Reality</category>
     <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="PlutoTVTrueCrime.us" start="20240226123000 +0000" stop="20240226130000 +0000">
+    <title lang="en">Bizarre Murders - It's a Lying Shame</title>
+    <desc lang="en">Season 1, Episode 46 
+A privileged prep school kid will do anything to live on easy street, and when his father forces him to come clean, dad's ultimatum proves deadly.</desc>
+    <category lang="en">Reality</category>
+    <icon src="https://images.pluto.tv/series/624736986b411b00137ab452/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="StarTrek.us">
     <display-name>Star Trek</display-name>
     <url>Pluto TV Guide</url>
@@ -732,13 +733,6 @@ After Dr. McCoy helps the leader of a planet populated by people with powerful p
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/ef/68/NL7FR1wZ_o.png" />
   </channel>
-  <programme channel="PlutoTVSci-Fi.us" start="20240225230000 +0000" stop="20240225233000 +0000">
-    <title lang="en">The Twilight Zone - The Last Rites of Jeff Myrtlebank</title>
-    <desc lang="en">Season 3, Episode 23 
-Jeff Myrtlebank comes back to life at his own funeral and soon begins to act very strangely...</desc>
-    <category lang="en">Sci-Fi &amp; Fantasy</category>
-    <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="PlutoTVSci-Fi.us" start="20240225233000 +0000" stop="20240226000000 +0000">
     <title lang="en">The Twilight Zone - To Serve Man</title>
     <desc lang="en">Season 3, Episode 24 
@@ -802,17 +796,18 @@ MacLeod and Richie become the protectors for Kenny, a child Immortal who is eter
     <category lang="en">Classics</category>
     <icon src="https://images.pluto.tv/series/5d6edc6c895e82d1174d99e3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="PlutoTVSci-Fi.us" start="20240226121500 +0000" stop="20240226131500 +0000">
+    <title lang="en">Highlander: The Series - Obsession</title>
+    <desc lang="en">Season 3, Episode 8 
+David Keogh, an old friend of Duncan's, has a history of fixating on attractive mortal women... and his newest obsession comes to Duncan for help.</desc>
+    <category lang="en">Classics</category>
+    <icon src="https://images.pluto.tv/series/5d6edc6c895e82d1174d99e3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="FailArmy.us">
     <display-name>FailArmy</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/5f/93/OSKkiju1_o.png" />
   </channel>
-  <programme channel="FailArmy.us" start="20240225223100 +0000" stop="20240225230300 +0000">
-    <title lang="en">FailArmy Top 100 of 2019 - FailArmy Top 100 of 2019</title>
-    <desc lang="en">Season 1, A journey through the most amazing fails of 2019.</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/6548ffa105bcdf001a2a6a35/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="FailArmy.us" start="20240225230300 +0000" stop="20240225233500 +0000">
     <title lang="en">FailArmy Presents: Top 100 of 2021 - FailArmy Presents: Top 100 of 2021</title>
     <desc lang="en">Season 1, A journey through the most amazing fails of 2021.</desc>
@@ -960,18 +955,17 @@ These people have learned that they shouldn't move antique telephone booths on t
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/650ca0dcd193e8001b80552c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="FailArmy.us" start="20240226120300 +0000" stop="20240226123400 +0000">
+    <title lang="en">World's Most Expensive Fails - You Only Fail Twice</title>
+    <desc lang="en">Season 1, Oh Christmas tree, oh christmas tree...how you fall over in the wind.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0dcd193e8001b80552c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="AlwaysFunnyVideos.us">
     <display-name>Always Funny Videos</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images2.imgbox.com/a5/2a/yMz2mukZ_o.png" />
   </channel>
-  <programme channel="AlwaysFunnyVideos.us" start="20240225230000 +0000" stop="20240225233000 +0000">
-    <title lang="en">Fail Center - Fail Center</title>
-    <desc lang="en">Season 3, Episode 35 
-Always Funny Videos is family-friendly comedy programming from the creators of America’s Funniest Home Videos. 24/7 Laughs delivered in hilarious comedy home videos that are funny for all ages!</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.pluto.tv/series/64513aa8649e97001bd0f375/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="AlwaysFunnyVideos.us" start="20240225233000 +0000" stop="20240226000000 +0000">
     <title lang="en">Fail Center - Episode 24</title>
     <desc lang="en">Season 3, Episode 24 
@@ -1127,6 +1121,12 @@ Counting down the funniest videos and choosing favorites.</desc>
     <icon src="https://images.pluto.tv/series/638803b468b55f0013710134/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <programme channel="AlwaysFunnyVideos.us" start="20240226120000 +0000" stop="20240226123000 +0000">
+    <title lang="en">Lacy Laughs - Lacy Laughs</title>
+    <desc lang="en">Season 1, Always Funny Videos is family-friendly comedy programming from the creators of America’s Funniest Home Videos. 24/7 Laughs delivered in hilarious comedy home videos that are funny for all ages!</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/65996afc0687dc001364fd8a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="AlwaysFunnyVideos.us" start="20240226123000 +0000" stop="20240226130000 +0000">
     <title lang="en">Lacy Laughs - Lacy Laughs</title>
     <desc lang="en">Season 1, Always Funny Videos is family-friendly comedy programming from the creators of America’s Funniest Home Videos. 24/7 Laughs delivered in hilarious comedy home videos that are funny for all ages!</desc>
     <category lang="en">Comedy</category>
@@ -1640,18 +1640,18 @@ Joel and the Bots watch a Japanese rip-off of Planet of the Apes, stage their ow
     <category lang="en">Comedy</category>
     <icon src="https://images.pluto.tv/series/55af192827f18b7f8bc28207/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
+  <programme channel="MST3K.us" start="20240226121500 +0000" stop="20240226141500 +0000">
+    <title lang="en">Mystery Science Theater 3000: Lost Continent - Lost Continent</title>
+    <desc lang="en">Season 2, Episode 8 
+A military team sent to search for a lost rocket ends up trapped on a mountain inhabited by dinosaurs in Lost Continent.</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.pluto.tv/series/55af192827f18b7f8bc28207/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
   <channel id="HallmarkMoviesAndMore.us">
     <display-name>Hallmark Movies &amp; More</display-name>
     <url>Pluto TV Guide</url>
     <icon src="https://images.pluto.tv/channels/628e685ba3811100070551a8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </channel>
-  <programme channel="HallmarkMoviesAndMore.us" start="20240225214500 +0000" stop="20240225233000 +0000">
-    <title lang="en">Midnight Masquerade - Midnight Masquerade</title>
-    <desc lang="en">Season 1, Episode 1 
-A young woman's life takes a turn when she inherits a billion-dollar company. On Halloween night, she shares a dance with a mysterious "prince" at a costume ball and yearns for the love and romance her life has been missing.</desc>
-    <category lang="en">Romance</category>
-    <icon src="https://images.pluto.tv/series/62ed443320b977001ee9738e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
-  </programme>
   <programme channel="HallmarkMoviesAndMore.us" start="20240225233000 +0000" stop="20240226011500 +0000">
     <title lang="en">Midway to Love - Midway to Love</title>
     <desc lang="en">Season 1, Episode 1 
@@ -1700,6 +1700,13 @@ Hoping it will be the perfect Christmas present for his wife (Mary-Louise Parker
 A young professor supervises several "orphan" students who have nowhere to go for the holidays.  He brings them together through The Wishing Tree--a Christmas tree decorated with handwritten wishes. Stars Jason Gedrick.</desc>
     <category lang="en">Romance</category>
     <icon src="https://images.pluto.tv/series/62ec567d20d41e001a6b120c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
+  </programme>
+  <programme channel="HallmarkMoviesAndMore.us" start="20240226123000 +0000" stop="20240226154500 +0000">
+    <title lang="en">A Tale of Two Cities - A Tale of Two Cities</title>
+    <desc lang="en">Season 1, Episode 1 
+Based on Charles Dickens' classic, two identical men (both played by Chris Sarandon) - one from England and one from France - fall for the same woman during the height of the French Revolution.</desc>
+    <category lang="en">Drama</category>
+    <icon src="https://images.pluto.tv/series/62f5a77c946347001beefc53/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600" />
   </programme>
   <channel id="Stargate.us">
     <display-name>Stargate</display-name>
