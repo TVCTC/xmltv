@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240226063711 +0100" stop="20240226070755 +0100">
-    <title lang="en">Schnitzel Time – An Austrian Dream</title>
-    <desc lang="en">Niels Schack’s latest snowboard film showcases a diverse Austrian-only line-up of Burton team riders. (30 minutes)</desc>
-    <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/30/s8irmmqw5mam9xmjigev/schnitzel-time-an-austrian-dream-header-image" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240226070755 +0100" stop="20240226083724 +0100">
     <title lang="en">Madrid, Spain</title>
     <desc lang="en">A churros-powered descent is taking place in the steep road of Madrid! Who will come out on top? (89 minutes)</desc>
@@ -126,6 +120,12 @@
     <desc lang="en">Ex-pro surfer Ben Gravy sets out on his dream to become the first person to surf in all 50 US states. (95 minutes)</desc>
     <category lang="en">Sport, Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/25/oczwecazd6w2w9figilo/for-the-dream-ben-gravy" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240226184051 +0100" stop="20240226190636 +0100">
+    <title lang="en">Zurich, Switzerland</title>
+    <desc lang="en">Fifty teams fly homemade flying craft around (and in!) Lake Zurich, Switzerland. (26 minutes)</desc>
+    <category lang="en">Sport, Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJQX8DH2111/FO-1RFJQX8DH2111-featureMedia" />
   </programme>
 </tv>
 
