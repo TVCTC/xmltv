@@ -7,36 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240301033354 +0100" stop="20240301040008 +0100">
-    <title lang="en">House of the gods part 1</title>
-    <desc lang="en">Leo Houlding, Anna Taylor and Waldo Etherington attempt a new route up Mount Roraima in the Amazonian Jungle. (26 minutes)</desc>
-    <category lang="en">Sport, Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/gzvvsct474x3bhtajbsu/reel-rock-s9-e6-image" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240301040008 +0100" stop="20240301042139 +0100">
-    <title lang="en">House of the gods part 2</title>
-    <desc lang="en">Anna Taylor must battle the hardest pitch yet to achieve the team's goal of a fully free ascent. (21 minutes)</desc>
-    <category lang="en">Sport, Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/zx7l8ltgi9gbhq2lwpvg/reel-rock-s9-e7-leo-houlding-anna-taylor-waldo-etherington" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240301042139 +0100" stop="20240301055636 +0100">
-    <title lang="en">For the Dream</title>
-    <desc lang="en">Ex-pro surfer Ben Gravy sets out on his dream to become the first person to surf in all 50 US states. (95 minutes)</desc>
-    <category lang="en">Sport, Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/25/oczwecazd6w2w9figilo/for-the-dream-ben-gravy" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240301055636 +0100" stop="20240301062222 +0100">
-    <title lang="en">Zurich, Switzerland</title>
-    <desc lang="en">Fifty teams fly homemade flying craft around (and in!) Lake Zurich, Switzerland. (26 minutes)</desc>
-    <category lang="en">Sport, Red Bull Flugtag</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJQX8DH2111/FO-1RFJQX8DH2111-featureMedia" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240301062222 +0100" stop="20240301064807 +0100">
-    <title lang="en">Louisville, USA</title>
-    <desc lang="en">Forty teams try to avoid dropping into the Ohio River by piloting inventive homemade flying machines. (26 minutes)</desc>
-    <category lang="en">Sport, Red Bull Flugtag</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJTM7852111/FO-1RFJTM7852111-featureMedia" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240301064807 +0100" stop="20240301080126 +0100">
     <title lang="en">Make Believe</title>
     <desc lang="en">Celebrate the athletes who've chosen to live their lives in a particular way and believe in their dreams. (73 minutes)</desc>
@@ -126,6 +96,36 @@
     <desc lang="en">Paddy chats with Ahmet Dadali about how growing up in the mountains led to a lifelong passion for freeskiing. (19 minutes)</desc>
     <category lang="en">Sport, Freeskiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/2/4/jdpugg4a83oeddny5meb/dropping-in-s1-e2-ahmet-dadali-freeski" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240301174148 +0100" stop="20240301180430 +0100">
+    <title lang="en">Simon Dumont</title>
+    <desc lang="en">Paddy goes to Austria to find out how Simon Dumont’s results-oriented approach is the key to his success. (22 minutes)</desc>
+    <category lang="en">Sport, Freeskiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/2/4/hncufhwdljeiti1phyj8/dropping-in-s1-e1-simon-dumont-freeski" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240301180430 +0100" stop="20240301194659 +0100">
+    <title lang="en">Temporal Collection</title>
+    <desc lang="en">Timeless surfing in a stunning cinematic portrayal that oscillates between mesmerising and electric.  (102 minutes)</desc>
+    <category lang="en">Sport, Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/24/qisfnq225dpfgeeb5ows/temporal-collection-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240301194659 +0100" stop="20240301202450 +0100">
+    <title lang="en">Abstract</title>
+    <desc lang="en">Faction's fourth feature film exhibits pure creativity through a series of high-octane freeski sequences. (38 minutes)</desc>
+    <category lang="en">Sport, Freeskiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/w67ikgbwzwzaqvlr5kut/abstract-skiing-film" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240301202450 +0100" stop="20240301204931 +0100">
+    <title lang="en">Red Bull Rapids</title>
+    <desc lang="en">A wild whitewater race where teams create their own man-made vessels and race down a 258-yard rapids course.  (24 minutes)</desc>
+    <category lang="en">Sport, Rafting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/29/lkpdeyttxakwzbsjlfsq/participants-red-bull-rapids-2022" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240301204931 +0100" stop="20240301213631 +0100">
+    <title lang="en">Walls on Silk Road</title>
+    <desc lang="en">Mountaineer Stefan Glowacz embarks on an expedition along the historic Silk Road.  (47 minutes)</desc>
+    <category lang="en">Sport, Mountaineering</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/23/g9ugonvolghvbkdhrxyn/landscape-tadschikistan" />
   </programme>
 </tv>
 
