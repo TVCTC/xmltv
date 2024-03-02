@@ -7,24 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240302193606 +0100" stop="20240302213433 +0100">
-    <title lang="en">Racing Together</title>
-    <desc lang="en">The history of motorcycle racing is charted through its best riders, from former legends to today’s stars. (119 minutes)</desc>
-    <category lang="en">Sport, MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z73WM3KH5N11/racing-together-motorcycle-race" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240302213433 +0100" stop="20240302221345 +0100">
-    <title lang="en">Here, Hold My Kid</title>
-    <desc lang="en">Two pro skiers, two new mums, one sponsorship: a film about the highs and lows of two women aiming to succeed. (39 minutes)</desc>
-    <category lang="en">Sport, Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/13/r3qya1wgn3uu8x04ewz2/here-hold-my-kid-header-image-skiing" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240302221345 +0100" stop="20240302230147 +0100">
-    <title lang="en">Long Days</title>
-    <desc lang="en">From dawn to dusk, a film crew chased storms from Austria to Montenegro. Their goal? Make a stunning ski film. (47 minutes)</desc>
-    <category lang="en">Sport, Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/6/sfzizfqdhzctjchw9ukw/long-days-hero-art" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240302234727 +0100" stop="20240303003455 +0100">
     <title lang="en">Roots</title>
     <desc lang="en">Faction’s third feature film explores the foundations of freeskiing as seen by the current generation. (47 minutes)</desc>
@@ -114,6 +96,18 @@
     <desc lang="en">The Froth Goblin vs The Golden Boy: Washington’s Austen Sweetin and Colorado’s Red Gerard duel at Scarp Ridge. (20 minutes)</desc>
     <category lang="en">Sport, Snowboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/27/iafklalutl5ggrhwnjox/red-gerard-vs-austen-sweetin" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240303111415 +0100" stop="20240303113223 +0100">
+    <title lang="en">Nils Mindnich vs Victor Daviet</title>
+    <desc lang="en">Nils Mindnich and Victor Daviet go head-to-head to try and lock down one of the six open spots at Revelstoke. (18 minutes)</desc>
+    <category lang="en">Sport, Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/27/ea4b2iera8lhlntregkw/nils-mindnich-vs-victor-daviet" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240303113223 +0100" stop="20240303114859 +0100">
+    <title lang="en">Sebbe De Buck vs Kevin Backstrom</title>
+    <desc lang="en">Snowboarders Sebbe De Buck and Kevin Backstrom face off in the Swiss Alps. (16 minutes)</desc>
+    <category lang="en">Sport, Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/27/bjfdalijv3wmqxjqivcf/sebbe-debuck-vs-kevin-backstrom" />
   </programme>
 </tv>
 
