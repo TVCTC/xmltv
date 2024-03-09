@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240309151911 +0100" stop="20240309154326 +0100">
-    <title lang="en">Burning the flame part 1</title>
-    <desc lang="en">Elite power duo Babsi and Jacopo attempt a coveted free ascent of the Nameless Tower in Pakistan. (24 minutes)</desc>
-    <category lang="en">Sport, Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/zmpo02mtlydgmpfzy7no/reel-rock-s9-e2-babsi-zangerl-jacopo-larcher" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240309154326 +0100" stop="20240309161002 +0100">
     <title lang="en">Burning the flame part 2</title>
     <desc lang="en">Babsi Zangerl and Jacopo Larcher’s two-year big wall climbing quest comes down to one short weather window. (26 minutes)</desc>
@@ -120,6 +114,12 @@
     <desc lang="en">Kai Lenny competes in the Gigantes de Nazaré contest before jetting home to catch a great day at Peahi (Jaws). (21 minutes)</desc>
     <category lang="en">Sport, Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/11/11/pyotbmxgx370v7ha5hrt/life-of-kai-ep4-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240310040117 +0100" stop="20240310042112 +0100">
+    <title lang="en">Redemption at Nazaré</title>
+    <desc lang="en">The Big Wave World Tour tow surfing event is on at Nazaré – Kai Lenny‘s last chance to get a win this winter. (20 minutes)</desc>
+    <category lang="en">Sport, Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/11/11/ga09yrum6ff67eqtzgm5/life-of-kai-ep5-art" />
   </programme>
 </tv>
 
