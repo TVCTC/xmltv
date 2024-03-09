@@ -7,24 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240309072852 +0100" stop="20240309082206 +0100">
-    <title lang="en">Changing of the guard</title>
-    <desc lang="en">The Red Bull Cliff Diving World Series reaches its crescendo at the final stop in Auckland. (53 minutes)</desc>
-    <category lang="en">Sport, Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/7/tt3uy4mfvjutdd8uvddx/constantin-popovici-red-bull-cliff-diving-2023-auckland" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240309082206 +0100" stop="20240309085320 +0100">
-    <title lang="en">In the Wings</title>
-    <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet – 2023. (31 minutes)</desc>
-    <category lang="en">Sport, F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240309085320 +0100" stop="20240309095248 +0100">
-    <title lang="en">One at a Time</title>
-    <desc lang="en">Follow professional slopestyle rider Brett Rheeder through the ups and downs of a Crankworx contest season. (59 minutes)</desc>
-    <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ju0vdt30ad36f7oel2k4/one-at-a-time-hero-art" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240309095248 +0100" stop="20240309114016 +0100">
     <title lang="en">Red Bull Unrailistic replay</title>
     <desc lang="en">The world’s best park skiers took on a custom-built course inspired by Jesper Tjäder’s Unrailistic edits. (107 minutes)</desc>
@@ -108,6 +90,42 @@
     <desc lang="en">A churros-powered descent is taking place in the steep road of Madrid! Who will come out on top? (89 minutes)</desc>
     <category lang="en">Sport, Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/xifrq4b6kfis2z2uzxkm/sardinatti-team-red-bull-soapbox-race-madrid-2022" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240309205010 +0100" stop="20240309221656 +0100">
+    <title lang="en">Wild Waters</title>
+    <desc lang="en">From Olympic pools to wild rivers, see the life of Nouria Newman, the most gifted kayaker of her generation. (86 minutes)</desc>
+    <category lang="en">Sport, Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/ez6viqxoy4iwxf7bxd7n/wild-waters-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240309221656 +0100" stop="20240309223733 +0100">
+    <title lang="en">Momentum: Angie Scarth-Johnson</title>
+    <desc lang="en">Spend a year touring the world with Australia’s Angie Scarth-Johnson as she pushes the boundaries of climbing. (21 minutes)</desc>
+    <category lang="en">Sport, Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/20/jaaohxwjtljbh9ffnrqk/momentum-angie-scarth-johnson" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240309223733 +0100" stop="20240309234921 +0100">
+    <title lang="en">Broken Molds</title>
+    <desc lang="en">Take an inside look at the origins of windsurfing and how it became one of the world's fastest growing sports. (71 minutes)</desc>
+    <category lang="en">Sport, Windsurfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/20/qibyjmco0mhsfbnwbyka/broken-molds-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240309234921 +0100" stop="20240310005923 +0100">
+    <title lang="en">The Art of Flight</title>
+    <desc lang="en">Travis Rice and Curt Morgan's follow-up to That's It, That's All raises the bar of snowboarding, again. (77 minutes)</desc>
+    <category lang="en">Sport, Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MAAX2SYH2111/fo-1maax2syh2111-featuremedia" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240310005923 +0100" stop="20240310021134 +0100">
+    <title lang="en">Magic Hour</title>
+    <desc lang="en">The 'magic hour' provides the perfect light to capture stunning images in the mountains. (71 minutes)</desc>
+    <category lang="en">Sport, Mountaineering</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/14/yyuc1fysrqdptglb8re6/simon-hillis-british-columbia-magic-hour-ski" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240310021134 +0100" stop="20240310025046 +0100">
+    <title lang="en">Here, Hold My Kid</title>
+    <desc lang="en">Two pro skiers, two new mums, one sponsorship: a film about the highs and lows of two women aiming to succeed. (39 minutes)</desc>
+    <category lang="en">Sport, Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/13/r3qya1wgn3uu8x04ewz2/here-hold-my-kid-header-image-skiing" />
   </programme>
 </tv>
 
