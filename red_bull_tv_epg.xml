@@ -7,30 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240311141031 +0100" stop="20240311153716 +0100">
-    <title lang="en">Wild Waters</title>
-    <desc lang="en">From Olympic pools to wild rivers, see the life of Nouria Newman, the most gifted kayaker of her generation. (86 minutes)</desc>
-    <category lang="en">Sport, Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/ez6viqxoy4iwxf7bxd7n/wild-waters-hero-art" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240311153716 +0100" stop="20240311155753 +0100">
-    <title lang="en">Momentum: Angie Scarth-Johnson</title>
-    <desc lang="en">Spend a year touring the world with Australia’s Angie Scarth-Johnson as she pushes the boundaries of climbing. (21 minutes)</desc>
-    <category lang="en">Sport, Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/20/jaaohxwjtljbh9ffnrqk/momentum-angie-scarth-johnson" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240311155753 +0100" stop="20240311170941 +0100">
-    <title lang="en">Broken Molds</title>
-    <desc lang="en">Take an inside look at the origins of windsurfing and how it became one of the world's fastest growing sports. (71 minutes)</desc>
-    <category lang="en">Sport, Windsurfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/20/qibyjmco0mhsfbnwbyka/broken-molds-hero-art" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240311170941 +0100" stop="20240311181944 +0100">
-    <title lang="en">The Art of Flight</title>
-    <desc lang="en">Travis Rice and Curt Morgan's follow-up to That's It, That's All raises the bar of snowboarding, again. (77 minutes)</desc>
-    <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MAAX2SYH2111/fo-1maax2syh2111-featuremedia" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240311181944 +0100" stop="20240311193154 +0100">
     <title lang="en">Magic Hour</title>
     <desc lang="en">The 'magic hour' provides the perfect light to capture stunning images in the mountains. (71 minutes)</desc>
@@ -120,6 +96,36 @@
     <desc lang="en">Can big wall climber Natalia Grossman handle the pressure of defending her IFSC World Cup Champion title? (23 minutes)</desc>
     <category lang="en">Sport, Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/mc7bjmfxmd7ueucvx4qc/reel-rock-s9-e1-natalia-grossman" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240312053152 +0100" stop="20240312055229 +0100">
+    <title lang="en">Momentum: Angie Scarth-Johnson</title>
+    <desc lang="en">Spend a year touring the world with Australia’s Angie Scarth-Johnson as she pushes the boundaries of climbing. (21 minutes)</desc>
+    <category lang="en">Sport, Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/20/jaaohxwjtljbh9ffnrqk/momentum-angie-scarth-johnson" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240312055229 +0100" stop="20240312055655 +0100">
+    <title lang="en">Skate Intersection – Lost in Shanghai</title>
+    <desc lang="en">Maxim Habanec, Vladik Scholz and Angelo Caro skate the world in a day at the themed towns of Shanghai, China. (4 minutes)</desc>
+    <category lang="en">Sport, Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/11/25/doczprzmus6u84bkn81t/angelo-caro-bs-smith-shanghai-gaston-francisco" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240312055655 +0100" stop="20240312062109 +0100">
+    <title lang="en">Burning the flame part 1</title>
+    <desc lang="en">Elite power duo Babsi and Jacopo attempt a coveted free ascent of the Nameless Tower in Pakistan. (24 minutes)</desc>
+    <category lang="en">Sport, Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/zmpo02mtlydgmpfzy7no/reel-rock-s9-e2-babsi-zangerl-jacopo-larcher" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240312062109 +0100" stop="20240312064746 +0100">
+    <title lang="en">Burning the flame part 2</title>
+    <desc lang="en">Babsi Zangerl and Jacopo Larcher’s two-year big wall climbing quest comes down to one short weather window. (26 minutes)</desc>
+    <category lang="en">Sport, Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/gfhlivdykyqwj1wobfmq/reel-rock-s9-e3-jacopo-larcher" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240312064746 +0100" stop="20240312075702 +0100">
+    <title lang="en">Legend Has It</title>
+    <desc lang="en">For 28 years, Teton Gravity Research has been travelling the globe and creating legends along the way. (72 minutes)</desc>
+    <category lang="en">Sport, Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/20/kzt1k9frjcgtfokployt/legend-has-it-ski-film" />
   </programme>
 </tv>
 
