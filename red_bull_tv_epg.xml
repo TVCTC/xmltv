@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240317230222 +0100" stop="20240317232444 +0100">
-    <title lang="en">Colorado</title>
-    <desc lang="en">Flipping the script, Mark and Craig take on the role of surly vets with a crew of up-and-comers. (22 minutes)</desc>
-    <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/02/5c71a6ee-ce79-429f-a36c-f0c8cc1505d2/mcmorrises-aspen" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240317232444 +0100" stop="20240318000647 +0100">
     <title lang="en">Chasing Winter</title>
     <desc lang="en">Follow Mark McMorris and friends as they prepare for the high-stakes competition season. (42 minutes)</desc>
@@ -126,6 +120,12 @@
     <desc lang="en">The Red Bull Cliff Diving World Series reaches its crescendo at the final stop in Auckland. (53 minutes)</desc>
     <category lang="en">Sport, Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/7/tt3uy4mfvjutdd8uvddx/constantin-popovici-red-bull-cliff-diving-2023-auckland" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240318105602 +0100" stop="20240318114501 +0100">
+    <title lang="en">The Collective</title>
+    <desc lang="en">Adventuring to undiscovered peaks and plotting midnight-raids on inner-city handrails. Skiing is Collective. (48 minutes)</desc>
+    <category lang="en">Sport, Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/11/11/0aebb731-50ee-4451-be94-1a958dee2876/thecollective_landscape_hero" />
   </programme>
 </tv>
 
