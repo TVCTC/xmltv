@@ -7,24 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240318184536 +0100" stop="20240318201424 +0100">
-    <title lang="en">Johannesburg, South Africa</title>
-    <desc lang="en">South Africa's most innovative and witty teams race each other down the twists and turns of Sandton Drive. (88 minutes)</desc>
-    <category lang="en">Sport, Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZJ98E3SH5N11/FO-1ZJ98E3SH5N11-featureMedia" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240318201424 +0100" stop="20240318214110 +0100">
-    <title lang="en">Wild Waters</title>
-    <desc lang="en">From Olympic pools to wild rivers, see the life of Nouria Newman, the most gifted kayaker of her generation. (86 minutes)</desc>
-    <category lang="en">Sport, Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/ez6viqxoy4iwxf7bxd7n/wild-waters-hero-art" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240318214110 +0100" stop="20240318225943 +0100">
-    <title lang="en">Shaka</title>
-    <desc lang="en">Mathieu Crépel shifts his focus to the ocean and takes on one of the world’s biggest waves – Jaws. (77 minutes)</desc>
-    <category lang="en">Sport, Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/5/10/ntoqzrdodpcnqlukpzce/shaka-hero-art" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240318225943 +0100" stop="20240318232558 +0100">
     <title lang="en">Varna, Bulgaria</title>
     <desc lang="en">A crowd of 20,000 welcomes teams of amateur aviators who will attempt to fly on the coast of the Black Sea. (26 minutes)</desc>
@@ -126,6 +108,18 @@
     <desc lang="en">Adventuring to undiscovered peaks and plotting midnight-raids on inner-city handrails. Skiing is Collective. (48 minutes)</desc>
     <category lang="en">Sport, Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/11/11/0aebb731-50ee-4451-be94-1a958dee2876/thecollective_landscape_hero" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240319085457 +0100" stop="20240319100430 +0100">
+    <title lang="en">The Old World</title>
+    <desc lang="en">The Old World highlights the European riders who dominate the world stage in mountain biking. (69 minutes)</desc>
+    <category lang="en">Sport, MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240319100430 +0100" stop="20240319114344 +0100">
+    <title lang="en">Valley Uprising</title>
+    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite. (99 minutes)</desc>
+    <category lang="en">Sport, Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art" />
   </programme>
 </tv>
 
