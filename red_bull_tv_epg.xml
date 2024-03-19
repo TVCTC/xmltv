@@ -7,6 +7,12 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
+  <programme channel="RedBullTV.at" start="20240318225943 +0100" stop="20240318232558 +0100">
+    <title lang="en">Varna, Bulgaria</title>
+    <desc lang="en">A crowd of 20,000 welcomes teams of amateur aviators who will attempt to fly on the coast of the Black Sea. (26 minutes)</desc>
+    <category lang="en">Sport, Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJBFUKH2111/FO-1RFJBFUKH2111-featureMedia" />
+  </programme>
   <programme channel="RedBullTV.at" start="20240318232558 +0100" stop="20240318235144 +0100">
     <title lang="en">Zurich, Switzerland</title>
     <desc lang="en">Fifty teams fly homemade flying craft around (and in!) Lake Zurich, Switzerland. (26 minutes)</desc>
@@ -114,18 +120,6 @@
     <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite. (99 minutes)</desc>
     <category lang="en">Sport, Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240319114344 +0100" stop="20240319115621 +0100">
-    <title lang="en">Road less travelled</title>
-    <desc lang="en">Can road bikers make the move to mountain biking? And vice versa? Tom Pidcock and Jolanda Neff give it a try. (13 minutes)</desc>
-    <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/12/eaef2ojago0splz7kgpl/thomas-pidcock-uci-xc-mtb-world-cup-2022-nove-mesto" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240319115621 +0100" stop="20240319121022 +0100">
-    <title lang="en">Doing it yourself</title>
-    <desc lang="en">Can DIY riders Aaron Gwin, Neko Mulally and Seth Alvo find success in their MTB pursuits? (14 minutes)</desc>
-    <category lang="en">Sport, Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/12/hg8ngpun4wsophporm1c/aaron-gwin-uci-dh-mtb-world-cup-fort-william-2022" />
   </programme>
 </tv>
 
