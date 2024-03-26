@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240326024623 +0100" stop="20240326033016 +0100">
-    <title lang="en">San Marino, Italy</title>
-    <desc lang="en">The race with no engine and many obstacles will test the participants in San Marino, Italy.  (43 minutes)</desc>
-    <category lang="en">Sport, Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/ixhalqhev7dsljmvkix8/red-bull-soapbox-race-san-marino-2022" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240326033016 +0100" stop="20240326042447 +0100">
     <title lang="en">Toby Price: Ridin’ Shotgun</title>
     <desc lang="en">Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels? (54 minutes)</desc>
@@ -126,6 +120,12 @@
     <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.   (78 minutes)</desc>
     <category lang="en">Sport, MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/20/jgwfqrsesqonxiy5n8lk/carson-storch-tom-van-steenbergen" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240326134826 +0100" stop="20240326144141 +0100">
+    <title lang="en">Changing of the guard</title>
+    <desc lang="en">The Red Bull Cliff Diving World Series reaches its crescendo at the final stop in Auckland. (53 minutes)</desc>
+    <category lang="en">Sport, Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/7/tt3uy4mfvjutdd8uvddx/constantin-popovici-red-bull-cliff-diving-2023-auckland" />
   </programme>
 </tv>
 
