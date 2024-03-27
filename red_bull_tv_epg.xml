@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240327143327 +0100" stop="20240327150131 +0100">
-    <title lang="en">Jorge Prado: Under the Lights</title>
-    <desc lang="en">MXGP Champion Jorge Prado takes on a new challenge: racing Supercross in America. (28 minutes)</desc>
-    <category lang="en">Sport, Supercross</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/wq51wy0twj7lamjjfa2u/jorge-prado" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240327150131 +0100" stop="20240327160059 +0100">
     <title lang="en">One at a Time</title>
     <desc lang="en">Follow professional slopestyle rider Brett Rheeder through the ups and downs of a Crankworx contest season. (59 minutes)</desc>
@@ -126,6 +120,12 @@
     <desc lang="en">Relive 20 years of the largest urban downhill race in the world that began as an idea among friends. (32 minutes)</desc>
     <category lang="en">Sport, MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/grv8ijzyrwhtsstkoas3/red-bull-valparaiso-cerro-abajo-2023" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240328024446 +0100" stop="20240328033214 +0100">
+    <title lang="en">Roots</title>
+    <desc lang="en">Faction’s third feature film explores the foundations of freeskiing as seen by the current generation. (47 minutes)</desc>
+    <category lang="en">Sport, Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/11/3/ylmbymox5s3prdjbha2y/roots-hero-art" />
   </programme>
 </tv>
 
