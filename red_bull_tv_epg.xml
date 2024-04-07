@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240407122231 +0200" stop="20240407142058 +0200">
-    <title lang="en">Racing Together</title>
-    <desc lang="en">From Valentino Rossi to Marc Márquez. This is motorcycle racing's history charted through its best riders. (119 minutes)</desc>
-    <category lang="en">Sport, MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z73WM3KH5N11/racing-together-motorcycle-race" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240407142058 +0200" stop="20240407144650 +0200">
     <title lang="en">Highlights – Riyadh</title>
     <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1. (26 minutes)</desc>
@@ -126,6 +120,12 @@
     <desc lang="en">Skinny wheels, a narrow wheelbase and a tall chassis, are a recipe for big crashes and here's the proof. (9 minutes)</desc>
     <category lang="en">Sport, Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/ht9puzufb1pdlqzsekp8/crash-red-bull-soapbox-race-rome-2018" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240407233212 +0200" stop="20240407234451 +0200">
+    <title lang="en">2017's best crashes and smashes</title>
+    <desc lang="en">First aid kits at the ready because 2017's crash-reel includes some Hollywood-worthy spills that surely stung. (13 minutes)</desc>
+    <category lang="en">Sport, Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/gpx15dhtbpikytdsek76/red-bull-soapbox-race-2017-aarhus-denmark" />
   </programme>
 </tv>
 
