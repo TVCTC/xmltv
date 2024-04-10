@@ -1,155 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xmltv.dtd>
-<tv source-info-name="TVCTC" source-info-url="olympics_com_epg.xml">
+<tv source-info-name="TVCTC" source-info-url="https://olympics.com">
   <channel id="OlympicChannel.int">
     <display-name>Olympic Channel</display-name>
-    <url>olympics_com_epg.xml</url>
+    <url>https://olympics.com</url>
     <icon src="https://thumbs2.imgbox.com/45/27/1M1IrWhV_t.png"/>
   </channel>
-  <programme channel="OlympicChannel.int" start="20240408235855+0000" stop="20240409022541+0000">
-    <title lang="en">Trap Finals - Shooting | Tokyo 2020 Replays</title>
-    <desc lang="en">This event took place on 29/07/2021 at the Asaka Shooting Range, Tokyo. Rehak Stefecekova (SVK) claimed the Gold in the Women's Trap and Liptak (CZE) in the Men's Trap competiton.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/py4idcqxvplwz6cxsgbt"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240409022541+0000" stop="20240409023318+0000">
-    <title lang="en">How sport climbing star Shauna Coxsey found her sport | Unleash the New</title>
-    <desc lang="en">Shauna Coxsey is a sport climbing sensation from the UK. With her motto “find something that makes you happy” she made it to the top and is now ready to step up to represent the sport at the Tokyo Olympic Games.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/jmyinccm6xrasloqnj0l"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240409023318+0000" stop="20240409024042+0000">
-    <title lang="en">How Bruce Lee first inspired this karate champion | Unleash the New</title>
-    <desc lang="en">Saadi Abbas, a karateka from Pakistan, nearly gave up on his Olympic dream. After learning that the sport would join the Olympics in Tokyo, he jumped back into training despite injuries and a lack of funding. Now, he hopes to follow the example of Seoul 1988 bronze medallist Hussain Shah, who is from the same neighbourhood of Karachi, to qualify for the Tokyo Olympic Games.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/pax2cxcg5fba3hscw3ap"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240409024042+0000" stop="20240409060254+0000">
-    <title lang="en">HUN v ROC / SWE v FRA - Women's Preliminaries - Handball | Tokyo 2020 Replays</title>
-    <desc lang="en">This match took place on 29/07/2021 at the Yoyogi National Stadium, Tokyo.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/xxslfaebasiuzxividp6"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240409060000+0000" stop="20240409064832+0000">
-    <title lang="en">My Great Olympic Moments with Rulon Gardner</title>
-    <desc lang="en">From farmboy in Wyoming to taking down the unbeaten, unbeatable Russian for the Olympic gold! Rulon Gardner not only conquered Aleksandr Karelin, he has stared down death at least 3 times. Join Olympic Channel for a riveting, deeply emotional rewind with Rulon. Every minute of his Sydney 2000 Olympic gold and Athens 2004 Olympic bronze. The cheers and tears!</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/agvahecgibd02lzivjob"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240409064832+0000" stop="20240409071541+0000">
-    <title lang="en">The Oscar Figueroa story (extended version)</title>
-    <desc lang="en">After a severe injury derailed his previous medal hopes, Figueroa put in all on the mat with one final attempt for gold in Rio 2016.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/agxcimlxe7nokhapamr0"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240409071541+0000" stop="20240409110819+0000">
-    <title lang="en">Women's Singles QFs &amp; Mix Doubles Bronze Medal - Badminton | Tokyo 2020 Replays</title>
-    <desc lang="en">This event took place on 30/07/2021 at the Musashino Forest Sport Plaza, Tokyo. It includes Women's Singles Quarterfinals and the Mixed Doubles Bronze Medal Match, in which WATANABE Yuta and HIGASHINO Arisa (JPN) beat TANG Chun Man &amp; TSE Ying Suet (HKG) to take the Bronze medal.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/s5mabzgnva2jljvbvxfo"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240409110819+0000" stop="20240409172316+0000">
-    <title lang="en">Court 1: Mens Doubles Bronze Medal, Mixed Doubles Semi-Final - Tennis | Tokyo 2020 Replays</title>
-    <desc lang="en">This event took place on 30/07/2021 at the Ariake Tennis Park, Tokyo. It includes the Men's Doubles Bronze Medal Match Krajikec/Sandgreen (USA) v Daniell/Venus (NZL) with Daniell/Venus (NZL) claiming the medal and the Mixed Doubles Semifinals Pavlyuchenkova/Rublev (ROC) v Barty/Peers (AUS) &amp; Vesnina/Karatsev (ROC) v Stojanovic/Djokovic (SRB)</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/ffpzcl9kfgh9f5vkxsfl"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240409172316+0000" stop="20240409181030+0000">
-    <title lang="en">My Great Olympic Moments with Rulon Gardner</title>
-    <desc lang="en">From farmboy in Wyoming to taking down the unbeaten, unbeatable Russian for the Olympic gold! Rulon Gardner not only conquered Aleksandr Karelin, he has stared down death at least 3 times. Join Olympic Channel for a riveting, deeply emotional rewind with Rulon. Every minute of his Sydney 2000 Olympic gold and Athens 2004 Olympic bronze. The cheers and tears!</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/agvahecgibd02lzivjob"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240409181030+0000" stop="20240409183653+0000">
-    <title lang="en">The Oscar Figueroa story (extended version)</title>
-    <desc lang="en">After a severe injury derailed his previous medal hopes, Figueroa put in all on the mat with one final attempt for gold in Rio 2016.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/agxcimlxe7nokhapamr0"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240409183653+0000" stop="20240409213036+0000">
-    <title lang="en">Table 1: Men's Singles Finals - Table Tennis | Tokyo 2020 Replays</title>
-    <desc lang="en">This event took place on 30/07/2021 at the Tokyo Metropolitan Gymnasium, Tokyo. It includes the Mens Singles Bronze Medal Match Min (TPE) v Ovtcharov (GER) with the later claiming Bronze and the men's Individual Gold Medal Match between Fan (CHN) and Ma (CHN) in which Ma claimed the Gold.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/unvqckbkqgr433q5ekz7"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240409213036+0000" stop="20240410001327+0000">
-    <title lang="en">Mat 1: Women's +78kg, Men's +100kg Repechages/Semi-Finals/Finals - Judo | Tokyo 2020 Replays</title>
-    <desc lang="en">This event took place on 30/07/2021 at the Nippon Budokan, Tokyo. Sone (JPN) claimed the Gold in the Women's +78kg and KRPALEK (CZE) in the Men's +100kg.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/mqvhuzbakox1qdq7bawv"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240410001327+0000" stop="20240410024354+0000">
-    <title lang="en">Blue/Finals Piste: Men's Epee Bronze &amp; Gold Medal Bouts - Fencing | Tokyo 2020 Replays</title>
-    <desc lang="en">This event took place on 30/07/2021 at the Makuhari Messe Hall B, Chiba. It includes the Men's Epee Team Finals and the Victory Ceremony. JPN claimed the Gold, ROC Silver and KOR completed the podium.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/xmd9pqbzvbamaldfobya"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240410024354+0000" stop="20240410033106+0000">
-    <title lang="en">My Great Olympic Moments with Rulon Gardner</title>
-    <desc lang="en">From farmboy in Wyoming to taking down the unbeaten, unbeatable Russian for the Olympic gold! Rulon Gardner not only conquered Aleksandr Karelin, he has stared down death at least 3 times. Join Olympic Channel for a riveting, deeply emotional rewind with Rulon. Every minute of his Sydney 2000 Olympic gold and Athens 2004 Olympic bronze. The cheers and tears!</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/agvahecgibd02lzivjob"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240410033106+0000" stop="20240410053017+0000">
-    <title lang="en">ESP v ARG - Men's Preliminaries - Basketball | Tokyo 2020 Replays</title>
-    <desc lang="en">This Preliminary Round Game took place on 29/07/2021 at the Saitama Super Arena, Saitama. Final score ESP 81:71 ARG.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/uhzrgrylyedatkdt822q"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240410053017+0000" stop="20240410060245+0000">
-    <title lang="en">My Great Olympic Moments with Ryan Millar</title>
-    <desc lang="en">USA Volleyball star Ryan Millar describes the surreal atmosphere around his run to the Volleyball gold medal at the Olympic Summer Games Beijing 2008. How tragedy in the volleyball community inspired the team to rally behind its coach on this edition of “My Great Olympic Moments”.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/vi71pyjdiceurc8g9p5h"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240410060000+0000" stop="20240410063658+0000">
-    <title lang="en">Victory for Us | The Untold Story of India’s First Surf Team</title>
-    <desc lang="en">El Salvador, World Surfing Games 2023, the Indian Surf Team participates for the very first time in an international event chasing their Olympic Qualification. This is the story of that journey, where those kids that once started surfing with broken boards reach an international stage for the first time, where they meet their surfing idols and earn experience for upcoming competitions. Watch it now!</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/oabh9q5cjmkxiq0ngoio"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240410063658+0000" stop="20240410071422+0000">
-    <title lang="en">My Great Olympic Moments with Natalie Du Toit</title>
-    <desc lang="en">South Africa’s Olympic legend Natalie Du Toit shares how an accident changed her life but did not dampen her dream of competing, and why swimming at the Olympics and Paralympics was more than winning gold. All this and more in “My Great Olympic Moments” with Natalie Du Toit.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/mmxlv1vg5yechoevaudn"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240410071422+0000" stop="20240410100053+0000">
-    <title lang="en">GBR v AUS - Women's Quarter-Final - Football | Tokyo 2020 Replays</title>
-    <desc lang="en">This match took place on 30/07/2021 at the Ibaraki Kashima Stadium, Kashima. Final Score GBR 3:4 AUS (AET).</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/jpevr7bukgqvc29gmncs"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240410100053+0000" stop="20240410122539+0000">
-    <title lang="en">Women's Individual QFs/SFs/Finals - Archery | Tokyo 2020 Replays</title>
-    <desc lang="en">This event took place on 30/07/2021 at Yumenoshima Park Archery Field, Tokyo. An San (KOR) won Gold, Elena Osipova (ROC) took Silver and Lucilla Boari (ITA) completed the podium.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/lyzfwsaffgebywl5tvpk"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240410122539+0000" stop="20240410141607+0000">
-    <title lang="en">Semi-Finals &amp; Finals - Day 6 - Swimming | Tokyo 2020 Replays</title>
-    <desc lang="en">This event took place on 30/07/2021 at the Tokyo Aquatics Centre,Tokyo. It includes the Men's 200m Backstroke, the Women's 100m Freestyle, Women's 200m Breaststroke, the Men's 200m Individual Medley Finals and their Victory Ceremonies as well as the Men's 100m Butterfly and Women's 200m Backstroke Semifinals. Schoenmaker (RSA) claimed Gold in the Women's 200m Breaststroke, Rylov (ROC) in the Men's 200m Backstroke, McKeon (AUS) in the Women's 100m Freestyle and Wang (CHN) in the Men's 200m Individual Medley.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/btxcg4dvbxcux8izoufj"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240410141607+0000" stop="20240410164805+0000">
-    <title lang="en">Eventing Dressage Team &amp; Individual - Session 2 - Equestrian | Tokyo 2020 Replays</title>
-    <desc lang="en">This event took place on 30/07/2021 at the Equestrian Park, Tokyo. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/atla0lvoxred95pjcby7"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240410164805+0000" stop="20240410222815+0000">
-    <title lang="en">Men's Laser &amp; 49er, Women's 49er FX - Sailing | Tokyo 2020 Replays</title>
-    <desc lang="en">This event took place on 30/07/2021 in and around the Enoshima Yacht Harbour, Fujisawa. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/h6qtfnn4cmi8ifofzmmj"/>
-  </programme>
-  <programme channel="OlympicChannel.int" start="20240410222815+0000" stop="20240411011132+0000">
-    <title lang="en">GBR v AUS - Women's Quarter-Final - Football | Tokyo 2020 Replays</title>
-    <desc lang="en">This match took place on 30/07/2021 at the Ibaraki Kashima Stadium, Kashima. Final Score GBR 3:4 AUS (AET).</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/jpevr7bukgqvc29gmncs"/>
-  </programme>
   <programme channel="OlympicChannel.int" start="20240409213036+0000" stop="20240410001327+0000">
     <title lang="en">Mat 1: Women's +78kg, Men's +100kg Repechages/Semi-Finals/Finals - Judo | Tokyo 2020 Replays</title>
     <desc lang="en">This event took place on 30/07/2021 at the Nippon Budokan, Tokyo. Sone (JPN) claimed the Gold in the Women's +78kg and KRPALEK (CZE) in the Men's +100kg.</desc>
@@ -323,5 +179,185 @@
     <desc lang="en">This event took place on 31/07/2021 at the Musashino Forest Sport Plaza, Tokyo. It includes Men's Singles Quarterfinals and the Women's Doubles Semifinal Matches. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/zblblvdlp39q0bi6cgxb"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240410222815+0000" stop="20240411011132+0000">
+    <title lang="en">GBR v AUS - Women's Quarter-Final - Football | Tokyo 2020 Replays</title>
+    <desc lang="en">This match took place on 30/07/2021 at the Ibaraki Kashima Stadium, Kashima. Final Score GBR 3:4 AUS (AET).</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/jpevr7bukgqvc29gmncs"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240411011132+0000" stop="20240411014738+0000">
+    <title lang="en">Victory for Us | The Untold Story of India’s First Surf Team</title>
+    <desc lang="en">El Salvador, World Surfing Games 2023, the Indian Surf Team participates for the very first time in an international event chasing their Olympic Qualification. This is the story of that journey, where those kids that once started surfing with broken boards reach an international stage for the first time, where they meet their surfing idols and earn experience for upcoming competitions. Watch it now!</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/oabh9q5cjmkxiq0ngoio"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240411014738+0000" stop="20240411022242+0000">
+    <title lang="en">My Great Olympic Moments with Natalie Du Toit</title>
+    <desc lang="en">South Africa’s Olympic legend Natalie Du Toit shares how an accident changed her life but did not dampen her dream of competing, and why swimming at the Olympics and Paralympics was more than winning gold. All this and more in “My Great Olympic Moments” with Natalie Du Toit.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/mmxlv1vg5yechoevaudn"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240411022242+0000" stop="20240411045108+0000">
+    <title lang="en">Women's 3m Springboard Preliminary  - Diving | Tokyo 2020 Replays</title>
+    <desc lang="en">This event took place on 30/07/2021 at the Tokyo Aquatics Centre, Tokyo. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/rolu5gsgfnh4br4nlcck"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240411045108+0000" stop="20240411052110+0000">
+    <title lang="en">My Great Olympic Moments with Ryan Millar</title>
+    <desc lang="en">USA Volleyball star Ryan Millar describes the surreal atmosphere around his run to the Volleyball gold medal at the Olympic Summer Games Beijing 2008. How tragedy in the volleyball community inspired the team to rally behind its coach on this edition of “My Great Olympic Moments”.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/vi71pyjdiceurc8g9p5h"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240411052110+0000" stop="20240411060235+0000">
+    <title lang="en">Teahupo'o Surf Camp | Road to Paris 2024</title>
+    <desc lang="en">Experience the thrills and spills as seven surfers join an ISA surf camp at Teahupo'o, Tahiti's famed surf spot and the surfing venue for the Olympic Games Paris 2024. Determined to conquer the Olympic wave, they face their fears, push the boundaries and challenge the raw power of nature.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/jgfybidumyctl4uc7lvu"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240411060000+0000" stop="20240411064106+0000">
+    <title lang="en">Teahupo'o Surf Camp | Road to Paris 2024</title>
+    <desc lang="en">Experience the thrills and spills as seven surfers join an ISA surf camp at Teahupo'o, Tahiti's famed surf spot and the surfing venue for the Olympic Games Paris 2024. Determined to conquer the Olympic wave, they face their fears, push the boundaries and challenge the raw power of nature.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/jgfybidumyctl4uc7lvu"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240411064106+0000" stop="20240411073351+0000">
+    <title lang="en">Mount Kenya University Field Hockey Team</title>
+    <desc lang="en">Team Netherlands Olympic hero Jacques Brinkman travels to Kenya to try to turn around the fortunes of a struggling field hockey team.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/nzj6ode4ar49axdoxqgm"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240411073351+0000" stop="20240411093738+0000">
+    <title lang="en">Semi-Finals &amp; Finals - Day 7 - Swimming | Tokyo 2020 Replays</title>
+    <desc lang="en">This event took place on 31/07/2021 at the Tokyo Aquatics Centre, Tokyo. It includes the Men's 100m Butterfly, the Women's 200m Backstroke, the Women's 800m Freestyle, the Mixed 4 x 100m Medley Relay Finals and their Victory Ceremonies as well as the Men's and Women's 50m Freestyle Semifinals. Dressel (USA) claimed Gold in the Men's 100m Butterfly, McKeown (AUS) in the Women's 200m Backstroke, Ledecky (USA) in the Women's 800m Freestyle and Great Britain in the Mixed 4 x 100m Medley Relay.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/hghxogy45qoukbrv3lpv"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240411093738+0000" stop="20240411114456+0000">
+    <title lang="en">Mixed Relay Final - Triathlon | Tokyo 2020 Replays</title>
+    <desc lang="en">This event took place on 31/07/2021 in and around the Odaiba Marine Park, Tokyo. Great Britain won the Gold medal, USA took the Silver and France completed the podium.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/n1zmkjiqa9raxomaibcd"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240411114456+0000" stop="20240411142640+0000">
+    <title lang="en">ITA v JPN &amp; RSA v GRE - Men's Group Stage - Water Polo | Tokyo 2020 Replays</title>
+    <desc lang="en">These Matches were played on 31/07/2021 at the Tatsumi Water Polo Centre, Tatsumi.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/tsucxlyboiilyhqbqurd"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240411142640+0000" stop="20240411150634+0000">
+    <title lang="en">Teahupo'o Surf Camp | Road to Paris 2024</title>
+    <desc lang="en">Experience the thrills and spills as seven surfers join an ISA surf camp at Teahupo'o, Tahiti's famed surf spot and the surfing venue for the Olympic Games Paris 2024. Determined to conquer the Olympic wave, they face their fears, push the boundaries and challenge the raw power of nature.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/jgfybidumyctl4uc7lvu"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240411150634+0000" stop="20240411160139+0000">
+    <title lang="en">Mount Kenya University Field Hockey Team</title>
+    <desc lang="en">Team Netherlands Olympic hero Jacques Brinkman travels to Kenya to try to turn around the fortunes of a struggling field hockey team.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/nzj6ode4ar49axdoxqgm"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240411160139+0000" stop="20240411174929+0000">
+    <title lang="en">IRI v FRA - Men's Preliminaries - Basketball | Tokyo 2020 Replays</title>
+    <desc lang="en">This Preliminary Round Game took place on 31/07/2021 at the Saitama Super Arena, Saitama. Final score IRI 62:79 FRA</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/oagfsvjd6luxwyehr4hz"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240411174929+0000" stop="20240411200842+0000">
+    <title lang="en">Women's Sabre Team Bronze &amp; Gold Medal Bouts - Fencing | Tokyo 2020 Replays</title>
+    <desc lang="en">This event took place on 31/07/2021 at the Makuhari Messe Hall B, Chiba. It includes the Women's Sabre Team Finals and the Victory Ceremony. ROC claimed the Gold, FRA Silver and KOR completed the podium</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/w385j9hjrhuvvu6ho1t9"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240411200842+0000" stop="20240411220158+0000">
+    <title lang="en">Women's 3m Springboard Semi-Final - Diving | Tokyo 2020 Replays</title>
+    <desc lang="en">This event took place on 31/07/2021 at the Tokyo Aquatics Centre, Tokyo. Tingmao SHI (CHN) was leading the fields into the final</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/ka6vpjeo0p4ekdm4kzzy"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240411220158+0000" stop="20240412051015+0000">
+    <title lang="en">Men's Singles QFs &amp; Women's Doubles SFs - Badminton | Tokyo 2020 Replays</title>
+    <desc lang="en">This event took place on 31/07/2021 at the Musashino Forest Sport Plaza, Tokyo. It includes Men's Singles Quarterfinals and the Women's Doubles Semifinal Matches. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/zblblvdlp39q0bi6cgxb"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240412051015+0000" stop="20240412060232+0000">
+    <title lang="en">My Great Olympic Moments with Rulon Gardner</title>
+    <desc lang="en">From farmboy in Wyoming to taking down the unbeaten, unbeatable Russian for the Olympic gold! Rulon Gardner not only conquered Aleksandr Karelin, he has stared down death at least 3 times. Join Olympic Channel for a riveting, deeply emotional rewind with Rulon. Every minute of his Sydney 2000 Olympic gold and Athens 2004 Olympic bronze. The cheers and tears!</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/agvahecgibd02lzivjob"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240412060000+0000" stop="20240412062744+0000">
+    <title lang="en">How Jordan’s Olympic medal turned Ahmad Abughaush into an icon</title>
+    <desc lang="en">When Ahmad Abughaush won Jordan’s first-ever Olympic gold medal in 2016, he instantly became an icon for his fellow countrymen.  </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/egocef0wio5hrxvgbcf1"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240412062744+0000" stop="20240412065348+0000">
+    <title lang="en">How the “Fighting Lionesses” won Montenegro’s sole Olympic medal</title>
+    <desc lang="en">How the women’s handball team won their country’s first-ever Olympic medal in 2012 and became the “Fighting Lionesses” in the process. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/n1oqozmzdmgyyiq18zxq"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240412065348+0000" stop="20240412072253+0000">
+    <title lang="en">How Benjamin Boukpeti returned home and won Togo’s only Olympic medal</title>
+    <desc lang="en">Born and raised in France, slalom canoeist Benjamin Boukpeti opted to represent Togo in Beijing and won a historic Olympic medal</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/fqrczgfjapsulkpvsqsl"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240412072253+0000" stop="20240412085808+0000">
+    <title lang="en">Men's Discus Throw Final - Athletics | Tokyo 2020 Replays</title>
+    <desc lang="en">This event tool place on 31/07/2021 at the Olympic Stadium, Tokyo. Stahl (SWE) claimed the Gold, Petterson (SWE) Silver and Weisshaidinger (AUT) completed the podium.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/sqydudqp6iwjb5osfc40"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240412085808+0000" stop="20240412111833+0000">
+    <title lang="en">Freestyle Park Seeding Run - Cycling BMX | Tokyo 2020 Replays</title>
+    <desc lang="en">This event took place on 31/07/2021 at the Ariake Urban Sports Park and includes the Women's and Men's Park Seeding Runs.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/t55fugcelbazatbfqfsv"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240412111833+0000" stop="20240412131700+0000">
+    <title lang="en">Men's Singles SFs - Badminton | Tokyo 2020 Replays</title>
+    <desc lang="en">This event took place on 01/08/2021 at the Musashino Forest Sport Plaza, Tokyo. It includes the Men's Singles Semifinal Matches Cordon (GUA) v Axelsen (DEN) &amp; Ginting (INA) v Cheng (CHN)</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/m3maa7nn0w754n1o6llp"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240412131700+0000" stop="20240412180846+0000">
+    <title lang="en">Men's Preliminary Round POL-CAN &amp; BRA-FRA - Volleyball | Tokyo 2020 Replays</title>
+    <desc lang="en">These matches took place on 01/08/2021 at the Ariake Arena, Tokyo.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/i4il4kfywzxheqpqccuk"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240412180846+0000" stop="20240412183443+0000">
+    <title lang="en">How Jordan’s Olympic medal turned Ahmad Abughaush into an icon</title>
+    <desc lang="en">When Ahmad Abughaush won Jordan’s first-ever Olympic gold medal in 2016, he instantly became an icon for his fellow countrymen.  </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/egocef0wio5hrxvgbcf1"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240412183443+0000" stop="20240412190046+0000">
+    <title lang="en">How the “Fighting Lionesses” won Montenegro’s sole Olympic medal</title>
+    <desc lang="en">How the women’s handball team won their country’s first-ever Olympic medal in 2012 and became the “Fighting Lionesses” in the process. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/n1oqozmzdmgyyiq18zxq"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240412190046+0000" stop="20240412192714+0000">
+    <title lang="en">How Benjamin Boukpeti returned home and won Togo’s only Olympic medal</title>
+    <desc lang="en">Born and raised in France, slalom canoeist Benjamin Boukpeti opted to represent Togo in Beijing and won a historic Olympic medal</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/fqrczgfjapsulkpvsqsl"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240412192714+0000" stop="20240412222947+0000">
+    <title lang="en">POR v JPN / EGY v BRN - Men's Preliminaries - Handball | Tokyo 2020 Replays</title>
+    <desc lang="en">These matches took place on 01/08/2021 at the Yoyogi National Stadium, Tokyo.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/clylsoiypjgu7jaw1cqd"/>
+  </programme>
+  <programme channel="OlympicChannel.int" start="20240412222947+0000" stop="20240413003115+0000">
+    <title lang="en">Round of 16 - Day 9 - Night Session - Beach Volleyball | Tokyo 2020 Replays</title>
+    <desc lang="en">This event tookplace on 01/08/2021 at the Shiokaze Park, Tokyo. It includes Women's Round of 16 match Artacho Del Solar/Clancy (AUS) v Xue/Wang (CHN) and the Men's Round of 16 match Mol/Sorum (NOR ) v Brouwer/Meeuwsen (NED)</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/v29plzmhgwktzai9zyab"/>
   </programme>
 </tv>
