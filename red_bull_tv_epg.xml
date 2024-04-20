@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240420215215 +0200" stop="20240420221810 +0200">
-    <title lang="en">Rescue</title>
-    <desc lang="en">Kai Lenny kicks off the big wave season at Jaws and faces the risks that come with his pursuit of progression. (26 minutes)</desc>
-    <category lang="en">Sport, Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/19/jva9enrtrwaujjfkul2q/kai-lenny-jaws-surfing" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240420221810 +0200" stop="20240420224402 +0200">
     <title lang="en">Highlights – Riyadh</title>
     <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1. (26 minutes)</desc>
@@ -126,6 +120,12 @@
     <desc lang="en">As close to the experience of pioneering new coastlines as you can get without getting on a plane. (54 minutes)</desc>
     <category lang="en">Sport, Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/q8wngrrxic3cpsh7sli6/dane-reynolds-haleiwa-2015" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240421101501 +0200" stop="20240421104654 +0200">
+    <title lang="en">In the Wings</title>
+    <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet – 2023. (31 minutes)</desc>
+    <category lang="en">Sport, F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023" />
   </programme>
 </tv>
 
