@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240421020041 +0200" stop="20240421023410 +0200">
-    <title lang="en">Australia Tour</title>
-    <desc lang="en">The skateboard demo tour hits Melbourne, Brisbane, Gold Coast and Sydney with Jamie Foy, TJ Rogers and more. (33 minutes)</desc>
-    <category lang="en">Sport, Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/12/c1cuulekhr76jf4t3pgr/jamie-foy-red-bull-drop-in-tour-2023-australia-skateboarding" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240421023410 +0200" stop="20240421025007 +0200">
     <title lang="en">Sebbe De Buck vs Kevin Backstrom</title>
     <desc lang="en">Snowboarders Sebbe De Buck and Kevin Backstrom face off in the Swiss Alps. (16 minutes)</desc>
@@ -126,6 +120,12 @@
     <desc lang="en">Nils Mindnich and Victor Daviet go head-to-head to try and lock down one of the six open spots at Revelstoke. (18 minutes)</desc>
     <category lang="en">Sport, Snowboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/27/ea4b2iera8lhlntregkw/nils-mindnich-vs-victor-daviet" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240421125819 +0200" stop="20240421131648 +0200">
+    <title lang="en">Jamie Anderson vs Emma Crosby</title>
+    <desc lang="en">Renowned snowboarder Jamie Anderson battles against rising star Emma Crosby at Colorado’s Crested Butte Mountain Resort. (18 minutes)</desc>
+    <category lang="en">Sport, Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/27/j78zi0ouf6vd6ijfgfyb/jamie-anderson-vs-emma-crosby" />
   </programme>
 </tv>
 
