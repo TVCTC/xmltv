@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240423175759 +0200" stop="20240423182602 +0200">
-    <title lang="en">Jorge Prado: Under the Lights</title>
-    <desc lang="en">MXGP Champion Jorge Prado takes on a new challenge: racing Supercross in America. (28 minutes)</desc>
-    <category lang="en">Sport, Supercross</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/wq51wy0twj7lamjjfa2u/jorge-prado" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240423182602 +0200" stop="20240423191754 +0200">
     <title lang="en">Focus</title>
     <desc lang="en">Taylor Steele's high action surf movie defines the cutting edge of performance surfing in the mid-90s. (52 minutes)</desc>
@@ -114,6 +108,18 @@
     <desc lang="en">25 two-minute surf movies created by the surfers themselves are woven into a single film. (80 minutes)</desc>
     <category lang="en">Sport, Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/yorresqhbahoe6ogub1o/josh-kerr-torquay-australia-2016" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240424055616 +0200" stop="20240424070243 +0200">
+    <title lang="en">Innersection: Orange</title>
+    <desc lang="en">These 20 short surf films from 20 international directors is unlike anything else in the sport today. (66 minutes)</desc>
+    <category lang="en">Sport, Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/bh7apohi5fddopaqtsnh/gabriel-villaran-arequipa-peru" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240424070243 +0200" stop="20240424072939 +0200">
+    <title lang="en">Varna, Bulgaria</title>
+    <desc lang="en">A crowd of 20,000 welcomes teams of amateur aviators who will attempt to fly on the coast of the Black Sea. (26 minutes)</desc>
+    <category lang="en">Sport, Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJBFUKH2111/FO-1RFJBFUKH2111-featureMedia" />
   </programme>
 </tv>
 
