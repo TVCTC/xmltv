@@ -1,609 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xmltv.dtd>
-<tv source-info-name="TVCTC" source-info-url="tomorrowland_com_epg.xml">
-  <channel id="OneWorldTV.be">
-    <display-name>One World TV</display-name>
-    <url>tomorrowland_com_epg.xml</url>
-    <icon src="https://images2.imgbox.com/19/70/T179sj2e_o.png"/>
+<tv source-info-name="TVCTC" source-info-url="tomorrowland.com" date-created="2024-04-24 14:29:38">
+  <channel id="OneWorldRadio.be">
+    <display-name>One World Radio</display-name>
+    <url>tomorrowland.com</url>
+    <icon src="https://images2.imgbox.com/be/87/YSrw1BiL_o.png"/>
   </channel>
-  <programme channel="OneWorldTV.be" start="20240319204500+0100" stop="20240319214500+0100">
-    <title lang="en">Vintage Culture</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334893886.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240319214500+0100" stop="20240319224500+0100">
-    <title lang="en">Tchami b2b Malaa</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360387799.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240319225000+0100" stop="20240319235000+0100">
-    <title lang="en">Kölsch</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360391920.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240319235000+0100" stop="20240320005000+0100">
-    <title lang="en">Alesso</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360387578.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320005000+0100" stop="20240320020000+0100">
-    <title lang="en">Da Tweekaz</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360407441.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320020000+0100" stop="20240320030000+0100">
-    <title lang="en">Vintage Culture</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334893886.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320030000+0100" stop="20240320040000+0100">
-    <title lang="en">Tchami b2b Malaa</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360387799.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320040000+0100" stop="20240320050000+0100">
-    <title lang="en">Kölsch</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360391920.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320050000+0100" stop="20240320060000+0100">
-    <title lang="en">Alesso</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360387578.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320060000+0100" stop="20240320070000+0100">
-    <title lang="en">Da Tweekaz</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360407441.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320080000+0100" stop="20240320090000+0100">
-    <title lang="en">Vintage Culture</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334893886.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320090000+0100" stop="20240320100000+0100">
-    <title lang="en">Tchami b2b Malaa</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360387799.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320100000+0100" stop="20240320110000+0100">
-    <title lang="en">Kölsch</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360391920.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320102000+0100" stop="20240320112000+0100">
-    <title lang="en">Alesso</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360387578.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320112000+0100" stop="20240320122000+0100">
-    <title lang="en">Da Tweekaz</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360407441.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320122000+0100" stop="20240320132000+0100">
-    <title lang="en">Vintage Culture</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334893886.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320132000+0100" stop="20240320142000+0100">
-    <title lang="en">Tchami b2b Malaa</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360387799.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320142000+0100" stop="20240320152000+0100">
-    <title lang="en">Kölsch</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360391920.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320152000+0100" stop="20240320162000+0100">
-    <title lang="en">Alesso</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360387578.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320162000+0100" stop="20240320172000+0100">
-    <title lang="en">Da Tweekaz</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360407441.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320172000+0100" stop="20240320182000+0100">
-    <title lang="en">Vintage Culture</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334893886.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320182000+0100" stop="20240320192000+0100">
-    <title lang="en">Tchami b2b Malaa</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360387799.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320192000+0100" stop="20240320200000+0100">
-    <title lang="en">Kölsch</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360391920.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320200000+0100" stop="20240320202000+0100">
-    <title lang="en">B Jones</title>
-    <desc lang="en">at Crystal Garden</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1363952907.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320202000+0100" stop="20240320204000+0100">
-    <title lang="en">Armin van Buuren</title>
-    <desc lang="en">at Crystal Garden</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334893602.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320204000+0100" stop="20240320214000+0100">
-    <title lang="en">MATTN</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360388278.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320214500+0100" stop="20240320224500+0100">
-    <title lang="en">Kevin de Vries b2b Konstantin Sibold</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1358631924.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320224500+0100" stop="20240320235000+0100">
-    <title lang="en">Lost Frequencies</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360388363.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240320235000+0100" stop="20240321005000+0100">
-    <title lang="en">Sebastian Ingrosso</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360388703.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321005000+0100" stop="20240321015000+0100">
-    <title lang="en">Armin van Buuren</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334893602.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321015000+0100" stop="20240321021000+0100">
-    <title lang="en">B Jones</title>
-    <desc lang="en">at Crystal Garden (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1363952907.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321021000+0100" stop="20240321023000+0100">
-    <title lang="en">Armin van Buuren</title>
-    <desc lang="en">at Crystal Garden (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334893602.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321023000+0100" stop="20240321033000+0100">
-    <title lang="en">MATTN</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360388278.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321033000+0100" stop="20240321043000+0100">
-    <title lang="en">Kevin de Vries b2b Konstantin Sibold</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1358631924.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321043000+0100" stop="20240321053000+0100">
-    <title lang="en">Lost Frequencies</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360388363.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321053000+0100" stop="20240321063000+0100">
-    <title lang="en">Sebastian Ingrosso</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360388703.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321063000+0100" stop="20240321073000+0100">
-    <title lang="en">Armin van Buuren</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334893602.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321073000+0100" stop="20240321075000+0100">
-    <title lang="en">B Jones</title>
-    <desc lang="en">at Crystal Garden (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1363952907.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321075000+0100" stop="20240321081000+0100">
-    <title lang="en">Armin van Buuren</title>
-    <desc lang="en">at Crystal Garden (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334893602.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321081000+0100" stop="20240321091000+0100">
-    <title lang="en">MATTN</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360388278.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321091000+0100" stop="20240321101000+0100">
-    <title lang="en">Kevin de Vries b2b Konstantin Sibold</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1358631924.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321101000+0100" stop="20240321111000+0100">
-    <title lang="en">Lost Frequencies</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360388363.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321111000+0100" stop="20240321121000+0100">
-    <title lang="en">Sebastian Ingrosso</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360388703.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321121000+0100" stop="20240321131000+0100">
-    <title lang="en">Armin van Buuren</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334893602.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321131000+0100" stop="20240321133000+0100">
-    <title lang="en">B Jones</title>
-    <desc lang="en">at Crystal Garden (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1363952907.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321133000+0100" stop="20240321135000+0100">
-    <title lang="en">Armin van Buuren</title>
-    <desc lang="en">at Crystal Garden (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334893602.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321143500+0100" stop="20240321153500+0100">
-    <title lang="en">MATTN</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360388278.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321153500+0100" stop="20240321163500+0100">
-    <title lang="en">Kevin de Vries b2b Konstantin Sibold</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1358631924.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321163500+0100" stop="20240321173500+0100">
-    <title lang="en">Lost Frequencies</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360388363.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321173500+0100" stop="20240321183500+0100">
-    <title lang="en">Sebastian Ingrosso</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360388703.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321183500+0100" stop="20240321193500+0100">
-    <title lang="en">Armin van Buuren</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334893602.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321193500+0100" stop="20240321195500+0100">
-    <title lang="en">B Jones</title>
-    <desc lang="en">at Crystal Garden (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1363952907.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321200000+0100" stop="20240321204000+0100">
-    <title lang="en">3 Are Legend</title>
-    <desc lang="en">at Crystal Garden</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360408134.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321204000+0100" stop="20240321214000+0100">
-    <title lang="en">ANNA</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360389148.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321214500+0100" stop="20240321224500+0100">
-    <title lang="en">NERVO</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1358567301.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321224500+0100" stop="20240321234500+0100">
-    <title lang="en">Sunnery James &amp; Ryan Marciano</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360389404.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240321235000+0100" stop="20240322005000+0100">
-    <title lang="en">Afrojack</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360411332.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322005000+0100" stop="20240322015000+0100">
-    <title lang="en">Steve Aoki</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1358514302.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322015000+0100" stop="20240322025000+0100">
-    <title lang="en">3 Are Legend</title>
-    <desc lang="en">at Crystal Garden (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360408134.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322035000+0100" stop="20240322045000+0100">
-    <title lang="en">ANNA</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360389148.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322045000+0100" stop="20240322055000+0100">
-    <title lang="en">NERVO</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1358567301.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322045000+0100" stop="20240322055000+0100">
-    <title lang="en">Sunnery James &amp; Ryan Marciano</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360389404.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322055000+0100" stop="20240322065000+0100">
-    <title lang="en">Afrojack</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360411332.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322065000+0100" stop="20240322075000+0100">
-    <title lang="en">Steve Aoki</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1358514302.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322075000+0100" stop="20240322085000+0100">
-    <title lang="en">3 Are Legend</title>
-    <desc lang="en">at Crystal Garden (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360408134.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322114000+0100" stop="20240322124000+0100">
-    <title lang="en">ANNA</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360389148.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322124000+0100" stop="20240322134000+0100">
-    <title lang="en">NERVO</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1358567301.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322134000+0100" stop="20240322144000+0100">
-    <title lang="en">Sunnery James &amp; Ryan Marciano</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360389404.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322144000+0100" stop="20240322154000+0100">
-    <title lang="en">Afrojack</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360411332.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322154000+0100" stop="20240322164000+0100">
-    <title lang="en">Steve Aoki</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1358514302.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322164000+0100" stop="20240322172000+0100">
-    <title lang="en">3 Are Legend</title>
-    <desc lang="en">at Crystal Garden (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360408134.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322172000+0100" stop="20240322182000+0100">
-    <title lang="en">ANNA</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360389148.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322182000+0100" stop="20240322192000+0100">
-    <title lang="en">NERVO</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1358567301.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322192000+0100" stop="20240322200000+0100">
-    <title lang="en">Sunnery James &amp; Ryan Marciano</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360389404.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322200000+0100" stop="20240322202000+0100">
-    <title lang="en">Konstantin Sibold</title>
-    <desc lang="en">at Frozen Lotus</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360410992.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322202000+0100" stop="20240322204000+0100">
-    <title lang="en">Like Mike</title>
-    <desc lang="en">at Frozen Lotus</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360389893.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322204000+0100" stop="20240322214000+0100">
-    <title lang="en">Felix Jaehn</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1358581129.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322214500+0100" stop="20240322224500+0100">
-    <title lang="en">Morten</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1358589473.png"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322225900+0100" stop="20240322235000+0100">
-    <title lang="en">Netsky</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1358545970.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240322235000+0100" stop="20240323005000+0100">
-    <title lang="en">Vini Vici</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360390221.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323005000+0100" stop="20240323015000+0100">
-    <title lang="en">Dimitri Vegas &amp; Like Mike</title>
-    <desc lang="en">at MainStage</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334894086.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323015000+0100" stop="20240323025000+0100">
-    <title lang="en">Konstantin Sibold</title>
-    <desc lang="en">at Frozen Lotus (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360410992.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323025000+0100" stop="20240323035000+0100">
-    <title lang="en">Like Mike</title>
-    <desc lang="en">at Frozen Lotus (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360389893.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323035000+0100" stop="20240323045000+0100">
-    <title lang="en">Felix Jaehn</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1358581129.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323045000+0100" stop="20240323055000+0100">
-    <title lang="en">Morten</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1358589473.png"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323055000+0100" stop="20240323065000+0100">
-    <title lang="en">Netsky</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1358545970.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323065000+0100" stop="20240323075000+0100">
-    <title lang="en">Vini Vici</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360390221.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323075000+0100" stop="20240323085000+0100">
-    <title lang="en">Dimitri Vegas &amp; Like Mike</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334894086.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323085000+0100" stop="20240323095000+0100">
-    <title lang="en">Konstantin Sibold</title>
-    <desc lang="en">at Frozen Lotus (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360410992.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323095000+0100" stop="20240323105000+0100">
-    <title lang="en">Like Mike</title>
-    <desc lang="en">at Frozen Lotus (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360389893.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323105000+0100" stop="20240323120000+0100">
-    <title lang="en">Felix Jaehn</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1358581129.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323120000+0100" stop="20240323122000+0100">
-    <title lang="en">Lost Frequencies</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360388363.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323122000+0100" stop="20240323124000+0100">
-    <title lang="en">Armin van Buuren</title>
-    <desc lang="en">at Crystal Garden (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334893602.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323124000+0100" stop="20240323130000+0100">
-    <title lang="en">Alesso</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360387578.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323130000+0100" stop="20240323132000+0100">
-    <title lang="en">Sunnery James &amp; Ryan Marciano</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360389404.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323132000+0100" stop="20240323134000+0100">
-    <title lang="en">DJ BORING</title>
-    <desc lang="en">at CORE (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360391332.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323134000+0100" stop="20240323140000+0100">
-    <title lang="en">Sebastian Ingrosso</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360388703.jpg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323140000+0100" stop="20240323142000+0100">
-    <title lang="en">Like Mike</title>
-    <desc lang="en">at Frozen Lotus (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360389893.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323142000+0100" stop="20240323144000+0100">
-    <title lang="en">Netsky</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1358545970.jpeg"/>
-  </programme>
-  <programme channel="OneWorldTV.be" start="20240323144000+0100" stop="20240323150000+0100">
-    <title lang="en">Afrojack</title>
-    <desc lang="en">at MainStage (replay)</desc>
-    <category lang="en">Music</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1360411332.jpg"/>
+  <programme channel="OneWorldRadio.be" start="20240424000000+0200" stop="20240424020000+0200">
+    <title lang="en">In The Mix</title>
+    <desc lang="en">Tune in to "In the Mix" for a blend of the latest chart-toppers and timeless classics. One World Radio curates the perfect playlist to keep you grooving.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1335910342.jpeg"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240424020000+0200" stop="20240424040000+0200">
+    <title lang="en">Label Showcase</title>
+    <desc lang="en">A label takes over One World Radio for a thrilling two-hour voyage showcasing the imprint's top artists and tracks. The label head or a leading household artist invites some of the label's finest names to curate and present their favorite tunes with care and passion.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334708497.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240424040000+0200" stop="20240424070000+0200">
+    <title lang="en">Sound Of Sunrise</title>
+    <desc lang="en">Good morning! Wake up to the finest tunes dance music has to offer. Tune in to Sound Of Sunrise on One World Radio.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1335896710.jpg"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240424070000+0200" stop="20240424120000+0200">
+    <title lang="en">Daybreak Sessions with Ben Malone</title>
+    <desc lang="en">One World Radio programme.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1405404825.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240424120000+0200" stop="20240424130000+0200">
+    <title lang="en">Meet The World with Camille</title>
+    <desc lang="en">Tune in to "Meet The World with Camille" every weekday from noon to 13:00 CET. Camille plays the best lunch tunes and takes requests from you, the People of Tomorrow.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334491994.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240424130000+0200" stop="20240424150000+0200">
+    <title lang="en">United Through Music with AdamK</title>
+    <desc lang="en">People of Tomorrow! Unite through the power of music, wherever you are around the world. Tune in to United Through Music with AdamK, exclusively here on One World Radio.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1337028309.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240424150000+0200" stop="20240424180000+0200">
+    <title lang="en">Tomorrowland Anthems with AdamK</title>
+    <desc lang="en">Join AdamK on the airwaves for a non-stop, high-energy musical journey with the most anthemic and iconic Tomorrowland tracks.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1337028955.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240424180000+0200" stop="20240424190000+0200">
+    <title lang="en">Relive The Madness with MC Stretch</title>
+    <desc lang="en">The legendary MC Stretch, host of the Tomorrowland MainStage, curates his favourite live moments from all the different festival editions, giving a unique and unprecedented look into the numerous Tomorrowland tales.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1337012718.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240424190000+0200" stop="20240424210000+0200">
+    <title lang="en">Celebrate The Magic with Greg Jake</title>
+    <desc lang="en">Join the People of Tomorrow celebrating the magic with Greg Jake, straight from Texas, USA, as he hosts One World Radio every Monday through Thursday, from 19:00 to 21:00 CET.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334483579.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240424210000+0200" stop="20240425000000+0200">
+    <title lang="en">In The Mix</title>
+    <desc lang="en">Tune in to "In the Mix" for a blend of the latest chart-toppers and timeless classics. One World Radio curates the perfect playlist to keep you grooving.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1335910342.jpeg"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240425000000+0200" stop="20240425030000+0200">
+    <title lang="en">In The Mix</title>
+    <desc lang="en">Tune in to "In the Mix" for a blend of the latest chart-toppers and timeless classics. One World Radio curates the perfect playlist to keep you grooving.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1335910342.jpeg"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240425030000+0200" stop="20240425040000+0200">
+    <title lang="en">Relive The Madness with MC Stretch</title>
+    <desc lang="en">The legendary MC Stretch, host of the Tomorrowland MainStage, curates his favourite live moments from all the different festival editions, giving a unique and unprecedented look into the numerous Tomorrowland tales.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1337012718.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240425040000+0200" stop="20240425070000+0200">
+    <title lang="en">Sound Of Sunrise</title>
+    <desc lang="en">Good morning! Wake up to the finest tunes dance music has to offer. Tune in to Sound Of Sunrise on One World Radio.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1335896710.jpg"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240425070000+0200" stop="20240425120000+0200">
+    <title lang="en">Daybreak Sessions with Ben Malone</title>
+    <desc lang="en">One World Radio programme.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1405404825.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240425120000+0200" stop="20240425130000+0200">
+    <title lang="en">Meet The World with Camille</title>
+    <desc lang="en">Tune in to "Meet The World with Camille" every weekday from noon to 13:00 CET. Camille plays the best lunch tunes and takes requests from you, the People of Tomorrow.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334491994.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240425130000+0200" stop="20240425190000+0200">
+    <title lang="en">United Through Music with AdamK</title>
+    <desc lang="en">People of Tomorrow! Unite through the power of music, wherever you are around the world. Tune in to United Through Music with AdamK, exclusively here on One World Radio.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1337028309.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240425190000+0200" stop="20240425210000+0200">
+    <title lang="en">Celebrate The Magic with Greg Jake</title>
+    <desc lang="en">Join the People of Tomorrow celebrating the magic with Greg Jake, straight from Texas, USA, as he hosts One World Radio every Monday through Thursday, from 19:00 to 21:00 CET.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334483579.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240425210000+0200" stop="20240425220000+0200">
+    <title lang="en">Tomorrowland Friendship Mix</title>
+    <desc lang="en">Over the years, Tomorrowland has built many friendships. Every Thursday, One World Radio invites one of these close friends to craft a special mix, exclusively for the People of Tomorrow.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1352902703.jpg"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240425220000+0200" stop="20240426000000+0200">
+    <title lang="en">In The Mix</title>
+    <desc lang="en">Tune in to "In the Mix" for a blend of the latest chart-toppers and timeless classics. One World Radio curates the perfect playlist to keep you grooving.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1335910342.jpeg"/>
   </programme>
 </tv>
