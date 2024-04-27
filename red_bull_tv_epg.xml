@@ -7,30 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240427064357 +0200" stop="20240427081346 +0200">
-    <title lang="en">London, UK</title>
-    <desc lang="en">Engenious, fast and brave is the recipe to success for a man-made-machine race, but who has it all in London? (89 minutes)</desc>
-    <category lang="en">Sport, Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/11/rkzzj4pulbfgnuswtsqe/asterix-and-obelix-contra-alexandra-palace-red-bull-soapbox-race-london-2022" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240427081346 +0200" stop="20240427084335 +0200">
-    <title lang="en">Barefoot Charles</title>
-    <desc lang="en">Barefoot Charles Albert is a minimalist who climbs boulders in Fontainebleau, France, and lives in a cave. (30 minutes)</desc>
-    <category lang="en">Sport, Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/ydxaxjhqzror4iclvx2k/giuliano-cameroni-the-feather-reel-rock-s8-ep2" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240427084335 +0200" stop="20240427090317 +0200">
-    <title lang="en">Cenote</title>
-    <desc lang="en">Adolfo 'Fito' Trujillo’s discovery of climbing in the limestone sinkholes turns the farmer’s life around. (19 minutes)</desc>
-    <category lang="en">Sport, Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/gl3qlrwdaz1smqbizu1b/reel-rock-s8-e4-aldolfo-trujillo-yucatan-penninsula" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240427090317 +0200" stop="20240427095748 +0200">
-    <title lang="en">Toby Price: Ridin’ Shotgun</title>
-    <desc lang="en">Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels? (54 minutes)</desc>
-    <category lang="en">Sport, Offroad</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/9/22/uizpbk9kquu6ustdsgnf/toby-price-ridin-shotgun-hero-art" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240427095748 +0200" stop="20240427110936 +0200">
     <title lang="en">Broken Molds</title>
     <desc lang="en">Take an inside look at the origins of windsurfing and how it became one of the world's fastest growing sports. (71 minutes)</desc>
@@ -120,6 +96,30 @@
     <desc lang="en">From underdog to world champ – this is the mountain bike in memory of legend Stevie 'Chainsaw' Smith. (93 minutes)</desc>
     <category lang="en">Sport, Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/4/uy6brgtuxhj4xr129iui/long-live-chainsaw-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240427191922 +0200" stop="20240427201205 +0200">
+    <title lang="en">Snowboarding highlights</title>
+    <desc lang="en">Thirty of the world’s top street snowboarders converge on the Minnesota State Capitol Building. (52 minutes)</desc>
+    <category lang="en">Sport, Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/26/qeqrokrg5t2aqzmooyi2/grace-warner-red-bull-heavy-metal-2024" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240427201205 +0200" stop="20240427214026 +0200">
+    <title lang="en">Layers</title>
+    <desc lang="en">Discover and celebrate the unique people, places, personalities and layers behind what we call snowboarding. (88 minutes)</desc>
+    <category lang="en">Sport, Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/a24wabmgl2h2stzq5tyk/snowboard-movie-layers" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240427214026 +0200" stop="20240427230955 +0200">
+    <title lang="en">Madrid, Spain</title>
+    <desc lang="en">A churros-powered descent is taking place in the steep road of Madrid! Who will come out on top? (89 minutes)</desc>
+    <category lang="en">Sport, Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/xifrq4b6kfis2z2uzxkm/sardinatti-team-red-bull-soapbox-race-madrid-2022" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240427230955 +0200" stop="20240427234625 +0200">
+    <title lang="en">Red Bull Dual Ascent</title>
+    <desc lang="en">Sixteen world-class athletes on eight teams battle to be the fastest up a wall of six gruelling pitches. (36 minutes)</desc>
+    <category lang="en">Sport, Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/30/inmn3pjglt8q3tlpdk2c/red-bull-dual-ascent-2022-domen-skofic" />
   </programme>
 </tv>
 
