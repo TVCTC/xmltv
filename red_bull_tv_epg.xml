@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240429055722 +0200" stop="20240429064429 +0200">
-    <title lang="en">Se7en Signs: A Travelling Film</title>
-    <desc lang="en">This is a film about travelling to find waves... and everything that happens in between. (46 minutes)</desc>
-    <category lang="en">Sport, Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/22/h7xnny83dapezq5kykwo/se7en-signs-a-travelling-film-header" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240429064429 +0200" stop="20240429073609 +0200">
     <title lang="en">Shires</title>
     <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather. (51 minutes)</desc>
@@ -126,6 +120,12 @@
     <desc lang="en">Take an inside look at the origins of windsurfing and how it became one of the world's fastest growing sports. (71 minutes)</desc>
     <category lang="en">Sport, Windsurfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/20/qibyjmco0mhsfbnwbyka/broken-molds-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240430015040 +0200" stop="20240430030250 +0200">
+    <title lang="en">Magic Hour</title>
+    <desc lang="en">The 'magic hour' provides the perfect light to capture stunning ski images in the mountains. (71 minutes)</desc>
+    <category lang="en">Sport, Mountaineering</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/14/yyuc1fysrqdptglb8re6/simon-hillis-british-columbia-magic-hour-ski" />
   </programme>
 </tv>
 
