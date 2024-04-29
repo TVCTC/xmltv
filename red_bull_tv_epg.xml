@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240429210248 +0200" stop="20240429223236 +0200">
-    <title lang="en">London, UK</title>
-    <desc lang="en">Engenious, fast and brave is the recipe to success for a man-made-machine race, but who has it all in London? (89 minutes)</desc>
-    <category lang="en">Sport, Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/11/rkzzj4pulbfgnuswtsqe/asterix-and-obelix-contra-alexandra-palace-red-bull-soapbox-race-london-2022" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240429223236 +0200" stop="20240429230225 +0200">
     <title lang="en">Barefoot Charles</title>
     <desc lang="en">Barefoot Charles Albert is a minimalist who climbs boulders in Fontainebleau, France, and lives in a cave. (30 minutes)</desc>
@@ -126,6 +120,12 @@
     <desc lang="en">From Olympic pools to wild rivers, see the life of Nouria Newman, the most gifted kayaker of her generation. (86 minutes)</desc>
     <category lang="en">Sport, Kayaking</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/ez6viqxoy4iwxf7bxd7n/wild-waters-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240430163347 +0200" stop="20240430172701 +0200">
+    <title lang="en">Changing of the guard</title>
+    <desc lang="en">The Red Bull Cliff Diving World Series reaches its crescendo at the final stop in Auckland. (53 minutes)</desc>
+    <category lang="en">Sport, Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/7/tt3uy4mfvjutdd8uvddx/constantin-popovici-red-bull-cliff-diving-2023-auckland" />
   </programme>
 </tv>
 
