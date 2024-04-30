@@ -7,36 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240430015040 +0200" stop="20240430030250 +0200">
-    <title lang="en">Magic Hour</title>
-    <desc lang="en">The 'magic hour' provides the perfect light to capture stunning ski images in the mountains. (71 minutes)</desc>
-    <category lang="en">Sport, Mountaineering</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/14/yyuc1fysrqdptglb8re6/simon-hillis-british-columbia-magic-hour-ski" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240430030250 +0200" stop="20240430034958 +0200">
-    <title lang="en">Se7en Signs: A Travelling Film</title>
-    <desc lang="en">This is a film about travelling to find waves... and everything that happens in between. (46 minutes)</desc>
-    <category lang="en">Sport, Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/22/h7xnny83dapezq5kykwo/se7en-signs-a-travelling-film-header" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240430034958 +0200" stop="20240430044138 +0200">
-    <title lang="en">Shires</title>
-    <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather. (51 minutes)</desc>
-    <category lang="en">Sport, MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/29/rpfuqolbq2fpzctqjxgu/shires-rob-warner-bike-film" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240430044138 +0200" stop="20240430055132 +0200">
-    <title lang="en">Anywhere from Here</title>
-    <desc lang="en">Just 11-years-old and already a freestyle ski phenomenon. Meet the extraordinary Walker Woodring. (69 minutes)</desc>
-    <category lang="en">Sport, Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/jjm6hlgjvjhygfx8dr09/logan-pehota-british-columbia-anywhere-from-here-ski-film" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240430055132 +0200" stop="20240430055643 +0200">
-    <title lang="en">Snowboarding destruction in Detroit</title>
-    <desc lang="en">Red Bull Heavy Metal saw Detroit’s Hart Plaza transformed into a street snowboarding arena unlike any other. (5 minutes)</desc>
-    <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/17/zk9l5xjasgczigt2embs/red-bull-heavy-metal" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240430055643 +0200" stop="20240430064314 +0200">
     <title lang="en">(Un)credited</title>
     <desc lang="en">Dive deep into the origins of Afro Dance in Nigeria and how it has shaped a global mainstream culture. (46 minutes)</desc>
@@ -126,6 +96,36 @@
     <desc lang="en">Adolfo 'Fito' Trujillo’s discovery of climbing in the limestone sinkholes turns the farmer’s life around. (19 minutes)</desc>
     <category lang="en">Sport, Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/gl3qlrwdaz1smqbizu1b/reel-rock-s8-e4-aldolfo-trujillo-yucatan-penninsula" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240430205501 +0200" stop="20240430214931 +0200">
+    <title lang="en">Toby Price: Ridin’ Shotgun</title>
+    <desc lang="en">Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels? (54 minutes)</desc>
+    <category lang="en">Sport, Offroad</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/9/22/uizpbk9kquu6ustdsgnf/toby-price-ridin-shotgun-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240430214931 +0200" stop="20240430230119 +0200">
+    <title lang="en">Broken Molds</title>
+    <desc lang="en">Take an inside look at the origins of windsurfing and how it became one of the world's fastest growing sports. (71 minutes)</desc>
+    <category lang="en">Sport, Windsurfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/20/qibyjmco0mhsfbnwbyka/broken-molds-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240430230119 +0200" stop="20240501001330 +0200">
+    <title lang="en">Magic Hour</title>
+    <desc lang="en">The 'magic hour' provides the perfect light to capture stunning ski images in the mountains. (71 minutes)</desc>
+    <category lang="en">Sport, Mountaineering</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/14/yyuc1fysrqdptglb8re6/simon-hillis-british-columbia-magic-hour-ski" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240501001330 +0200" stop="20240501010510 +0200">
+    <title lang="en">Shires</title>
+    <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather. (51 minutes)</desc>
+    <category lang="en">Sport, MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/29/rpfuqolbq2fpzctqjxgu/shires-rob-warner-bike-film" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240501010510 +0200" stop="20240501021504 +0200">
+    <title lang="en">Anywhere from Here</title>
+    <desc lang="en">Just 11-years-old and already a freestyle ski phenomenon. Meet the extraordinary Walker Woodring. (69 minutes)</desc>
+    <category lang="en">Sport, Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/jjm6hlgjvjhygfx8dr09/logan-pehota-british-columbia-anywhere-from-here-ski-film" />
   </programme>
 </tv>
 
