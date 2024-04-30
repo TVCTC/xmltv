@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240430093025 +0200" stop="20240430102308 +0200">
-    <title lang="en">Snowboarding highlights</title>
-    <desc lang="en">Thirty of the world’s top street snowboarders converge on the Minnesota State Capitol Building. (52 minutes)</desc>
-    <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/26/qeqrokrg5t2aqzmooyi2/grace-warner-red-bull-heavy-metal-2024" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240430102308 +0200" stop="20240430115129 +0200">
     <title lang="en">Layers</title>
     <desc lang="en">Discover and celebrate the unique people, places, personalities and layers behind what we call snowboarding. (88 minutes)</desc>
@@ -126,6 +120,12 @@
     <desc lang="en">From underdog to world champ – this is the mountain bike in memory of legend Stevie 'Chainsaw' Smith. (93 minutes)</desc>
     <category lang="en">Sport, Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/4/uy6brgtuxhj4xr129iui/long-live-chainsaw-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240501054846 +0200" stop="20240501055710 +0200">
+    <title lang="en">Max Verstappen drift driving challenge</title>
+    <desc lang="en">Oracle Red Bull Racing driver Max Verstappen gets behind the wheel of a drift car with ‘Mad’ Mike Whiddett. (8 minutes)</desc>
+    <category lang="en">Sport, Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/1/ajtwdf7dbvshygox7vnz/max-verstappen-with-madbul" />
   </programme>
 </tv>
 
