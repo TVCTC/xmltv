@@ -1,77 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xmltv.dtd>
-<tv source-info-name="TVCTC" source-info-url="tomorrowland.com" date-created="2024-05-01 00:01:01">
+<tv source-info-name="TVCTC" source-info-url="tomorrowland.com" date-created="2024-05-02 00:01:01">
   <channel id="OneWorldRadio.be">
     <display-name>One World Radio</display-name>
     <url>tomorrowland.com</url>
     <icon src="https://images2.imgbox.com/be/87/YSrw1BiL_o.png"/>
   </channel>
-  <programme channel="OneWorldRadio.be" start="20240501000000+0200" stop="20240501030000+0200">
-    <title lang="en">In The Mix</title>
-    <desc lang="en">Tune in to "In the Mix" for a blend of the latest chart-toppers and timeless classics. One World Radio curates the perfect playlist to keep you grooving.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1335910342.jpeg"/>
-  </programme>
-  <programme channel="OneWorldRadio.be" start="20240501030000+0200" stop="20240501040000+0200">
-    <title lang="en">Universal Nation with M.I.K.E. Push</title>
-    <desc lang="en">True legends never die… M.I.K.E. Push takes you on a monthly journey during his ‘Universal Nation’ show, named after his legendary record, bringing you the best selection of techno, melodic and anthems.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1337031053.png"/>
-  </programme>
-  <programme channel="OneWorldRadio.be" start="20240501040000+0200" stop="20240501070000+0200">
-    <title lang="en">Sound Of Sunrise</title>
-    <desc lang="en">Good morning! Wake up to the finest tunes dance music has to offer. Tune in to Sound Of Sunrise on One World Radio.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1335896710.jpg"/>
-  </programme>
-  <programme channel="OneWorldRadio.be" start="20240501070000+0200" stop="20240501090000+0200">
-    <title lang="en">Daybreak Sessions with Justin</title>
-    <desc lang="en">Join Justin every weekday morning for "Daybreak Sessions," where he sets the perfect easy dance music vibe to kickstart your day. Tune in to One World Radio and let Justin accompany you through your morning routine with smooth tunes and positive vibes.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1337008551.png"/>
-  </programme>
-  <programme channel="OneWorldRadio.be" start="20240501090000+0200" stop="20240501130000+0200">
-    <title lang="en">Tomorrowland Top 1000</title>
-    <desc lang="en">One World Radio programme.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1429203545.png"/>
-  </programme>
-  <programme channel="OneWorldRadio.be" start="20240501130000+0200" stop="20240501150000+0200">
-    <title lang="en">Tomorrowland Top 1000</title>
-    <desc lang="en">One World Radio programme.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1429203545.png"/>
-  </programme>
-  <programme channel="OneWorldRadio.be" start="20240501150000+0200" stop="20240501170000+0200">
-    <title lang="en">Tomorrowland Top 1000</title>
-    <desc lang="en">One World Radio programme.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1429203545.png"/>
-  </programme>
-  <programme channel="OneWorldRadio.be" start="20240501170000+0200" stop="20240501180000+0200">
-    <title lang="en">Tomorrowland Top 1000 Anthems Mix</title>
-    <desc lang="en">One World Radio programme.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://images2.imgbox.com/be/87/YSrw1BiL_o.png"/>
-  </programme>
-  <programme channel="OneWorldRadio.be" start="20240501180000+0200" stop="20240501200000+0200">
-    <title lang="en">Celebrate Tomorrowland Top 1000</title>
-    <desc lang="en">One World Radio programme.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1429194055.png"/>
-  </programme>
-  <programme channel="OneWorldRadio.be" start="20240501200000+0200" stop="20240501210000+0200">
-    <title lang="en">Relive The Madness with MC Stretch</title>
-    <desc lang="en">The legendary MC Stretch, host of the Tomorrowland MainStage, curates his favourite live moments from all the different festival editions, giving a unique and unprecedented look into the numerous Tomorrowland tales.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1337012718.png"/>
-  </programme>
-  <programme channel="OneWorldRadio.be" start="20240501210000+0200" stop="20240502000000+0200">
-    <title lang="en">Tomorrowland Top 1000</title>
-    <desc lang="en">One World Radio programme.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1429203545.png"/>
-  </programme>
   <programme channel="OneWorldRadio.be" start="20240502000000+0200" stop="20240502050000+0200">
     <title lang="en">Tomorrowland Top 1000</title>
     <desc lang="en">One World Radio programme.</desc>
@@ -125,5 +59,83 @@
     <desc lang="en">One World Radio programme.</desc>
     <category lang="en">Radio</category>
     <icon src="https://owr-schedule-cdn.tomorrowland.com/1429203545.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240503000000+0200" stop="20240503030000+0200">
+    <title lang="en">In The Mix</title>
+    <desc lang="en">Tune in to "In the Mix" for a blend of the latest chart-toppers and timeless classics. One World Radio curates the perfect playlist to keep you grooving.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1335910342.jpeg"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240503030000+0200" stop="20240503040000+0200">
+    <title lang="en">Tomorrowland Friendship Mix</title>
+    <desc lang="en">Over the years, Tomorrowland has built many friendships. Every Thursday, One World Radio invites one of these close friends to craft a special mix, exclusively for the People of Tomorrow.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1352902703.jpg"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240503040000+0200" stop="20240503070000+0200">
+    <title lang="en">Sound Of Sunrise</title>
+    <desc lang="en">Good morning! Wake up to the finest tunes dance music has to offer. Tune in to Sound Of Sunrise on One World Radio.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1335896710.jpg"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240503070000+0200" stop="20240503120000+0200">
+    <title lang="en">Daybreak Sessions with Ben Malone</title>
+    <desc lang="en">One World Radio programme.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1405404825.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240503120000+0200" stop="20240503130000+0200">
+    <title lang="en">Meet The World with Camille</title>
+    <desc lang="en">Tune in to "Meet The World with Camille" every weekday from noon to 13:00 CET. Camille plays the best lunch tunes and takes requests from you, the People of Tomorrow.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334491994.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240503130000+0200" stop="20240503150000+0200">
+    <title lang="en">United Through Music with AdamK</title>
+    <desc lang="en">People of Tomorrow! Unite through the power of music, wherever you are around the world. Tune in to United Through Music with AdamK, exclusively here on One World Radio.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1337028309.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240503150000+0200" stop="20240503170000+0200">
+    <title lang="en">Tomorrowland Top 30 with NERVO</title>
+    <desc lang="en">Every week, Australian duo and twin sisters NERVO serve you the hottest 30 records of the moment. You, the People of Tomorrow, have put together the list by voting for your 3 favourite hits of the moment.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1337020070.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240503170000+0200" stop="20240503180000+0200">
+    <title lang="en">Best of One World Radio with AdamK</title>
+    <desc lang="en">So many things happen on One World Radio in just one week! That's why every Friday, One World Radio's AdamK serves you a one-hour show with the ultimate highlights of the week.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1352004047.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240503180000+0200" stop="20240503200000+0200">
+    <title lang="en">Your Friday with Ben Malone</title>
+    <desc lang="en">Wrap up your work week on One World Radio with Ben Malone, as he presents "Your Friday"</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334490836.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240503200000+0200" stop="20240503210000+0200">
+    <title lang="en">Relive The Madness with MC Stretch</title>
+    <desc lang="en">The legendary MC Stretch, host of the Tomorrowland MainStage, curates his favourite live moments from all the different festival editions, giving a unique and unprecedented look into the numerous Tomorrowland tales.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1337012718.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240503210000+0200" stop="20240503220000+0200">
+    <title lang="en">Sunnery James &amp; Ryan Marciano on One World Radio</title>
+    <desc lang="en">Dynamic Dutch duo Sunnery James &amp; Ryan Marciano take over One World Radio for their monthly residency. They bring you a taste of their unique electronic sounds, which is a perfectly stirred fusion of house, techno, Latin, and tribal percussion.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334492509.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240503220000+0200" stop="20240503223000+0200">
+    <title lang="en">Armin van Buuren's Weekend Kick Off</title>
+    <desc lang="en">Are you ready to start your weekend with a bang? Every Friday, Armin van Buuren takes over One World Radio with an exclusive half-hour mix filled with the best trance and progressive. No one better than the Tomorrowland veteran to kick off your weekend.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1304106555.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240503223000+0200" stop="20240504000000+0200">
+    <title lang="en">Your Friday In The Mix</title>
+    <desc lang="en">Prepare for the weekend ahead with the ultimate selection of music right here on One World Radio.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1335912882.jpeg"/>
   </programme>
 </tv>
