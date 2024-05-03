@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240503212515 +0200" stop="20240503221757 +0200">
-    <title lang="en">Snowboarding highlights</title>
-    <desc lang="en">Thirty of the world’s top street snowboarders converge on the Minnesota State Capitol Building. (52 minutes)</desc>
-    <category lang="en">Sport, Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/26/qeqrokrg5t2aqzmooyi2/grace-warner-red-bull-heavy-metal-2024" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240503221757 +0200" stop="20240503234618 +0200">
     <title lang="en">Layers</title>
     <desc lang="en">Discover and celebrate the unique people, places, personalities and layers behind what we call snowboarding. (88 minutes)</desc>
@@ -126,6 +120,12 @@
     <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite. (99 minutes)</desc>
     <category lang="en">Sport, Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240503234618 +0200" stop="20240504011547 +0200">
+    <title lang="en">Madrid, Spain</title>
+    <desc lang="en">A churros-powered descent is taking place in the steep road of Madrid! Who will come out on top? (89 minutes)</desc>
+    <category lang="en">Sport, Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/xifrq4b6kfis2z2uzxkm/sardinatti-team-red-bull-soapbox-race-madrid-2022" />
   </programme>
 </tv>
 
