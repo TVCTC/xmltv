@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE xmltv.dtd>
-<tv source-info-name="TVCTC" source-info-url="https://olympics.com" date-created="2024-05-04 00:00:07">
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="TVCTC" source-info-url="https://olympics.com" time-created="2024-05-04 09:32:51">
   <channel id="OlympicChannel.int">
     <display-name>Olympic Channel</display-name>
-    <url>https://olympics.com</url>
     <icon src="https://thumbs2.imgbox.com/45/27/1M1IrWhV_t.png"/>
   </channel>
   <programme channel="OlympicChannel.int" start="20240502224554+0000" stop="20240503002806+0000">
