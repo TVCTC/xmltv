@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240507055723 +0200" stop="20240507064233 +0200">
-    <title lang="en">Hallowed Ground</title>
-    <desc lang="en">Follow Hurley team riders through their usual skating haunts to get their views of skateboarding. (44 minutes)</desc>
-    <category lang="en">Sport, Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/c6j7zgvojn8pkeidswke/steve-alba-skateboarding-2013" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240507064233 +0200" stop="20240507073412 +0200">
     <title lang="en">Shires</title>
     <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather. (51 minutes)</desc>
@@ -120,6 +114,12 @@
     <desc lang="en">Mathias Flückiger and Nino Schurter confront the bitter rivalry of Swiss MTB cross-country racing. (26 minutes)</desc>
     <category lang="en">Sport, MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/aleq0pywjxtowwjzjynt/mathias-fluckiger" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240507232141 +0200" stop="20240507235522 +0200">
+    <title lang="en">Home run</title>
+    <desc lang="en">As Rachel Atherton returns to MTB racing, she works to find a balance while Vali Höll prepares for success. (34 minutes)</desc>
+    <category lang="en">Sport, MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/dc5vg0kbtvhiw8okcbva/rachel-atherton" />
   </programme>
 </tv>
 
