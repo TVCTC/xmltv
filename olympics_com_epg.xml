@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://olympics.com" time-created="2024-05-08 23:21:32">
+<tv generator-info-name="TVCTC" source-info-url="https://olympics.com" time-created="2024-05-09 00:00:03">
   <channel id="olympic-channel.olympics.com">
     <display-name>Olympic Channel</display-name>
     <icon src="https://thumbs2.imgbox.com/45/27/1M1IrWhV_t.png"/>
   </channel>
-  <programme channel="olympic-channel.olympics.com" start="20240508210308+0000" stop="20240508225354+0000">
-    <title lang="en">Women's 3m Springboard Semi-Final - Diving | Tokyo 2020 Replays</title>
-    <desc lang="en">This event took place on 31/07/2021 at the Tokyo Aquatics Centre, Tokyo. Tingmao SHI (CHN) was leading the fields into the final</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/ka6vpjeo0p4ekdm4kzzy"/>
-  </programme>
   <programme channel="olympic-channel.olympics.com" start="20240508225354+0000" stop="20240509003343+0000">
     <title lang="en">Women's Triple Jump Final - Athletics | Tokyo 2020 Replays</title>
     <desc lang="en">This event took place on 01/08/2021 at the Olympic Stadium, Tokyo. Rojas (VEN) claimed the Gold, Mamona (POR) Silver and Peleteiro (ESP) completed the podium</desc>
@@ -119,5 +113,89 @@
     <desc lang="en">This event took place on 02/08/2021 at the Tokyo Aquatics Centre, Tokyo. Kolesnichenko/ Romashina (ROC) lead the field into the Technical Routine.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/wshcizgfypbtzyehqg62"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240510013715+0000" stop="20240510034440+0000">
+    <title lang="en">AUS v SWE - Women's Semi-Final - Football | Tokyo 2020 Replays</title>
+    <desc lang="en">This match took place on 02/08/2021 at the Ibaraki Kashima Stadium, Kashima. Final Score AUS 1: 0 SWE</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/rn8qne7eztuyqzbvm1rx"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240510034440+0000" stop="20240510052800+0000">
+    <title lang="en">Women's 87kg, +87kg Group B - Weightlifting | Tokyo 2020 Replays</title>
+    <desc lang="en">This event took place on 02/08/2021 at the Tokyo International Forum, Tokyo.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/ubxd6nqr7bzt98gngzuq"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240510052800+0000" stop="20240510060254+0000">
+    <title lang="en">What Moves Me (Film)</title>
+    <desc lang="en">Watch how world-class athletes overcame common personal barriers and started their own impossible</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/blomcz3ceo8qujsuvzz3"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240510060000+0000" stop="20240510065343+0000">
+    <title lang="en">Arriba Cuba</title>
+    <desc lang="en">An exploration of the past, present and future of sports in Cuba at a time of unprecedented change.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/yljd7efeqybnezq8ujvf"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240510065343+0000" stop="20240510071159+0000">
+    <title lang="en">Manuel: the next big thing in Angola’s favorite sport | Playing Fields</title>
+    <desc lang="en">A young basketball player from Angola shows us what the sport means to him and dreams of the endelless posibilities the future holds.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/ofk3z4p9mfglypjkepr9"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240510071159+0000" stop="20240510091321+0000">
+    <title lang="en">CAN v ROC - Men's Quarter-Final - Volleyball | Tokyo 2020 Replays</title>
+    <desc lang="en">The Men's Quarterfinal Match between Canada and ROC took place on 03/08/2021 at the Ariake Arena, Tokyo. Final Score ROC 3:0 CAN</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/dnqta2bau0ejhsh9jm4s"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240510091321+0000" stop="20240510114123+0000">
+    <title lang="en">Men's Individual QFs/SFs/Finals  - Archery | Tokyo 2020 Replays</title>
+    <desc lang="en">This event took place on 31/07/2021 at Yumenoshima Park Archery Field, Tokyo. Mete Gazoz (TUR) claimed Gold, Mauro Nespoli (ITA) took Silver and Takaharu Furukawa (JPN) completed the podium.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/xnwfal8ybqogwitvx3tg"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240510114123+0000" stop="20240510131636+0000">
+    <title lang="en">FRA v BRN - Men's Quarter-Final - Handball | Tokyo 2020 Replays</title>
+    <desc lang="en">This Men's Quarterfinal Match took place on 03/08/2021 at the Yoyogi National Stadium, Tokyo. Final Score FRA 42:28 BRN</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/vb5uvbfge8an4e5pgdds"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240510131636+0000" stop="20240510154508+0000">
+    <title lang="en">GER v USA &amp; BRA v SUI - Women's Quarter-Finals - Beach Volleyball | Tokyo 2020 Replays</title>
+    <desc lang="en">This event tookplace on 03/08/2021 at the Shiokaze Park, Tokyo. It includes the Women's Quarterfinal Matches Ludwig/Kozuch (GER) v April/Alix (USA) and Ana Patricia/Rebecca (BRA) v Verge-Depre/Heidrich (SUI)</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/tjhj4ilvpymeln2ex2in"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240510154508+0000" stop="20240510160336+0000">
+    <title lang="en">Manuel: the next big thing in Angola’s favorite sport | Playing Fields</title>
+    <desc lang="en">A young basketball player from Angola shows us what the sport means to him and dreams of the endelless posibilities the future holds.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/ofk3z4p9mfglypjkepr9"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240510160336+0000" stop="20240510165752+0000">
+    <title lang="en">El Palomar Basketball Team</title>
+    <desc lang="en">Team USA Olympic hero Kara Wolters travels to Mexico to try to turn around the fortunes of a struggling basketball team.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/c8dkxhr6ryukskqawvox"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240510165752+0000" stop="20240510200625+0000">
+    <title lang="en">Semi-Finals &amp; Finals - Day 11 - Canoe Sprint | Tokyo 2020 Replays</title>
+    <desc lang="en">This event took place on 03/08/2021 at the Sea Forrest waterway, Tokyo. It includes the Women's Kayak Single 200m, the Women's Kayak Double 500m , the Men's Kayak Single 1000m and Men's Canoe Double 1000m Finals as well as their Victory Ceremonies.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/dpj8p7a2keg7vifc6kgc"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240510200625+0000" stop="20240510220330+0000">
+    <title lang="en">Men's 3m Springboard Final - Diving | Tokyo 2020 Replays</title>
+    <desc lang="en">This event took place on 03/08/2021 at the Tokyo Aquatics Centre, Tokyo. Xie (CHN) claimed the Gold, Wang (CHN) Silver and Laugher (GBR) completed the podium.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/v7gkcrgdkdxgbnq0lf4g"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240510220330+0000" stop="20240511000642+0000">
+    <title lang="en">Duets Technical Routine - Artistic Swimming | Tokyo 2020 Replays</title>
+    <desc lang="en">This event took place on 03/08/2021 at the Tokyo Aquatics Centre, Tokyo. Kolesnichenko/ Romashina (ROC) lead the field into the Free Routine.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/j30bkzrhmbvqiqnv8vdg"/>
   </programme>
 </tv>
