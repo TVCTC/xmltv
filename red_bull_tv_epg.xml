@@ -7,18 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240510214632 +0200" stop="20240510221248 +0200">
-    <title lang="en">Varna, Bulgaria</title>
-    <desc lang="en">A crowd of 20,000 welcomes teams of amateur aviators who will attempt to fly on the coast of the Black Sea. (26 minutes)</desc>
-    <category lang="en">Sport, Red Bull Flugtag</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJBFUKH2111/FO-1RFJBFUKH2111-featureMedia" />
-  </programme>
-  <programme channel="RedBullTV.at" start="20240510221248 +0200" stop="20240510223913 +0200">
-    <title lang="en">Zurich, Switzerland</title>
-    <desc lang="en">Fifty teams fly homemade flying craft around (and in!) Lake Zurich, Switzerland. (26 minutes)</desc>
-    <category lang="en">Sport, Red Bull Flugtag</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJQX8DH2111/FO-1RFJQX8DH2111-featureMedia" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240510223913 +0200" stop="20240510235242 +0200">
     <title lang="en">Stoke the Fire</title>
     <desc lang="en">The best skiing locations. Imposing mountains. Plenty of powder. See what makes the sport so special. (73 minutes)</desc>
@@ -126,6 +114,18 @@
     <desc lang="en">Fast laps like you've never seen before – take flight with a drone that matches F1 car speeds of 300kph-plus.  (12 minutes)</desc>
     <category lang="en">Sport, F1</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/27/jl21wctlres0vwirgcur/oracle-red-bull-racing-launch-2024-filming-drone-chases-max-verstappen" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240511122525 +0200" stop="20240511124413 +0200">
+    <title lang="en">Twenty Foot Plus: North Pacific</title>
+    <desc lang="en">The world’s best big wave surfers chase a cool new swell from Waimea to Jaws, Cortes Bank to Todos Santos.  (18 minutes)</desc>
+    <category lang="en">Sport, Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/27/l6twpurzenjnf004e8yx/izzi-gomez" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240511124413 +0200" stop="20240511131420 +0200">
+    <title lang="en">Talent</title>
+    <desc lang="en">Marc’s riding style has earned him admiration from fans, but has also led to conflicts with other riders. (29 minutes)</desc>
+    <category lang="en">Sport, MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/pochf82mnxitujxv1ecr/marc-marquez-santi-hernandez-motogp" />
   </programme>
 </tv>
 
