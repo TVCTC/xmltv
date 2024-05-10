@@ -1,563 +1,1256 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-
-<tv source-info-name="TV" source-info-url="vibee_tv_epg.xml">
-  <channel id="V2Beat.uk">
-    <display-name>Vibe To Beat</display-name>
-    <url>https://www.vibee.tv/schedule/</url>
-    <icon src="https://images2.imgbox.com/19/a2/y8u9O1oV_o.png" />
+<tv generator-info-name="TVCTC" source-info-url="https://www.vibee.tv/" time-created="2024-05-10 18:16:52">
+  <channel id="vibee.tv">
+    <display-name>V2Beat TV</display-name>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </channel>
-  <programme channel="V2Beat.uk" start="20240227010100 +0100" stop="20240228004500 +0100">
+  <programme channel="vibee.tv" start="20240510181500+0200" stop="20240510182500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228004500 +0100" stop="20240228011500 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240510182500+0200" stop="20240510183000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228011500 +0100" stop="20240228015000 +0100">
-    <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240510183000+0200" stop="20240510184000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228015000 +0100" stop="20240228020000 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240510184000+0200" stop="20240510185000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228020000 +0100" stop="20240228021500 +0100">
+  <programme channel="vibee.tv" start="20240510185000+0200" stop="20240510190000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240510190000+0200" stop="20240510190200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240510190200+0200" stop="20240510191500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228021500 +0100" stop="20240228023000 +0100">
+  <programme channel="vibee.tv" start="20240510191500+0200" stop="20240510192500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228023000 +0100" stop="20240228025000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240510192500+0200" stop="20240510193000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228025000 +0100" stop="20240228030100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240510193000+0200" stop="20240510194000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228030100 +0100" stop="20240228031500 +0100">
+  <programme channel="vibee.tv" start="20240510194000+0200" stop="20240510195000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240510195000+0200" stop="20240510200000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240510200000+0200" stop="20240510200200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240510200200+0200" stop="20240510201500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228031500 +0100" stop="20240228033000 +0100">
+  <programme channel="vibee.tv" start="20240510201500+0200" stop="20240510202500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228033000 +0100" stop="20240228035000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240510202500+0200" stop="20240510203000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228035000 +0100" stop="20240228040100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240510203000+0200" stop="20240510204000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228040100 +0100" stop="20240228041500 +0100">
+  <programme channel="vibee.tv" start="20240510204000+0200" stop="20240510205000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240510205000+0200" stop="20240510210000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240510210000+0200" stop="20240510210200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240510210200+0200" stop="20240510211500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228041500 +0100" stop="20240228043000 +0100">
+  <programme channel="vibee.tv" start="20240510211500+0200" stop="20240510212500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228043000 +0100" stop="20240228045000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240510212500+0200" stop="20240510213000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228045000 +0100" stop="20240228050100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240510213000+0200" stop="20240510214000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228050100 +0100" stop="20240228051500 +0100">
+  <programme channel="vibee.tv" start="20240510214000+0200" stop="20240510215000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240510215000+0200" stop="20240510220000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240510220000+0200" stop="20240510220200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240510220200+0200" stop="20240510221500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228051500 +0100" stop="20240228053000 +0100">
+  <programme channel="vibee.tv" start="20240510221500+0200" stop="20240510222500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228053000 +0100" stop="20240228055000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240510222500+0200" stop="20240510223000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228055000 +0100" stop="20240228060100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240510223000+0200" stop="20240510224000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228060100 +0100" stop="20240228061500 +0100">
+  <programme channel="vibee.tv" start="20240510224000+0200" stop="20240510225000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240510225000+0200" stop="20240510230000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240510230000+0200" stop="20240510230200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240510230200+0200" stop="20240510231500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228061500 +0100" stop="20240228063000 +0100">
+  <programme channel="vibee.tv" start="20240510231500+0200" stop="20240510232500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228063000 +0100" stop="20240228065000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240510232500+0200" stop="20240510233000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228065000 +0100" stop="20240228070100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240510233000+0200" stop="20240510234000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228070100 +0100" stop="20240228071500 +0100">
+  <programme channel="vibee.tv" start="20240510234000+0200" stop="20240510235000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240510235000+0200" stop="20240511000000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511000000+0200" stop="20240511000200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511000200+0200" stop="20240511001500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228071500 +0100" stop="20240228073000 +0100">
+  <programme channel="vibee.tv" start="20240511001500+0200" stop="20240511002500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228073000 +0100" stop="20240228075000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511002500+0200" stop="20240511003000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228075000 +0100" stop="20240228080100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511003000+0200" stop="20240511004000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228080100 +0100" stop="20240228081500 +0100">
+  <programme channel="vibee.tv" start="20240511004000+0200" stop="20240511005000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511005000+0200" stop="20240511010000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511010000+0200" stop="20240511010200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511010200+0200" stop="20240511011500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228081500 +0100" stop="20240228083000 +0100">
+  <programme channel="vibee.tv" start="20240511011500+0200" stop="20240511012500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228083000 +0100" stop="20240228085000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511012500+0200" stop="20240511013000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228085000 +0100" stop="20240228090100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511013000+0200" stop="20240511014000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228090100 +0100" stop="20240228091500 +0100">
+  <programme channel="vibee.tv" start="20240511014000+0200" stop="20240511015000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511015000+0200" stop="20240511020000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511020000+0200" stop="20240511020200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511020200+0200" stop="20240511021500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228091500 +0100" stop="20240228093000 +0100">
+  <programme channel="vibee.tv" start="20240511021500+0200" stop="20240511022500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228093000 +0100" stop="20240228095000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511022500+0200" stop="20240511023000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228095000 +0100" stop="20240228100100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511023000+0200" stop="20240511024000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228100100 +0100" stop="20240228101500 +0100">
+  <programme channel="vibee.tv" start="20240511024000+0200" stop="20240511025000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511025000+0200" stop="20240511030000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511030000+0200" stop="20240511030200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511030200+0200" stop="20240511031500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228101500 +0100" stop="20240228103000 +0100">
+  <programme channel="vibee.tv" start="20240511031500+0200" stop="20240511032500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228103000 +0100" stop="20240228105000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511032500+0200" stop="20240511033000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228105000 +0100" stop="20240228110100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511033000+0200" stop="20240511034000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228110100 +0100" stop="20240228111500 +0100">
+  <programme channel="vibee.tv" start="20240511034000+0200" stop="20240511035000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511035000+0200" stop="20240511040000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511040000+0200" stop="20240511040200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511040200+0200" stop="20240511041500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228111500 +0100" stop="20240228113000 +0100">
+  <programme channel="vibee.tv" start="20240511041500+0200" stop="20240511042500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228113000 +0100" stop="20240228115000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511042500+0200" stop="20240511043000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228115000 +0100" stop="20240228120100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511043000+0200" stop="20240511044000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228120100 +0100" stop="20240228121500 +0100">
+  <programme channel="vibee.tv" start="20240511044000+0200" stop="20240511045000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511045000+0200" stop="20240511050000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511050000+0200" stop="20240511050200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511050200+0200" stop="20240511051500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228121500 +0100" stop="20240228123000 +0100">
+  <programme channel="vibee.tv" start="20240511051500+0200" stop="20240511052500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228123000 +0100" stop="20240228125000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511052500+0200" stop="20240511053000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228125000 +0100" stop="20240228130100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511053000+0200" stop="20240511054000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228130100 +0100" stop="20240228131500 +0100">
+  <programme channel="vibee.tv" start="20240511054000+0200" stop="20240511055000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511055000+0200" stop="20240511060000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511060000+0200" stop="20240511060200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511060200+0200" stop="20240511061500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228131500 +0100" stop="20240228133000 +0100">
+  <programme channel="vibee.tv" start="20240511061500+0200" stop="20240511062500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228133000 +0100" stop="20240228135000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511062500+0200" stop="20240511063000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228135000 +0100" stop="20240228140100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511063000+0200" stop="20240511064000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228140100 +0100" stop="20240228141500 +0100">
+  <programme channel="vibee.tv" start="20240511064000+0200" stop="20240511065000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511065000+0200" stop="20240511070000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511070000+0200" stop="20240511070200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511070200+0200" stop="20240511071500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228141500 +0100" stop="20240228143000 +0100">
+  <programme channel="vibee.tv" start="20240511071500+0200" stop="20240511072500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228143000 +0100" stop="20240228145000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511072500+0200" stop="20240511073000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228145000 +0100" stop="20240228150100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511073000+0200" stop="20240511074000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228150100 +0100" stop="20240228151500 +0100">
+  <programme channel="vibee.tv" start="20240511074000+0200" stop="20240511075000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511075000+0200" stop="20240511080000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511080000+0200" stop="20240511080200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511080200+0200" stop="20240511081500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228151500 +0100" stop="20240228153000 +0100">
+  <programme channel="vibee.tv" start="20240511081500+0200" stop="20240511082500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228153000 +0100" stop="20240228155000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511082500+0200" stop="20240511083000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228155000 +0100" stop="20240228160100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511083000+0200" stop="20240511084000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228160100 +0100" stop="20240228161500 +0100">
+  <programme channel="vibee.tv" start="20240511084000+0200" stop="20240511085000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511085000+0200" stop="20240511090000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511090000+0200" stop="20240511090200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511090200+0200" stop="20240511091500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228161500 +0100" stop="20240228163000 +0100">
+  <programme channel="vibee.tv" start="20240511091500+0200" stop="20240511092500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228163000 +0100" stop="20240228165000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511092500+0200" stop="20240511093000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228165000 +0100" stop="20240228170100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511093000+0200" stop="20240511094000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228170100 +0100" stop="20240228171500 +0100">
+  <programme channel="vibee.tv" start="20240511094000+0200" stop="20240511095000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511095000+0200" stop="20240511100000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511100000+0200" stop="20240511100200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511100200+0200" stop="20240511101500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228171500 +0100" stop="20240228173000 +0100">
+  <programme channel="vibee.tv" start="20240511101500+0200" stop="20240511102500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228173000 +0100" stop="20240228175000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511102500+0200" stop="20240511103000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228175000 +0100" stop="20240228180100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511103000+0200" stop="20240511104000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228180100 +0100" stop="20240228181500 +0100">
+  <programme channel="vibee.tv" start="20240511104000+0200" stop="20240511105000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511105000+0200" stop="20240511110000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511110000+0200" stop="20240511110200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511110200+0200" stop="20240511111500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228181500 +0100" stop="20240228183000 +0100">
+  <programme channel="vibee.tv" start="20240511111500+0200" stop="20240511112500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228183000 +0100" stop="20240228185000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511112500+0200" stop="20240511113000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228185000 +0100" stop="20240228190100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511113000+0200" stop="20240511114000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228190100 +0100" stop="20240228191500 +0100">
+  <programme channel="vibee.tv" start="20240511114000+0200" stop="20240511115000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511115000+0200" stop="20240511120000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511120000+0200" stop="20240511120200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511120200+0200" stop="20240511121500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228191500 +0100" stop="20240228193000 +0100">
+  <programme channel="vibee.tv" start="20240511121500+0200" stop="20240511122500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228193000 +0100" stop="20240228195000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511122500+0200" stop="20240511123000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228195000 +0100" stop="20240228200100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511123000+0200" stop="20240511124000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228200100 +0100" stop="20240228201500 +0100">
+  <programme channel="vibee.tv" start="20240511124000+0200" stop="20240511125000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511125000+0200" stop="20240511130000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511130000+0200" stop="20240511130200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511130200+0200" stop="20240511131500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228201500 +0100" stop="20240228203000 +0100">
+  <programme channel="vibee.tv" start="20240511131500+0200" stop="20240511132500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228203000 +0100" stop="20240228205000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511132500+0200" stop="20240511133000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228205000 +0100" stop="20240228210100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511133000+0200" stop="20240511134000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228210100 +0100" stop="20240228211500 +0100">
+  <programme channel="vibee.tv" start="20240511134000+0200" stop="20240511135000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511135000+0200" stop="20240511140000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511140000+0200" stop="20240511140200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511140200+0200" stop="20240511141500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228211500 +0100" stop="20240228213000 +0100">
+  <programme channel="vibee.tv" start="20240511141500+0200" stop="20240511142500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228213000 +0100" stop="20240228215000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511142500+0200" stop="20240511143000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228215000 +0100" stop="20240228220100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511143000+0200" stop="20240511144000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228220100 +0100" stop="20240228221500 +0100">
+  <programme channel="vibee.tv" start="20240511144000+0200" stop="20240511145000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511145000+0200" stop="20240511150000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511150000+0200" stop="20240511150200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511150200+0200" stop="20240511151500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228221500 +0100" stop="20240228223000 +0100">
+  <programme channel="vibee.tv" start="20240511151500+0200" stop="20240511152500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228223000 +0100" stop="20240228225000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511152500+0200" stop="20240511153000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228225000 +0100" stop="20240228230100 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511153000+0200" stop="20240511154000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228230100 +0100" stop="20240228231500 +0100">
+  <programme channel="vibee.tv" start="20240511154000+0200" stop="20240511155000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511155000+0200" stop="20240511160000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511160000+0200" stop="20240511160200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511160200+0200" stop="20240511161500+0200">
     <title lang="en">HOT POP HITS</title>
-    <desc lang="en">HOT POP HITS is the weekly column of the new musical proposals entered in rotation on V2BEAT Music television We carefully choose some of the tracks that we believe are the most successful among the thousands that are produced every day by singers and artists from the Pop Dance Latin R&amp;amp;B Soul Rap Hip Hop Country and others genresEvery week an article comes out created by our editorial staff that seeks chooses evaluates by listening and viewing the tracks that best meet the broadcasting requirements As always there is no lack of new proposals coming directly from emerging artists The editorial team is currently composed by IvanS Daniele Milani and the collaboration of BojoPowerPlay of Radio Millenium Bulgaria Scheduled: At every :04 of each hour At every :30 of each hour Hourly Daily But Sat Afternoon</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Hot-Pop-Hits-V2beat-Tv-bkg-red-fantasy-690x302.jpg" />
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228231500 +0100" stop="20240228233000 +0100">
+  <programme channel="vibee.tv" start="20240511161500+0200" stop="20240511162500+0200">
     <title lang="en">RETRO HITS</title>
-    <desc lang="en">The best song selection of a time gone from the 70s up to 2010 many of them remixed and made current to be heard in an alternative way</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/retro-Hits-V2beat-TvPOST-15-690x302.jpg" />
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228233000 +0100" stop="20240228235000 +0100">
-    <title lang="en">LOST  HITS</title>
-    <desc lang="en">LOST MUSIC HITS is a music segment that is broadcast every hour at least 4 times This is an appointment that wants to rediscover and remove some dust from the musical successes of various genres that have been played and somewhat forgotten We know how the record industry these days is almost “hit and run” leaving aside beautiful musical creations Here the LOST MUSIC HITS segment finds and rediscovers the video tracks ranging from 2012 to 2020 Ten years of unforgettable successes! Please let us know any of your favorite! Scheduled: @  every min 08 @  every min 18 @  every min 38 @  every min 42 Every Each Hour daily</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTVyel-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511162500+0200" stop="20240511163000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
-  <programme channel="V2Beat.uk" start="20240228235000 +0100" stop="20240229000500 +0100">
-    <title lang="en">V2MIX: 10 Min Mixing</title>
-    <desc lang="en">MICROMIX 10 Min of mixed session made by our DJ SQUAD</desc>
-    <category lang="en">Dance Music</category>
-    <icon src="https://www.vibee.tv/wp-content/uploads/2017/03/Djplayplay-V2beatTV-690x302.jpg" />
+  <programme channel="vibee.tv" start="20240511163000+0200" stop="20240511164000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511164000+0200" stop="20240511165000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511165000+0200" stop="20240511170000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511170000+0200" stop="20240511170200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511170200+0200" stop="20240511171500+0200">
+    <title lang="en">HOT POP HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511171500+0200" stop="20240511172500+0200">
+    <title lang="en">RETRO HITS</title>
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511172500+0200" stop="20240511173000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511173000+0200" stop="20240511174000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511174000+0200" stop="20240511175000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511175000+0200" stop="20240511180000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511180000+0200" stop="20240511180200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511180200+0200" stop="20240511181500+0200">
+    <title lang="en">HOT POP HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511181500+0200" stop="20240511182500+0200">
+    <title lang="en">RETRO HITS</title>
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511182500+0200" stop="20240511183000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511183000+0200" stop="20240511184000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511184000+0200" stop="20240511185000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511185000+0200" stop="20240511190000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511190000+0200" stop="20240511190200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511190200+0200" stop="20240511191500+0200">
+    <title lang="en">HOT POP HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511191500+0200" stop="20240511192500+0200">
+    <title lang="en">RETRO HITS</title>
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511192500+0200" stop="20240511193000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511193000+0200" stop="20240511194000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511194000+0200" stop="20240511195000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511195000+0200" stop="20240511200000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511200000+0200" stop="20240511200200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511200200+0200" stop="20240511201500+0200">
+    <title lang="en">HOT POP HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511201500+0200" stop="20240511202500+0200">
+    <title lang="en">RETRO HITS</title>
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511202500+0200" stop="20240511203000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511203000+0200" stop="20240511204000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511204000+0200" stop="20240511205000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511205000+0200" stop="20240511210000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511210000+0200" stop="20240511210200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511210200+0200" stop="20240511211500+0200">
+    <title lang="en">HOT POP HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511211500+0200" stop="20240511212500+0200">
+    <title lang="en">RETRO HITS</title>
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511212500+0200" stop="20240511213000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511213000+0200" stop="20240511214000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511214000+0200" stop="20240511215000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511215000+0200" stop="20240511220000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511220000+0200" stop="20240511220200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511220200+0200" stop="20240511221500+0200">
+    <title lang="en">HOT POP HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511221500+0200" stop="20240511222500+0200">
+    <title lang="en">RETRO HITS</title>
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511222500+0200" stop="20240511223000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511223000+0200" stop="20240511224000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511224000+0200" stop="20240511225000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511225000+0200" stop="20240511230000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511230000+0200" stop="20240511230200+0200">
+    <title lang="en">JET HITS</title>
+    <desc lang="en">Quick Selection of new entry videos</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511230200+0200" stop="20240511231500+0200">
+    <title lang="en">HOT POP HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511231500+0200" stop="20240511232500+0200">
+    <title lang="en">RETRO HITS</title>
+    <desc lang="en">Selection from best historical video songs</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511232500+0200" stop="20240511233000+0200">
+    <title lang="en">LOST MUSIC</title>
+    <desc lang="en">Selection from best video songs from 2000 till 2012</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511233000+0200" stop="20240511234000+0200">
+    <title lang="en">JET HITS/POP REACT</title>
+    <desc lang="en">New entered video song introduced by Jay Gram</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511234000+0200" stop="20240511235000+0200">
+    <title lang="en">CHART HITS</title>
+    <desc lang="en">Just new entered video song into rotation</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
+  </programme>
+  <programme channel="vibee.tv" start="20240511235000+0200" stop="20240512000000+0200">
+    <title lang="en">V2 MIX</title>
+    <desc lang="en">10 Min DJ Gig</desc>
+    <category lang="en">Music</category>
+    <icon src="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png"/>
   </programme>
 </tv>
-
