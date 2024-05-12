@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240512102326 +0200" stop="20240512105314 +0200">
-    <title lang="en">No I in team</title>
-    <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback. (30 minutes)</desc>
-    <category lang="en">Sport, MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/5/dzfbz2heksvcugo7d5dr/jolanda-neff-uci-xco-world-cup-val-di-sole-2022" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240512105314 +0200" stop="20240512112603 +0200">
     <title lang="en">Hope</title>
     <desc lang="en">After a devastating injury, Marc Márquez's biggest challenge is to be what he once was, so he moves to Madrid. (33 minutes)</desc>
@@ -126,6 +120,12 @@
     <desc lang="en">Strap in for some full-throttle action as we look back on the world's most thrilling drifting event. (44 minutes)</desc>
     <category lang="en">Sport, Drifting</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/12/gixrm4euhxciusfuhj24/red-bull-drift-masters-hero-art" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240512225458 +0200" stop="20240512232927 +0200">
+    <title lang="en">Season recap</title>
+    <desc lang="en">Relive the best moments of the most entertaining season of the Drift Masters European Championship to date. (34 minutes)</desc>
+    <category lang="en">Sport, Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/23/tiu3z5fh4ak15e6pj5ix/lauri-heinonen-conor-shanahan-ireland-dmec-2023-poland" />
   </programme>
 </tv>
 
