@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240515015225 +0200" stop="20240515022703 +0200">
-    <title lang="en">Passion</title>
-    <desc lang="en">Marc recovers from surgery with one goal: to win again. In Austria he meets his former rival, Dani Pedrosa. (34 minutes)</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/e0zkdjonyk62rusblfme/marc-maruqez-bike-french-motogp-2023" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240515022703 +0200" stop="20240515030321 +0200">
     <title lang="en">Comeback</title>
     <desc lang="en">It’s time for Marc to recap on a year that's seen him make some of the most difficult decisions of his life. (36 minutes)</desc>
@@ -126,6 +120,12 @@
     <desc lang="en">Babsi Zangerl and Jacopo Larcher’s two-year big wall climbing quest comes down to one short weather window. (26 minutes)</desc>
     <category lang="en">Sport, Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/gfhlivdykyqwj1wobfmq/reel-rock-s9-e3-jacopo-larcher" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240515130736 +0200" stop="20240515143422 +0200">
+    <title lang="en">Wild Waters</title>
+    <desc lang="en">From Olympic pools to wild rivers, see the life of Nouria Newman, the most gifted kayaker of her generation. (86 minutes)</desc>
+    <category lang="en">Sport, Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/ez6viqxoy4iwxf7bxd7n/wild-waters-hero-art" />
   </programme>
 </tv>
 
