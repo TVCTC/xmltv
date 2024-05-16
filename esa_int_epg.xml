@@ -1,8 +1,912 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.esa.int/ESA_Multimedia/ESA_Web_TV" time-created="2024-05-16 01:00:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.esa.int/ESA_Multimedia/ESA_Web_TV" time-created="2024-05-16 08:57:06">
   <channel id="esawebtvone.esa.int">
     <display-name>ESA Web TV One</display-name>
     <icon src="https://thumbs2.imgbox.com/b3/fa/yGoBOxzK_t.png"/>
   </channel>
+  <channel id="videos.esa.int">
+    <display-name>ESA Videos</display-name>
+    <icon src="https://thumbs2.imgbox.com/b3/fa/yGoBOxzK_t.png"/>
+  </channel>
+  <programme channel="videos.esa.int" start="20240516085442+0200" stop="20240516102442+0200">
+    <title lang="en">Earth Observation Science Strategy Review Workshop 2024 | P…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Earth_Observation_Science_Strategy_Review_Workshop_2024_Plenary_Session_1_Development_of_the_new_EO_science_strategy</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/earth_observation_science_strategy_review_workshop_2024_plenary_session_1_development_of_the_new_eo_science_strategy/26071804-1-eng-GB/Earth_Observation_Science_Strategy_Review_Workshop_2024_Plenary_Session_1_Development_of_the_new_EO_science_strategy_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516102442+0200" stop="20240516102717+0200">
+    <title lang="en">Ariane 6 first flight: timelapse of transfer and assembly o…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Ariane_6_first_flight_timelapse_of_transfer_and_assembly_on_the_launch_pad</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/ariane_6_first_flight_timelapse_of_transfer_and_assembly_on_the_launch_pad/26070997-1-eng-GB/Ariane_6_first_flight_timelapse_of_transfer_and_assembly_on_the_launch_pad_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516102717+0200" stop="20240516102820+0200">
+    <title lang="en">Timelapse: lifting Orion for Artemis II</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Timelapse_lifting_Orion_for_Artemis_II</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/timelapse_lifting_orion_for_artemis_ii/26071290-1-eng-GB/Timelapse_lifting_Orion_for_Artemis_II_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516102820+0200" stop="20240516103314+0200">
+    <title lang="en">Meet the team behind EarthCARE</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Meet_the_team_behind_EarthCARE</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/meet_the_team_behind_earthcare/26061033-1-eng-GB/Meet_the_team_behind_EarthCARE_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516103314+0200" stop="20240516103613+0200">
+    <title lang="en">Ariane 6 stands tall for launch</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Ariane_6_stands_tall_for_launch</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/ariane_6_stands_tall_for_launch/26065289-2-eng-GB/Ariane_6_stands_tall_for_launch_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516103613+0200" stop="20240516103707+0200">
+    <title lang="en">Working on Altius</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Working_on_Altius</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/working_on_altius/26064101-1-eng-GB/Working_on_Altius_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516103707+0200" stop="20240516104223+0200">
+    <title lang="en">A year in training: ESA's new astronauts graduate</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/A_year_in_training_ESA_s_new_astronauts_graduate</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/a_year_in_training_esa_s_new_astronauts_graduate/26061803-3-eng-GB/A_year_in_training_ESA_s_new_astronauts_graduate_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516104223+0200" stop="20240516104311+0200">
+    <title lang="en">The Sun’s fluffy corona in exquisite detail - unannotated v…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/The_Sun_s_fluffy_corona_in_exquisite_detail_-_unannotated_version</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/the_sun_s_fluffy_corona_in_exquisite_detail_-_unannotated_version/26060427-1-eng-GB/The_Sun_s_fluffy_corona_in_exquisite_detail_-_unannotated_version_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516104311+0200" stop="20240516104359+0200">
+    <title lang="en">The Sun’s fluffy corona in exquisite detail</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/The_Sun_s_fluffy_corona_in_exquisite_detail</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/the_sun_s_fluffy_corona_in_exquisite_detail/26059866-8-eng-GB/The_Sun_s_fluffy_corona_in_exquisite_detail_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516104359+0200" stop="20240516104512+0200">
+    <title lang="en">Radio frequency interference probability, February 2023–Feb…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Radio_frequency_interference_probability_February_2023_February_2024</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/radio_frequency_interference_probability_february_2023_february_2024/26062650-1-eng-GB/Radio_frequency_interference_probability_February_2023_February_2024_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516104512+0200" stop="20240516104652+0200">
+    <title lang="en">Zoom into the Horsehead Nebula</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Zoom_into_the_Horsehead_Nebula</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/zoom_into_the_horsehead_nebula/26054169-1-eng-GB/Zoom_into_the_Horsehead_Nebula_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516104652+0200" stop="20240516104803+0200">
+    <title lang="en">The Iris programme: satellite communications for aviation </title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/The_Iris_programme_satellite_communications_for_aviation</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/the_iris_programme_satellite_communications_for_aviation/26048951-1-eng-GB/The_Iris_programme_satellite_communications_for_aviation_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516104803+0200" stop="20240516105022+0200">
+    <title lang="en">Space Team Europe for Ariane 6: Julien Guiridlian</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Space_Team_Europe_for_Ariane_6_Julien_Guiridlian</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/space_team_europe_for_ariane_6_julien_guiridlian/26048861-1-eng-GB/Space_Team_Europe_for_Ariane_6_Julien_Guiridlian_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516105022+0200" stop="20240516114737+0200">
+    <title lang="en">ESA astronaut class of 2022 graduation ceremony replay</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/ESA_astronaut_class_of_2022_graduation_ceremony_replay</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/esa_astronaut_class_of_2022_graduation_ceremony_replay/26039145-8-eng-GB/ESA_astronaut_class_of_2022_graduation_ceremony_replay_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516114737+0200" stop="20240516115014+0200">
+    <title lang="en">Highlights from ESA basic astronaut training</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Highlights_from_ESA_basic_astronaut_training</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/highlights_from_esa_basic_astronaut_training/26045884-1-eng-GB/Highlights_from_ESA_basic_astronaut_training_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516115014+0200" stop="20240516115052+0200">
+    <title lang="en">Zoom into the Dumbbell Nebula</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Zoom_into_the_Dumbbell_Nebula</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/zoom_into_the_dumbbell_nebula/26045730-1-eng-GB/Zoom_into_the_Dumbbell_Nebula_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516115052+0200" stop="20240516115120+0200">
+    <title lang="en">EarthCARE over desert dust</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/EarthCARE_over_desert_dust</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/earthcare_over_desert_dust/26040532-1-eng-GB/EarthCARE_over_desert_dust_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516115120+0200" stop="20240516115232+0200">
+    <title lang="en">Hera trajectory to Didymos</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Hera_trajectory_to_Didymos</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/hera_trajectory_to_didymos/26028702-1-eng-GB/Hera_trajectory_to_Didymos_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516115232+0200" stop="20240516115414+0200">
+    <title lang="en">Hera’s navigation around the asteroids</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Hera_s_navigation_around_the_asteroids</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/hera_s_navigation_around_the_asteroids/26033878-2-eng-GB/Hera_s_navigation_around_the_asteroids_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516115414+0200" stop="20240516115649+0200">
+    <title lang="en">The Incredible Adventures of the Hera mission – The Missing…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/The_Incredible_Adventures_of_the_Hera_mission_The_Missing_Puzzle_Piece</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/the_incredible_adventures_of_the_hera_mission_the_missing_puzzle_piece/26028267-1-eng-GB/The_Incredible_Adventures_of_the_Hera_mission_The_Missing_Puzzle_Piece_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516115649+0200" stop="20240516115749+0200">
+    <title lang="en">ESA astronaut class of 2022 graduation ceremony</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/ESA_astronaut_class_of_2022_graduation_ceremony</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/esa_astronaut_class_of_2022_graduation_ceremony/26030831-6-eng-GB/ESA_astronaut_class_of_2022_graduation_ceremony_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516115749+0200" stop="20240516120519+0200">
+    <title lang="en">A tour of the International Space Station with Andreas Moge…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/A_tour_of_the_International_Space_Station_with_Andreas_Mogensen</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/a_tour_of_the_international_space_station_with_andreas_mogensen/26028393-2-eng-GB/A_tour_of_the_International_Space_Station_with_Andreas_Mogensen_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516120519+0200" stop="20240516120951+0200">
+    <title lang="en">ESA X Epic Games Lunar Horizons collaboration </title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/ESA_X_Epic_Games_Lunar_Horizons_collaboration</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/esa_x_epic_games_lunar_horizons_collaboration/26029039-1-eng-GB/ESA_X_Epic_Games_Lunar_Horizons_collaboration_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516120951+0200" stop="20240516123659+0200">
+    <title lang="en">Astro Chat with Sophie Adenot | ESA Explores podcast</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Astro_Chat_with_Sophie_Adenot_ESA_Explores_podcast</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/astro_chat_with_sophie_adenot_esa_explores_podcast/26014092-4-eng-GB/Astro_Chat_with_Sophie_Adenot_ESA_Explores_podcast_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516123659+0200" stop="20240516123903+0200">
+    <title lang="en">Simulating tumbling reaction wheel reentry</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Simulating_tumbling_reaction_wheel_reentry</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/simulating_tumbling_reaction_wheel_reentry/26021301-1-eng-GB/Simulating_tumbling_reaction_wheel_reentry_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516123903+0200" stop="20240516124348+0200">
+    <title lang="en">Space Team Europe for Ariane 6: Michel Bonnet</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Space_Team_Europe_for_Ariane_6_Michel_Bonnet</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/space_team_europe_for_ariane_6_michel_bonnet/26027334-1-eng-GB/Space_Team_Europe_for_Ariane_6_Michel_Bonnet_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516124348+0200" stop="20240516124419+0200">
+    <title lang="en">Proba-2 sees the Moon eclipse the Sun</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Proba-2_sees_the_Moon_eclipse_the_Sun</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/proba-2_sees_the_moon_eclipse_the_sun/26024289-1-eng-GB/Proba-2_sees_the_Moon_eclipse_the_Sun_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516124419+0200" stop="20240516124426+0200">
+    <title lang="en">Total solar eclipse seen from space</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Total_solar_eclipse_seen_from_space</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/total_solar_eclipse_seen_from_space/26022583-1-eng-GB/Total_solar_eclipse_seen_from_space_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516124426+0200" stop="20240516124435+0200">
+    <title lang="en">Biological resistance vibration test</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Biological_resistance_vibration_test</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/biological_resistance_vibration_test/26020904-1-eng-GB/Biological_resistance_vibration_test_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516124435+0200" stop="20240516124814+0200">
+    <title lang="en">Solar eclipses – and how to make them</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Solar_eclipses_and_how_to_make_them</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/solar_eclipses_and_how_to_make_them/26019737-1-eng-GB/Solar_eclipses_and_how_to_make_them_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516124814+0200" stop="20240516131751+0200">
+    <title lang="en">Astro Chat with Pablo Álvarez Fernández | ESA Explores podc…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Astro_Chat_with_Pablo_Alvarez_Fernandez_ESA_Explores_podcast</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/astro_chat_with_pablo_alvarez_fernandez_esa_explores_podcast/26014002-2-eng-GB/Astro_Chat_with_Pablo_Alvarez_Fernandez_ESA_Explores_podcast_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516131751+0200" stop="20240516132026+0200">
+    <title lang="en">Ariane 6 tests towards first flight</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Ariane_6_tests_towards_first_flight</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/ariane_6_tests_towards_first_flight/26013425-1-eng-GB/Ariane_6_tests_towards_first_flight_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516132026+0200" stop="20240516132327+0200">
+    <title lang="en">Episode 1 – Scouting the Red Planet</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Episode_1_Scouting_the_Red_Planet</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/episode_1_scouting_the_red_planet/26013318-1-eng-GB/Episode_1_Scouting_the_Red_Planet_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516132327+0200" stop="20240516132434+0200">
+    <title lang="en">Coming soon: Arctic Weather Satellite</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Coming_soon_Arctic_Weather_Satellite</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/coming_soon_arctic_weather_satellite/26013228-1-eng-GB/Coming_soon_Arctic_Weather_Satellite_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516132434+0200" stop="20240516132558+0200">
+    <title lang="en">Unboxing Ariane 6 ballast and adapter</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Unboxing_Ariane_6_ballast_and_adapter</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/unboxing_ariane_6_ballast_and_adapter/26009563-1-eng-GB/Unboxing_Ariane_6_ballast_and_adapter_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516132558+0200" stop="20240516132611+0200">
+    <title lang="en">Arctic Weather Satellite over Scandinavia</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Arctic_Weather_Satellite_over_Scandinavia</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/arctic_weather_satellite_over_scandinavia/26008953-1-eng-GB/Arctic_Weather_Satellite_over_Scandinavia_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516132611+0200" stop="20240516132637+0200">
+    <title lang="en">Improving Arctic and global weather forecasts</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Improving_Arctic_and_global_weather_forecasts</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/improving_arctic_and_global_weather_forecasts/26008744-1-eng-GB/Improving_Arctic_and_global_weather_forecasts_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516132637+0200" stop="20240516140507+0200">
+    <title lang="en">Information session on the outcome of ESA's 323rd Council</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Information_session_on_the_outcome_of_ESA_s_323rd_Council</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/information_session_on_the_outcome_of_esa_s_323rd_council/26004120-5-eng-GB/Information_session_on_the_outcome_of_ESA_s_323rd_Council_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516140507+0200" stop="20240516140537+0200">
+    <title lang="en">Nuclear explosions feed a neutron star’s jets</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Nuclear_explosions_feed_a_neutron_star_s_jets</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/nuclear_explosions_feed_a_neutron_star_s_jets/26000468-1-eng-GB/Nuclear_explosions_feed_a_neutron_star_s_jets_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516140537+0200" stop="20240516141214+0200">
+    <title lang="en">ESA School Days 2024 at ESRIN</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/ESA_School_Days_2024_at_ESRIN</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/esa_school_days_2024_at_esrin/25990553-3-eng-GB/ESA_School_Days_2024_at_ESRIN_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516141214+0200" stop="20240516141304+0200">
+    <title lang="en">Oxia Planum geological map</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Oxia_Planum_geological_map</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/oxia_planum_geological_map/26002040-8-eng-GB/Oxia_Planum_geological_map_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516141304+0200" stop="20240516143101+0200">
+    <title lang="en">Toward the next generation of air quality monitoring</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Toward_the_next_generation_of_air_quality_monitoring</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/toward_the_next_generation_of_air_quality_monitoring/25963371-2-eng-GB/Toward_the_next_generation_of_air_quality_monitoring_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516143101+0200" stop="20240516143340+0200">
+    <title lang="en">Simulation of a Milky Way-like galaxy forming </title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Simulation_of_a_Milky_Way-like_galaxy_forming</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/simulation_of_a_milky_way-like_galaxy_forming/25974390-1-eng-GB/Simulation_of_a_Milky_Way-like_galaxy_forming_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516143340+0200" stop="20240516143502+0200">
+    <title lang="en">El Niño and the sea surface</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/El_Nino_and_the_sea_surface</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/el_nino_and_the_sea_surface/25984066-1-eng-GB/El_Nino_and_the_sea_surface_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516143502+0200" stop="20240516143533+0200">
+    <title lang="en">Deforestation near Santa Cruz de la Sierra, Bolivia</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Deforestation_near_Santa_Cruz_de_la_Sierra_Bolivia</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/deforestation_near_santa_cruz_de_la_sierra_bolivia/25989671-2-eng-GB/Deforestation_near_Santa_Cruz_de_la_Sierra_Bolivia_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516143533+0200" stop="20240516143828+0200">
+    <title lang="en">AI in Earth observation: a force for good</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/AI_in_Earth_observation_a_force_for_good</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/ai_in_earth_observation_a_force_for_good/26073508-3-eng-GB/AI_in_Earth_observation_a_force_for_good_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516143828+0200" stop="20240516160828+0200">
+    <title lang="en">Earth Observation Science Strategy Review Workshop 2024 | P…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Earth_Observation_Science_Strategy_Review_Workshop_2024_Plenary_Session_3_Splinter_summaries_and_next_steps</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/earth_observation_science_strategy_review_workshop_2024_plenary_session_3_splinter_summaries_and_next_steps/26071985-2-eng-GB/Earth_Observation_Science_Strategy_Review_Workshop_2024_Plenary_Session_3_Splinter_summaries_and_next_steps_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516160828+0200" stop="20240516202628+0200">
+    <title lang="en">4th ESA-ECMWF workshop on ML4ESOP</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/4th_ESA-ECMWF_workshop_on_ML4ESOP</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/4th_esa-ecmwf_workshop_on_ml4esop/26072746-1-eng-GB/4th_ESA-ECMWF_workshop_on_ML4ESOP_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516202628+0200" stop="20240516203015+0200">
+    <title lang="en">Space Team Europe for Ariane 6: Aline Decadi</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Space_Team_Europe_for_Ariane_6_Aline_Decadi</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/space_team_europe_for_ariane_6_aline_decadi/26072654-1-eng-GB/Space_Team_Europe_for_Ariane_6_Aline_Decadi_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516203015+0200" stop="20240516223015+0200">
+    <title lang="en">Earth Observation Science Strategy Review Workshop 2024 | P…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Earth_Observation_Science_Strategy_Review_Workshop_2024_Plenary_Session_2_Enablers_of_Earth_Action</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/earth_observation_science_strategy_review_workshop_2024_plenary_session_2_enablers_of_earth_action/26071895-3-eng-GB/Earth_Observation_Science_Strategy_Review_Workshop_2024_Plenary_Session_2_Enablers_of_Earth_Action_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240516223015+0200" stop="20240517000015+0200">
+    <title lang="en">Earth Observation Science Strategy Review Workshop 2024 | P…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Earth_Observation_Science_Strategy_Review_Workshop_2024_Plenary_Session_1_Development_of_the_new_EO_science_strategy</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/earth_observation_science_strategy_review_workshop_2024_plenary_session_1_development_of_the_new_eo_science_strategy/26071804-1-eng-GB/Earth_Observation_Science_Strategy_Review_Workshop_2024_Plenary_Session_1_Development_of_the_new_EO_science_strategy_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517000015+0200" stop="20240517000250+0200">
+    <title lang="en">Ariane 6 first flight: timelapse of transfer and assembly o…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Ariane_6_first_flight_timelapse_of_transfer_and_assembly_on_the_launch_pad</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/ariane_6_first_flight_timelapse_of_transfer_and_assembly_on_the_launch_pad/26070997-1-eng-GB/Ariane_6_first_flight_timelapse_of_transfer_and_assembly_on_the_launch_pad_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517000250+0200" stop="20240517000353+0200">
+    <title lang="en">Timelapse: lifting Orion for Artemis II</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Timelapse_lifting_Orion_for_Artemis_II</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/timelapse_lifting_orion_for_artemis_ii/26071290-1-eng-GB/Timelapse_lifting_Orion_for_Artemis_II_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517000353+0200" stop="20240517000847+0200">
+    <title lang="en">Meet the team behind EarthCARE</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Meet_the_team_behind_EarthCARE</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/meet_the_team_behind_earthcare/26061033-1-eng-GB/Meet_the_team_behind_EarthCARE_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517000847+0200" stop="20240517001146+0200">
+    <title lang="en">Ariane 6 stands tall for launch</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Ariane_6_stands_tall_for_launch</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/ariane_6_stands_tall_for_launch/26065289-2-eng-GB/Ariane_6_stands_tall_for_launch_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517001146+0200" stop="20240517001240+0200">
+    <title lang="en">Working on Altius</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Working_on_Altius</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/working_on_altius/26064101-1-eng-GB/Working_on_Altius_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517001240+0200" stop="20240517001756+0200">
+    <title lang="en">A year in training: ESA's new astronauts graduate</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/A_year_in_training_ESA_s_new_astronauts_graduate</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/a_year_in_training_esa_s_new_astronauts_graduate/26061803-3-eng-GB/A_year_in_training_ESA_s_new_astronauts_graduate_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517001756+0200" stop="20240517001844+0200">
+    <title lang="en">The Sun’s fluffy corona in exquisite detail - unannotated v…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/The_Sun_s_fluffy_corona_in_exquisite_detail_-_unannotated_version</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/the_sun_s_fluffy_corona_in_exquisite_detail_-_unannotated_version/26060427-1-eng-GB/The_Sun_s_fluffy_corona_in_exquisite_detail_-_unannotated_version_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517001844+0200" stop="20240517001932+0200">
+    <title lang="en">The Sun’s fluffy corona in exquisite detail</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/The_Sun_s_fluffy_corona_in_exquisite_detail</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/the_sun_s_fluffy_corona_in_exquisite_detail/26059866-8-eng-GB/The_Sun_s_fluffy_corona_in_exquisite_detail_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517001932+0200" stop="20240517002045+0200">
+    <title lang="en">Radio frequency interference probability, February 2023–Feb…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Radio_frequency_interference_probability_February_2023_February_2024</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/radio_frequency_interference_probability_february_2023_february_2024/26062650-1-eng-GB/Radio_frequency_interference_probability_February_2023_February_2024_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517002045+0200" stop="20240517002225+0200">
+    <title lang="en">Zoom into the Horsehead Nebula</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Zoom_into_the_Horsehead_Nebula</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/zoom_into_the_horsehead_nebula/26054169-1-eng-GB/Zoom_into_the_Horsehead_Nebula_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517002225+0200" stop="20240517002336+0200">
+    <title lang="en">The Iris programme: satellite communications for aviation </title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/The_Iris_programme_satellite_communications_for_aviation</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/the_iris_programme_satellite_communications_for_aviation/26048951-1-eng-GB/The_Iris_programme_satellite_communications_for_aviation_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517002336+0200" stop="20240517002555+0200">
+    <title lang="en">Space Team Europe for Ariane 6: Julien Guiridlian</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Space_Team_Europe_for_Ariane_6_Julien_Guiridlian</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/space_team_europe_for_ariane_6_julien_guiridlian/26048861-1-eng-GB/Space_Team_Europe_for_Ariane_6_Julien_Guiridlian_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517002555+0200" stop="20240517012310+0200">
+    <title lang="en">ESA astronaut class of 2022 graduation ceremony replay</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/ESA_astronaut_class_of_2022_graduation_ceremony_replay</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/esa_astronaut_class_of_2022_graduation_ceremony_replay/26039145-8-eng-GB/ESA_astronaut_class_of_2022_graduation_ceremony_replay_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517012310+0200" stop="20240517012547+0200">
+    <title lang="en">Highlights from ESA basic astronaut training</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Highlights_from_ESA_basic_astronaut_training</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/highlights_from_esa_basic_astronaut_training/26045884-1-eng-GB/Highlights_from_ESA_basic_astronaut_training_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517012547+0200" stop="20240517012625+0200">
+    <title lang="en">Zoom into the Dumbbell Nebula</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Zoom_into_the_Dumbbell_Nebula</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/zoom_into_the_dumbbell_nebula/26045730-1-eng-GB/Zoom_into_the_Dumbbell_Nebula_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517012625+0200" stop="20240517012653+0200">
+    <title lang="en">EarthCARE over desert dust</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/EarthCARE_over_desert_dust</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/earthcare_over_desert_dust/26040532-1-eng-GB/EarthCARE_over_desert_dust_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517012653+0200" stop="20240517012805+0200">
+    <title lang="en">Hera trajectory to Didymos</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Hera_trajectory_to_Didymos</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/hera_trajectory_to_didymos/26028702-1-eng-GB/Hera_trajectory_to_Didymos_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517012805+0200" stop="20240517012947+0200">
+    <title lang="en">Hera’s navigation around the asteroids</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Hera_s_navigation_around_the_asteroids</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/hera_s_navigation_around_the_asteroids/26033878-2-eng-GB/Hera_s_navigation_around_the_asteroids_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517012947+0200" stop="20240517013222+0200">
+    <title lang="en">The Incredible Adventures of the Hera mission – The Missing…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/The_Incredible_Adventures_of_the_Hera_mission_The_Missing_Puzzle_Piece</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/the_incredible_adventures_of_the_hera_mission_the_missing_puzzle_piece/26028267-1-eng-GB/The_Incredible_Adventures_of_the_Hera_mission_The_Missing_Puzzle_Piece_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517013222+0200" stop="20240517013322+0200">
+    <title lang="en">ESA astronaut class of 2022 graduation ceremony</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/ESA_astronaut_class_of_2022_graduation_ceremony</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/esa_astronaut_class_of_2022_graduation_ceremony/26030831-6-eng-GB/ESA_astronaut_class_of_2022_graduation_ceremony_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517013322+0200" stop="20240517014052+0200">
+    <title lang="en">A tour of the International Space Station with Andreas Moge…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/A_tour_of_the_International_Space_Station_with_Andreas_Mogensen</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/a_tour_of_the_international_space_station_with_andreas_mogensen/26028393-2-eng-GB/A_tour_of_the_International_Space_Station_with_Andreas_Mogensen_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517014052+0200" stop="20240517014524+0200">
+    <title lang="en">ESA X Epic Games Lunar Horizons collaboration </title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/ESA_X_Epic_Games_Lunar_Horizons_collaboration</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/esa_x_epic_games_lunar_horizons_collaboration/26029039-1-eng-GB/ESA_X_Epic_Games_Lunar_Horizons_collaboration_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517014524+0200" stop="20240517021232+0200">
+    <title lang="en">Astro Chat with Sophie Adenot | ESA Explores podcast</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Astro_Chat_with_Sophie_Adenot_ESA_Explores_podcast</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/astro_chat_with_sophie_adenot_esa_explores_podcast/26014092-4-eng-GB/Astro_Chat_with_Sophie_Adenot_ESA_Explores_podcast_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517021232+0200" stop="20240517021436+0200">
+    <title lang="en">Simulating tumbling reaction wheel reentry</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Simulating_tumbling_reaction_wheel_reentry</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/simulating_tumbling_reaction_wheel_reentry/26021301-1-eng-GB/Simulating_tumbling_reaction_wheel_reentry_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517021436+0200" stop="20240517021921+0200">
+    <title lang="en">Space Team Europe for Ariane 6: Michel Bonnet</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Space_Team_Europe_for_Ariane_6_Michel_Bonnet</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/space_team_europe_for_ariane_6_michel_bonnet/26027334-1-eng-GB/Space_Team_Europe_for_Ariane_6_Michel_Bonnet_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517021921+0200" stop="20240517021952+0200">
+    <title lang="en">Proba-2 sees the Moon eclipse the Sun</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Proba-2_sees_the_Moon_eclipse_the_Sun</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/proba-2_sees_the_moon_eclipse_the_sun/26024289-1-eng-GB/Proba-2_sees_the_Moon_eclipse_the_Sun_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517021952+0200" stop="20240517021959+0200">
+    <title lang="en">Total solar eclipse seen from space</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Total_solar_eclipse_seen_from_space</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/total_solar_eclipse_seen_from_space/26022583-1-eng-GB/Total_solar_eclipse_seen_from_space_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517021959+0200" stop="20240517022008+0200">
+    <title lang="en">Biological resistance vibration test</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Biological_resistance_vibration_test</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/biological_resistance_vibration_test/26020904-1-eng-GB/Biological_resistance_vibration_test_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517022008+0200" stop="20240517022347+0200">
+    <title lang="en">Solar eclipses – and how to make them</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Solar_eclipses_and_how_to_make_them</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/solar_eclipses_and_how_to_make_them/26019737-1-eng-GB/Solar_eclipses_and_how_to_make_them_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517022347+0200" stop="20240517025324+0200">
+    <title lang="en">Astro Chat with Pablo Álvarez Fernández | ESA Explores podc…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Astro_Chat_with_Pablo_Alvarez_Fernandez_ESA_Explores_podcast</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/astro_chat_with_pablo_alvarez_fernandez_esa_explores_podcast/26014002-2-eng-GB/Astro_Chat_with_Pablo_Alvarez_Fernandez_ESA_Explores_podcast_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517025324+0200" stop="20240517025559+0200">
+    <title lang="en">Ariane 6 tests towards first flight</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Ariane_6_tests_towards_first_flight</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/ariane_6_tests_towards_first_flight/26013425-1-eng-GB/Ariane_6_tests_towards_first_flight_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517025559+0200" stop="20240517025900+0200">
+    <title lang="en">Episode 1 – Scouting the Red Planet</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Episode_1_Scouting_the_Red_Planet</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/episode_1_scouting_the_red_planet/26013318-1-eng-GB/Episode_1_Scouting_the_Red_Planet_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517025900+0200" stop="20240517030007+0200">
+    <title lang="en">Coming soon: Arctic Weather Satellite</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Coming_soon_Arctic_Weather_Satellite</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/coming_soon_arctic_weather_satellite/26013228-1-eng-GB/Coming_soon_Arctic_Weather_Satellite_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517030007+0200" stop="20240517030131+0200">
+    <title lang="en">Unboxing Ariane 6 ballast and adapter</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Unboxing_Ariane_6_ballast_and_adapter</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/unboxing_ariane_6_ballast_and_adapter/26009563-1-eng-GB/Unboxing_Ariane_6_ballast_and_adapter_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517030131+0200" stop="20240517030144+0200">
+    <title lang="en">Arctic Weather Satellite over Scandinavia</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Arctic_Weather_Satellite_over_Scandinavia</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/arctic_weather_satellite_over_scandinavia/26008953-1-eng-GB/Arctic_Weather_Satellite_over_Scandinavia_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517030144+0200" stop="20240517030210+0200">
+    <title lang="en">Improving Arctic and global weather forecasts</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Improving_Arctic_and_global_weather_forecasts</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/improving_arctic_and_global_weather_forecasts/26008744-1-eng-GB/Improving_Arctic_and_global_weather_forecasts_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517030210+0200" stop="20240517034040+0200">
+    <title lang="en">Information session on the outcome of ESA's 323rd Council</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Information_session_on_the_outcome_of_ESA_s_323rd_Council</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/information_session_on_the_outcome_of_esa_s_323rd_council/26004120-5-eng-GB/Information_session_on_the_outcome_of_ESA_s_323rd_Council_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517034040+0200" stop="20240517034110+0200">
+    <title lang="en">Nuclear explosions feed a neutron star’s jets</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Nuclear_explosions_feed_a_neutron_star_s_jets</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/nuclear_explosions_feed_a_neutron_star_s_jets/26000468-1-eng-GB/Nuclear_explosions_feed_a_neutron_star_s_jets_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517034110+0200" stop="20240517034747+0200">
+    <title lang="en">ESA School Days 2024 at ESRIN</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/ESA_School_Days_2024_at_ESRIN</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/esa_school_days_2024_at_esrin/25990553-3-eng-GB/ESA_School_Days_2024_at_ESRIN_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517034747+0200" stop="20240517034837+0200">
+    <title lang="en">Oxia Planum geological map</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Oxia_Planum_geological_map</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/oxia_planum_geological_map/26002040-8-eng-GB/Oxia_Planum_geological_map_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517034837+0200" stop="20240517040634+0200">
+    <title lang="en">Toward the next generation of air quality monitoring</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Toward_the_next_generation_of_air_quality_monitoring</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/toward_the_next_generation_of_air_quality_monitoring/25963371-2-eng-GB/Toward_the_next_generation_of_air_quality_monitoring_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517040634+0200" stop="20240517040913+0200">
+    <title lang="en">Simulation of a Milky Way-like galaxy forming </title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Simulation_of_a_Milky_Way-like_galaxy_forming</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/simulation_of_a_milky_way-like_galaxy_forming/25974390-1-eng-GB/Simulation_of_a_Milky_Way-like_galaxy_forming_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517040913+0200" stop="20240517041035+0200">
+    <title lang="en">El Niño and the sea surface</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/El_Nino_and_the_sea_surface</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/el_nino_and_the_sea_surface/25984066-1-eng-GB/El_Nino_and_the_sea_surface_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517041035+0200" stop="20240517041106+0200">
+    <title lang="en">Deforestation near Santa Cruz de la Sierra, Bolivia</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Deforestation_near_Santa_Cruz_de_la_Sierra_Bolivia</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/deforestation_near_santa_cruz_de_la_sierra_bolivia/25989671-2-eng-GB/Deforestation_near_Santa_Cruz_de_la_Sierra_Bolivia_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517041106+0200" stop="20240517041401+0200">
+    <title lang="en">AI in Earth observation: a force for good</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/AI_in_Earth_observation_a_force_for_good</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/ai_in_earth_observation_a_force_for_good/26073508-3-eng-GB/AI_in_Earth_observation_a_force_for_good_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517041401+0200" stop="20240517054401+0200">
+    <title lang="en">Earth Observation Science Strategy Review Workshop 2024 | P…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Earth_Observation_Science_Strategy_Review_Workshop_2024_Plenary_Session_3_Splinter_summaries_and_next_steps</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/earth_observation_science_strategy_review_workshop_2024_plenary_session_3_splinter_summaries_and_next_steps/26071985-2-eng-GB/Earth_Observation_Science_Strategy_Review_Workshop_2024_Plenary_Session_3_Splinter_summaries_and_next_steps_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517054401+0200" stop="20240517100201+0200">
+    <title lang="en">4th ESA-ECMWF workshop on ML4ESOP</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/4th_ESA-ECMWF_workshop_on_ML4ESOP</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/4th_esa-ecmwf_workshop_on_ml4esop/26072746-1-eng-GB/4th_ESA-ECMWF_workshop_on_ML4ESOP_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517100201+0200" stop="20240517100548+0200">
+    <title lang="en">Space Team Europe for Ariane 6: Aline Decadi</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Space_Team_Europe_for_Ariane_6_Aline_Decadi</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/space_team_europe_for_ariane_6_aline_decadi/26072654-1-eng-GB/Space_Team_Europe_for_Ariane_6_Aline_Decadi_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517100548+0200" stop="20240517120548+0200">
+    <title lang="en">Earth Observation Science Strategy Review Workshop 2024 | P…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Earth_Observation_Science_Strategy_Review_Workshop_2024_Plenary_Session_2_Enablers_of_Earth_Action</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/earth_observation_science_strategy_review_workshop_2024_plenary_session_2_enablers_of_earth_action/26071895-3-eng-GB/Earth_Observation_Science_Strategy_Review_Workshop_2024_Plenary_Session_2_Enablers_of_Earth_Action_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517120548+0200" stop="20240517133548+0200">
+    <title lang="en">Earth Observation Science Strategy Review Workshop 2024 | P…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Earth_Observation_Science_Strategy_Review_Workshop_2024_Plenary_Session_1_Development_of_the_new_EO_science_strategy</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/earth_observation_science_strategy_review_workshop_2024_plenary_session_1_development_of_the_new_eo_science_strategy/26071804-1-eng-GB/Earth_Observation_Science_Strategy_Review_Workshop_2024_Plenary_Session_1_Development_of_the_new_EO_science_strategy_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517133548+0200" stop="20240517133823+0200">
+    <title lang="en">Ariane 6 first flight: timelapse of transfer and assembly o…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Ariane_6_first_flight_timelapse_of_transfer_and_assembly_on_the_launch_pad</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/ariane_6_first_flight_timelapse_of_transfer_and_assembly_on_the_launch_pad/26070997-1-eng-GB/Ariane_6_first_flight_timelapse_of_transfer_and_assembly_on_the_launch_pad_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517133823+0200" stop="20240517133926+0200">
+    <title lang="en">Timelapse: lifting Orion for Artemis II</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Timelapse_lifting_Orion_for_Artemis_II</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/timelapse_lifting_orion_for_artemis_ii/26071290-1-eng-GB/Timelapse_lifting_Orion_for_Artemis_II_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517133926+0200" stop="20240517134420+0200">
+    <title lang="en">Meet the team behind EarthCARE</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Meet_the_team_behind_EarthCARE</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/meet_the_team_behind_earthcare/26061033-1-eng-GB/Meet_the_team_behind_EarthCARE_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517134420+0200" stop="20240517134719+0200">
+    <title lang="en">Ariane 6 stands tall for launch</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Ariane_6_stands_tall_for_launch</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/ariane_6_stands_tall_for_launch/26065289-2-eng-GB/Ariane_6_stands_tall_for_launch_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517134719+0200" stop="20240517134813+0200">
+    <title lang="en">Working on Altius</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Working_on_Altius</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/working_on_altius/26064101-1-eng-GB/Working_on_Altius_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517134813+0200" stop="20240517135329+0200">
+    <title lang="en">A year in training: ESA's new astronauts graduate</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/A_year_in_training_ESA_s_new_astronauts_graduate</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/a_year_in_training_esa_s_new_astronauts_graduate/26061803-3-eng-GB/A_year_in_training_ESA_s_new_astronauts_graduate_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517135329+0200" stop="20240517135417+0200">
+    <title lang="en">The Sun’s fluffy corona in exquisite detail - unannotated v…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/The_Sun_s_fluffy_corona_in_exquisite_detail_-_unannotated_version</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/the_sun_s_fluffy_corona_in_exquisite_detail_-_unannotated_version/26060427-1-eng-GB/The_Sun_s_fluffy_corona_in_exquisite_detail_-_unannotated_version_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517135417+0200" stop="20240517135505+0200">
+    <title lang="en">The Sun’s fluffy corona in exquisite detail</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/The_Sun_s_fluffy_corona_in_exquisite_detail</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/the_sun_s_fluffy_corona_in_exquisite_detail/26059866-8-eng-GB/The_Sun_s_fluffy_corona_in_exquisite_detail_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517135505+0200" stop="20240517135618+0200">
+    <title lang="en">Radio frequency interference probability, February 2023–Feb…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Radio_frequency_interference_probability_February_2023_February_2024</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/radio_frequency_interference_probability_february_2023_february_2024/26062650-1-eng-GB/Radio_frequency_interference_probability_February_2023_February_2024_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517135618+0200" stop="20240517135758+0200">
+    <title lang="en">Zoom into the Horsehead Nebula</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Zoom_into_the_Horsehead_Nebula</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/zoom_into_the_horsehead_nebula/26054169-1-eng-GB/Zoom_into_the_Horsehead_Nebula_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517135758+0200" stop="20240517135909+0200">
+    <title lang="en">The Iris programme: satellite communications for aviation </title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/The_Iris_programme_satellite_communications_for_aviation</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/the_iris_programme_satellite_communications_for_aviation/26048951-1-eng-GB/The_Iris_programme_satellite_communications_for_aviation_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517135909+0200" stop="20240517140128+0200">
+    <title lang="en">Space Team Europe for Ariane 6: Julien Guiridlian</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Space_Team_Europe_for_Ariane_6_Julien_Guiridlian</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/space_team_europe_for_ariane_6_julien_guiridlian/26048861-1-eng-GB/Space_Team_Europe_for_Ariane_6_Julien_Guiridlian_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517140128+0200" stop="20240517145843+0200">
+    <title lang="en">ESA astronaut class of 2022 graduation ceremony replay</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/ESA_astronaut_class_of_2022_graduation_ceremony_replay</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/esa_astronaut_class_of_2022_graduation_ceremony_replay/26039145-8-eng-GB/ESA_astronaut_class_of_2022_graduation_ceremony_replay_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517145843+0200" stop="20240517150120+0200">
+    <title lang="en">Highlights from ESA basic astronaut training</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Highlights_from_ESA_basic_astronaut_training</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/highlights_from_esa_basic_astronaut_training/26045884-1-eng-GB/Highlights_from_ESA_basic_astronaut_training_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517150120+0200" stop="20240517150158+0200">
+    <title lang="en">Zoom into the Dumbbell Nebula</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Zoom_into_the_Dumbbell_Nebula</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/zoom_into_the_dumbbell_nebula/26045730-1-eng-GB/Zoom_into_the_Dumbbell_Nebula_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517150158+0200" stop="20240517150226+0200">
+    <title lang="en">EarthCARE over desert dust</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/EarthCARE_over_desert_dust</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/earthcare_over_desert_dust/26040532-1-eng-GB/EarthCARE_over_desert_dust_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517150226+0200" stop="20240517150338+0200">
+    <title lang="en">Hera trajectory to Didymos</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Hera_trajectory_to_Didymos</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/hera_trajectory_to_didymos/26028702-1-eng-GB/Hera_trajectory_to_Didymos_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517150338+0200" stop="20240517150520+0200">
+    <title lang="en">Hera’s navigation around the asteroids</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Hera_s_navigation_around_the_asteroids</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/hera_s_navigation_around_the_asteroids/26033878-2-eng-GB/Hera_s_navigation_around_the_asteroids_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517150520+0200" stop="20240517150755+0200">
+    <title lang="en">The Incredible Adventures of the Hera mission – The Missing…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/The_Incredible_Adventures_of_the_Hera_mission_The_Missing_Puzzle_Piece</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/the_incredible_adventures_of_the_hera_mission_the_missing_puzzle_piece/26028267-1-eng-GB/The_Incredible_Adventures_of_the_Hera_mission_The_Missing_Puzzle_Piece_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517150755+0200" stop="20240517150855+0200">
+    <title lang="en">ESA astronaut class of 2022 graduation ceremony</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/ESA_astronaut_class_of_2022_graduation_ceremony</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/esa_astronaut_class_of_2022_graduation_ceremony/26030831-6-eng-GB/ESA_astronaut_class_of_2022_graduation_ceremony_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517150855+0200" stop="20240517151625+0200">
+    <title lang="en">A tour of the International Space Station with Andreas Moge…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/A_tour_of_the_International_Space_Station_with_Andreas_Mogensen</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/a_tour_of_the_international_space_station_with_andreas_mogensen/26028393-2-eng-GB/A_tour_of_the_International_Space_Station_with_Andreas_Mogensen_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517151625+0200" stop="20240517152057+0200">
+    <title lang="en">ESA X Epic Games Lunar Horizons collaboration </title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/ESA_X_Epic_Games_Lunar_Horizons_collaboration</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/esa_x_epic_games_lunar_horizons_collaboration/26029039-1-eng-GB/ESA_X_Epic_Games_Lunar_Horizons_collaboration_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517152057+0200" stop="20240517154805+0200">
+    <title lang="en">Astro Chat with Sophie Adenot | ESA Explores podcast</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Astro_Chat_with_Sophie_Adenot_ESA_Explores_podcast</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/astro_chat_with_sophie_adenot_esa_explores_podcast/26014092-4-eng-GB/Astro_Chat_with_Sophie_Adenot_ESA_Explores_podcast_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517154805+0200" stop="20240517155009+0200">
+    <title lang="en">Simulating tumbling reaction wheel reentry</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Simulating_tumbling_reaction_wheel_reentry</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/simulating_tumbling_reaction_wheel_reentry/26021301-1-eng-GB/Simulating_tumbling_reaction_wheel_reentry_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517155009+0200" stop="20240517155454+0200">
+    <title lang="en">Space Team Europe for Ariane 6: Michel Bonnet</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Space_Team_Europe_for_Ariane_6_Michel_Bonnet</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/space_team_europe_for_ariane_6_michel_bonnet/26027334-1-eng-GB/Space_Team_Europe_for_Ariane_6_Michel_Bonnet_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517155454+0200" stop="20240517155525+0200">
+    <title lang="en">Proba-2 sees the Moon eclipse the Sun</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Proba-2_sees_the_Moon_eclipse_the_Sun</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/proba-2_sees_the_moon_eclipse_the_sun/26024289-1-eng-GB/Proba-2_sees_the_Moon_eclipse_the_Sun_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517155525+0200" stop="20240517155532+0200">
+    <title lang="en">Total solar eclipse seen from space</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Total_solar_eclipse_seen_from_space</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/total_solar_eclipse_seen_from_space/26022583-1-eng-GB/Total_solar_eclipse_seen_from_space_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517155532+0200" stop="20240517155541+0200">
+    <title lang="en">Biological resistance vibration test</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Biological_resistance_vibration_test</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/biological_resistance_vibration_test/26020904-1-eng-GB/Biological_resistance_vibration_test_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517155541+0200" stop="20240517155920+0200">
+    <title lang="en">Solar eclipses – and how to make them</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Solar_eclipses_and_how_to_make_them</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/solar_eclipses_and_how_to_make_them/26019737-1-eng-GB/Solar_eclipses_and_how_to_make_them_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517155920+0200" stop="20240517162857+0200">
+    <title lang="en">Astro Chat with Pablo Álvarez Fernández | ESA Explores podc…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Astro_Chat_with_Pablo_Alvarez_Fernandez_ESA_Explores_podcast</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/astro_chat_with_pablo_alvarez_fernandez_esa_explores_podcast/26014002-2-eng-GB/Astro_Chat_with_Pablo_Alvarez_Fernandez_ESA_Explores_podcast_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517162857+0200" stop="20240517163132+0200">
+    <title lang="en">Ariane 6 tests towards first flight</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Ariane_6_tests_towards_first_flight</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/ariane_6_tests_towards_first_flight/26013425-1-eng-GB/Ariane_6_tests_towards_first_flight_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517163132+0200" stop="20240517163433+0200">
+    <title lang="en">Episode 1 – Scouting the Red Planet</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Episode_1_Scouting_the_Red_Planet</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/episode_1_scouting_the_red_planet/26013318-1-eng-GB/Episode_1_Scouting_the_Red_Planet_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517163433+0200" stop="20240517163540+0200">
+    <title lang="en">Coming soon: Arctic Weather Satellite</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Coming_soon_Arctic_Weather_Satellite</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/coming_soon_arctic_weather_satellite/26013228-1-eng-GB/Coming_soon_Arctic_Weather_Satellite_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517163540+0200" stop="20240517163704+0200">
+    <title lang="en">Unboxing Ariane 6 ballast and adapter</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/04/Unboxing_Ariane_6_ballast_and_adapter</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/04/unboxing_ariane_6_ballast_and_adapter/26009563-1-eng-GB/Unboxing_Ariane_6_ballast_and_adapter_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517163704+0200" stop="20240517163717+0200">
+    <title lang="en">Arctic Weather Satellite over Scandinavia</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Arctic_Weather_Satellite_over_Scandinavia</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/arctic_weather_satellite_over_scandinavia/26008953-1-eng-GB/Arctic_Weather_Satellite_over_Scandinavia_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517163717+0200" stop="20240517163743+0200">
+    <title lang="en">Improving Arctic and global weather forecasts</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Improving_Arctic_and_global_weather_forecasts</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/improving_arctic_and_global_weather_forecasts/26008744-1-eng-GB/Improving_Arctic_and_global_weather_forecasts_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517163743+0200" stop="20240517171613+0200">
+    <title lang="en">Information session on the outcome of ESA's 323rd Council</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Information_session_on_the_outcome_of_ESA_s_323rd_Council</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/information_session_on_the_outcome_of_esa_s_323rd_council/26004120-5-eng-GB/Information_session_on_the_outcome_of_ESA_s_323rd_Council_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517171613+0200" stop="20240517171643+0200">
+    <title lang="en">Nuclear explosions feed a neutron star’s jets</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Nuclear_explosions_feed_a_neutron_star_s_jets</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/nuclear_explosions_feed_a_neutron_star_s_jets/26000468-1-eng-GB/Nuclear_explosions_feed_a_neutron_star_s_jets_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517171643+0200" stop="20240517172320+0200">
+    <title lang="en">ESA School Days 2024 at ESRIN</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/ESA_School_Days_2024_at_ESRIN</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/esa_school_days_2024_at_esrin/25990553-3-eng-GB/ESA_School_Days_2024_at_ESRIN_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517172320+0200" stop="20240517172410+0200">
+    <title lang="en">Oxia Planum geological map</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Oxia_Planum_geological_map</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/oxia_planum_geological_map/26002040-8-eng-GB/Oxia_Planum_geological_map_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517172410+0200" stop="20240517174207+0200">
+    <title lang="en">Toward the next generation of air quality monitoring</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Toward_the_next_generation_of_air_quality_monitoring</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/toward_the_next_generation_of_air_quality_monitoring/25963371-2-eng-GB/Toward_the_next_generation_of_air_quality_monitoring_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517174207+0200" stop="20240517174446+0200">
+    <title lang="en">Simulation of a Milky Way-like galaxy forming </title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Simulation_of_a_Milky_Way-like_galaxy_forming</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/simulation_of_a_milky_way-like_galaxy_forming/25974390-1-eng-GB/Simulation_of_a_Milky_Way-like_galaxy_forming_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517174446+0200" stop="20240517174608+0200">
+    <title lang="en">El Niño and the sea surface</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/El_Nino_and_the_sea_surface</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/el_nino_and_the_sea_surface/25984066-1-eng-GB/El_Nino_and_the_sea_surface_card_medium.png"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517174608+0200" stop="20240517174639+0200">
+    <title lang="en">Deforestation near Santa Cruz de la Sierra, Bolivia</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/03/Deforestation_near_Santa_Cruz_de_la_Sierra_Bolivia</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/03/deforestation_near_santa_cruz_de_la_sierra_bolivia/25989671-2-eng-GB/Deforestation_near_Santa_Cruz_de_la_Sierra_Bolivia_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517174639+0200" stop="20240517174934+0200">
+    <title lang="en">AI in Earth observation: a force for good</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/AI_in_Earth_observation_a_force_for_good</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/ai_in_earth_observation_a_force_for_good/26073508-3-eng-GB/AI_in_Earth_observation_a_force_for_good_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517174934+0200" stop="20240517191934+0200">
+    <title lang="en">Earth Observation Science Strategy Review Workshop 2024 | P…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Earth_Observation_Science_Strategy_Review_Workshop_2024_Plenary_Session_3_Splinter_summaries_and_next_steps</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/earth_observation_science_strategy_review_workshop_2024_plenary_session_3_splinter_summaries_and_next_steps/26071985-2-eng-GB/Earth_Observation_Science_Strategy_Review_Workshop_2024_Plenary_Session_3_Splinter_summaries_and_next_steps_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517191934+0200" stop="20240517233734+0200">
+    <title lang="en">4th ESA-ECMWF workshop on ML4ESOP</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/4th_ESA-ECMWF_workshop_on_ML4ESOP</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/4th_esa-ecmwf_workshop_on_ml4esop/26072746-1-eng-GB/4th_ESA-ECMWF_workshop_on_ML4ESOP_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517233734+0200" stop="20240517234121+0200">
+    <title lang="en">Space Team Europe for Ariane 6: Aline Decadi</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Space_Team_Europe_for_Ariane_6_Aline_Decadi</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/space_team_europe_for_ariane_6_aline_decadi/26072654-1-eng-GB/Space_Team_Europe_for_Ariane_6_Aline_Decadi_card_medium.jpg"/>
+  </programme>
+  <programme channel="videos.esa.int" start="20240517234121+0200" stop="20240518014121+0200">
+    <title lang="en">Earth Observation Science Strategy Review Workshop 2024 | P…</title>
+    <desc lang="en">https://www.esa.int/ESA_Multimedia/Videos/2024/05/Earth_Observation_Science_Strategy_Review_Workshop_2024_Plenary_Session_2_Enablers_of_Earth_Action</desc>
+    <category lang="en">Science</category>
+    <icon src="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2024/05/earth_observation_science_strategy_review_workshop_2024_plenary_session_2_enablers_of_earth_action/26071895-3-eng-GB/Earth_Observation_Science_Strategy_Review_Workshop_2024_Plenary_Session_2_Enablers_of_Earth_Action_card_medium.jpg"/>
+  </programme>
 </tv>
