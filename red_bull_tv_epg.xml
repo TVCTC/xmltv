@@ -7,12 +7,6 @@
     <url>https://www.redbull.com/v3/api/graphql/v1/v3/query/en-INT?filter[type]=video-channels&amp;filter[uriSlug]=best-of-red-bull-stream&amp;rb3Locale=int-en&amp;rb3Schema=v1:videoHero</url>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png" />
   </channel>
-  <programme channel="RedBullTV.at" start="20240517220934 +0200" stop="20240517225023 +0200">
-    <title lang="en">Momentum</title>
-    <desc lang="en">Momentum features the first sections of New School surfers Kelly Slater, Rob Machado, Shane Dorian and more. (40 minutes)</desc>
-    <category lang="en">Sport, Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/22/ow1ixtflpdvwu18kl4qi/shane-dorian" />
-  </programme>
   <programme channel="RedBullTV.at" start="20240517225023 +0200" stop="20240517232550 +0200">
     <title lang="en">Momentum II</title>
     <desc lang="en">Enjoy sick sections from the next generation of rising talents such as Kelly Slater, Rob Machado and more. (35 minutes)</desc>
@@ -126,6 +120,12 @@
     <desc lang="en">Follow along for a weekend of Hard Enduro mayhem as the boys get up to their usual antics on the Iron Giant. (19 minutes)</desc>
     <category lang="en">Sport, Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/11/zzdflr3vwhhvfcvhmnju/podium-red-bull-erzbergrodeo-2022" />
+  </programme>
+  <programme channel="RedBullTV.at" start="20240518083201 +0200" stop="20240518084307 +0200">
+    <title lang="en">Prologue 1 recap – Red Bull Erzbergrodeo</title>
+    <desc lang="en">Enjoy a look back the opening Iron Road prologue, a full-throttle blast up gravel roads and forestry tracks. (11 minutes)</desc>
+    <category lang="en">Sport, Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/10/oqoac0zszozf0ipxxcib/andrea-verona-red-bull-erzbergrodeo-2023" />
   </programme>
 </tv>
 
