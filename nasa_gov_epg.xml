@@ -1,52 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.nasa.gov/nasatv/" time-created="2024-05-22 18:00:08">
+<tv generator-info-name="TVCTC" source-info-url="https://www.nasa.gov/nasatv/" time-created="2024-05-23 06:01:08">
   <channel id="nasatv.nasa.gov">
     <display-name>NASA TV</display-name>
-    <icon src="https://images2.imgbox.com/51/ed/Mf3nzgHP_o.png"/>
+    <icon src="https://images2.imgbox.com/ae/89/imjR89ip_o.png"/>
   </channel>
-  <programme channel="nasatv.nasa.gov" start="20240522000000-0400" stop="20240522020000-0400">
-    <title lang="en">Live Continuous Mission Coverage of the Launch of the Boeing Starliner Spacecraft to the International Space Station</title>
-    <desc lang="en">NASA Television is our official free-to-air broadcast network for live events and original content, including launches, spacewalks, mission events, the latest news briefings, and videos showcasing our missions.</desc>
-    <category lang="en">Live</category>
-    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240522020000-0400" stop="20240522175300-0400">
-    <title lang="en">JPL and the Space Age</title>
-    <desc lang="en">NASA’s Jet Propulsion Laboratory is widely known for its trailblazing role in space exploration, and the “JPL and the Space Age” documentary series invites viewers to relive those early adventures through rare archival footage and interviews with many of JPL’s pioneering engineers and scientists.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/056/4260056_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240522175300-0400" stop="20240522194000-0400">
-    <title lang="en">Live Docking of the Boeing Starliner Spacecraft to the International Space Station</title>
-    <desc lang="en">NASA TV programme</desc>
-    <category lang="en">Live</category>
-    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240522194000-0400" stop="20240522213000-0400">
-    <title lang="en">Live Hatch Opening and Welcoming Remarks by NASA Astronauts</title>
-    <desc lang="en">NASA TV programme</desc>
-    <category lang="en">Live</category>
-    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240522213000-0400" stop="20240522230000-0400">
-    <title lang="en">Live Boeing Starliner Post-Docking News Conference</title>
-    <desc lang="en">NASA TV programme</desc>
-    <category lang="en">Live</category>
-    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240522230000-0400" stop="20240522233000-0400">
-    <title lang="en">Listen to the Universe</title>
-    <desc lang="en">NASA is famous for beautiful space images, but did you know you can listen to them? Go behind the scenes with the team that creates “sonifications,” translations of data into sound, and learn how meaningful they are to people who are blind or low-vision.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/281/4209281_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240522233000-0400" stop="20240523000000-0400">
-    <title lang="en">The Color of Space: Charlie Bolden</title>
-    <desc lang="en">The Color of Space captures the personal stories of seven current and former Black astronauts, each selected to become part of NASA’s astronaut corps and train for space missions. Current NASA astronauts Stephanie Wilson, Victor Glover, Jeanette Epps, as well as retired astronauts Leland Melvin, Bernard Harris, Robert Curbeam, and Bobby Satcher, speak about their journeys and their motivations in a panel hosted by NASA Johnson Space Center Director Vanessa Wyche, the first Black woman to lead a NASA center. They took the step to achieve the impossible, overcoming barriers and making space for others to follow. In this new documentary, be empowered by the remarkable stories of tenacity, courage, and motivation from the agency’s most decorated heroes. Learn about their path to NASA, their sources of inspiration, experiences in space, the importance of representation, the meaning of Juneteenth, and much more. Originally held at Space Center Houston on March 25, the panel discussion marks the first time the seven astronauts have been assembled for an official NASA event.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/392/3980392_1280.jpg"/>
-  </programme>
   <programme channel="nasatv.nasa.gov" start="20240523000000-0400" stop="20240523003000-0400">
     <title lang="en">NASA Explorers</title>
     <desc lang="en">These are our explorers. They’re the people who will get us to the Moon, collect Moon rocks, deliver them to Earth safely, and ensure that we can study them for years to come.</desc>
@@ -190,5 +148,221 @@
     <desc lang="en">NASA’s Jet Propulsion Laboratory is widely known for its trailblazing role in space exploration, and the “JPL and the Space Age” documentary series invites viewers to relive those early adventures through rare archival footage and interviews with many of JPL’s pioneering engineers and scientists.</desc>
     <category lang="en">Science</category>
     <icon src="https://televio.hr/static/backdrops/037/4157037_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524000000-0400" stop="20240524003000-0400">
+    <title lang="en">Other Worlds: Planets</title>
+    <desc lang="en">The planets of our solar system are full of mysteries. Meet a few of the scientists who are using the James Webb Space Telescope to look at our solar system and beyond.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/296/4209296_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524003000-0400" stop="20240524010000-0400">
+    <title lang="en">NASA Presents: Down to Earth</title>
+    <desc lang="en">Astronauts disclose their views on space travel, the space station, living in a gravity free environment and on the life altering effects of seeing the Earth from space for the first time.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/665/2793665_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524010000-0400" stop="20240524013000-0400">
+    <title lang="en">STEMonstrations</title>
+    <desc lang="en">STEMonstrations are STEM demonstrations on the space station.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/273/2786273_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524013000-0400" stop="20240524023000-0400">
+    <title lang="en">Man at the Moon</title>
+    <desc lang="en">Man at the Moon.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524023000-0400" stop="20240524033000-0400">
+    <title lang="en">Moon 101</title>
+    <desc lang="en">NASA’s documentary series about the Moon.</desc>
+    <category lang="en">Series</category>
+    <icon src="https://televio.hr/static/backdrops/279/2786279_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524033000-0400" stop="20240524040000-0400">
+    <title lang="en">NASA’s Advanced Air Mobility Playbook</title>
+    <desc lang="en">NASA’s vision for Advanced Air Mobility, or AAM, is to map out a safe, accessible, and affordable new air transportation system alongside industry partners, community partners and the FAA. NASA is researching what ride quality could be like for passengers traveling in eVTOL aircraft, to make sure it is a smooth and safe ride. In this episode of NASA’s Advanced Air Mobility Playbook, RVLT Project Flight Dynamics and Control Technical Lead Carlos Malpica explains why NASA is uniquely qualified for this research and why it’s important to the future of flight.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/282/2786282_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524040000-0400" stop="20240524043000-0400">
+    <title lang="en">Other Worlds: Planets</title>
+    <desc lang="en">The planets of our solar system are full of mysteries. Meet a few of the scientists who are using the James Webb Space Telescope to look at our solar system and beyond.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/296/4209296_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524043000-0400" stop="20240524050000-0400">
+    <title lang="en">NASA Presents: Down to Earth</title>
+    <desc lang="en">Astronauts disclose their views on space travel, the space station, living in a gravity free environment and on the life altering effects of seeing the Earth from space for the first time.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/665/2793665_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524050000-0400" stop="20240524053000-0400">
+    <title lang="en">STEMonstrations</title>
+    <desc lang="en">STEMonstrations are STEM demonstrations on the space station.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/273/2786273_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524053000-0400" stop="20240524063000-0400">
+    <title lang="en">Man at the Moon</title>
+    <desc lang="en">Man at the Moon.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524063000-0400" stop="20240524073000-0400">
+    <title lang="en">Moon 101</title>
+    <desc lang="en">NASA’s documentary series about the Moon.</desc>
+    <category lang="en">Series</category>
+    <icon src="https://televio.hr/static/backdrops/279/2786279_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524073000-0400" stop="20240524080000-0400">
+    <title lang="en">NASA’s Advanced Air Mobility Playbook</title>
+    <desc lang="en">NASA’s vision for Advanced Air Mobility, or AAM, is to map out a safe, accessible, and affordable new air transportation system alongside industry partners, community partners and the FAA. NASA is researching what ride quality could be like for passengers traveling in eVTOL aircraft, to make sure it is a smooth and safe ride. In this episode of NASA’s Advanced Air Mobility Playbook, RVLT Project Flight Dynamics and Control Technical Lead Carlos Malpica explains why NASA is uniquely qualified for this research and why it’s important to the future of flight.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/282/2786282_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524080000-0400" stop="20240524083000-0400">
+    <title lang="en">Other Worlds: Planets</title>
+    <desc lang="en">The planets of our solar system are full of mysteries. Meet a few of the scientists who are using the James Webb Space Telescope to look at our solar system and beyond.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/296/4209296_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524083000-0400" stop="20240524090000-0400">
+    <title lang="en">NASA Presents: Down to Earth</title>
+    <desc lang="en">Astronauts disclose their views on space travel, the space station, living in a gravity free environment and on the life altering effects of seeing the Earth from space for the first time.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/665/2793665_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524090000-0400" stop="20240524093000-0400">
+    <title lang="en">STEMonstrations</title>
+    <desc lang="en">STEMonstrations are STEM demonstrations on the space station.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/273/2786273_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524093000-0400" stop="20240524103000-0400">
+    <title lang="en">Man at the Moon</title>
+    <desc lang="en">Man at the Moon.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524103000-0400" stop="20240524113000-0400">
+    <title lang="en">Moon 101</title>
+    <desc lang="en">NASA’s documentary series about the Moon.</desc>
+    <category lang="en">Series</category>
+    <icon src="https://televio.hr/static/backdrops/279/2786279_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524113000-0400" stop="20240524120000-0400">
+    <title lang="en">NASA’s Advanced Air Mobility Playbook</title>
+    <desc lang="en">NASA’s vision for Advanced Air Mobility, or AAM, is to map out a safe, accessible, and affordable new air transportation system alongside industry partners, community partners and the FAA. NASA is researching what ride quality could be like for passengers traveling in eVTOL aircraft, to make sure it is a smooth and safe ride. In this episode of NASA’s Advanced Air Mobility Playbook, RVLT Project Flight Dynamics and Control Technical Lead Carlos Malpica explains why NASA is uniquely qualified for this research and why it’s important to the future of flight.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/282/2786282_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524120000-0400" stop="20240524123000-0400">
+    <title lang="en">Other Worlds: Planets</title>
+    <desc lang="en">The planets of our solar system are full of mysteries. Meet a few of the scientists who are using the James Webb Space Telescope to look at our solar system and beyond.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/296/4209296_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524123000-0400" stop="20240524130000-0400">
+    <title lang="en">NASA Presents: Down to Earth</title>
+    <desc lang="en">Astronauts disclose their views on space travel, the space station, living in a gravity free environment and on the life altering effects of seeing the Earth from space for the first time.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/665/2793665_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524130000-0400" stop="20240524133000-0400">
+    <title lang="en">STEMonstrations</title>
+    <desc lang="en">STEMonstrations are STEM demonstrations on the space station.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/273/2786273_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524133000-0400" stop="20240524143000-0400">
+    <title lang="en">Man at the Moon</title>
+    <desc lang="en">Man at the Moon.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524143000-0400" stop="20240524153000-0400">
+    <title lang="en">Moon 101</title>
+    <desc lang="en">NASA’s documentary series about the Moon.</desc>
+    <category lang="en">Series</category>
+    <icon src="https://televio.hr/static/backdrops/279/2786279_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524153000-0400" stop="20240524160000-0400">
+    <title lang="en">NASA’s Advanced Air Mobility Playbook</title>
+    <desc lang="en">NASA’s vision for Advanced Air Mobility, or AAM, is to map out a safe, accessible, and affordable new air transportation system alongside industry partners, community partners and the FAA. NASA is researching what ride quality could be like for passengers traveling in eVTOL aircraft, to make sure it is a smooth and safe ride. In this episode of NASA’s Advanced Air Mobility Playbook, RVLT Project Flight Dynamics and Control Technical Lead Carlos Malpica explains why NASA is uniquely qualified for this research and why it’s important to the future of flight.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/282/2786282_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524160000-0400" stop="20240524163000-0400">
+    <title lang="en">Other Worlds: Planets</title>
+    <desc lang="en">The planets of our solar system are full of mysteries. Meet a few of the scientists who are using the James Webb Space Telescope to look at our solar system and beyond.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/296/4209296_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524163000-0400" stop="20240524170000-0400">
+    <title lang="en">NASA Presents: Down to Earth</title>
+    <desc lang="en">Astronauts disclose their views on space travel, the space station, living in a gravity free environment and on the life altering effects of seeing the Earth from space for the first time.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/665/2793665_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524170000-0400" stop="20240524173000-0400">
+    <title lang="en">STEMonstrations</title>
+    <desc lang="en">STEMonstrations are STEM demonstrations on the space station.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/273/2786273_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524173000-0400" stop="20240524183000-0400">
+    <title lang="en">Man at the Moon</title>
+    <desc lang="en">Man at the Moon.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524183000-0400" stop="20240524193000-0400">
+    <title lang="en">Moon 101</title>
+    <desc lang="en">NASA’s documentary series about the Moon.</desc>
+    <category lang="en">Series</category>
+    <icon src="https://televio.hr/static/backdrops/279/2786279_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524193000-0400" stop="20240524200000-0400">
+    <title lang="en">NASA’s Advanced Air Mobility Playbook</title>
+    <desc lang="en">NASA’s vision for Advanced Air Mobility, or AAM, is to map out a safe, accessible, and affordable new air transportation system alongside industry partners, community partners and the FAA. NASA is researching what ride quality could be like for passengers traveling in eVTOL aircraft, to make sure it is a smooth and safe ride. In this episode of NASA’s Advanced Air Mobility Playbook, RVLT Project Flight Dynamics and Control Technical Lead Carlos Malpica explains why NASA is uniquely qualified for this research and why it’s important to the future of flight.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/282/2786282_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524200000-0400" stop="20240524203000-0400">
+    <title lang="en">Other Worlds: Planets</title>
+    <desc lang="en">The planets of our solar system are full of mysteries. Meet a few of the scientists who are using the James Webb Space Telescope to look at our solar system and beyond.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/296/4209296_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524203000-0400" stop="20240524210000-0400">
+    <title lang="en">NASA Presents: Down to Earth</title>
+    <desc lang="en">Astronauts disclose their views on space travel, the space station, living in a gravity free environment and on the life altering effects of seeing the Earth from space for the first time.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/665/2793665_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524210000-0400" stop="20240524213000-0400">
+    <title lang="en">STEMonstrations</title>
+    <desc lang="en">STEMonstrations are STEM demonstrations on the space station.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/273/2786273_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524213000-0400" stop="20240524223000-0400">
+    <title lang="en">Man at the Moon</title>
+    <desc lang="en">Man at the Moon.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524223000-0400" stop="20240524233000-0400">
+    <title lang="en">Moon 101</title>
+    <desc lang="en">NASA’s documentary series about the Moon.</desc>
+    <category lang="en">Series</category>
+    <icon src="https://televio.hr/static/backdrops/279/2786279_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240524233000-0400" stop="20240525000000-0400">
+    <title lang="en">NASA’s Advanced Air Mobility Playbook</title>
+    <desc lang="en">NASA’s vision for Advanced Air Mobility, or AAM, is to map out a safe, accessible, and affordable new air transportation system alongside industry partners, community partners and the FAA. NASA is researching what ride quality could be like for passengers traveling in eVTOL aircraft, to make sure it is a smooth and safe ride. In this episode of NASA’s Advanced Air Mobility Playbook, RVLT Project Flight Dynamics and Control Technical Lead Carlos Malpica explains why NASA is uniquely qualified for this research and why it’s important to the future of flight.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/282/2786282_1280.jpg"/>
   </programme>
 </tv>
