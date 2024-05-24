@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://olympics.com" time-created="2024-05-24 22:39:18">
+<tv generator-info-name="TVCTC" source-info-url="https://olympics.com" time-created="2024-05-25 00:00:03">
   <channel id="olympic-channel.olympics.com">
     <display-name>Olympic Channel</display-name>
     <icon src="https://thumbs2.imgbox.com/45/27/1M1IrWhV_t.png"/>
   </channel>
-  <programme channel="olympic-channel.olympics.com" start="20240524190010+0000" stop="20240524210523+0000">
-    <title lang="en">Duets Technical Routine - Artistic Swimming | Tokyo 2020 Replays</title>
-    <desc lang="en">This event took place on 03/08/2021 at the Tokyo Aquatics Centre, Tokyo. Kolesnichenko/ Romashina (ROC) lead the field into the Free Routine.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/j30bkzrhmbvqiqnv8vdg"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20240524210523+0000" stop="20240524211525+0000">
-    <title lang="en">The graceful journey of Olympic champion, Jessica von Bredow-Werndl | Athletes to Watch</title>
-    <desc lang="en">Jessica’s dream became reality at Tokyo 2020 with two Olympic Gold medals in dressage in the individual and team event. But her incredible bond with her horse, Dalera, is forged by hard work and an implacable discipline at Aubenhausen world-class riding centre. With her title back on the line at Paris 2024, she opens the doors of her family estate and reflects, with her family and her team, on an emotional journey full of joy and determination.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/xu0cyawsztf22bgtsakb"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20240524211525+0000" stop="20240524212235+0000">
-    <title lang="en">French kiteboarding prodigee on her way to gold at Paris | Athletes to Watch</title>
-    <desc lang="en">Lauriane Nolot, the current world champion, aims for Gold at Paris 2024 on the shores of Marseille where Formula Kite will make its Olympic debut. Hailing from Camps-la-Source, an hour away from the Olympic venue, she climbs the ranks with determination from family get-aways to world podium. Her impressive journey propels her to the pinnacle of her sport, ready to shine on the Olympic stage.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/kkplajzadqmx0pzuhdxn"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20240524212235+0000" stop="20240524213145+0000">
-    <title lang="en">France's Sevens captain targets gold at Paris 2024 | Athletes to Watch</title>
-    <desc lang="en">Backed by a great team and high perfornming coaches, Carla's quest for Olympic gold symbolizes the rise of women's rugby since Rio 2016. From competing with boys to leading her nation to Silver in Tokyo 2020, the French rugby Seven squad’s captain inspires resilience and dedication on the road to Paris 2024.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/wx3cbtavgwlobv8mubju"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20240524213145+0000" stop="20240524233638+0000">
-    <title lang="en">CAN v ROC - Men's Quarter-Final - Volleyball | Tokyo 2020 Replays</title>
-    <desc lang="en">The Men's Quarterfinal Match between Canada and ROC took place on 03/08/2021 at the Ariake Arena, Tokyo. Final Score ROC 3:0 CAN</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/dnqta2bau0ejhsh9jm4s"/>
-  </programme>
   <programme channel="olympic-channel.olympics.com" start="20240524233638+0000" stop="20240525021006+0000">
     <title lang="en">CAN v USA &amp; ESP v CHN - Women's Quarter-Finals - Water Polo | Tokyo 2020 Replays</title>
     <desc lang="en">These Women's Quarterfinal Matches were played on 03/08/2021 at the Tatsumi Water Polo Centre, Tastumi.</desc>
@@ -209,5 +179,127 @@ B-Girl Luma and 4Eskuela hip hop school, where she learnt Breaking and is now a 
     <desc lang="en">Watch the Olympic Qualifier and Skateboarding Park World Championships women's semi-final from Sharjah, United Arab Emirates.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/w9fh9rpkt4busrl1wfzj"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526011748+0000" stop="20240526012919+0000">
+    <title lang="en">Margie Didal: do what you love - Philippines / Skateboarding I By Her Rules</title>
+    <desc lang="en">Margie first encountered skateboarding while helping her mother sell street food to make ends meet. Now she supports her family as one of the top skateboarders in Asia. Being a skater, she is a bit of a rebel in  Filipina culture, but she is the sport sensation of the country and a strong chance of a medal at Tokyo 2020. She is paving the way for the next generation of women in skateboarding. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/neojfuptv894phdk3qmd"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526012919+0000" stop="20240526033332+0000">
+    <title lang="en">Skateboarding | Olympic Qualifier | Men's Semi-final | Park World Championships | Sharjah</title>
+    <desc lang="en">Watch the Olympic Qualifier and Skateboarding Park World Championships men's semi-final from Sharjah, United Arab Emirates.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/qyosfiqvmrsvvhohjt6a"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526033332+0000" stop="20240526054201+0000">
+    <title lang="en">Skateboarding | Olympic Qualifier | Finals | Park World Championships | Sharjah</title>
+    <desc lang="en">Watch the Olympic Qualifier and Skateboarding Park World Championships finals from Sharjah, United Arab Emirates.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/pqxxrqrmf4hfbdf1beja"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526054201+0000" stop="20240526060243+0000">
+    <title lang="en">From NYC to Alaska, meet the pioneers and US champion | Breaking Life </title>
+    <desc lang="en">As the birthplace of a global hip-hop movement, we meet some of the pioneers of Breaking in New-York City. While Kid Glyde shares his passion for breaking with the next generation at his Harlem studio, three thousand miles away in Anchorage Alaska, B-Boy Icey Ives, two-time US national champion, melts the ice with his local crew Frozen Flow while being a community leader, a teacher and a role model for the youth living in extremely challenging conditions.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/dovd8hi3ceymcdhls5v8"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526060000+0000" stop="20240526110216+0000">
+    <title lang="en">Weightlifting | Olympic Qualifier | Day 6 | Grand Prix I | Havana</title>
+    <desc lang="en">Watch the men's 81kg Group B and the women's 64kg and men's 81kg Group A Weightlifting competitions and join us for the Olympic Qualifier and IWF Grand Prix I in Havana, Cuba.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/bvvqvrk99yn70evf9rrh"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526110216+0000" stop="20240526111201+0000">
+    <title lang="en">The Skateboard Lesson | Sky Brown and Yungblud | From the Top</title>
+    <desc lang="en">Sky Brown and Yungblud meet up in Venice Beach, CA, where Sky shows off her athletic prowess and gives Yungblud a lesson in skateboarding basics. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/qeeuumukdruyyoxnbwwn"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526111201+0000" stop="20240526112257+0000">
+    <title lang="en">In Concert | Sky Brown and Yungblud | From the Top</title>
+    <desc lang="en">Yungblud leads Sky to a nearby venue where he and his band perform a private concert for her, the first rock concert Sky has ever attended in her life.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/xv0edlwsbk3ykipgdsvc"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526112257+0000" stop="20240526141936+0000">
+    <title lang="en">Skateboarding | Olympic Qualifier | Women's Semi-final | Street World Championships | Sharjah</title>
+    <desc lang="en">Watch the Olympic Qualifier and Skateboarding Street World Championships women's semi-final from Sharjah, United Arab Emirates.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/g8e1mpnqsdhvaawlbrk6"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526141936+0000" stop="20240526142657+0000">
+    <title lang="en">Inspiring a Generation | Sky Brown and Yungblud | From the Top</title>
+    <desc lang="en">Sky and Yungblud compare notes on their lives and careers and quickly become friends. Both being inspirational voices for the young generations.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/dv0dbgpponfuddtth0gj"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526142657+0000" stop="20240526143155+0000">
+    <title lang="en">How Jordyn Barratt found herself through skateboarding | Unleash the New</title>
+    <desc lang="en">Growing up in Hawaii, it’s not surprising that Jordyn was a surfer long before she stepped on a skateboard. But her life changed when she entered a skatepark for the first time. She finally felt at home and was able to express herself through her movements on the board. Now that skateboarding is an Olympic sport, she’s ready to represent her community on the biggest stage of all.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/flbc0bvsydyi6ukdyeak"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526143155+0000" stop="20240526144407+0000">
+    <title lang="en">Meet Adrien Raza, the godfather of urban skimboarding | Urbanity</title>
+    <desc lang="en">Adrien Raza is a unique and talented skimboarder, who has taken the urban skimboarding scene by storm. From fountains to ramps to stairs, he skims it all!</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/wzcxc4qrh1xcuo46jcde"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526144407+0000" stop="20240526145310+0000">
+    <title lang="en">Johan Tonnoir: parkour’s force of nature | Urbanity</title>
+    <desc lang="en">Johan Tonnoir, an athlete and artist who uses Paris’ architecture to defy gravity and who is taking free running to a whole new level.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/rkemnahsx2vgafhgvlnn"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526145310+0000" stop="20240526150723+0000">
+    <title lang="en">From NYC to Alaska, meet the pioneers and US champion | Breaking Life </title>
+    <desc lang="en">As the birthplace of a global hip-hop movement, we meet some of the pioneers of Breaking in New-York City. While Kid Glyde shares his passion for breaking with the next generation at his Harlem studio, three thousand miles away in Anchorage Alaska, B-Boy Icey Ives, two-time US national champion, melts the ice with his local crew Frozen Flow while being a community leader, a teacher and a role model for the youth living in extremely challenging conditions.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/dovd8hi3ceymcdhls5v8"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526150723+0000" stop="20240526152349+0000">
+    <title lang="en">French breakers set the scene for Paris 2024 Olympic Games| Breaking Life</title>
+    <desc lang="en">France is a cultural melting pot. It’s also one of the biggest countries for Breaking with more than a thousand battles every year and some of the greatest international competitions. It’s also in Paris 2024 that Breaking will make its Olympic debut.
+Dany Dann came to France from French Guyana to pursue a life in dance. Now, he juggles early morning shifts as a nurse, daily training and being a father – always with an eye on the next battle. Now reigning national champion, he trains with French national team members B-Girl Carlota and B-Boy Marlone for the WDSF World Breaking Championship in Paris.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/amx9sswjndootv2aps3j"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526152349+0000" stop="20240526154020+0000">
+    <title lang="en">Young breakers take over the streets of Medellin | Breaking Life</title>
+    <desc lang="en">Colombia used to be one of the most dangerous countries in the world but has found new life through a revival in urban arts, becoming a global creative mecca. 
+B-Girl Luma and 4Eskuela hip hop school, where she learnt Breaking and is now a teacher, have been instrumental to this change in Medellin (Colombia). But it’s not been an easy journey for Luma who also had her doubts about what she can really achieve through dancing. By winning international dance events around the world, she is now confident it gave her a career and a drive, also when teaching young kids in her neighbourhood. She is keen to participate to Paris 2024.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/iddfhrgah2b2pkoabbbd"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526154020+0000" stop="20240526174536+0000">
+    <title lang="en">Skateboarding | Olympic Qualifier | Men's Semi-final | Street World Championships | Sharjah</title>
+    <desc lang="en">Watch the Olympic Qualifier and Skateboarding Street World Championships men's semi-final from Sharjah, United Arab Emirates.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/rly7wc7emgoogpmyaabx"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526174536+0000" stop="20240526203858+0000">
+    <title lang="en">Skateboarding | Olympic Qualifier | Finals | Street World Championships | Sharjah</title>
+    <desc lang="en">Watch the Olympic Qualifier and Skateboarding Street World Championships finals from Sharjah, United Arab Emirates.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/dg5haobbqmwn4qhumyun"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526203858+0000" stop="20240526211959+0000">
+    <title lang="en">Shooting | Olympic Qualifier | Men's 10m Air Pistol Final | World Cup Rifle / Pistol 10m | Granada</title>
+    <desc lang="en">Watch the men's 10m air pistol final from the Olympic Qualifier and ISSF World Cup Rifle / Pistol 10m in Granada, Spain.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/yecurmpszuy4umvsnpny"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526211959+0000" stop="20240526234838+0000">
+    <title lang="en">Semi-Finals Women's -51kg, -69kg &amp; Men's +91kg and Finals Men's -81kg - Boxing | Tokyo 2020 Replays</title>
+    <desc lang="en">This event took place on 04/08/2021 at the Kokugikan Arena, Tokyo. It includes the Men's Light Heavy (75-81kg) Final and Victory Ceremony as well as  Women's Fly (48-51kg), Women's Welter (64-69kg) and Men's Super Heavy (+91kg) Semifinals.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/t8sj60p6vrv0ptwnnidt"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20240526234838+0000" stop="20240527001129+0000">
+    <title lang="en">Foul Play: Norway’s Skate Ban</title>
+    <desc lang="en">In Norway, during the 70’s and 80’s, skateboarding was banned for 11 years. A few hardcore devotees defied the law and skated in secret, keeping the sport alive</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/s5wihrgltce9fpoex7uu"/>
   </programme>
 </tv>
