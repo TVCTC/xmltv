@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-05-26 23:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-05-27 00:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240526191259+0000" stop="20240526200541+0000">
+    <title lang="en">Cliff diving is art</title>
+    <desc lang="en">The 2023 Red Bull Cliff Diving World Series touches down in the French capital for its first European stop.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/27/wfqzsldmldjfoyhymayz/iris-schmidbauer-red-bull-cliff-diving-world-series-2023-paris"/>
+  </programme>
   <programme channel="redbull.com" start="20240526200541+0000" stop="20240526213621+0000">
     <title lang="en">Finals – Athens</title>
     <desc lang="en">A new chapter begins as the 2024 season kicks off from Athens, Greece – follow all the live epic action!</desc>
@@ -29,7 +35,7 @@
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/18/eoyr4n97icwrgweaiv4p/gary-hunt"/>
   </programme>
-  <programme channel="redbull.com" start="20240526232616+0000" stop="20240527001928+0000">
+  <programme channel="redbull.com" start="20240526191259+0000" stop="20240526200541+0000">
     <title lang="en">Cliff diving is art</title>
     <desc lang="en">The 2023 Red Bull Cliff Diving World Series touches down in the French capital for its first European stop.</desc>
     <category lang="en">Cliff Diving</category>
@@ -118,11 +124,5 @@
     <desc lang="en">Discover what it takes for pole vaulter Armand ‘Mondo’ Duplantis to raise the bar – one centimetre at a time.</desc>
     <category lang="en">Athletics</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/pwwexoxiuktwyga29v3b/the-next-centimeter-armand-duplantis"/>
-  </programme>
-  <programme channel="redbull.com" start="20240527062039+0000" stop="20240527071424+0000">
-    <title lang="en">Changing of the guard</title>
-    <desc lang="en">The Red Bull Cliff Diving World Series reaches its crescendo at the final stop in Auckland.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/7/tt3uy4mfvjutdd8uvddx/constantin-popovici-red-bull-cliff-diving-2023-auckland"/>
   </programme>
 </tv>
