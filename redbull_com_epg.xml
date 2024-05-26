@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-05-26 20:43:18">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-05-26 20:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240526165229+0000" stop="20240526181945+0000">
+    <title lang="en">Wild Waters</title>
+    <desc lang="en">From Olympic pools to wild rivers, see the life of Nouria Newman, the most gifted kayaker of her generation.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/ez6viqxoy4iwxf7bxd7n/wild-waters-hero-art"/>
+  </programme>
   <programme channel="redbull.com" start="20240526181945+0000" stop="20240526191259+0000">
     <title lang="en">Changing of the guard</title>
     <desc lang="en">The Red Bull Cliff Diving World Series reaches its crescendo at the final stop in Auckland.</desc>
@@ -118,11 +124,5 @@
     <desc lang="en">A fast racer is only part of the magic formula: it's also got to look good and these were 2014's best designs.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/1/z7fky9uqvlcxcyc5erua/team-padella-red-bull-soapbox-turin-2014"/>
-  </programme>
-  <programme channel="redbull.com" start="20240527054929+0000" stop="20240527055500+0000">
-    <title lang="en">Danny MacAskill in San Francisco</title>
-    <desc lang="en">Pioneering mountain bike star Danny MacAskill turns the iconic sites of San Francisco into the ultimate trials riding paradise.</desc>
-    <category lang="en">Trial Biking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/zznvst7oofmarln0vgmp/danny-macaskill-postcard-from-san-francisco-extra"/>
   </programme>
 </tv>
