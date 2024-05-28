@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-05-29 00:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-05-29 01:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240528214518+0000" stop="20240528222228+0000">
-    <title lang="en">Red Bull Dual Ascent</title>
-    <desc lang="en">Sixteen world-class athletes on eight teams battle to be the fastest up a wall of six gruelling pitches.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/30/inmn3pjglt8q3tlpdk2c/red-bull-dual-ascent-2022-domen-skofic"/>
-  </programme>
   <programme channel="redbull.com" start="20240528222228+0000" stop="20240528234944+0000">
     <title lang="en">Wild Waters</title>
     <desc lang="en">From Olympic pools to wild rivers, see the life of Nouria Newman, the most gifted kayaker of her generation.</desc>
@@ -124,5 +118,11 @@
     <desc lang="en">Matty Hong and Margo Hayes challenge themselves by ascending two of the hardest climbs in Colorado, USA. </desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/fsk7akaw85kryjhdatkj/matty-hong-red-bull-dual-ascent-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240529102633+0000" stop="20240529104953+0000">
+    <title lang="en">Smile and fight</title>
+    <desc lang="en">Can big wall climber Natalia Grossman handle the pressure of defending her IFSC World Cup Champion title?</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/mc7bjmfxmd7ueucvx4qc/reel-rock-s9-e1-natalia-grossman"/>
   </programme>
 </tv>
