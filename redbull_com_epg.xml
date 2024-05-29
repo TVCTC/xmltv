@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-05-29 06:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-05-29 07:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240529025417+0000" stop="20240529034729+0000">
-    <title lang="en">Cliff diving is art</title>
-    <desc lang="en">The 2023 Red Bull Cliff Diving World Series touches down in the French capital for its first European stop.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/27/wfqzsldmldjfoyhymayz/iris-schmidbauer-red-bull-cliff-diving-world-series-2023-paris"/>
-  </programme>
-  <programme channel="redbull.com" start="20240529034729+0000" stop="20240529044035+0000">
-    <title lang="en">Crunch time</title>
-    <desc lang="en">The iconic Mostar bridge challenged the divers and spiced up the battle for the title on the penultimate stop.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/18/eoyr4n97icwrgweaiv4p/gary-hunt"/>
-  </programme>
   <programme channel="redbull.com" start="20240529044035+0000" stop="20240529053434+0000">
     <title lang="en">Ice Waterfalls</title>
     <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
@@ -29,7 +17,7 @@
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
   </programme>
-  <programme channel="redbull.com" start="20240529020120+0000" stop="20240529025417+0000">
+  <programme channel="redbull.com" start="20240529055943+0000" stop="20240529065326+0000">
     <title lang="en">Red Bull Cliff Diving: Boston</title>
     <desc lang="en">For the 2023 season opener in Boston, divers take on shaky weather conditions as they send it off 27m. </desc>
     <category lang="en">Cliff Diving</category>
@@ -118,5 +106,23 @@
     <desc lang="en">French phenom Seb Bouin tackles what may be the world’s hardest sport climb in the Verdon Gorge.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/qrip1psdzs4nhxdbqhl2/reel-rock-s9-e4-seb-bouin"/>
+  </programme>
+  <programme channel="redbull.com" start="20240529122625+0000" stop="20240529125200+0000">
+    <title lang="en">House of the gods part 1</title>
+    <desc lang="en">Leo Houlding, Anna Taylor and Waldo Etherington attempt a new route up Mount Roraima in the Amazonian Jungle.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/gzvvsct474x3bhtajbsu/reel-rock-s9-e6-image"/>
+  </programme>
+  <programme channel="redbull.com" start="20240529125200+0000" stop="20240529131251+0000">
+    <title lang="en">House of the gods part 2</title>
+    <desc lang="en">Anna Taylor must battle the hardest pitch yet to achieve the team's goal of a fully free ascent.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/zx7l8ltgi9gbhq2lwpvg/reel-rock-s9-e7-leo-houlding-anna-taylor-waldo-etherington"/>
+  </programme>
+  <programme channel="redbull.com" start="20240529131251+0000" stop="20240529133355+0000">
+    <title lang="en">Sleeping lion</title>
+    <desc lang="en">Big wall climbing legend Chris Sharma introduces his mega new project in Siurana, Spain: the Sleeping Lion.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/cghmb3stfcolvkju5jbe/reel-rock-s9-e8-chris-sharma"/>
   </programme>
 </tv>
