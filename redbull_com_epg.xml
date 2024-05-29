@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-05-29 01:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-05-29 02:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240528222228+0000" stop="20240528234944+0000">
-    <title lang="en">Wild Waters</title>
-    <desc lang="en">From Olympic pools to wild rivers, see the life of Nouria Newman, the most gifted kayaker of her generation.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/ez6viqxoy4iwxf7bxd7n/wild-waters-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20240528234944+0000" stop="20240529001523+0000">
     <title lang="en">The Next Centimeter </title>
     <desc lang="en">Discover what it takes for pole vaulter Armand ‘Mondo’ Duplantis to raise the bar – one centimetre at a time.</desc>
@@ -124,5 +118,11 @@
     <desc lang="en">Can big wall climber Natalia Grossman handle the pressure of defending her IFSC World Cup Champion title?</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/mc7bjmfxmd7ueucvx4qc/reel-rock-s9-e1-natalia-grossman"/>
+  </programme>
+  <programme channel="redbull.com" start="20240529104953+0000" stop="20240529111017+0000">
+    <title lang="en">Reel Rock: Alex Honnold in Nevada</title>
+    <desc lang="en">Alex Honnold attempts his latest and most treacherous single-push solo mission in Red Rock Canyon, Nevada.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/q7jztsoil9xcmoa1fqak/reel-rock-s9-e9-alex-honnold"/>
   </programme>
 </tv>
