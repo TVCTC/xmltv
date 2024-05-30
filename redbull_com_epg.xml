@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-05-30 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-05-30 05:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240530010606+0000" stop="20240530015912+0000">
-    <title lang="en">Crunch time</title>
-    <desc lang="en">The iconic Mostar bridge challenged the divers and spiced up the battle for the title on the penultimate stop.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/18/eoyr4n97icwrgweaiv4p/gary-hunt"/>
-  </programme>
-  <programme channel="redbull.com" start="20240530015912+0000" stop="20240530025226+0000">
-    <title lang="en">Red Bull Cliff Diving: Boston</title>
-    <desc lang="en">For the 2023 season opener in Boston, divers take on shaky weather conditions as they send it off 27m. </desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/t3rffyziihgl2tirpxxv/constantin-popovici"/>
-  </programme>
   <programme channel="redbull.com" start="20240530025226+0000" stop="20240530032152+0000">
     <title lang="en">Bridge boys</title>
     <desc lang="en">Tom Randall and Pete Whittaker take on the most absurd crack climb when they end up under a motorway bridge.</desc>
@@ -124,5 +112,17 @@
     <desc lang="en">Anna Taylor must battle the hardest pitch yet to achieve the team's goal of a fully free ascent.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/zx7l8ltgi9gbhq2lwpvg/reel-rock-s9-e7-leo-houlding-anna-taylor-waldo-etherington"/>
+  </programme>
+  <programme channel="redbull.com" start="20240530095938+0000" stop="20240530102041+0000">
+    <title lang="en">Sleeping lion</title>
+    <desc lang="en">Big wall climbing legend Chris Sharma introduces his mega new project in Siurana, Spain: the Sleeping Lion.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/cghmb3stfcolvkju5jbe/reel-rock-s9-e8-chris-sharma"/>
+  </programme>
+  <programme channel="redbull.com" start="20240530073709+0000" stop="20240530075734+0000">
+    <title lang="en">Reel Rock: Alex Honnold in Nevada</title>
+    <desc lang="en">Alex Honnold attempts his latest and most treacherous single-push solo mission in Red Rock Canyon, Nevada.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/q7jztsoil9xcmoa1fqak/reel-rock-s9-e9-alex-honnold"/>
   </programme>
 </tv>
