@@ -1,46 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-05-30 08:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-05-30 09:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240530051237+0000" stop="20240530055607+0000">
-    <title lang="en">Red Bull X-Alps 2023</title>
-    <desc lang="en">2023 marks the 20th anniversary of the world's toughest adventure race across the Alps with elite athletes.</desc>
-    <category lang="en">Adventure Racing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/2/xg4pfpelekgevstwvp3s/patrick-von-kanel-red-bull-x-alps-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20240530055607+0000" stop="20240530055914+0000">
-    <title lang="en">Kade Edwards destroys Dyfi Bike Park</title>
-    <desc lang="en">Enjoy the sound of speed as British mountain bike rider Kade Edwards rips up Dyfi Bike Park in Wales. </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/doge7u1jj7vxmsg8m1sq/kade-edwards-dyfi-bike-park"/>
-  </programme>
-  <programme channel="redbull.com" start="20240530055914+0000" stop="20240530061928+0000">
-    <title lang="en">This is Beth</title>
-    <desc lang="en">An intimate look beneath the success of legendary climber Beth Rodden, diving into her struggles and transformation.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/kysfw3fryc93bqptemxk/reel-rock-s8-e7-beth-rodden"/>
-  </programme>
-  <programme channel="redbull.com" start="20240530061928+0000" stop="20240530064854+0000">
-    <title lang="en">Bridge boys</title>
-    <desc lang="en">Tom Randall and Pete Whittaker take on the most absurd crack climb when they end up under a motorway bridge.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/xjlxmcymtyup27bncoy4/reel-rock-s8-e8-tom-randall-pete-whittaker"/>
-  </programme>
-  <programme channel="redbull.com" start="20240530064854+0000" stop="20240530071350+0000">
-    <title lang="en">Flex</title>
-    <desc lang="en">Matty Hong and Margo Hayes challenge themselves by ascending two of the hardest climbs in Colorado, USA. </desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/fsk7akaw85kryjhdatkj/matty-hong-red-bull-dual-ascent-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240530071350+0000" stop="20240530073709+0000">
-    <title lang="en">Smile and fight</title>
-    <desc lang="en">Can big wall climber Natalia Grossman handle the pressure of defending her IFSC World Cup Champion title?</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/mc7bjmfxmd7ueucvx4qc/reel-rock-s9-e1-natalia-grossman"/>
-  </programme>
   <programme channel="redbull.com" start="20240530073709+0000" stop="20240530075734+0000">
     <title lang="en">Reel Rock: Alex Honnold in Nevada</title>
     <desc lang="en">Alex Honnold attempts his latest and most treacherous single-push solo mission in Red Rock Canyon, Nevada.</desc>
@@ -124,5 +88,41 @@
     <desc lang="en">Discover what it takes for pole vaulter Armand ‘Mondo’ Duplantis to raise the bar – one centimetre at a time.</desc>
     <category lang="en">Athletics</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/pwwexoxiuktwyga29v3b/the-next-centimeter-armand-duplantis"/>
+  </programme>
+  <programme channel="redbull.com" start="20240530131831+0000" stop="20240530133747+0000">
+    <title lang="en">Hard Enduro party at Red Bull Erzbergrodeo</title>
+    <desc lang="en">Follow along for a weekend of Hard Enduro mayhem as the boys get up to their usual antics on the Iron Giant.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/11/zzdflr3vwhhvfcvhmnju/podium-red-bull-erzbergrodeo-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240530133747+0000" stop="20240530135109+0000">
+    <title lang="en">Paul Bolton's POV – Red Bull Erzbergrodeo</title>
+    <desc lang="en">Relive the best moments of Red Bull Erzbergrodeo 2023 by checking out Paul Bolton's POV.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/5/jnr1vuixztah9d37uvnm/paul-bolton-hixpania-hard-enduro-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240530135109+0000" stop="20240530140215+0000">
+    <title lang="en">Prologue 1 recap – Red Bull Erzbergrodeo</title>
+    <desc lang="en">Enjoy a look back the opening Iron Road prologue, a full-throttle blast up gravel roads and forestry tracks.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/10/oqoac0zszozf0ipxxcib/andrea-verona-red-bull-erzbergrodeo-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240530140215+0000" stop="20240530142906+0000">
+    <title lang="en">Red Bull Erzbergrodeo recap</title>
+    <desc lang="en">Look back at the action from Red Bull Erzbergrodeo, stop three of the FIM Hard Enduro World Championship 2022.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/6/25/m7jhr0b2ztifmdne9di2/fim-hard-enduro-red-bull-erzbergrodeo-lettenbichler-bolt-russell"/>
+  </programme>
+  <programme channel="redbull.com" start="20240530142906+0000" stop="20240530145603+0000">
+    <title lang="en">Red Bull Erzbergrodeo recap</title>
+    <desc lang="en">Get a full recap of the event to find out what it takes to be one of the few riders who cross the finish line.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/16/oatkp1fvaqoxtbigkv4b/manuel-lettenbichler-red-bull-erzbergrodeo-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240530145603+0000" stop="20240530155112+0000">
+    <title lang="en">Ice Waterfalls</title>
+    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/15/n9e71buasfvbbdzzu7di/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
   </programme>
 </tv>
