@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-05-30 16:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-05-30 17:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240530135109+0000" stop="20240530140215+0000">
-    <title lang="en">Prologue 1 recap – Red Bull Erzbergrodeo</title>
-    <desc lang="en">Enjoy a look back the opening Iron Road prologue, a full-throttle blast up gravel roads and forestry tracks.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/10/oqoac0zszozf0ipxxcib/andrea-verona-red-bull-erzbergrodeo-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20240530140215+0000" stop="20240530142906+0000">
-    <title lang="en">Red Bull Erzbergrodeo recap</title>
-    <desc lang="en">Look back at the action from Red Bull Erzbergrodeo, stop three of the FIM Hard Enduro World Championship 2022.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/6/25/m7jhr0b2ztifmdne9di2/fim-hard-enduro-red-bull-erzbergrodeo-lettenbichler-bolt-russell"/>
-  </programme>
   <programme channel="redbull.com" start="20240530142906+0000" stop="20240530145603+0000">
     <title lang="en">Red Bull Erzbergrodeo recap</title>
     <desc lang="en">Get a full recap of the event to find out what it takes to be one of the few riders who cross the finish line.</desc>
@@ -118,5 +106,23 @@
     <desc lang="en">The missed resupply pushes Tommy and Alex to the limit as they continue their challenge on empty stomachs.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/bymmgwqwutmllrhd3jcp/alex-honnold-drus-chamonix-2021"/>
+  </programme>
+  <programme channel="redbull.com" start="20240531015844+0000" stop="20240531021828+0000">
+    <title lang="en">This is Beth</title>
+    <desc lang="en">An intimate look beneath the success of legendary climber Beth Rodden, diving into her struggles and transformation.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/kysfw3fryc93bqptemxk/reel-rock-s8-e7-beth-rodden"/>
+  </programme>
+  <programme channel="redbull.com" start="20240530233943+0000" stop="20240531000909+0000">
+    <title lang="en">Bridge boys</title>
+    <desc lang="en">Tom Randall and Pete Whittaker take on the most absurd crack climb when they end up under a motorway bridge.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/xjlxmcymtyup27bncoy4/reel-rock-s8-e8-tom-randall-pete-whittaker"/>
+  </programme>
+  <programme channel="redbull.com" start="20240531024754+0000" stop="20240531031250+0000">
+    <title lang="en">Flex</title>
+    <desc lang="en">Matty Hong and Margo Hayes challenge themselves by ascending two of the hardest climbs in Colorado, USA. </desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/fsk7akaw85kryjhdatkj/matty-hong-red-bull-dual-ascent-2022"/>
   </programme>
 </tv>
