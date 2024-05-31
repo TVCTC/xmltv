@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-05-31 03:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-05-31 04:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240530191402+0000" stop="20240530200714+0000">
+    <title lang="en">Cliff diving is art</title>
+    <desc lang="en">The 2023 Red Bull Cliff Diving World Series touches down in the French capital for its first European stop.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/27/wfqzsldmldjfoyhymayz/iris-schmidbauer-red-bull-cliff-diving-world-series-2023-paris"/>
+  </programme>
   <programme channel="redbull.com" start="20240530200714+0000" stop="20240530210011+0000">
     <title lang="en">Red Bull Cliff Diving: Boston</title>
     <desc lang="en">For the 2023 season opener in Boston, divers take on shaky weather conditions as they send it off 27m. </desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/t3rffyziihgl2tirpxxv/constantin-popovici"/>
   </programme>
-  <programme channel="redbull.com" start="20240530210011+0000" stop="20240530215253+0000">
+  <programme channel="redbull.com" start="20240530191402+0000" stop="20240530200714+0000">
     <title lang="en">Cliff diving is art</title>
     <desc lang="en">The 2023 Red Bull Cliff Diving World Series touches down in the French capital for its first European stop.</desc>
     <category lang="en">Cliff Diving</category>
@@ -106,23 +112,5 @@
     <desc lang="en">Babsi Zangerl and Jacopo Larcher’s two-year big wall climbing quest comes down to one short weather window.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/gfhlivdykyqwj1wobfmq/reel-rock-s9-e3-jacopo-larcher"/>
-  </programme>
-  <programme channel="redbull.com" start="20240531044758+0000" stop="20240531053157+0000">
-    <title lang="en">Tokyo, Japan</title>
-    <desc lang="en">Creativity reaches new heights at the 2019 Red Bull Soapbox Race in Tokyo, Japan.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/29/jrm18vxvcstqeiizw6rp/red-bull-soapbox-race-s2019-e5-tokyo-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240531053157+0000" stop="20240531055757+0000">
-    <title lang="en">Red Bull Hardline</title>
-    <desc lang="en">Twenty of the world’s best and bravest riders are put to the test in Dan Atherton's brainchild.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1VUK8N89W5N11/FO-1VUK8N89W5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20240531055757+0000" stop="20240531062350+0000">
-    <title lang="en">DNA</title>
-    <desc lang="en">French phenom Seb Bouin tackles what may be the world’s hardest sport climb in the Verdon Gorge.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/qrip1psdzs4nhxdbqhl2/reel-rock-s9-e4-seb-bouin"/>
   </programme>
 </tv>
