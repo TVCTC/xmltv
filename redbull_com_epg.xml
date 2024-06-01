@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-01 08:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-01 09:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240601055138+0000" stop="20240601060002+0000">
-    <title lang="en">Max Verstappen drift driving challenge</title>
-    <desc lang="en">Oracle Red Bull Racing driver Max Verstappen gets behind the wheel of a drift car with ‘Mad’ Mike Whiddett.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/1/ajtwdf7dbvshygox7vnz/max-verstappen-with-madbul"/>
-  </programme>
   <programme channel="redbull.com" start="20240601060002+0000" stop="20240601072648+0000">
     <title lang="en">Wild Waters</title>
     <desc lang="en">From Olympic pools to wild rivers, see the life of Nouria Newman, the most gifted kayaker of her generation.</desc>
@@ -118,5 +112,17 @@
     <desc lang="en">Canadian mountain biker Darren Berrecloth explores the trails he's built in the forest near his home.</desc>
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/12/13/afli0jkrxz7elgk52spp/cycling-around-the-world-s1-e8-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240601160608+0000" stop="20240601161713+0000">
+    <title lang="en">Prologue 1 recap – Red Bull Erzbergrodeo</title>
+    <desc lang="en">Enjoy a look back the opening Iron Road prologue, a full-throttle blast up gravel roads and forestry tracks.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/10/oqoac0zszozf0ipxxcib/andrea-verona-red-bull-erzbergrodeo-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240601161713+0000" stop="20240601163036+0000">
+    <title lang="en">Paul Bolton's POV – Red Bull Erzbergrodeo</title>
+    <desc lang="en">Relive the best moments of Red Bull Erzbergrodeo 2023 by checking out Paul Bolton's POV.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/5/jnr1vuixztah9d37uvnm/paul-bolton-hixpania-hard-enduro-2022"/>
   </programme>
 </tv>
