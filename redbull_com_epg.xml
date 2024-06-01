@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-01 16:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-01 17:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240601134921+0000" stop="20240601142302+0000">
-    <title lang="en">Home run</title>
-    <desc lang="en">As Rachel Atherton returns to MTB racing, she works to find a balance while Vali Höll prepares for success.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/dc5vg0kbtvhiw8okcbva/rachel-atherton"/>
-  </programme>
-  <programme channel="redbull.com" start="20240601142302+0000" stop="20240601144956+0000">
-    <title lang="en">Iron sharpens iron</title>
-    <desc lang="en">Mathias Flückiger and Nino Schurter confront the bitter rivalry of Swiss MTB cross-country racing.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/aleq0pywjxtowwjzjynt/mathias-fluckiger"/>
-  </programme>
-  <programme channel="redbull.com" start="20240601144956+0000" stop="20240601150000+0000">
-    <title lang="en">2018's best runs</title>
-    <desc lang="en">Italian bagpipes and South Africa's fastest Stone Age soapbox made the cut among 2018's very best runs.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/pm6zgr2tqmnkc2jfehhf/red-bull-soapbox-race-rome-2018"/>
-  </programme>
   <programme channel="redbull.com" start="20240601150000+0000" stop="20240601160040+0000">
     <title lang="en">Red Bull Rookies Cup Mugello 2024 - Race 5</title>
     <desc lang="en">Watch the first of the races at Mugello in Italy, considered one of the world's most beautiful circuits.</desc>
@@ -118,5 +100,29 @@
     <desc lang="en">After a devastating injury, Marc Márquez's biggest challenge is to be what he once was, so he moves to Madrid.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/kmaaaguhwguqnucyeifw/marc-marquez-during-motogp"/>
+  </programme>
+  <programme channel="redbull.com" start="20240602010806+0000" stop="20240602013734+0000">
+    <title lang="en">Talent</title>
+    <desc lang="en">Marc’s riding style has earned him admiration from fans, but has also led to conflicts with other riders.</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/pochf82mnxitujxv1ecr/marc-marquez-santi-hernandez-motogp"/>
+  </programme>
+  <programme channel="redbull.com" start="20240602013734+0000" stop="20240602021223+0000">
+    <title lang="en">Champion</title>
+    <desc lang="en">Marc remembers his early MotoGP™ times and meets up with the man who was his idol back then: Valentino Rossi.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/bmlu7oqqvseia2kq2djv/marc-marquez-qualification-french-motogp-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240602021223+0000" stop="20240602024621+0000">
+    <title lang="en">Passion</title>
+    <desc lang="en">Marc recovers from surgery with one goal: to win again. In Austria he meets his former rival, Dani Pedrosa.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/e0zkdjonyk62rusblfme/marc-maruqez-bike-french-motogp-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240602024621+0000" stop="20240602032239+0000">
+    <title lang="en">Comeback</title>
+    <desc lang="en">It’s time for Marc to recap on a year that's seen him make some of the most difficult decisions of his life.</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/emtuoqqfpkjgkdzrawmf/marc-marquez-santi-hernandez-french-motogp-2023"/>
   </programme>
 </tv>
