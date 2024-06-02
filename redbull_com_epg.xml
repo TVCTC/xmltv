@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-02 23:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-03 00:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240602192432+0000" stop="20240602215512+0000">
-    <title lang="en">Livestream – UK</title>
-    <desc lang="en">The world’s toughest and most progressive downhill mountain bike race returns to the UK for the 10th time.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/25/phkqh0lwrrj3w5osbfil/gee-atherton"/>
-  </programme>
-  <programme channel="redbull.com" start="20240602215512+0000" stop="20240602223051+0000">
-    <title lang="en">Comeback</title>
-    <desc lang="en">It’s time for Marc to recap on a year that's seen him make some of the most difficult decisions of his life.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/emtuoqqfpkjgkdzrawmf/marc-marquez-santi-hernandez-french-motogp-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20240602223051+0000" stop="20240602231623+0000">
     <title lang="en">Lil Zoo: Breaking Chose Me</title>
     <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
@@ -124,5 +112,11 @@
     <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/5/dzfbz2heksvcugo7d5dr/jolanda-neff-uci-xco-world-cup-val-di-sole-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240603090303+0000" stop="20240603102049+0000">
+    <title lang="en">The Moment</title>
+    <desc lang="en">In the backwoods of Canada, three crews of adventure seekers change the world of cycling.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z6R1FMW55N11/FO-1Z6R1FMW55N11-featureMedia"/>
   </programme>
 </tv>
