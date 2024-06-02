@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-02 20:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-02 21:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240602181545+0000" stop="20240602185034+0000">
-    <title lang="en">Champion</title>
-    <desc lang="en">Marc remembers his early MotoGP™ times and meets up with the man who was his idol back then: Valentino Rossi.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/bmlu7oqqvseia2kq2djv/marc-marquez-qualification-french-motogp-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20240602185034+0000" stop="20240602192432+0000">
-    <title lang="en">Passion</title>
-    <desc lang="en">Marc recovers from surgery with one goal: to win again. In Austria he meets his former rival, Dani Pedrosa.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/e0zkdjonyk62rusblfme/marc-maruqez-bike-french-motogp-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20240602192432+0000" stop="20240602215512+0000">
     <title lang="en">Livestream – UK</title>
     <desc lang="en">The world’s toughest and most progressive downhill mountain bike race returns to the UK for the 10th time.</desc>
@@ -124,5 +112,11 @@
     <desc lang="en">As Rachel Atherton returns to MTB racing, she works to find a balance while Vali Höll prepares for success.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/dc5vg0kbtvhiw8okcbva/rachel-atherton"/>
+  </programme>
+  <programme channel="redbull.com" start="20240603080622+0000" stop="20240603083236+0000">
+    <title lang="en">Iron sharpens iron</title>
+    <desc lang="en">Mathias Flückiger and Nino Schurter confront the bitter rivalry of Swiss MTB cross-country racing.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/aleq0pywjxtowwjzjynt/mathias-fluckiger"/>
   </programme>
 </tv>
