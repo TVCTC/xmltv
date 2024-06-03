@@ -1,172 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.nasa.gov/nasatv/" time-created="2024-06-02 06:01:16">
+<tv generator-info-name="TVCTC" source-info-url="https://www.nasa.gov/nasatv/" time-created="2024-06-03 06:01:16">
   <channel id="nasatv.nasa.gov">
     <display-name>NASA TV</display-name>
     <icon src="https://images2.imgbox.com/ae/89/imjR89ip_o.png"/>
   </channel>
-  <programme channel="nasatv.nasa.gov" start="20240602000000-0400" stop="20240602020000-0400">
-    <title lang="en">Live Continuous Mission Coverage of the Launch of the Boeing Starliner Spacecraft to the International Space Station</title>
-    <desc lang="en">NASA Television is our official free-to-air broadcast network for live events and original content, including launches, spacewalks, mission events, the latest news briefings, and videos showcasing our missions.</desc>
-    <category lang="en">Live</category>
-    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602020000-0400" stop="20240602040000-0400">
-    <title lang="en">Film</title>
-    <desc lang="en">The “scattered factory” expands. This journey recounts how, among abandoned buildings, mines transformed into tourist attractions, factories in Eastern Europe that have been reconverted to produce Italian cars, and the transformation of industrial cities and towns such as Sesto San Giovanni (the former Stalingrad of Italy) and Lumezzane (the “workshop” city of the Brescia area). The places, the images, the sounds. The director takes note and recounts by blending telephone calls, conferences, poems, old movies, commercials on Yugoslavian TV, Russian ballets, experimental performances. One sole flow that expands into multiple senses and directions. Just like a factory.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/508/3095508_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602040000-0400" stop="20240602043000-0400">
-    <title lang="en">NASA Explorers</title>
-    <desc lang="en">These are our explorers. They’re the people who will get us to the Moon, collect Moon rocks, deliver them to Earth safely, and ensure that we can study them for years to come.</desc>
-    <category lang="en">Series</category>
-    <icon src="https://televio.hr/static/backdrops/000/2482000_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602043000-0400" stop="20240602050000-0400">
-    <title lang="en">Film</title>
-    <desc lang="en">The “scattered factory” expands. This journey recounts how, among abandoned buildings, mines transformed into tourist attractions, factories in Eastern Europe that have been reconverted to produce Italian cars, and the transformation of industrial cities and towns such as Sesto San Giovanni (the former Stalingrad of Italy) and Lumezzane (the “workshop” city of the Brescia area). The places, the images, the sounds. The director takes note and recounts by blending telephone calls, conferences, poems, old movies, commercials on Yugoslavian TV, Russian ballets, experimental performances. One sole flow that expands into multiple senses and directions. Just like a factory.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/508/3095508_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602050000-0400" stop="20240602053000-0400">
-    <title lang="en">STEMonstrations</title>
-    <desc lang="en">STEMonstrations are STEM demonstrations on the space station.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/273/2786273_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602053000-0400" stop="20240602063000-0400">
-    <title lang="en">Man at the Moon</title>
-    <desc lang="en">Man at the Moon.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602063000-0400" stop="20240602073000-0400">
-    <title lang="en">Moon 101</title>
-    <desc lang="en">NASA’s documentary series about the Moon.</desc>
-    <category lang="en">Series</category>
-    <icon src="https://televio.hr/static/backdrops/279/2786279_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602073000-0400" stop="20240602080000-0400">
-    <title lang="en">NASA’s Advanced Air Mobility Playbook</title>
-    <desc lang="en">NASA’s vision for Advanced Air Mobility, or AAM, is to map out a safe, accessible, and affordable new air transportation system alongside industry partners, community partners and the FAA. NASA is researching what ride quality could be like for passengers traveling in eVTOL aircraft, to make sure it is a smooth and safe ride. In this episode of NASA’s Advanced Air Mobility Playbook, RVLT Project Flight Dynamics and Control Technical Lead Carlos Malpica explains why NASA is uniquely qualified for this research and why it’s important to the future of flight.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/282/2786282_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602080000-0400" stop="20240602090000-0400">
-    <title lang="en">Ask an Astrobiologist</title>
-    <desc lang="en">This program is an interactive talk show where our guests answer questions from our host, Dr. Graham Lau, as well as questions submitted via Twitter, Facebook, and SAGANet chat.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602090000-0400" stop="20240602093000-0400">
-    <title lang="en">Film</title>
-    <desc lang="en">The “scattered factory” expands. This journey recounts how, among abandoned buildings, mines transformed into tourist attractions, factories in Eastern Europe that have been reconverted to produce Italian cars, and the transformation of industrial cities and towns such as Sesto San Giovanni (the former Stalingrad of Italy) and Lumezzane (the “workshop” city of the Brescia area). The places, the images, the sounds. The director takes note and recounts by blending telephone calls, conferences, poems, old movies, commercials on Yugoslavian TV, Russian ballets, experimental performances. One sole flow that expands into multiple senses and directions. Just like a factory.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/508/3095508_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602093000-0400" stop="20240602100000-0400">
-    <title lang="en">STEMonstrations</title>
-    <desc lang="en">STEMonstrations are STEM demonstrations on the space station.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/273/2786273_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602100000-0400" stop="20240602113000-0400">
-    <title lang="en">NASA in Silicon Valley Live</title>
-    <desc lang="en">NASA in Silicon Valley Live is a talk show that features conversations with scientists, researchers, engineers and all-around cool people who work at NASA to push the boundaries of innovation. Episodes air live at 4 pm PT / 7 pm ET. Viewers can submit questions for the show’s hosts and guests by joining the live chat on Twitch. A replay of the show airs on NASA TV.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602113000-0400" stop="20240602120000-0400">
-    <title lang="en">Visible Together: An AANHPI Conversation with NASA</title>
-    <desc lang="en">NASA’s Jonny Kim and Anita Dey sit down with historian Brian Odom to discuss how NASA is making the Asian American and Native Hawaiian/Pacific Islander community visible to the world, Kim’s experience with the space program growing up, and the impact of cultural stereotypes.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/836/4413836_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602120000-0400" stop="20240602123000-0400">
-    <title lang="en">Film</title>
-    <desc lang="en">The “scattered factory” expands. This journey recounts how, among abandoned buildings, mines transformed into tourist attractions, factories in Eastern Europe that have been reconverted to produce Italian cars, and the transformation of industrial cities and towns such as Sesto San Giovanni (the former Stalingrad of Italy) and Lumezzane (the “workshop” city of the Brescia area). The places, the images, the sounds. The director takes note and recounts by blending telephone calls, conferences, poems, old movies, commercials on Yugoslavian TV, Russian ballets, experimental performances. One sole flow that expands into multiple senses and directions. Just like a factory.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/508/3095508_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602123000-0400" stop="20240602130000-0400">
-    <title lang="en">75 Years of Armstrong</title>
-    <desc lang="en">NASA Armstrong’s Flight research center is honoring 75 years of advancing technology and science through flight. For the next year there will be monthly reoccurring videos released to help tell the past 75 years of NASA Armstrong. This month’s theme is efficiency! Starting in the 1970’s new advancements were made to make flying more economical and faster. Learn about the history of airplane advancement through flight.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/258/2786258_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602130000-0400" stop="20240602140000-0400">
-    <title lang="en">Film</title>
-    <desc lang="en">The “scattered factory” expands. This journey recounts how, among abandoned buildings, mines transformed into tourist attractions, factories in Eastern Europe that have been reconverted to produce Italian cars, and the transformation of industrial cities and towns such as Sesto San Giovanni (the former Stalingrad of Italy) and Lumezzane (the “workshop” city of the Brescia area). The places, the images, the sounds. The director takes note and recounts by blending telephone calls, conferences, poems, old movies, commercials on Yugoslavian TV, Russian ballets, experimental performances. One sole flow that expands into multiple senses and directions. Just like a factory.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/508/3095508_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602140000-0400" stop="20240602141300-0400">
-    <title lang="en">Film</title>
-    <desc lang="en">The “scattered factory” expands. This journey recounts how, among abandoned buildings, mines transformed into tourist attractions, factories in Eastern Europe that have been reconverted to produce Italian cars, and the transformation of industrial cities and towns such as Sesto San Giovanni (the former Stalingrad of Italy) and Lumezzane (the “workshop” city of the Brescia area). The places, the images, the sounds. The director takes note and recounts by blending telephone calls, conferences, poems, old movies, commercials on Yugoslavian TV, Russian ballets, experimental performances. One sole flow that expands into multiple senses and directions. Just like a factory.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/508/3095508_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602141300-0400" stop="20240602160000-0400">
-    <title lang="en">Live Docking of the Boeing Starliner Spacecraft to the International Space Station</title>
-    <desc lang="en">NASA TV programme</desc>
-    <category lang="en">Live</category>
-    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602160000-0400" stop="20240602171500-0400">
-    <title lang="en">Live Hatch Opening and Welcoming Remarks by NASA Astronauts Butch Wilmore and Suni Williams</title>
-    <desc lang="en">NASA TV programme</desc>
-    <category lang="en">Live</category>
-    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602171500-0400" stop="20240602183000-0400">
-    <title lang="en">Live Boeing Starliner Post-Docking News Conference</title>
-    <desc lang="en">NASA TV programme</desc>
-    <category lang="en">Live</category>
-    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602183000-0400" stop="20240602190000-0400">
-    <title lang="en">Listen to the Universe</title>
-    <desc lang="en">NASA is famous for beautiful space images, but did you know you can listen to them? Go behind the scenes with the team that creates “sonifications,” translations of data into sound, and learn how meaningful they are to people who are blind or low-vision.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/281/4209281_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602190000-0400" stop="20240602193000-0400">
-    <title lang="en">Other Worlds: Planets</title>
-    <desc lang="en">The planets of our solar system are full of mysteries. Meet a few of the scientists who are using the James Webb Space Telescope to look at our solar system and beyond.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/296/4209296_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602193000-0400" stop="20240602200000-0400">
-    <title lang="en">The Color of Space: Victor Glover</title>
-    <desc lang="en">The Color of Space captures the personal stories of seven current and former Black astronauts, each selected to become part of NASA’s astronaut corps and train for space missions. Current NASA astronauts Stephanie Wilson, Victor Glover, Jeanette Epps, as well as retired astronauts Leland Melvin, Bernard Harris, Robert Curbeam, and Bobby Satcher, speak about their journeys and their motivations in a panel hosted by NASA Johnson Space Center Director Vanessa Wyche, the first Black woman to lead a NASA center. They took the step to achieve the impossible, overcoming barriers and making space for others to follow. In this new documentary, be empowered by the remarkable stories of tenacity, courage, and motivation from the agency’s most decorated heroes. Learn about their path to NASA, their sources of inspiration, experiences in space, the importance of representation, the meaning of Juneteenth, and much more. Originally held at Space Center Houston on March 25, the panel discussion marks the first time the seven astronauts have been assembled for an official NASA event.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/392/3980392_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602200000-0400" stop="20240602210000-0400">
-    <title lang="en">Moon 101</title>
-    <desc lang="en">NASA’s documentary series about the Moon.</desc>
-    <category lang="en">Series</category>
-    <icon src="https://televio.hr/static/backdrops/279/2786279_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602210000-0400" stop="20240602213000-0400">
-    <title lang="en">Visible Together: An AANHPI Conversation with NASA</title>
-    <desc lang="en">NASA’s Jonny Kim and Anita Dey sit down with historian Brian Odom to discuss how NASA is making the Asian American and Native Hawaiian/Pacific Islander community visible to the world, Kim’s experience with the space program growing up, and the impact of cultural stereotypes.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/836/4413836_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602213000-0400" stop="20240602230000-0400">
-    <title lang="en">NASA in Silicon Valley Live - Robotic Exploration of the Moon</title>
-    <desc lang="en">NASA in Silicon Valley Live is a talk show that features conversations with scientists, researchers, engineers and all-around cool people who work at NASA to push the boundaries of innovation. Episodes air live at 4 pm PT / 7 pm ET. Viewers can submit questions for the show’s hosts and guests by joining the live chat on Twitch. A replay of the show airs on NASA TV.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/369/4140369_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240602230000-0400" stop="20240603000000-0400">
-    <title lang="en">Ask An Astrobiologist: How &amp; When Do Molecules Become Life with Dr. Henderson ”Jim” Cleaves</title>
-    <desc lang="en">Our guest is Dr. Henderson ”Jim” Cleaves! Jim studies the origin of life on Earth and its potential beyond, specifically asking the question: how does chemistry become biology? He is interested in how organic compounds are produced from cosmically-abundant, inorganic compounds, and how these compounds self-organize to form more complex and potentially self-replicating systems. Dr. Cleaves is a member of ISSOL, The International Society for the Study of the Origin of Life, an international astrobiology society; a senior research investigator at Blue Marble Space Institute of Science; and a professor of chemistry at Howard University.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/564/4417564_1280.jpg"/>
-  </programme>
   <programme channel="nasatv.nasa.gov" start="20240603000000-0400" stop="20240603003000-0400">
     <title lang="en">Leaders in Lidar</title>
     <desc lang="en">In this series, we dive into the legacy of Goddard’s lead role in developing laser altimetry, which has revolutionized the way we map our planet, the Moon and other planets. Each chapter looks at the successes and failures of these lidar instruments, beginning with the Mars Observer Laser Altimeter in the late 1980s, through the current generation of laser altimeters on ICESat-2 and GEDI. Through dozens of interviews and archival footage, the history, challenges and legacy of lidar are uncovered.</desc>
@@ -346,5 +184,209 @@
     <desc lang="en">NASA is famous for beautiful space images, but did you know you can listen to them? Go behind the scenes with the team that creates “sonifications,” translations of data into sound, and learn how meaningful they are to people who are blind or low-vision.</desc>
     <category lang="en">Science</category>
     <icon src="https://televio.hr/static/backdrops/281/4209281_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604000000-0400" stop="20240604003000-0400">
+    <title lang="en">Leaders in Lidar</title>
+    <desc lang="en">In this series, we dive into the legacy of Goddard’s lead role in developing laser altimetry, which has revolutionized the way we map our planet, the Moon and other planets. Each chapter looks at the successes and failures of these lidar instruments, beginning with the Mars Observer Laser Altimeter in the late 1980s, through the current generation of laser altimeters on ICESat-2 and GEDI. Through dozens of interviews and archival footage, the history, challenges and legacy of lidar are uncovered.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/668/2953668_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604003000-0400" stop="20240604010000-0400">
+    <title lang="en">Apollo 13: Houston We’ve Got a Problem</title>
+    <desc lang="en">“Houston, we’ve had a problem” is the now famous phrase radioed from Apollo 13 to Mission Control upon the catastrophic explosion that dramatically changed the mission. On the 50th Anniversary of the Apollo 13 mission, we recognize the triumph of the mission control team and the astronauts, and look at the lessons learned. The Apollo 13 mission has become known as “a successful failure” that saw the safe return of its crew  Commander James (Jim) Lovell Jr., Command Module Pilot John Swigert Jr. and Lunar Module Pilot Fred Haise Jr.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/225/2481225_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604010000-0400" stop="20240604023000-0400">
+    <title lang="en">JPL and the Space Age: The American Rocketeer</title>
+    <desc lang="en">NASA’s Jet Propulsion Laboratory is widely known for its trailblazing role in space exploration, and the “JPL and the Space Age” documentary series invites viewers to relive those early adventures through rare archival footage and interviews with many of JPL’s pioneering engineers and scientists.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604023000-0400" stop="20240604030000-0400">
+    <title lang="en">Mission Makers</title>
+    <desc lang="en">A new video series highlights the hard work and passion of scientists and engineers who are helping to get this remarkable new satellite off the ground. As the international Surface Water and Ocean Topography (SWOT) mission finishes final preparations for its December launch, a new video series focuses on some of the engineers and scientists behind the satellite, which will be the first to observe nearly all water on Earth’s surface. Led by NASA and the French space agency Centre National d’Études Spatiales (CNES), SWOT will measure the height of water in lakes, rivers, reservoirs, and the ocean. The SUV-size satellite will improve scientists’ ability to track the movement of water around the world while providing data that will help communities monitor and plan for changing water resources. In addition, the mission will boost scientists’ understanding of how sea level rise will affect coastlines around the world and the people who live near them. SWOT will also see ocean features too small for current space-based instruments to detect, improving researchers’ understanding of their role in climate change. More than a machine, SWOT is the culmination of years of work by a global team of engineers, scientists, and technicians committed to improving our understanding of our home planet. In this video series, you can meet team members from NASA’s Jet Propulsion Laboratory in Southern California, which manages the U.S. portion of the mission, and from the agency’s headquarters in Washington as they explain why working on SWOT means so much to them:
+Cedric David, a hydrologist who studies the world’s rivers, shares how water is the only place he feels truly comfortable because of physical challenges. As Cedric notes, SWOT will provide a global picture of freshwater resources and help improve water management, which is why he is so proud to help make a difference in protecting this precious resource.
+Christine Gebara, a mechanical engineer who helped test and integrate the spacecraft, tells the story of how she fell in love with engineering while learning to sail with the Girl Scouts on a lake near her childhood home in Houston. She reveals what inspires her most about building a spacecraft and offers advice for young women interested in engineering.
+Tahani Amer, the mission’s program executive, recalls growing up near Cairo, where her father encouraged her to study math and science – an atypical pursuit for young women in Egypt at the time. Today, she oversees several NASA Earth science missions, including SWOT. In the video, Amer shares how she’s been inspired by her Islamic faith, her family, and her colleagues.
+Marc Simard, a scientist who studies river deltas where they meet the ocean, discusses how he developed a passion for the environment in college, switching from a planned career in astrophysics to developing tools to study Earth. One of Simard’s favorite things about SWOT is that its data will help scientists better understand how sea level rise will affect coastal deltas around the world.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/250/2481250_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604030000-0400" stop="20240604040000-0400">
+    <title lang="en">NASA’s Incredible Discovery Machine: The Story of the Hubble Space Telescope</title>
+    <desc lang="en">Hubble’s launch and deployment in April 1990 marked the most significant advance in astronomy since Galileo’s telescope. Thanks to five servicing missions and more than 30 years of operation, our view of the universe and our place within it has never been the same. This documentary celebrates not only the scientific and technological achievements of this telescope, but also the human spirit that’s helped to keep it up and operational for all these years. Along with its views on YouTube, this documentary has gone on to receive over 400,000 combined views across the Hubble Space Telescope’s other social media platforms.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/260/2481260_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604040000-0400" stop="20240604043000-0400">
+    <title lang="en">Leaders in Lidar</title>
+    <desc lang="en">In this series, we dive into the legacy of Goddard’s lead role in developing laser altimetry, which has revolutionized the way we map our planet, the Moon and other planets. Each chapter looks at the successes and failures of these lidar instruments, beginning with the Mars Observer Laser Altimeter in the late 1980s, through the current generation of laser altimeters on ICESat-2 and GEDI. Through dozens of interviews and archival footage, the history, challenges and legacy of lidar are uncovered.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/668/2953668_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604043000-0400" stop="20240604050000-0400">
+    <title lang="en">Apollo 13: Houston We’ve Got a Problem</title>
+    <desc lang="en">“Houston, we’ve had a problem” is the now famous phrase radioed from Apollo 13 to Mission Control upon the catastrophic explosion that dramatically changed the mission. On the 50th Anniversary of the Apollo 13 mission, we recognize the triumph of the mission control team and the astronauts, and look at the lessons learned. The Apollo 13 mission has become known as “a successful failure” that saw the safe return of its crew  Commander James (Jim) Lovell Jr., Command Module Pilot John Swigert Jr. and Lunar Module Pilot Fred Haise Jr.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/225/2481225_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604050000-0400" stop="20240604063000-0400">
+    <title lang="en">JPL and the Space Age: The American Rocketeer</title>
+    <desc lang="en">NASA’s Jet Propulsion Laboratory is widely known for its trailblazing role in space exploration, and the “JPL and the Space Age” documentary series invites viewers to relive those early adventures through rare archival footage and interviews with many of JPL’s pioneering engineers and scientists.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604063000-0400" stop="20240604070000-0400">
+    <title lang="en">Mission Makers</title>
+    <desc lang="en">A new video series highlights the hard work and passion of scientists and engineers who are helping to get this remarkable new satellite off the ground. As the international Surface Water and Ocean Topography (SWOT) mission finishes final preparations for its December launch, a new video series focuses on some of the engineers and scientists behind the satellite, which will be the first to observe nearly all water on Earth’s surface. Led by NASA and the French space agency Centre National d’Études Spatiales (CNES), SWOT will measure the height of water in lakes, rivers, reservoirs, and the ocean. The SUV-size satellite will improve scientists’ ability to track the movement of water around the world while providing data that will help communities monitor and plan for changing water resources. In addition, the mission will boost scientists’ understanding of how sea level rise will affect coastlines around the world and the people who live near them. SWOT will also see ocean features too small for current space-based instruments to detect, improving researchers’ understanding of their role in climate change. More than a machine, SWOT is the culmination of years of work by a global team of engineers, scientists, and technicians committed to improving our understanding of our home planet. In this video series, you can meet team members from NASA’s Jet Propulsion Laboratory in Southern California, which manages the U.S. portion of the mission, and from the agency’s headquarters in Washington as they explain why working on SWOT means so much to them:
+Cedric David, a hydrologist who studies the world’s rivers, shares how water is the only place he feels truly comfortable because of physical challenges. As Cedric notes, SWOT will provide a global picture of freshwater resources and help improve water management, which is why he is so proud to help make a difference in protecting this precious resource.
+Christine Gebara, a mechanical engineer who helped test and integrate the spacecraft, tells the story of how she fell in love with engineering while learning to sail with the Girl Scouts on a lake near her childhood home in Houston. She reveals what inspires her most about building a spacecraft and offers advice for young women interested in engineering.
+Tahani Amer, the mission’s program executive, recalls growing up near Cairo, where her father encouraged her to study math and science – an atypical pursuit for young women in Egypt at the time. Today, she oversees several NASA Earth science missions, including SWOT. In the video, Amer shares how she’s been inspired by her Islamic faith, her family, and her colleagues.
+Marc Simard, a scientist who studies river deltas where they meet the ocean, discusses how he developed a passion for the environment in college, switching from a planned career in astrophysics to developing tools to study Earth. One of Simard’s favorite things about SWOT is that its data will help scientists better understand how sea level rise will affect coastal deltas around the world.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/250/2481250_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604070000-0400" stop="20240604080000-0400">
+    <title lang="en">NASA’s Incredible Discovery Machine: The Story of the Hubble Space Telescope</title>
+    <desc lang="en">Hubble’s launch and deployment in April 1990 marked the most significant advance in astronomy since Galileo’s telescope. Thanks to five servicing missions and more than 30 years of operation, our view of the universe and our place within it has never been the same. This documentary celebrates not only the scientific and technological achievements of this telescope, but also the human spirit that’s helped to keep it up and operational for all these years. Along with its views on YouTube, this documentary has gone on to receive over 400,000 combined views across the Hubble Space Telescope’s other social media platforms.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/260/2481260_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604080000-0400" stop="20240604083000-0400">
+    <title lang="en">Leaders in Lidar</title>
+    <desc lang="en">In this series, we dive into the legacy of Goddard’s lead role in developing laser altimetry, which has revolutionized the way we map our planet, the Moon and other planets. Each chapter looks at the successes and failures of these lidar instruments, beginning with the Mars Observer Laser Altimeter in the late 1980s, through the current generation of laser altimeters on ICESat-2 and GEDI. Through dozens of interviews and archival footage, the history, challenges and legacy of lidar are uncovered.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/668/2953668_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604083000-0400" stop="20240604090000-0400">
+    <title lang="en">Apollo 13: Houston We’ve Got a Problem</title>
+    <desc lang="en">“Houston, we’ve had a problem” is the now famous phrase radioed from Apollo 13 to Mission Control upon the catastrophic explosion that dramatically changed the mission. On the 50th Anniversary of the Apollo 13 mission, we recognize the triumph of the mission control team and the astronauts, and look at the lessons learned. The Apollo 13 mission has become known as “a successful failure” that saw the safe return of its crew  Commander James (Jim) Lovell Jr., Command Module Pilot John Swigert Jr. and Lunar Module Pilot Fred Haise Jr.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/225/2481225_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604090000-0400" stop="20240604103000-0400">
+    <title lang="en">JPL and the Space Age: The American Rocketeer</title>
+    <desc lang="en">NASA’s Jet Propulsion Laboratory is widely known for its trailblazing role in space exploration, and the “JPL and the Space Age” documentary series invites viewers to relive those early adventures through rare archival footage and interviews with many of JPL’s pioneering engineers and scientists.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604103000-0400" stop="20240604110000-0400">
+    <title lang="en">Mission Makers</title>
+    <desc lang="en">A new video series highlights the hard work and passion of scientists and engineers who are helping to get this remarkable new satellite off the ground. As the international Surface Water and Ocean Topography (SWOT) mission finishes final preparations for its December launch, a new video series focuses on some of the engineers and scientists behind the satellite, which will be the first to observe nearly all water on Earth’s surface. Led by NASA and the French space agency Centre National d’Études Spatiales (CNES), SWOT will measure the height of water in lakes, rivers, reservoirs, and the ocean. The SUV-size satellite will improve scientists’ ability to track the movement of water around the world while providing data that will help communities monitor and plan for changing water resources. In addition, the mission will boost scientists’ understanding of how sea level rise will affect coastlines around the world and the people who live near them. SWOT will also see ocean features too small for current space-based instruments to detect, improving researchers’ understanding of their role in climate change. More than a machine, SWOT is the culmination of years of work by a global team of engineers, scientists, and technicians committed to improving our understanding of our home planet. In this video series, you can meet team members from NASA’s Jet Propulsion Laboratory in Southern California, which manages the U.S. portion of the mission, and from the agency’s headquarters in Washington as they explain why working on SWOT means so much to them:
+Cedric David, a hydrologist who studies the world’s rivers, shares how water is the only place he feels truly comfortable because of physical challenges. As Cedric notes, SWOT will provide a global picture of freshwater resources and help improve water management, which is why he is so proud to help make a difference in protecting this precious resource.
+Christine Gebara, a mechanical engineer who helped test and integrate the spacecraft, tells the story of how she fell in love with engineering while learning to sail with the Girl Scouts on a lake near her childhood home in Houston. She reveals what inspires her most about building a spacecraft and offers advice for young women interested in engineering.
+Tahani Amer, the mission’s program executive, recalls growing up near Cairo, where her father encouraged her to study math and science – an atypical pursuit for young women in Egypt at the time. Today, she oversees several NASA Earth science missions, including SWOT. In the video, Amer shares how she’s been inspired by her Islamic faith, her family, and her colleagues.
+Marc Simard, a scientist who studies river deltas where they meet the ocean, discusses how he developed a passion for the environment in college, switching from a planned career in astrophysics to developing tools to study Earth. One of Simard’s favorite things about SWOT is that its data will help scientists better understand how sea level rise will affect coastal deltas around the world.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/250/2481250_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604110000-0400" stop="20240604120000-0400">
+    <title lang="en">NASA’s Incredible Discovery Machine: The Story of the Hubble Space Telescope</title>
+    <desc lang="en">Hubble’s launch and deployment in April 1990 marked the most significant advance in astronomy since Galileo’s telescope. Thanks to five servicing missions and more than 30 years of operation, our view of the universe and our place within it has never been the same. This documentary celebrates not only the scientific and technological achievements of this telescope, but also the human spirit that’s helped to keep it up and operational for all these years. Along with its views on YouTube, this documentary has gone on to receive over 400,000 combined views across the Hubble Space Telescope’s other social media platforms.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/260/2481260_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604120000-0400" stop="20240604123000-0400">
+    <title lang="en">Leaders in Lidar</title>
+    <desc lang="en">In this series, we dive into the legacy of Goddard’s lead role in developing laser altimetry, which has revolutionized the way we map our planet, the Moon and other planets. Each chapter looks at the successes and failures of these lidar instruments, beginning with the Mars Observer Laser Altimeter in the late 1980s, through the current generation of laser altimeters on ICESat-2 and GEDI. Through dozens of interviews and archival footage, the history, challenges and legacy of lidar are uncovered.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/668/2953668_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604123000-0400" stop="20240604130000-0400">
+    <title lang="en">Apollo 13: Houston We’ve Got a Problem</title>
+    <desc lang="en">“Houston, we’ve had a problem” is the now famous phrase radioed from Apollo 13 to Mission Control upon the catastrophic explosion that dramatically changed the mission. On the 50th Anniversary of the Apollo 13 mission, we recognize the triumph of the mission control team and the astronauts, and look at the lessons learned. The Apollo 13 mission has become known as “a successful failure” that saw the safe return of its crew  Commander James (Jim) Lovell Jr., Command Module Pilot John Swigert Jr. and Lunar Module Pilot Fred Haise Jr.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/225/2481225_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604130000-0400" stop="20240604143000-0400">
+    <title lang="en">JPL and the Space Age: The American Rocketeer</title>
+    <desc lang="en">NASA’s Jet Propulsion Laboratory is widely known for its trailblazing role in space exploration, and the “JPL and the Space Age” documentary series invites viewers to relive those early adventures through rare archival footage and interviews with many of JPL’s pioneering engineers and scientists.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604143000-0400" stop="20240604150000-0400">
+    <title lang="en">Mission Makers</title>
+    <desc lang="en">A new video series highlights the hard work and passion of scientists and engineers who are helping to get this remarkable new satellite off the ground. As the international Surface Water and Ocean Topography (SWOT) mission finishes final preparations for its December launch, a new video series focuses on some of the engineers and scientists behind the satellite, which will be the first to observe nearly all water on Earth’s surface. Led by NASA and the French space agency Centre National d’Études Spatiales (CNES), SWOT will measure the height of water in lakes, rivers, reservoirs, and the ocean. The SUV-size satellite will improve scientists’ ability to track the movement of water around the world while providing data that will help communities monitor and plan for changing water resources. In addition, the mission will boost scientists’ understanding of how sea level rise will affect coastlines around the world and the people who live near them. SWOT will also see ocean features too small for current space-based instruments to detect, improving researchers’ understanding of their role in climate change. More than a machine, SWOT is the culmination of years of work by a global team of engineers, scientists, and technicians committed to improving our understanding of our home planet. In this video series, you can meet team members from NASA’s Jet Propulsion Laboratory in Southern California, which manages the U.S. portion of the mission, and from the agency’s headquarters in Washington as they explain why working on SWOT means so much to them:
+Cedric David, a hydrologist who studies the world’s rivers, shares how water is the only place he feels truly comfortable because of physical challenges. As Cedric notes, SWOT will provide a global picture of freshwater resources and help improve water management, which is why he is so proud to help make a difference in protecting this precious resource.
+Christine Gebara, a mechanical engineer who helped test and integrate the spacecraft, tells the story of how she fell in love with engineering while learning to sail with the Girl Scouts on a lake near her childhood home in Houston. She reveals what inspires her most about building a spacecraft and offers advice for young women interested in engineering.
+Tahani Amer, the mission’s program executive, recalls growing up near Cairo, where her father encouraged her to study math and science – an atypical pursuit for young women in Egypt at the time. Today, she oversees several NASA Earth science missions, including SWOT. In the video, Amer shares how she’s been inspired by her Islamic faith, her family, and her colleagues.
+Marc Simard, a scientist who studies river deltas where they meet the ocean, discusses how he developed a passion for the environment in college, switching from a planned career in astrophysics to developing tools to study Earth. One of Simard’s favorite things about SWOT is that its data will help scientists better understand how sea level rise will affect coastal deltas around the world.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/250/2481250_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604150000-0400" stop="20240604160000-0400">
+    <title lang="en">NASA’s Incredible Discovery Machine: The Story of the Hubble Space Telescope</title>
+    <desc lang="en">Hubble’s launch and deployment in April 1990 marked the most significant advance in astronomy since Galileo’s telescope. Thanks to five servicing missions and more than 30 years of operation, our view of the universe and our place within it has never been the same. This documentary celebrates not only the scientific and technological achievements of this telescope, but also the human spirit that’s helped to keep it up and operational for all these years. Along with its views on YouTube, this documentary has gone on to receive over 400,000 combined views across the Hubble Space Telescope’s other social media platforms.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/260/2481260_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604160000-0400" stop="20240604163000-0400">
+    <title lang="en">Leaders in Lidar</title>
+    <desc lang="en">In this series, we dive into the legacy of Goddard’s lead role in developing laser altimetry, which has revolutionized the way we map our planet, the Moon and other planets. Each chapter looks at the successes and failures of these lidar instruments, beginning with the Mars Observer Laser Altimeter in the late 1980s, through the current generation of laser altimeters on ICESat-2 and GEDI. Through dozens of interviews and archival footage, the history, challenges and legacy of lidar are uncovered.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/668/2953668_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604163000-0400" stop="20240604170000-0400">
+    <title lang="en">Apollo 13: Houston We’ve Got a Problem</title>
+    <desc lang="en">“Houston, we’ve had a problem” is the now famous phrase radioed from Apollo 13 to Mission Control upon the catastrophic explosion that dramatically changed the mission. On the 50th Anniversary of the Apollo 13 mission, we recognize the triumph of the mission control team and the astronauts, and look at the lessons learned. The Apollo 13 mission has become known as “a successful failure” that saw the safe return of its crew  Commander James (Jim) Lovell Jr., Command Module Pilot John Swigert Jr. and Lunar Module Pilot Fred Haise Jr.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/225/2481225_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604170000-0400" stop="20240604183000-0400">
+    <title lang="en">JPL and the Space Age: The American Rocketeer</title>
+    <desc lang="en">NASA’s Jet Propulsion Laboratory is widely known for its trailblazing role in space exploration, and the “JPL and the Space Age” documentary series invites viewers to relive those early adventures through rare archival footage and interviews with many of JPL’s pioneering engineers and scientists.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604183000-0400" stop="20240604190000-0400">
+    <title lang="en">Mission Makers</title>
+    <desc lang="en">A new video series highlights the hard work and passion of scientists and engineers who are helping to get this remarkable new satellite off the ground. As the international Surface Water and Ocean Topography (SWOT) mission finishes final preparations for its December launch, a new video series focuses on some of the engineers and scientists behind the satellite, which will be the first to observe nearly all water on Earth’s surface. Led by NASA and the French space agency Centre National d’Études Spatiales (CNES), SWOT will measure the height of water in lakes, rivers, reservoirs, and the ocean. The SUV-size satellite will improve scientists’ ability to track the movement of water around the world while providing data that will help communities monitor and plan for changing water resources. In addition, the mission will boost scientists’ understanding of how sea level rise will affect coastlines around the world and the people who live near them. SWOT will also see ocean features too small for current space-based instruments to detect, improving researchers’ understanding of their role in climate change. More than a machine, SWOT is the culmination of years of work by a global team of engineers, scientists, and technicians committed to improving our understanding of our home planet. In this video series, you can meet team members from NASA’s Jet Propulsion Laboratory in Southern California, which manages the U.S. portion of the mission, and from the agency’s headquarters in Washington as they explain why working on SWOT means so much to them:
+Cedric David, a hydrologist who studies the world’s rivers, shares how water is the only place he feels truly comfortable because of physical challenges. As Cedric notes, SWOT will provide a global picture of freshwater resources and help improve water management, which is why he is so proud to help make a difference in protecting this precious resource.
+Christine Gebara, a mechanical engineer who helped test and integrate the spacecraft, tells the story of how she fell in love with engineering while learning to sail with the Girl Scouts on a lake near her childhood home in Houston. She reveals what inspires her most about building a spacecraft and offers advice for young women interested in engineering.
+Tahani Amer, the mission’s program executive, recalls growing up near Cairo, where her father encouraged her to study math and science – an atypical pursuit for young women in Egypt at the time. Today, she oversees several NASA Earth science missions, including SWOT. In the video, Amer shares how she’s been inspired by her Islamic faith, her family, and her colleagues.
+Marc Simard, a scientist who studies river deltas where they meet the ocean, discusses how he developed a passion for the environment in college, switching from a planned career in astrophysics to developing tools to study Earth. One of Simard’s favorite things about SWOT is that its data will help scientists better understand how sea level rise will affect coastal deltas around the world.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/250/2481250_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604190000-0400" stop="20240604200000-0400">
+    <title lang="en">NASA’s Incredible Discovery Machine: The Story of the Hubble Space Telescope</title>
+    <desc lang="en">Hubble’s launch and deployment in April 1990 marked the most significant advance in astronomy since Galileo’s telescope. Thanks to five servicing missions and more than 30 years of operation, our view of the universe and our place within it has never been the same. This documentary celebrates not only the scientific and technological achievements of this telescope, but also the human spirit that’s helped to keep it up and operational for all these years. Along with its views on YouTube, this documentary has gone on to receive over 400,000 combined views across the Hubble Space Telescope’s other social media platforms.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/260/2481260_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604200000-0400" stop="20240604203000-0400">
+    <title lang="en">Leaders in Lidar</title>
+    <desc lang="en">In this series, we dive into the legacy of Goddard’s lead role in developing laser altimetry, which has revolutionized the way we map our planet, the Moon and other planets. Each chapter looks at the successes and failures of these lidar instruments, beginning with the Mars Observer Laser Altimeter in the late 1980s, through the current generation of laser altimeters on ICESat-2 and GEDI. Through dozens of interviews and archival footage, the history, challenges and legacy of lidar are uncovered.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/668/2953668_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604203000-0400" stop="20240604210000-0400">
+    <title lang="en">Apollo 13: Houston We’ve Got a Problem</title>
+    <desc lang="en">“Houston, we’ve had a problem” is the now famous phrase radioed from Apollo 13 to Mission Control upon the catastrophic explosion that dramatically changed the mission. On the 50th Anniversary of the Apollo 13 mission, we recognize the triumph of the mission control team and the astronauts, and look at the lessons learned. The Apollo 13 mission has become known as “a successful failure” that saw the safe return of its crew  Commander James (Jim) Lovell Jr., Command Module Pilot John Swigert Jr. and Lunar Module Pilot Fred Haise Jr.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/225/2481225_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604210000-0400" stop="20240604223000-0400">
+    <title lang="en">JPL and the Space Age: The American Rocketeer</title>
+    <desc lang="en">NASA’s Jet Propulsion Laboratory is widely known for its trailblazing role in space exploration, and the “JPL and the Space Age” documentary series invites viewers to relive those early adventures through rare archival footage and interviews with many of JPL’s pioneering engineers and scientists.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/img/backdrops/general.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604223000-0400" stop="20240604230000-0400">
+    <title lang="en">Mission Makers</title>
+    <desc lang="en">A new video series highlights the hard work and passion of scientists and engineers who are helping to get this remarkable new satellite off the ground. As the international Surface Water and Ocean Topography (SWOT) mission finishes final preparations for its December launch, a new video series focuses on some of the engineers and scientists behind the satellite, which will be the first to observe nearly all water on Earth’s surface. Led by NASA and the French space agency Centre National d’Études Spatiales (CNES), SWOT will measure the height of water in lakes, rivers, reservoirs, and the ocean. The SUV-size satellite will improve scientists’ ability to track the movement of water around the world while providing data that will help communities monitor and plan for changing water resources. In addition, the mission will boost scientists’ understanding of how sea level rise will affect coastlines around the world and the people who live near them. SWOT will also see ocean features too small for current space-based instruments to detect, improving researchers’ understanding of their role in climate change. More than a machine, SWOT is the culmination of years of work by a global team of engineers, scientists, and technicians committed to improving our understanding of our home planet. In this video series, you can meet team members from NASA’s Jet Propulsion Laboratory in Southern California, which manages the U.S. portion of the mission, and from the agency’s headquarters in Washington as they explain why working on SWOT means so much to them:
+Cedric David, a hydrologist who studies the world’s rivers, shares how water is the only place he feels truly comfortable because of physical challenges. As Cedric notes, SWOT will provide a global picture of freshwater resources and help improve water management, which is why he is so proud to help make a difference in protecting this precious resource.
+Christine Gebara, a mechanical engineer who helped test and integrate the spacecraft, tells the story of how she fell in love with engineering while learning to sail with the Girl Scouts on a lake near her childhood home in Houston. She reveals what inspires her most about building a spacecraft and offers advice for young women interested in engineering.
+Tahani Amer, the mission’s program executive, recalls growing up near Cairo, where her father encouraged her to study math and science – an atypical pursuit for young women in Egypt at the time. Today, she oversees several NASA Earth science missions, including SWOT. In the video, Amer shares how she’s been inspired by her Islamic faith, her family, and her colleagues.
+Marc Simard, a scientist who studies river deltas where they meet the ocean, discusses how he developed a passion for the environment in college, switching from a planned career in astrophysics to developing tools to study Earth. One of Simard’s favorite things about SWOT is that its data will help scientists better understand how sea level rise will affect coastal deltas around the world.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/250/2481250_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240604230000-0400" stop="20240605000000-0400">
+    <title lang="en">NASA’s Incredible Discovery Machine: The Story of the Hubble Space Telescope</title>
+    <desc lang="en">Hubble’s launch and deployment in April 1990 marked the most significant advance in astronomy since Galileo’s telescope. Thanks to five servicing missions and more than 30 years of operation, our view of the universe and our place within it has never been the same. This documentary celebrates not only the scientific and technological achievements of this telescope, but also the human spirit that’s helped to keep it up and operational for all these years. Along with its views on YouTube, this documentary has gone on to receive over 400,000 combined views across the Hubble Space Telescope’s other social media platforms.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/260/2481260_1280.jpg"/>
   </programme>
 </tv>
