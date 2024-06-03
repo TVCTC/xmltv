@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-03 23:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-04 00:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240603202320+0000" stop="20240603214105+0000">
-    <title lang="en">The Moment</title>
-    <desc lang="en">In the backwoods of Canada, three crews of adventure seekers change the world of cycling.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z6R1FMW55N11/FO-1Z6R1FMW55N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20240603214105+0000" stop="20240603231448+0000">
     <title lang="en">Long Live Chainsaw</title>
     <desc lang="en">From underdog to world champ – this is the mountain bike in memory of legend Stevie 'Chainsaw' Smith.</desc>
@@ -77,7 +71,7 @@
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/c6j7zgvojn8pkeidswke/steve-alba-skateboarding-2013"/>
   </programme>
-  <programme channel="redbull.com" start="20240603202320+0000" stop="20240603214105+0000">
+  <programme channel="redbull.com" start="20240604055725+0000" stop="20240604071511+0000">
     <title lang="en">The Moment</title>
     <desc lang="en">In the backwoods of Canada, three crews of adventure seekers change the world of cycling.</desc>
     <category lang="en">Bike</category>
@@ -124,5 +118,11 @@
     <desc lang="en">Let Ashton Goggans be your tour guide along South Africa’s wave-rich coastline from Durban to Cape Town.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/zzvtv9xuihj5vehbuyk4/crew-no-contest-s2-e4-south-africa"/>
+  </programme>
+  <programme channel="redbull.com" start="20240604125536+0000" stop="20240604131936+0000">
+    <title lang="en">Tahiti</title>
+    <desc lang="en">Michel Bourez and Kauli Vaast take you on a tour of beautiful islands of Tahiti. </desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/uywqkknj6cylyanrdz1n/kauli-vaast-no-contest-s2-e3-tahiti"/>
   </programme>
 </tv>
