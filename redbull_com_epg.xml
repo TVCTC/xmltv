@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-03 17:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-03 18:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240603130405+0000" stop="20240603140251+0000">
-    <title lang="en">Reverence</title>
-    <desc lang="en">Delve deep into the psyche of elite mountain bike athletes to uncover how they face and use fear.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/10/16/4f609b22-e375-43b4-ad00-f64dad5d9a3e/reverence_landscape_hero"/>
-  </programme>
-  <programme channel="redbull.com" start="20240603140251+0000" stop="20240603144831+0000">
-    <title lang="en">Gamble</title>
-    <desc lang="en">Raw speed, a heavy-hitting soundtrack and virgin locations – mountain bike riders show off their skills.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/14/ggqslasji66wmogb3snz/gamble-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20240603144831+0000" stop="20240603171911+0000">
     <title lang="en">Livestream – UK</title>
     <desc lang="en">The world’s toughest and most progressive downhill mountain bike race returns to the UK for the 10th time.</desc>
@@ -77,13 +65,13 @@
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual"/>
   </programme>
-  <programme channel="redbull.com" start="20240603130405+0000" stop="20240603140251+0000">
+  <programme channel="redbull.com" start="20240604002421+0000" stop="20240604012308+0000">
     <title lang="en">Reverence</title>
     <desc lang="en">Delve deep into the psyche of elite mountain bike athletes to uncover how they face and use fear.</desc>
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/10/16/4f609b22-e375-43b4-ad00-f64dad5d9a3e/reverence_landscape_hero"/>
   </programme>
-  <programme channel="redbull.com" start="20240603140251+0000" stop="20240603144831+0000">
+  <programme channel="redbull.com" start="20240604012308+0000" stop="20240604020847+0000">
     <title lang="en">Gamble</title>
     <desc lang="en">Raw speed, a heavy-hitting soundtrack and virgin locations – mountain bike riders show off their skills.</desc>
     <category lang="en">Bike</category>
@@ -124,5 +112,17 @@
     <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/5/dzfbz2heksvcugo7d5dr/jolanda-neff-uci-xco-world-cup-val-di-sole-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240604051256+0000" stop="20240604055725+0000">
+    <title lang="en">Hallowed Ground </title>
+    <desc lang="en">Follow Hurley team riders through their usual skating haunts to get their views of skateboarding.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/c6j7zgvojn8pkeidswke/steve-alba-skateboarding-2013"/>
+  </programme>
+  <programme channel="redbull.com" start="20240603202320+0000" stop="20240603214105+0000">
+    <title lang="en">The Moment</title>
+    <desc lang="en">In the backwoods of Canada, three crews of adventure seekers change the world of cycling.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z6R1FMW55N11/FO-1Z6R1FMW55N11-featureMedia"/>
   </programme>
 </tv>
