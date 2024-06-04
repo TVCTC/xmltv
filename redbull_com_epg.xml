@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-04 02:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-04 03:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240603214105+0000" stop="20240603231448+0000">
-    <title lang="en">Long Live Chainsaw</title>
-    <desc lang="en">From underdog to world champ – this is the mountain bike in memory of legend Stevie 'Chainsaw' Smith.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/4/uy6brgtuxhj4xr129iui/long-live-chainsaw-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20240603231448+0000" stop="20240604002421+0000">
     <title lang="en">The Old World</title>
     <desc lang="en">Traverse iconic European locations in a celebration of biking culture that unites MTB and BMX.</desc>
@@ -77,7 +71,7 @@
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z6R1FMW55N11/FO-1Z6R1FMW55N11-featureMedia"/>
   </programme>
-  <programme channel="redbull.com" start="20240603214105+0000" stop="20240603231448+0000">
+  <programme channel="redbull.com" start="20240604071511+0000" stop="20240604084853+0000">
     <title lang="en">Long Live Chainsaw</title>
     <desc lang="en">From underdog to world champ – this is the mountain bike in memory of legend Stevie 'Chainsaw' Smith.</desc>
     <category lang="en">Bike</category>
@@ -124,5 +118,11 @@
     <desc lang="en">Michel Bourez and Kauli Vaast take you on a tour of beautiful islands of Tahiti. </desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/uywqkknj6cylyanrdz1n/kauli-vaast-no-contest-s2-e3-tahiti"/>
+  </programme>
+  <programme channel="redbull.com" start="20240604131936+0000" stop="20240604135305+0000">
+    <title lang="en">Hope</title>
+    <desc lang="en">After a devastating injury, Marc Márquez's biggest challenge is to be what he once was, so he moves to Madrid.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/kmaaaguhwguqnucyeifw/marc-marquez-during-motogp"/>
   </programme>
 </tv>
