@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-04 07:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-04 08:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240604024117+0000" stop="20240604030939+0000">
+    <title lang="en">Apex predators </title>
+    <desc lang="en">In the downhill, Finn Iles struggles to beat his biggest competitor, team-mate Loïc Bruni.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/szk42xiugjm6ltrburtf/finn-iles"/>
+  </programme>
+  <programme channel="redbull.com" start="20240604030939+0000" stop="20240604034233+0000">
+    <title lang="en">Bros before foes</title>
+    <desc lang="en">DH riders Loïc Bruni and Loris Vergier have their relationship put to the test as they compete against each.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/flkywrg12h1rmqgunnqr/loic-bruni"/>
+  </programme>
+  <programme channel="redbull.com" start="20240604034233+0000" stop="20240604041614+0000">
+    <title lang="en">Home run</title>
+    <desc lang="en">As Rachel Atherton returns to MTB racing, she works to find a balance while Vali Höll prepares for success.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/dc5vg0kbtvhiw8okcbva/rachel-atherton"/>
+  </programme>
+  <programme channel="redbull.com" start="20240604041614+0000" stop="20240604044228+0000">
+    <title lang="en">Iron sharpens iron</title>
+    <desc lang="en">Mathias Flückiger and Nino Schurter confront the bitter rivalry of Swiss MTB cross-country racing.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/aleq0pywjxtowwjzjynt/mathias-fluckiger"/>
+  </programme>
   <programme channel="redbull.com" start="20240604044228+0000" stop="20240604051256+0000">
     <title lang="en">No I in team</title>
     <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
@@ -100,29 +124,5 @@
     <desc lang="en">It’s time for Marc to recap on a year that's seen him make some of the most difficult decisions of his life.</desc>
     <category lang="en">MotoGP</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/emtuoqqfpkjgkdzrawmf/marc-marquez-santi-hernandez-french-motogp-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20240604160740+0000" stop="20240604165312+0000">
-    <title lang="en">Lil Zoo: Breaking Chose Me</title>
-    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
-  </programme>
-  <programme channel="redbull.com" start="20240604165312+0000" stop="20240604173418+0000">
-    <title lang="en">Chumbo: Made for Big Wave Surfing</title>
-    <desc lang="en">Get a glimpse into Lucas Chianca's life as he balances chasing big waves with looking after his family.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/9/wlapw5hodyuia7ry8ksp/lucas-chianca-chumbo-made-for-big-wave-surfing-header"/>
-  </programme>
-  <programme channel="redbull.com" start="20240604173418+0000" stop="20240604190104+0000">
-    <title lang="en">Wild Waters</title>
-    <desc lang="en">From Olympic pools to wild rivers, see the life of Nouria Newman, the most gifted kayaker of her generation.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/ez6viqxoy4iwxf7bxd7n/wild-waters-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240604190104+0000" stop="20240604192617+0000">
-    <title lang="en">Highlights – Acapulco P1</title>
-    <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
   </programme>
 </tv>
