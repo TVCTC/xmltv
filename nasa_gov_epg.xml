@@ -1,190 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.nasa.gov/nasatv/" time-created="2024-06-03 06:01:16">
+<tv generator-info-name="TVCTC" source-info-url="https://www.nasa.gov/nasatv/" time-created="2024-06-04 06:01:15">
   <channel id="nasatv.nasa.gov">
     <display-name>NASA TV</display-name>
     <icon src="https://images2.imgbox.com/ae/89/imjR89ip_o.png"/>
   </channel>
-  <programme channel="nasatv.nasa.gov" start="20240603000000-0400" stop="20240603003000-0400">
-    <title lang="en">Leaders in Lidar</title>
-    <desc lang="en">In this series, we dive into the legacy of Goddard’s lead role in developing laser altimetry, which has revolutionized the way we map our planet, the Moon and other planets. Each chapter looks at the successes and failures of these lidar instruments, beginning with the Mars Observer Laser Altimeter in the late 1980s, through the current generation of laser altimeters on ICESat-2 and GEDI. Through dozens of interviews and archival footage, the history, challenges and legacy of lidar are uncovered.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/668/2953668_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603003000-0400" stop="20240603013000-0400">
-    <title lang="en">JPL and the Space Age: Mission to Mars</title>
-    <desc lang="en">NASA’s Jet Propulsion Laboratory is widely known for its trailblazing role in space exploration, and the “JPL and the Space Age” documentary series invites viewers to relive those early adventures through rare archival footage and interviews with many of JPL’s pioneering engineers and scientists.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/946/4278946_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603013000-0400" stop="20240603023000-0400">
-    <title lang="en">The Power of Active Allyship @NASA</title>
-    <desc lang="en">Join us for a conversation in honor of National LGBTQ+ Pride Month about what it means to be an ally, understanding some of the barriers faced by the lesbian, gay, bisexual, transgender, and queer community, and what you as an active ally can do to help break down those barriers.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/566/3325566_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603023000-0400" stop="20240603033000-0400">
-    <title lang="en">A Storied Legacy, A Soaring Future</title>
-    <desc lang="en">Something happened 100 years ago that changed forever the way we fly. And then the way we explore space. And then how we study our home planet. That something was the establishment of what is now NASA Langley Research Center in Hampton, Virginia, which is commemorating its 100th anniversary in 2017.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/215/2481215_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603033000-0400" stop="20240603040000-0400">
-    <title lang="en">Listen to the Universe</title>
-    <desc lang="en">NASA is famous for beautiful space images, but did you know you can listen to them? Go behind the scenes with the team that creates “sonifications,” translations of data into sound, and learn how meaningful they are to people who are blind or low-vision.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/281/4209281_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603040000-0400" stop="20240603043000-0400">
-    <title lang="en">Leaders in Lidar</title>
-    <desc lang="en">In this series, we dive into the legacy of Goddard’s lead role in developing laser altimetry, which has revolutionized the way we map our planet, the Moon and other planets. Each chapter looks at the successes and failures of these lidar instruments, beginning with the Mars Observer Laser Altimeter in the late 1980s, through the current generation of laser altimeters on ICESat-2 and GEDI. Through dozens of interviews and archival footage, the history, challenges and legacy of lidar are uncovered.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/668/2953668_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603043000-0400" stop="20240603053000-0400">
-    <title lang="en">JPL and the Space Age: Mission to Mars</title>
-    <desc lang="en">NASA’s Jet Propulsion Laboratory is widely known for its trailblazing role in space exploration, and the “JPL and the Space Age” documentary series invites viewers to relive those early adventures through rare archival footage and interviews with many of JPL’s pioneering engineers and scientists.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/946/4278946_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603053000-0400" stop="20240603063000-0400">
-    <title lang="en">The Power of Active Allyship @NASA</title>
-    <desc lang="en">Join us for a conversation in honor of National LGBTQ+ Pride Month about what it means to be an ally, understanding some of the barriers faced by the lesbian, gay, bisexual, transgender, and queer community, and what you as an active ally can do to help break down those barriers.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/566/3325566_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603063000-0400" stop="20240603073000-0400">
-    <title lang="en">A Storied Legacy, A Soaring Future</title>
-    <desc lang="en">Something happened 100 years ago that changed forever the way we fly. And then the way we explore space. And then how we study our home planet. That something was the establishment of what is now NASA Langley Research Center in Hampton, Virginia, which is commemorating its 100th anniversary in 2017.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/215/2481215_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603073000-0400" stop="20240603080000-0400">
-    <title lang="en">Listen to the Universe</title>
-    <desc lang="en">NASA is famous for beautiful space images, but did you know you can listen to them? Go behind the scenes with the team that creates “sonifications,” translations of data into sound, and learn how meaningful they are to people who are blind or low-vision.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/281/4209281_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603080000-0400" stop="20240603083000-0400">
-    <title lang="en">Leaders in Lidar</title>
-    <desc lang="en">In this series, we dive into the legacy of Goddard’s lead role in developing laser altimetry, which has revolutionized the way we map our planet, the Moon and other planets. Each chapter looks at the successes and failures of these lidar instruments, beginning with the Mars Observer Laser Altimeter in the late 1980s, through the current generation of laser altimeters on ICESat-2 and GEDI. Through dozens of interviews and archival footage, the history, challenges and legacy of lidar are uncovered.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/668/2953668_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603083000-0400" stop="20240603093000-0400">
-    <title lang="en">JPL and the Space Age: Mission to Mars</title>
-    <desc lang="en">NASA’s Jet Propulsion Laboratory is widely known for its trailblazing role in space exploration, and the “JPL and the Space Age” documentary series invites viewers to relive those early adventures through rare archival footage and interviews with many of JPL’s pioneering engineers and scientists.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/946/4278946_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603093000-0400" stop="20240603103000-0400">
-    <title lang="en">The Power of Active Allyship @NASA</title>
-    <desc lang="en">Join us for a conversation in honor of National LGBTQ+ Pride Month about what it means to be an ally, understanding some of the barriers faced by the lesbian, gay, bisexual, transgender, and queer community, and what you as an active ally can do to help break down those barriers.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/566/3325566_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603103000-0400" stop="20240603113000-0400">
-    <title lang="en">A Storied Legacy, A Soaring Future</title>
-    <desc lang="en">Something happened 100 years ago that changed forever the way we fly. And then the way we explore space. And then how we study our home planet. That something was the establishment of what is now NASA Langley Research Center in Hampton, Virginia, which is commemorating its 100th anniversary in 2017.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/215/2481215_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603113000-0400" stop="20240603120000-0400">
-    <title lang="en">Listen to the Universe</title>
-    <desc lang="en">NASA is famous for beautiful space images, but did you know you can listen to them? Go behind the scenes with the team that creates “sonifications,” translations of data into sound, and learn how meaningful they are to people who are blind or low-vision.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/281/4209281_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603120000-0400" stop="20240603123000-0400">
-    <title lang="en">Leaders in Lidar</title>
-    <desc lang="en">In this series, we dive into the legacy of Goddard’s lead role in developing laser altimetry, which has revolutionized the way we map our planet, the Moon and other planets. Each chapter looks at the successes and failures of these lidar instruments, beginning with the Mars Observer Laser Altimeter in the late 1980s, through the current generation of laser altimeters on ICESat-2 and GEDI. Through dozens of interviews and archival footage, the history, challenges and legacy of lidar are uncovered.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/668/2953668_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603123000-0400" stop="20240603133000-0400">
-    <title lang="en">JPL and the Space Age: Mission to Mars</title>
-    <desc lang="en">NASA’s Jet Propulsion Laboratory is widely known for its trailblazing role in space exploration, and the “JPL and the Space Age” documentary series invites viewers to relive those early adventures through rare archival footage and interviews with many of JPL’s pioneering engineers and scientists.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/946/4278946_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603133000-0400" stop="20240603143000-0400">
-    <title lang="en">The Power of Active Allyship @NASA</title>
-    <desc lang="en">Join us for a conversation in honor of National LGBTQ+ Pride Month about what it means to be an ally, understanding some of the barriers faced by the lesbian, gay, bisexual, transgender, and queer community, and what you as an active ally can do to help break down those barriers.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/566/3325566_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603143000-0400" stop="20240603153000-0400">
-    <title lang="en">A Storied Legacy, A Soaring Future</title>
-    <desc lang="en">Something happened 100 years ago that changed forever the way we fly. And then the way we explore space. And then how we study our home planet. That something was the establishment of what is now NASA Langley Research Center in Hampton, Virginia, which is commemorating its 100th anniversary in 2017.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/215/2481215_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603153000-0400" stop="20240603160000-0400">
-    <title lang="en">Listen to the Universe</title>
-    <desc lang="en">NASA is famous for beautiful space images, but did you know you can listen to them? Go behind the scenes with the team that creates “sonifications,” translations of data into sound, and learn how meaningful they are to people who are blind or low-vision.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/281/4209281_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603160000-0400" stop="20240603163000-0400">
-    <title lang="en">Leaders in Lidar</title>
-    <desc lang="en">In this series, we dive into the legacy of Goddard’s lead role in developing laser altimetry, which has revolutionized the way we map our planet, the Moon and other planets. Each chapter looks at the successes and failures of these lidar instruments, beginning with the Mars Observer Laser Altimeter in the late 1980s, through the current generation of laser altimeters on ICESat-2 and GEDI. Through dozens of interviews and archival footage, the history, challenges and legacy of lidar are uncovered.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/668/2953668_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603163000-0400" stop="20240603173000-0400">
-    <title lang="en">JPL and the Space Age: Mission to Mars</title>
-    <desc lang="en">NASA’s Jet Propulsion Laboratory is widely known for its trailblazing role in space exploration, and the “JPL and the Space Age” documentary series invites viewers to relive those early adventures through rare archival footage and interviews with many of JPL’s pioneering engineers and scientists.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/946/4278946_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603173000-0400" stop="20240603183000-0400">
-    <title lang="en">The Power of Active Allyship @NASA</title>
-    <desc lang="en">Join us for a conversation in honor of National LGBTQ+ Pride Month about what it means to be an ally, understanding some of the barriers faced by the lesbian, gay, bisexual, transgender, and queer community, and what you as an active ally can do to help break down those barriers.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/566/3325566_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603183000-0400" stop="20240603193000-0400">
-    <title lang="en">A Storied Legacy, A Soaring Future</title>
-    <desc lang="en">Something happened 100 years ago that changed forever the way we fly. And then the way we explore space. And then how we study our home planet. That something was the establishment of what is now NASA Langley Research Center in Hampton, Virginia, which is commemorating its 100th anniversary in 2017.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/215/2481215_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603193000-0400" stop="20240603200000-0400">
-    <title lang="en">Listen to the Universe</title>
-    <desc lang="en">NASA is famous for beautiful space images, but did you know you can listen to them? Go behind the scenes with the team that creates “sonifications,” translations of data into sound, and learn how meaningful they are to people who are blind or low-vision.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/281/4209281_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603200000-0400" stop="20240603203000-0400">
-    <title lang="en">Leaders in Lidar</title>
-    <desc lang="en">In this series, we dive into the legacy of Goddard’s lead role in developing laser altimetry, which has revolutionized the way we map our planet, the Moon and other planets. Each chapter looks at the successes and failures of these lidar instruments, beginning with the Mars Observer Laser Altimeter in the late 1980s, through the current generation of laser altimeters on ICESat-2 and GEDI. Through dozens of interviews and archival footage, the history, challenges and legacy of lidar are uncovered.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/668/2953668_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603203000-0400" stop="20240603213000-0400">
-    <title lang="en">JPL and the Space Age: Mission to Mars</title>
-    <desc lang="en">NASA’s Jet Propulsion Laboratory is widely known for its trailblazing role in space exploration, and the “JPL and the Space Age” documentary series invites viewers to relive those early adventures through rare archival footage and interviews with many of JPL’s pioneering engineers and scientists.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/946/4278946_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603213000-0400" stop="20240603223000-0400">
-    <title lang="en">The Power of Active Allyship @NASA</title>
-    <desc lang="en">Join us for a conversation in honor of National LGBTQ+ Pride Month about what it means to be an ally, understanding some of the barriers faced by the lesbian, gay, bisexual, transgender, and queer community, and what you as an active ally can do to help break down those barriers.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/566/3325566_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603223000-0400" stop="20240603233000-0400">
-    <title lang="en">A Storied Legacy, A Soaring Future</title>
-    <desc lang="en">Something happened 100 years ago that changed forever the way we fly. And then the way we explore space. And then how we study our home planet. That something was the establishment of what is now NASA Langley Research Center in Hampton, Virginia, which is commemorating its 100th anniversary in 2017.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/215/2481215_1280.jpg"/>
-  </programme>
-  <programme channel="nasatv.nasa.gov" start="20240603233000-0400" stop="20240604000000-0400">
-    <title lang="en">Listen to the Universe</title>
-    <desc lang="en">NASA is famous for beautiful space images, but did you know you can listen to them? Go behind the scenes with the team that creates “sonifications,” translations of data into sound, and learn how meaningful they are to people who are blind or low-vision.</desc>
-    <category lang="en">Science</category>
-    <icon src="https://televio.hr/static/backdrops/281/4209281_1280.jpg"/>
-  </programme>
   <programme channel="nasatv.nasa.gov" start="20240604000000-0400" stop="20240604003000-0400">
     <title lang="en">Leaders in Lidar</title>
     <desc lang="en">In this series, we dive into the legacy of Goddard’s lead role in developing laser altimetry, which has revolutionized the way we map our planet, the Moon and other planets. Each chapter looks at the successes and failures of these lidar instruments, beginning with the Mars Observer Laser Altimeter in the late 1980s, through the current generation of laser altimeters on ICESat-2 and GEDI. Through dozens of interviews and archival footage, the history, challenges and legacy of lidar are uncovered.</desc>
@@ -388,5 +208,245 @@ Marc Simard, a scientist who studies river deltas where they meet the ocean, dis
     <desc lang="en">Hubble’s launch and deployment in April 1990 marked the most significant advance in astronomy since Galileo’s telescope. Thanks to five servicing missions and more than 30 years of operation, our view of the universe and our place within it has never been the same. This documentary celebrates not only the scientific and technological achievements of this telescope, but also the human spirit that’s helped to keep it up and operational for all these years. Along with its views on YouTube, this documentary has gone on to receive over 400,000 combined views across the Hubble Space Telescope’s other social media platforms.</desc>
     <category lang="en">Science</category>
     <icon src="https://televio.hr/static/backdrops/260/2481260_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605000000-0400" stop="20240605003000-0400">
+    <title lang="en">Apollo 14: Mission to Fra Mauro</title>
+    <desc lang="en">The 1971 Apollo 14  Mission to Fra Mauro, a lunar highland area, is highlighted in this video. The mission’s primary goal was the collection of lunar rocks and soil samples and lunar exploration. The soil and rock sampling was for the geochronological determination of the Moon’s evolution and its comparison with that of Earth. A remote data collection station was assembled on the Moon and left for continuous data collection and surface monitoring experiments. The Apollo 14  astronauts were Alan B. Shepard, Edgar D. Mitchell, and Stuart A. Rossa. Astronauts Shepard and Mitchell landed on the Moon (February 5, 1971) and performed the sampling, the EVA, and deployment of the lunar experiments. There is film-footage of the lunar surface, of the command module’s approach to both the Moon and the Earth, Moon and Earth spacecraft launching and landing, in-orbit command- and lunar-module docking, and of Mission Control.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/930/2480930_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605003000-0400" stop="20240605010000-0400">
+    <title lang="en">Meet SWOT Mission Makers: Christine Gebara</title>
+    <desc lang="en">A new video series highlights the hard work and passion of scientists and engineers who are helping to get this remarkable new satellite off the ground. As the international Surface Water and Ocean Topography (SWOT) mission finishes final preparations for its December launch, a new video series focuses on some of the engineers and scientists behind the satellite, which will be the first to observe nearly all water on Earth’s surface. Led by NASA and the French space agency Centre National d’Études Spatiales (CNES), SWOT will measure the height of water in lakes, rivers, reservoirs, and the ocean. The SUV-size satellite will improve scientists’ ability to track the movement of water around the world while providing data that will help communities monitor and plan for changing water resources. In addition, the mission will boost scientists’ understanding of how sea level rise will affect coastlines around the world and the people who live near them. SWOT will also see ocean features too small for current space-based instruments to detect, improving researchers’ understanding of their role in climate change. More than a machine, SWOT is the culmination of years of work by a global team of engineers, scientists, and technicians committed to improving our understanding of our home planet. In this video series, you can meet team members from NASA’s Jet Propulsion Laboratory in Southern California, which manages the U.S. portion of the mission, and from the agency’s headquarters in Washington as they explain why working on SWOT means so much to them:
+Cedric David, a hydrologist who studies the world’s rivers, shares how water is the only place he feels truly comfortable because of physical challenges. As Cedric notes, SWOT will provide a global picture of freshwater resources and help improve water management, which is why he is so proud to help make a difference in protecting this precious resource.
+Christine Gebara, a mechanical engineer who helped test and integrate the spacecraft, tells the story of how she fell in love with engineering while learning to sail with the Girl Scouts on a lake near her childhood home in Houston. She reveals what inspires her most about building a spacecraft and offers advice for young women interested in engineering.
+Tahani Amer, the mission’s program executive, recalls growing up near Cairo, where her father encouraged her to study math and science – an atypical pursuit for young women in Egypt at the time. Today, she oversees several NASA Earth science missions, including SWOT. In the video, Amer shares how she’s been inspired by her Islamic faith, her family, and her colleagues.
+Marc Simard, a scientist who studies river deltas where they meet the ocean, discusses how he developed a passion for the environment in college, switching from a planned career in astrophysics to developing tools to study Earth. One of Simard’s favorite things about SWOT is that its data will help scientists better understand how sea level rise will affect coastal deltas around the world.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/665/2953665_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605010000-0400" stop="20240605020000-0400">
+    <title lang="en">What’s New in Areospace: Sally Ride: Curating Her Life</title>
+    <desc lang="en">The Smithsonian National Air and Space Museum’s What’s New in Aerospace series of live, fast-paced, webcasts are designed to increase interest and engagement in STEM.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/653/3337653_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605020000-0400" stop="20240605022000-0400">
+    <title lang="en">Benefits for Humanity: In Their Own Words</title>
+    <desc lang="en">For generations, we have dreamed about a place to live and work in space...a space station. And right now, 260 miles above us, moving 5 miles a second...that dream is a reality. We dreamed that life up there would benefit life down here. That dream has come true. Can the research on board the space station lead to cleaner drinking water on Earth? Can it help farmers produce better crops? Can it inspire a generation of students? Can it even save a life? It already has. As the work aboard the International Space Station begins to reach its potential, the benefits to humanity are becoming evident. These are just a few of the stories from people who have benefitted....told in their own words.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/995/2480995_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605022000-0400" stop="20240605033000-0400">
+    <title lang="en">X-31: Breaking the Chain: Lessons Learned</title>
+    <desc lang="en">By any measure, the X-31 was a highly successful flight research program at NASA’s Dryden Flight Research Center, now the Armstrong Flight Research Center. It regularly flew several flights a day, accumulating over 550 flights during the course of the program, with a superlative safety record. And yet, on Jan. 19, 1995, on the very last scheduled flight of the X-31 ship No. 1, disaster struck. Each mishap has it’s own set of circumstances and it’s own sequence of events. But those who study mishaps find similar issues: communications, complacency, unwarranted assumptions, human frailties….just like a chain. You make a chain -- a chain of events -- when you have any of these accidents. Any link of the chain, if broken, would prevent an accident. The X-31 flight test team was the "A" team -- the best people, from every discipline -- from every organization. But they lost an airplane. If it can happen to the best team, it can happen to any team.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/000/2481000_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605033000-0400" stop="20240605040000-0400">
+    <title lang="en">How NASA Decodes the Secrets of the Arctic</title>
+    <desc lang="en">Since 2015, scientists with NASA’s Arctic Boreal Vulnerability Experiment (ABoVE) project have been studying how climate change is affecting Arctic and boreal regions. The team is studying permafrost thaw, changes in plant cover, wildfires, shifting animal migration patterns and more. With research aircraft flying over Alaska and northwestern Canada and scientists conducting field experiments on the ground below, ABoVE is collecting data that will help researchers understand how these events are intertwined – and how they are impacted by climate change.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/025/2481025_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605040000-0400" stop="20240605043000-0400">
+    <title lang="en">Apollo 14: Mission to Fra Mauro</title>
+    <desc lang="en">The 1971 Apollo 14  Mission to Fra Mauro, a lunar highland area, is highlighted in this video. The mission’s primary goal was the collection of lunar rocks and soil samples and lunar exploration. The soil and rock sampling was for the geochronological determination of the Moon’s evolution and its comparison with that of Earth. A remote data collection station was assembled on the Moon and left for continuous data collection and surface monitoring experiments. The Apollo 14  astronauts were Alan B. Shepard, Edgar D. Mitchell, and Stuart A. Rossa. Astronauts Shepard and Mitchell landed on the Moon (February 5, 1971) and performed the sampling, the EVA, and deployment of the lunar experiments. There is film-footage of the lunar surface, of the command module’s approach to both the Moon and the Earth, Moon and Earth spacecraft launching and landing, in-orbit command- and lunar-module docking, and of Mission Control.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/930/2480930_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605043000-0400" stop="20240605050000-0400">
+    <title lang="en">Meet SWOT Mission Makers: Christine Gebara</title>
+    <desc lang="en">A new video series highlights the hard work and passion of scientists and engineers who are helping to get this remarkable new satellite off the ground. As the international Surface Water and Ocean Topography (SWOT) mission finishes final preparations for its December launch, a new video series focuses on some of the engineers and scientists behind the satellite, which will be the first to observe nearly all water on Earth’s surface. Led by NASA and the French space agency Centre National d’Études Spatiales (CNES), SWOT will measure the height of water in lakes, rivers, reservoirs, and the ocean. The SUV-size satellite will improve scientists’ ability to track the movement of water around the world while providing data that will help communities monitor and plan for changing water resources. In addition, the mission will boost scientists’ understanding of how sea level rise will affect coastlines around the world and the people who live near them. SWOT will also see ocean features too small for current space-based instruments to detect, improving researchers’ understanding of their role in climate change. More than a machine, SWOT is the culmination of years of work by a global team of engineers, scientists, and technicians committed to improving our understanding of our home planet. In this video series, you can meet team members from NASA’s Jet Propulsion Laboratory in Southern California, which manages the U.S. portion of the mission, and from the agency’s headquarters in Washington as they explain why working on SWOT means so much to them:
+Cedric David, a hydrologist who studies the world’s rivers, shares how water is the only place he feels truly comfortable because of physical challenges. As Cedric notes, SWOT will provide a global picture of freshwater resources and help improve water management, which is why he is so proud to help make a difference in protecting this precious resource.
+Christine Gebara, a mechanical engineer who helped test and integrate the spacecraft, tells the story of how she fell in love with engineering while learning to sail with the Girl Scouts on a lake near her childhood home in Houston. She reveals what inspires her most about building a spacecraft and offers advice for young women interested in engineering.
+Tahani Amer, the mission’s program executive, recalls growing up near Cairo, where her father encouraged her to study math and science – an atypical pursuit for young women in Egypt at the time. Today, she oversees several NASA Earth science missions, including SWOT. In the video, Amer shares how she’s been inspired by her Islamic faith, her family, and her colleagues.
+Marc Simard, a scientist who studies river deltas where they meet the ocean, discusses how he developed a passion for the environment in college, switching from a planned career in astrophysics to developing tools to study Earth. One of Simard’s favorite things about SWOT is that its data will help scientists better understand how sea level rise will affect coastal deltas around the world.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/665/2953665_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605050000-0400" stop="20240605060000-0400">
+    <title lang="en">What’s New in Areospace: Sally Ride: Curating Her Life</title>
+    <desc lang="en">The Smithsonian National Air and Space Museum’s What’s New in Aerospace series of live, fast-paced, webcasts are designed to increase interest and engagement in STEM.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/653/3337653_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605060000-0400" stop="20240605063000-0400">
+    <title lang="en">Benefits for Humanity: In Their Own Words</title>
+    <desc lang="en">For generations, we have dreamed about a place to live and work in space...a space station. And right now, 260 miles above us, moving 5 miles a second...that dream is a reality. We dreamed that life up there would benefit life down here. That dream has come true. Can the research on board the space station lead to cleaner drinking water on Earth? Can it help farmers produce better crops? Can it inspire a generation of students? Can it even save a life? It already has. As the work aboard the International Space Station begins to reach its potential, the benefits to humanity are becoming evident. These are just a few of the stories from people who have benefitted....told in their own words.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/995/2480995_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605063000-0400" stop="20240605073000-0400">
+    <title lang="en">X-31: Breaking the Chain: Lessons Learned</title>
+    <desc lang="en">By any measure, the X-31 was a highly successful flight research program at NASA’s Dryden Flight Research Center, now the Armstrong Flight Research Center. It regularly flew several flights a day, accumulating over 550 flights during the course of the program, with a superlative safety record. And yet, on Jan. 19, 1995, on the very last scheduled flight of the X-31 ship No. 1, disaster struck. Each mishap has it’s own set of circumstances and it’s own sequence of events. But those who study mishaps find similar issues: communications, complacency, unwarranted assumptions, human frailties….just like a chain. You make a chain -- a chain of events -- when you have any of these accidents. Any link of the chain, if broken, would prevent an accident. The X-31 flight test team was the "A" team -- the best people, from every discipline -- from every organization. But they lost an airplane. If it can happen to the best team, it can happen to any team.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/000/2481000_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605073000-0400" stop="20240605080000-0400">
+    <title lang="en">How NASA Decodes the Secrets of the Arctic</title>
+    <desc lang="en">Since 2015, scientists with NASA’s Arctic Boreal Vulnerability Experiment (ABoVE) project have been studying how climate change is affecting Arctic and boreal regions. The team is studying permafrost thaw, changes in plant cover, wildfires, shifting animal migration patterns and more. With research aircraft flying over Alaska and northwestern Canada and scientists conducting field experiments on the ground below, ABoVE is collecting data that will help researchers understand how these events are intertwined – and how they are impacted by climate change.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/025/2481025_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605080000-0400" stop="20240605083000-0400">
+    <title lang="en">Apollo 14: Mission to Fra Mauro</title>
+    <desc lang="en">The 1971 Apollo 14  Mission to Fra Mauro, a lunar highland area, is highlighted in this video. The mission’s primary goal was the collection of lunar rocks and soil samples and lunar exploration. The soil and rock sampling was for the geochronological determination of the Moon’s evolution and its comparison with that of Earth. A remote data collection station was assembled on the Moon and left for continuous data collection and surface monitoring experiments. The Apollo 14  astronauts were Alan B. Shepard, Edgar D. Mitchell, and Stuart A. Rossa. Astronauts Shepard and Mitchell landed on the Moon (February 5, 1971) and performed the sampling, the EVA, and deployment of the lunar experiments. There is film-footage of the lunar surface, of the command module’s approach to both the Moon and the Earth, Moon and Earth spacecraft launching and landing, in-orbit command- and lunar-module docking, and of Mission Control.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/930/2480930_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605083000-0400" stop="20240605090000-0400">
+    <title lang="en">Meet SWOT Mission Makers: Christine Gebara</title>
+    <desc lang="en">A new video series highlights the hard work and passion of scientists and engineers who are helping to get this remarkable new satellite off the ground. As the international Surface Water and Ocean Topography (SWOT) mission finishes final preparations for its December launch, a new video series focuses on some of the engineers and scientists behind the satellite, which will be the first to observe nearly all water on Earth’s surface. Led by NASA and the French space agency Centre National d’Études Spatiales (CNES), SWOT will measure the height of water in lakes, rivers, reservoirs, and the ocean. The SUV-size satellite will improve scientists’ ability to track the movement of water around the world while providing data that will help communities monitor and plan for changing water resources. In addition, the mission will boost scientists’ understanding of how sea level rise will affect coastlines around the world and the people who live near them. SWOT will also see ocean features too small for current space-based instruments to detect, improving researchers’ understanding of their role in climate change. More than a machine, SWOT is the culmination of years of work by a global team of engineers, scientists, and technicians committed to improving our understanding of our home planet. In this video series, you can meet team members from NASA’s Jet Propulsion Laboratory in Southern California, which manages the U.S. portion of the mission, and from the agency’s headquarters in Washington as they explain why working on SWOT means so much to them:
+Cedric David, a hydrologist who studies the world’s rivers, shares how water is the only place he feels truly comfortable because of physical challenges. As Cedric notes, SWOT will provide a global picture of freshwater resources and help improve water management, which is why he is so proud to help make a difference in protecting this precious resource.
+Christine Gebara, a mechanical engineer who helped test and integrate the spacecraft, tells the story of how she fell in love with engineering while learning to sail with the Girl Scouts on a lake near her childhood home in Houston. She reveals what inspires her most about building a spacecraft and offers advice for young women interested in engineering.
+Tahani Amer, the mission’s program executive, recalls growing up near Cairo, where her father encouraged her to study math and science – an atypical pursuit for young women in Egypt at the time. Today, she oversees several NASA Earth science missions, including SWOT. In the video, Amer shares how she’s been inspired by her Islamic faith, her family, and her colleagues.
+Marc Simard, a scientist who studies river deltas where they meet the ocean, discusses how he developed a passion for the environment in college, switching from a planned career in astrophysics to developing tools to study Earth. One of Simard’s favorite things about SWOT is that its data will help scientists better understand how sea level rise will affect coastal deltas around the world.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/665/2953665_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605090000-0400" stop="20240605100000-0400">
+    <title lang="en">What’s New in Areospace: Sally Ride: Curating Her Life</title>
+    <desc lang="en">The Smithsonian National Air and Space Museum’s What’s New in Aerospace series of live, fast-paced, webcasts are designed to increase interest and engagement in STEM.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/653/3337653_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605100000-0400" stop="20240605103000-0400">
+    <title lang="en">Benefits for Humanity: In Their Own Words</title>
+    <desc lang="en">For generations, we have dreamed about a place to live and work in space...a space station. And right now, 260 miles above us, moving 5 miles a second...that dream is a reality. We dreamed that life up there would benefit life down here. That dream has come true. Can the research on board the space station lead to cleaner drinking water on Earth? Can it help farmers produce better crops? Can it inspire a generation of students? Can it even save a life? It already has. As the work aboard the International Space Station begins to reach its potential, the benefits to humanity are becoming evident. These are just a few of the stories from people who have benefitted....told in their own words.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/995/2480995_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605103000-0400" stop="20240605113000-0400">
+    <title lang="en">X-31: Breaking the Chain: Lessons Learned</title>
+    <desc lang="en">By any measure, the X-31 was a highly successful flight research program at NASA’s Dryden Flight Research Center, now the Armstrong Flight Research Center. It regularly flew several flights a day, accumulating over 550 flights during the course of the program, with a superlative safety record. And yet, on Jan. 19, 1995, on the very last scheduled flight of the X-31 ship No. 1, disaster struck. Each mishap has it’s own set of circumstances and it’s own sequence of events. But those who study mishaps find similar issues: communications, complacency, unwarranted assumptions, human frailties….just like a chain. You make a chain -- a chain of events -- when you have any of these accidents. Any link of the chain, if broken, would prevent an accident. The X-31 flight test team was the "A" team -- the best people, from every discipline -- from every organization. But they lost an airplane. If it can happen to the best team, it can happen to any team.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/000/2481000_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605113000-0400" stop="20240605120000-0400">
+    <title lang="en">How NASA Decodes the Secrets of the Arctic</title>
+    <desc lang="en">Since 2015, scientists with NASA’s Arctic Boreal Vulnerability Experiment (ABoVE) project have been studying how climate change is affecting Arctic and boreal regions. The team is studying permafrost thaw, changes in plant cover, wildfires, shifting animal migration patterns and more. With research aircraft flying over Alaska and northwestern Canada and scientists conducting field experiments on the ground below, ABoVE is collecting data that will help researchers understand how these events are intertwined – and how they are impacted by climate change.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/025/2481025_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605120000-0400" stop="20240605123000-0400">
+    <title lang="en">Apollo 14: Mission to Fra Mauro</title>
+    <desc lang="en">The 1971 Apollo 14  Mission to Fra Mauro, a lunar highland area, is highlighted in this video. The mission’s primary goal was the collection of lunar rocks and soil samples and lunar exploration. The soil and rock sampling was for the geochronological determination of the Moon’s evolution and its comparison with that of Earth. A remote data collection station was assembled on the Moon and left for continuous data collection and surface monitoring experiments. The Apollo 14  astronauts were Alan B. Shepard, Edgar D. Mitchell, and Stuart A. Rossa. Astronauts Shepard and Mitchell landed on the Moon (February 5, 1971) and performed the sampling, the EVA, and deployment of the lunar experiments. There is film-footage of the lunar surface, of the command module’s approach to both the Moon and the Earth, Moon and Earth spacecraft launching and landing, in-orbit command- and lunar-module docking, and of Mission Control.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/930/2480930_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605123000-0400" stop="20240605130000-0400">
+    <title lang="en">Meet SWOT Mission Makers: Christine Gebara</title>
+    <desc lang="en">A new video series highlights the hard work and passion of scientists and engineers who are helping to get this remarkable new satellite off the ground. As the international Surface Water and Ocean Topography (SWOT) mission finishes final preparations for its December launch, a new video series focuses on some of the engineers and scientists behind the satellite, which will be the first to observe nearly all water on Earth’s surface. Led by NASA and the French space agency Centre National d’Études Spatiales (CNES), SWOT will measure the height of water in lakes, rivers, reservoirs, and the ocean. The SUV-size satellite will improve scientists’ ability to track the movement of water around the world while providing data that will help communities monitor and plan for changing water resources. In addition, the mission will boost scientists’ understanding of how sea level rise will affect coastlines around the world and the people who live near them. SWOT will also see ocean features too small for current space-based instruments to detect, improving researchers’ understanding of their role in climate change. More than a machine, SWOT is the culmination of years of work by a global team of engineers, scientists, and technicians committed to improving our understanding of our home planet. In this video series, you can meet team members from NASA’s Jet Propulsion Laboratory in Southern California, which manages the U.S. portion of the mission, and from the agency’s headquarters in Washington as they explain why working on SWOT means so much to them:
+Cedric David, a hydrologist who studies the world’s rivers, shares how water is the only place he feels truly comfortable because of physical challenges. As Cedric notes, SWOT will provide a global picture of freshwater resources and help improve water management, which is why he is so proud to help make a difference in protecting this precious resource.
+Christine Gebara, a mechanical engineer who helped test and integrate the spacecraft, tells the story of how she fell in love with engineering while learning to sail with the Girl Scouts on a lake near her childhood home in Houston. She reveals what inspires her most about building a spacecraft and offers advice for young women interested in engineering.
+Tahani Amer, the mission’s program executive, recalls growing up near Cairo, where her father encouraged her to study math and science – an atypical pursuit for young women in Egypt at the time. Today, she oversees several NASA Earth science missions, including SWOT. In the video, Amer shares how she’s been inspired by her Islamic faith, her family, and her colleagues.
+Marc Simard, a scientist who studies river deltas where they meet the ocean, discusses how he developed a passion for the environment in college, switching from a planned career in astrophysics to developing tools to study Earth. One of Simard’s favorite things about SWOT is that its data will help scientists better understand how sea level rise will affect coastal deltas around the world.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/665/2953665_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605130000-0400" stop="20240605140000-0400">
+    <title lang="en">What’s New in Areospace: Sally Ride: Curating Her Life</title>
+    <desc lang="en">The Smithsonian National Air and Space Museum’s What’s New in Aerospace series of live, fast-paced, webcasts are designed to increase interest and engagement in STEM.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/653/3337653_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605140000-0400" stop="20240605143000-0400">
+    <title lang="en">Benefits for Humanity: In Their Own Words</title>
+    <desc lang="en">For generations, we have dreamed about a place to live and work in space...a space station. And right now, 260 miles above us, moving 5 miles a second...that dream is a reality. We dreamed that life up there would benefit life down here. That dream has come true. Can the research on board the space station lead to cleaner drinking water on Earth? Can it help farmers produce better crops? Can it inspire a generation of students? Can it even save a life? It already has. As the work aboard the International Space Station begins to reach its potential, the benefits to humanity are becoming evident. These are just a few of the stories from people who have benefitted....told in their own words.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/995/2480995_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605143000-0400" stop="20240605153000-0400">
+    <title lang="en">X-31: Breaking the Chain: Lessons Learned</title>
+    <desc lang="en">By any measure, the X-31 was a highly successful flight research program at NASA’s Dryden Flight Research Center, now the Armstrong Flight Research Center. It regularly flew several flights a day, accumulating over 550 flights during the course of the program, with a superlative safety record. And yet, on Jan. 19, 1995, on the very last scheduled flight of the X-31 ship No. 1, disaster struck. Each mishap has it’s own set of circumstances and it’s own sequence of events. But those who study mishaps find similar issues: communications, complacency, unwarranted assumptions, human frailties….just like a chain. You make a chain -- a chain of events -- when you have any of these accidents. Any link of the chain, if broken, would prevent an accident. The X-31 flight test team was the "A" team -- the best people, from every discipline -- from every organization. But they lost an airplane. If it can happen to the best team, it can happen to any team.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/000/2481000_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605153000-0400" stop="20240605160000-0400">
+    <title lang="en">How NASA Decodes the Secrets of the Arctic</title>
+    <desc lang="en">Since 2015, scientists with NASA’s Arctic Boreal Vulnerability Experiment (ABoVE) project have been studying how climate change is affecting Arctic and boreal regions. The team is studying permafrost thaw, changes in plant cover, wildfires, shifting animal migration patterns and more. With research aircraft flying over Alaska and northwestern Canada and scientists conducting field experiments on the ground below, ABoVE is collecting data that will help researchers understand how these events are intertwined – and how they are impacted by climate change.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/025/2481025_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605160000-0400" stop="20240605163000-0400">
+    <title lang="en">Apollo 14: Mission to Fra Mauro</title>
+    <desc lang="en">The 1971 Apollo 14  Mission to Fra Mauro, a lunar highland area, is highlighted in this video. The mission’s primary goal was the collection of lunar rocks and soil samples and lunar exploration. The soil and rock sampling was for the geochronological determination of the Moon’s evolution and its comparison with that of Earth. A remote data collection station was assembled on the Moon and left for continuous data collection and surface monitoring experiments. The Apollo 14  astronauts were Alan B. Shepard, Edgar D. Mitchell, and Stuart A. Rossa. Astronauts Shepard and Mitchell landed on the Moon (February 5, 1971) and performed the sampling, the EVA, and deployment of the lunar experiments. There is film-footage of the lunar surface, of the command module’s approach to both the Moon and the Earth, Moon and Earth spacecraft launching and landing, in-orbit command- and lunar-module docking, and of Mission Control.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/930/2480930_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605163000-0400" stop="20240605170000-0400">
+    <title lang="en">Meet SWOT Mission Makers: Christine Gebara</title>
+    <desc lang="en">A new video series highlights the hard work and passion of scientists and engineers who are helping to get this remarkable new satellite off the ground. As the international Surface Water and Ocean Topography (SWOT) mission finishes final preparations for its December launch, a new video series focuses on some of the engineers and scientists behind the satellite, which will be the first to observe nearly all water on Earth’s surface. Led by NASA and the French space agency Centre National d’Études Spatiales (CNES), SWOT will measure the height of water in lakes, rivers, reservoirs, and the ocean. The SUV-size satellite will improve scientists’ ability to track the movement of water around the world while providing data that will help communities monitor and plan for changing water resources. In addition, the mission will boost scientists’ understanding of how sea level rise will affect coastlines around the world and the people who live near them. SWOT will also see ocean features too small for current space-based instruments to detect, improving researchers’ understanding of their role in climate change. More than a machine, SWOT is the culmination of years of work by a global team of engineers, scientists, and technicians committed to improving our understanding of our home planet. In this video series, you can meet team members from NASA’s Jet Propulsion Laboratory in Southern California, which manages the U.S. portion of the mission, and from the agency’s headquarters in Washington as they explain why working on SWOT means so much to them:
+Cedric David, a hydrologist who studies the world’s rivers, shares how water is the only place he feels truly comfortable because of physical challenges. As Cedric notes, SWOT will provide a global picture of freshwater resources and help improve water management, which is why he is so proud to help make a difference in protecting this precious resource.
+Christine Gebara, a mechanical engineer who helped test and integrate the spacecraft, tells the story of how she fell in love with engineering while learning to sail with the Girl Scouts on a lake near her childhood home in Houston. She reveals what inspires her most about building a spacecraft and offers advice for young women interested in engineering.
+Tahani Amer, the mission’s program executive, recalls growing up near Cairo, where her father encouraged her to study math and science – an atypical pursuit for young women in Egypt at the time. Today, she oversees several NASA Earth science missions, including SWOT. In the video, Amer shares how she’s been inspired by her Islamic faith, her family, and her colleagues.
+Marc Simard, a scientist who studies river deltas where they meet the ocean, discusses how he developed a passion for the environment in college, switching from a planned career in astrophysics to developing tools to study Earth. One of Simard’s favorite things about SWOT is that its data will help scientists better understand how sea level rise will affect coastal deltas around the world.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/665/2953665_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605170000-0400" stop="20240605180000-0400">
+    <title lang="en">What’s New in Areospace: Sally Ride: Curating Her Life</title>
+    <desc lang="en">The Smithsonian National Air and Space Museum’s What’s New in Aerospace series of live, fast-paced, webcasts are designed to increase interest and engagement in STEM.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/653/3337653_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605180000-0400" stop="20240605183000-0400">
+    <title lang="en">Benefits for Humanity: In Their Own Words</title>
+    <desc lang="en">For generations, we have dreamed about a place to live and work in space...a space station. And right now, 260 miles above us, moving 5 miles a second...that dream is a reality. We dreamed that life up there would benefit life down here. That dream has come true. Can the research on board the space station lead to cleaner drinking water on Earth? Can it help farmers produce better crops? Can it inspire a generation of students? Can it even save a life? It already has. As the work aboard the International Space Station begins to reach its potential, the benefits to humanity are becoming evident. These are just a few of the stories from people who have benefitted....told in their own words.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/995/2480995_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605183000-0400" stop="20240605193000-0400">
+    <title lang="en">X-31: Breaking the Chain: Lessons Learned</title>
+    <desc lang="en">By any measure, the X-31 was a highly successful flight research program at NASA’s Dryden Flight Research Center, now the Armstrong Flight Research Center. It regularly flew several flights a day, accumulating over 550 flights during the course of the program, with a superlative safety record. And yet, on Jan. 19, 1995, on the very last scheduled flight of the X-31 ship No. 1, disaster struck. Each mishap has it’s own set of circumstances and it’s own sequence of events. But those who study mishaps find similar issues: communications, complacency, unwarranted assumptions, human frailties….just like a chain. You make a chain -- a chain of events -- when you have any of these accidents. Any link of the chain, if broken, would prevent an accident. The X-31 flight test team was the "A" team -- the best people, from every discipline -- from every organization. But they lost an airplane. If it can happen to the best team, it can happen to any team.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/000/2481000_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605193000-0400" stop="20240605200000-0400">
+    <title lang="en">How NASA Decodes the Secrets of the Arctic</title>
+    <desc lang="en">Since 2015, scientists with NASA’s Arctic Boreal Vulnerability Experiment (ABoVE) project have been studying how climate change is affecting Arctic and boreal regions. The team is studying permafrost thaw, changes in plant cover, wildfires, shifting animal migration patterns and more. With research aircraft flying over Alaska and northwestern Canada and scientists conducting field experiments on the ground below, ABoVE is collecting data that will help researchers understand how these events are intertwined – and how they are impacted by climate change.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/025/2481025_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605200000-0400" stop="20240605203000-0400">
+    <title lang="en">Apollo 14: Mission to Fra Mauro</title>
+    <desc lang="en">The 1971 Apollo 14  Mission to Fra Mauro, a lunar highland area, is highlighted in this video. The mission’s primary goal was the collection of lunar rocks and soil samples and lunar exploration. The soil and rock sampling was for the geochronological determination of the Moon’s evolution and its comparison with that of Earth. A remote data collection station was assembled on the Moon and left for continuous data collection and surface monitoring experiments. The Apollo 14  astronauts were Alan B. Shepard, Edgar D. Mitchell, and Stuart A. Rossa. Astronauts Shepard and Mitchell landed on the Moon (February 5, 1971) and performed the sampling, the EVA, and deployment of the lunar experiments. There is film-footage of the lunar surface, of the command module’s approach to both the Moon and the Earth, Moon and Earth spacecraft launching and landing, in-orbit command- and lunar-module docking, and of Mission Control.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/930/2480930_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605203000-0400" stop="20240605210000-0400">
+    <title lang="en">Meet SWOT Mission Makers: Christine Gebara</title>
+    <desc lang="en">A new video series highlights the hard work and passion of scientists and engineers who are helping to get this remarkable new satellite off the ground. As the international Surface Water and Ocean Topography (SWOT) mission finishes final preparations for its December launch, a new video series focuses on some of the engineers and scientists behind the satellite, which will be the first to observe nearly all water on Earth’s surface. Led by NASA and the French space agency Centre National d’Études Spatiales (CNES), SWOT will measure the height of water in lakes, rivers, reservoirs, and the ocean. The SUV-size satellite will improve scientists’ ability to track the movement of water around the world while providing data that will help communities monitor and plan for changing water resources. In addition, the mission will boost scientists’ understanding of how sea level rise will affect coastlines around the world and the people who live near them. SWOT will also see ocean features too small for current space-based instruments to detect, improving researchers’ understanding of their role in climate change. More than a machine, SWOT is the culmination of years of work by a global team of engineers, scientists, and technicians committed to improving our understanding of our home planet. In this video series, you can meet team members from NASA’s Jet Propulsion Laboratory in Southern California, which manages the U.S. portion of the mission, and from the agency’s headquarters in Washington as they explain why working on SWOT means so much to them:
+Cedric David, a hydrologist who studies the world’s rivers, shares how water is the only place he feels truly comfortable because of physical challenges. As Cedric notes, SWOT will provide a global picture of freshwater resources and help improve water management, which is why he is so proud to help make a difference in protecting this precious resource.
+Christine Gebara, a mechanical engineer who helped test and integrate the spacecraft, tells the story of how she fell in love with engineering while learning to sail with the Girl Scouts on a lake near her childhood home in Houston. She reveals what inspires her most about building a spacecraft and offers advice for young women interested in engineering.
+Tahani Amer, the mission’s program executive, recalls growing up near Cairo, where her father encouraged her to study math and science – an atypical pursuit for young women in Egypt at the time. Today, she oversees several NASA Earth science missions, including SWOT. In the video, Amer shares how she’s been inspired by her Islamic faith, her family, and her colleagues.
+Marc Simard, a scientist who studies river deltas where they meet the ocean, discusses how he developed a passion for the environment in college, switching from a planned career in astrophysics to developing tools to study Earth. One of Simard’s favorite things about SWOT is that its data will help scientists better understand how sea level rise will affect coastal deltas around the world.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/665/2953665_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605210000-0400" stop="20240605220000-0400">
+    <title lang="en">What’s New in Areospace: Sally Ride: Curating Her Life</title>
+    <desc lang="en">The Smithsonian National Air and Space Museum’s What’s New in Aerospace series of live, fast-paced, webcasts are designed to increase interest and engagement in STEM.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/653/3337653_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605220000-0400" stop="20240605223000-0400">
+    <title lang="en">Benefits for Humanity: In Their Own Words</title>
+    <desc lang="en">For generations, we have dreamed about a place to live and work in space...a space station. And right now, 260 miles above us, moving 5 miles a second...that dream is a reality. We dreamed that life up there would benefit life down here. That dream has come true. Can the research on board the space station lead to cleaner drinking water on Earth? Can it help farmers produce better crops? Can it inspire a generation of students? Can it even save a life? It already has. As the work aboard the International Space Station begins to reach its potential, the benefits to humanity are becoming evident. These are just a few of the stories from people who have benefitted....told in their own words.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/995/2480995_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605223000-0400" stop="20240605233000-0400">
+    <title lang="en">X-31: Breaking the Chain: Lessons Learned</title>
+    <desc lang="en">By any measure, the X-31 was a highly successful flight research program at NASA’s Dryden Flight Research Center, now the Armstrong Flight Research Center. It regularly flew several flights a day, accumulating over 550 flights during the course of the program, with a superlative safety record. And yet, on Jan. 19, 1995, on the very last scheduled flight of the X-31 ship No. 1, disaster struck. Each mishap has it’s own set of circumstances and it’s own sequence of events. But those who study mishaps find similar issues: communications, complacency, unwarranted assumptions, human frailties….just like a chain. You make a chain -- a chain of events -- when you have any of these accidents. Any link of the chain, if broken, would prevent an accident. The X-31 flight test team was the "A" team -- the best people, from every discipline -- from every organization. But they lost an airplane. If it can happen to the best team, it can happen to any team.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/000/2481000_1280.jpg"/>
+  </programme>
+  <programme channel="nasatv.nasa.gov" start="20240605233000-0400" stop="20240606000000-0400">
+    <title lang="en">How NASA Decodes the Secrets of the Arctic</title>
+    <desc lang="en">Since 2015, scientists with NASA’s Arctic Boreal Vulnerability Experiment (ABoVE) project have been studying how climate change is affecting Arctic and boreal regions. The team is studying permafrost thaw, changes in plant cover, wildfires, shifting animal migration patterns and more. With research aircraft flying over Alaska and northwestern Canada and scientists conducting field experiments on the ground below, ABoVE is collecting data that will help researchers understand how these events are intertwined – and how they are impacted by climate change.</desc>
+    <category lang="en">Science</category>
+    <icon src="https://televio.hr/static/backdrops/025/2481025_1280.jpg"/>
   </programme>
 </tv>
