@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-05 22:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-05 23:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240605184453+0000" stop="20240605193931+0000">
-    <title lang="en">Ice Waterfalls</title>
-    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/15/n9e71buasfvbbdzzu7di/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
-  </programme>
-  <programme channel="redbull.com" start="20240605193931+0000" stop="20240605202336+0000">
-    <title lang="en">Red Bull Drift Masters</title>
-    <desc lang="en">Strap in for some full-throttle action as we look back on the world's most thrilling drifting event.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/12/gixrm4euhxciusfuhj24/red-bull-drift-masters-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20240605202336+0000" stop="20240605205806+0000">
     <title lang="en">Season recap</title>
     <desc lang="en">Relive the best moments of the most entertaining season of the Drift Masters European Championship to date.</desc>
@@ -124,5 +112,17 @@
     <desc lang="en">Michel Bourez and Kauli Vaast take you on a tour of beautiful islands of Tahiti. </desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/uywqkknj6cylyanrdz1n/kauli-vaast-no-contest-s2-e3-tahiti"/>
+  </programme>
+  <programme channel="redbull.com" start="20240606073359+0000" stop="20240606080649+0000">
+    <title lang="en">Hope</title>
+    <desc lang="en">After a devastating injury, Marc Márquez's biggest challenge is to be what he once was, so he moves to Madrid.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/kmaaaguhwguqnucyeifw/marc-marquez-during-motogp"/>
+  </programme>
+  <programme channel="redbull.com" start="20240606080649+0000" stop="20240606083656+0000">
+    <title lang="en">Talent</title>
+    <desc lang="en">Marc’s riding style has earned him admiration from fans, but has also led to conflicts with other riders.</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/pochf82mnxitujxv1ecr/marc-marquez-santi-hernandez-motogp"/>
   </programme>
 </tv>
