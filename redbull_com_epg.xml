@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-07 16:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-07 17:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240607133420+0000" stop="20240607141825+0000">
-    <title lang="en">Red Bull Drift Masters</title>
-    <desc lang="en">Strap in for some full-throttle action as we look back on the world's most thrilling drifting event.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/12/gixrm4euhxciusfuhj24/red-bull-drift-masters-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240607141825+0000" stop="20240607145254+0000">
-    <title lang="en">Season recap</title>
-    <desc lang="en">Relive the best moments of the most entertaining season of the Drift Masters European Championship to date.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/23/tiu3z5fh4ak15e6pj5ix/lauri-heinonen-conor-shanahan-ireland-dmec-2023-poland"/>
-  </programme>
   <programme channel="redbull.com" start="20240607145254+0000" stop="20240607152444+0000">
     <title lang="en">Adapt or perish</title>
     <desc lang="en">A wave of younger, faster competitors force 'old dogs to learn new tricks' to stay in the results sheet. </desc>
@@ -124,5 +112,11 @@
     <desc lang="en">Marc remembers his early MotoGP™ times and meets up with the man who was his idol back then: Valentino Rossi.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/bmlu7oqqvseia2kq2djv/marc-marquez-qualification-french-motogp-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240608025620+0000" stop="20240608033019+0000">
+    <title lang="en">Passion</title>
+    <desc lang="en">Marc recovers from surgery with one goal: to win again. In Austria he meets his former rival, Dani Pedrosa.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/e0zkdjonyk62rusblfme/marc-maruqez-bike-french-motogp-2023"/>
   </programme>
 </tv>
