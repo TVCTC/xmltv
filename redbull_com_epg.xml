@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-07 10:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-07 11:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240607071003+0000" stop="20240607075535+0000">
-    <title lang="en">Lil Zoo: Breaking Chose Me</title>
-    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
-  </programme>
-  <programme channel="redbull.com" start="20240607075535+0000" stop="20240607083641+0000">
-    <title lang="en">Chumbo: Made for Big Wave Surfing</title>
-    <desc lang="en">Get a glimpse into Lucas Chianca's life as he balances chasing big waves with looking after his family.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/9/wlapw5hodyuia7ry8ksp/lucas-chianca-chumbo-made-for-big-wave-surfing-header"/>
-  </programme>
   <programme channel="redbull.com" start="20240607083641+0000" stop="20240607100327+0000">
     <title lang="en">Wild Waters</title>
     <desc lang="en">From Olympic pools to wild rivers, see the life of Nouria Newman, the most gifted kayaker of her generation.</desc>
@@ -124,5 +112,17 @@
     <desc lang="en">From underdog to world champ – this is the mountain bike in memory of legend Stevie 'Chainsaw' Smith.</desc>
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/4/uy6brgtuxhj4xr129iui/long-live-chainsaw-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240607204751+0000" stop="20240607215725+0000">
+    <title lang="en">The Old World</title>
+    <desc lang="en">Traverse iconic European locations in a celebration of biking culture that unites MTB and BMX.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual"/>
+  </programme>
+  <programme channel="redbull.com" start="20240607215725+0000" stop="20240607225611+0000">
+    <title lang="en">Reverence</title>
+    <desc lang="en">Delve deep into the psyche of elite mountain bike athletes to uncover how they face and use fear.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/10/16/4f609b22-e375-43b4-ad00-f64dad5d9a3e/reverence_landscape_hero"/>
   </programme>
 </tv>
