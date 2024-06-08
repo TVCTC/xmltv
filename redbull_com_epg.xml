@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-08 22:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-08 23:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240608190040+0000" stop="20240608190438+0000">
-    <title lang="en">Verstappen vs Tsunoda reverse race</title>
-    <desc lang="en">It's a race with a twist as F1 drivers Max Verstappen and Yuki Tsunoda do battle in old-school DAF cars. </desc>
-    <category lang="en">Motoring</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/25/spgwvqxuoeyuhwzetpth/red-bull-reverse-max-verstappen-yuki-tsunoda"/>
-  </programme>
-  <programme channel="redbull.com" start="20240608190438+0000" stop="20240608191218+0000">
-    <title lang="en">Pérez's Nevada night out</title>
-    <desc lang="en">What happens in Vegas doesn’t always stay in Vegas. Relive an epic night with Formula One driver Sergio Pérez.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/mncho9vduptsr2qp4niu/sergio-perez-red-bull-racing-road-trips-s3-e2-las-vegas"/>
-  </programme>
-  <programme channel="redbull.com" start="20240608191218+0000" stop="20240608193433+0000">
-    <title lang="en">One With the Water</title>
-    <desc lang="en">Rhiannan Iffland dives into Kehu Butler’s coastal home in New Zealand, learning local traditions on the way.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/2/i7nn298dhonn5e6ubyfq/one-with-the-water-hero-image"/>
-  </programme>
-  <programme channel="redbull.com" start="20240608193433+0000" stop="20240608195409+0000">
-    <title lang="en">Proving ground (part 1)</title>
-    <desc lang="en">The Eddie is on and Kai Lenny has plenty to prove on the North Shore of Oahu at both Pipeline and Waimea Bay.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/11/a1vmkblr0jd3ftqkfu69/life-of-kai-backdoor-shoutout"/>
-  </programme>
-  <programme channel="redbull.com" start="20240608195409+0000" stop="20240608201710+0000">
-    <title lang="en">Proving ground (part 2)</title>
-    <desc lang="en">Kai Lenny chases a dream win at The Eddie then takes on the World Tour’s best pro surfers at Sunset Beach.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/5/kqgfmcysszcob5il70wy/kai-lenny-the-eddie"/>
-  </programme>
   <programme channel="redbull.com" start="20240608201710+0000" stop="20240608215247+0000">
     <title lang="en">For the Dream</title>
     <desc lang="en">Ex-pro surfer Ben Gravy sets out on his dream to become the first person to surf in all 50 US states.</desc>
@@ -106,17 +76,5 @@
     <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
-  </programme>
-  <programme channel="redbull.com" start="20240609041233+0000" stop="20240609042745+0000">
-    <title lang="en">London</title>
-    <desc lang="en">Explore the skate scene of one of the world's greatest cities with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/11/db1q41ssfmyfyq4z2jtx/margielyn-dida-london-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240609042745+0000" stop="20240609044138+0000">
-    <title lang="en">Manchester</title>
-    <desc lang="en">Explore the thriving skate scene in Manchester, England, with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/11/y4xxcffmobvgt4aga7al/eddie-belvedere-manchester-2022"/>
   </programme>
 </tv>
