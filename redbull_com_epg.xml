@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-10 11:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-10 12:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240610084805+0000" stop="20240610091419+0000">
-    <title lang="en">Iron sharpens iron</title>
-    <desc lang="en">Mathias Flückiger and Nino Schurter confront the bitter rivalry of Swiss MTB cross-country racing.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/aleq0pywjxtowwjzjynt/mathias-fluckiger"/>
-  </programme>
-  <programme channel="redbull.com" start="20240610091419+0000" stop="20240610094406+0000">
-    <title lang="en">No I in team</title>
-    <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/5/dzfbz2heksvcugo7d5dr/jolanda-neff-uci-xco-world-cup-val-di-sole-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240610094406+0000" stop="20240610095410+0000">
-    <title lang="en">2018's best runs</title>
-    <desc lang="en">Italian bagpipes and South Africa's fastest Stone Age soapbox made the cut among 2018's very best runs.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/pm6zgr2tqmnkc2jfehhf/red-bull-soapbox-race-rome-2018"/>
-  </programme>
   <programme channel="redbull.com" start="20240610095410+0000" stop="20240610100430+0000">
     <title lang="en">2017's best runs</title>
     <desc lang="en">Every year the racers get faster. In 2017 the gadgets included the fastest musical drum set in history.</desc>
@@ -124,5 +106,17 @@
     <desc lang="en">After a devastating injury, Marc Márquez's biggest challenge is to be what he once was, so he moves to Madrid.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/kmaaaguhwguqnucyeifw/marc-marquez-during-motogp"/>
+  </programme>
+  <programme channel="redbull.com" start="20240610211905+0000" stop="20240610220437+0000">
+    <title lang="en">Lil Zoo: Breaking Chose Me</title>
+    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
+    <category lang="en">Breaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
+  </programme>
+  <programme channel="redbull.com" start="20240610220437+0000" stop="20240610223445+0000">
+    <title lang="en">Talent</title>
+    <desc lang="en">Marc’s riding style has earned him admiration from fans, but has also led to conflicts with other riders.</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/pochf82mnxitujxv1ecr/marc-marquez-santi-hernandez-motogp"/>
   </programme>
 </tv>
