@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-10 20:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-10 21:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240610175127+0000" stop="20240610184407+0000">
-    <title lang="en">Brad Binder: Becoming 33</title>
-    <desc lang="en">Brad Binder has earned his shot at MotoGP™ glory – see him take on the monumental challenge.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/8/31/ex1kbwbekyroewn8fdmk/brad-binder-road-to-motogp-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240610184407+0000" stop="20240610191521+0000">
-    <title lang="en">In the Wings</title>
-    <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet – 2023.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20240610191521+0000" stop="20240610195547+0000">
     <title lang="en">Chumbo: Made for Big Wave Surfing</title>
     <desc lang="en">Get a glimpse into Lucas Chianca's life as he balances chasing big waves with looking after his family.</desc>
@@ -118,5 +106,23 @@
     <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
+  </programme>
+  <programme channel="redbull.com" start="20240611024037+0000" stop="20240611030717+0000">
+    <title lang="en">Highlights – Puerto Cabello P2</title>
+    <desc lang="en">Watch the highlights of the fourth stop of the season in Venezuela for the Puerto Cabello Premier Padel P2. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/4/iqmgalloe5lthvm6jgma/suzanne-casey-premier-padel-2024-puerto-cabello-p2"/>
+  </programme>
+  <programme channel="redbull.com" start="20240611030717+0000" stop="20240611033325+0000">
+    <title lang="en">Highlights – Brussels P2</title>
+    <desc lang="en">Watch the highlights of the fifth stop of the season in Belgium for the Brussels Premier Padel P2. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/zjzvsbcyjhp7htwrzgpu/beatriz-gonzalez-fernandez-doha-2024-padel"/>
+  </programme>
+  <programme channel="redbull.com" start="20240611033325+0000" stop="20240611040755+0000">
+    <title lang="en">Season recap</title>
+    <desc lang="en">Relive the best moments of the most entertaining season of the Drift Masters European Championship to date.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/23/tiu3z5fh4ak15e6pj5ix/lauri-heinonen-conor-shanahan-ireland-dmec-2023-poland"/>
   </programme>
 </tv>
