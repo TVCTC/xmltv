@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-11 16:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-11 17:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240611130724+0000" stop="20240611144638+0000">
-    <title lang="en">Valley Uprising</title>
-    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20240611144638+0000" stop="20240611150027+0000">
     <title lang="en">Travis Rice: 'Old Dog' snowboard edit</title>
     <desc lang="en">In his 23rd season, Travis takes on the breathtaking 3,700ft vertical drop of the Velvet Castle in BC, Canada.</desc>
@@ -100,29 +94,5 @@
     <desc lang="en">Around 20,000 skateboarders live in the greater metropolitan area of the Chilean city – let's roll with them!</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/19/zixv84jil6trsarsyjxb/marcelo-jimenez"/>
-  </programme>
-  <programme channel="redbull.com" start="20240611212211+0000" stop="20240611215610+0000">
-    <title lang="en">Passion</title>
-    <desc lang="en">Marc recovers from surgery with one goal: to win again. In Austria he meets his former rival, Dani Pedrosa.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/e0zkdjonyk62rusblfme/marc-maruqez-bike-french-motogp-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20240611215610+0000" stop="20240611223229+0000">
-    <title lang="en">Comeback</title>
-    <desc lang="en">It’s time for Marc to recap on a year that's seen him make some of the most difficult decisions of his life.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/emtuoqqfpkjgkdzrawmf/marc-marquez-santi-hernandez-french-motogp-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20240611223229+0000" stop="20240611225821+0000">
-    <title lang="en">Highlights – Riyadh</title>
-    <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
-  </programme>
-  <programme channel="redbull.com" start="20240611225821+0000" stop="20240611232423+0000">
-    <title lang="en">Highlights – Qatar Major</title>
-    <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
   </programme>
 </tv>
