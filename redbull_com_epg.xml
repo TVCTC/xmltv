@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-11 08:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-11 09:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240611054638+0000" stop="20240611055744+0000">
+    <title lang="en">Prologue 1 recap – Red Bull Erzbergrodeo</title>
+    <desc lang="en">Enjoy a look back the opening Iron Road prologue, a full-throttle blast up gravel roads and forestry tracks.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/10/oqoac0zszozf0ipxxcib/andrea-verona-red-bull-erzbergrodeo-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240611055744+0000" stop="20240611062358+0000">
+    <title lang="en">Iron sharpens iron</title>
+    <desc lang="en">Mathias Flückiger and Nino Schurter confront the bitter rivalry of Swiss MTB cross-country racing.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/aleq0pywjxtowwjzjynt/mathias-fluckiger"/>
+  </programme>
+  <programme channel="redbull.com" start="20240611062358+0000" stop="20240611065346+0000">
+    <title lang="en">No I in team</title>
+    <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/5/dzfbz2heksvcugo7d5dr/jolanda-neff-uci-xco-world-cup-val-di-sole-2022"/>
+  </programme>
   <programme channel="redbull.com" start="20240611065346+0000" stop="20240611070309+0000">
     <title lang="en">2018's best runs</title>
     <desc lang="en">Italian bagpipes and South Africa's fastest Stone Age soapbox made the cut among 2018's very best runs.</desc>
@@ -100,23 +118,5 @@
     <desc lang="en">Enjoy a different side of American skateboarding culture, ripping up the Virginia skate scene with the locals.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/28/ijmidoos7d2qrhrq4ghh/greetings-from-s2-e3-virginia-usa-gilbert-crockett"/>
-  </programme>
-  <programme channel="redbull.com" start="20240611173409+0000" stop="20240611175435+0000">
-    <title lang="en">Johannesburg</title>
-    <desc lang="en">Meet Brandon Valjalo and 30 more top dogs from South Africa's biggest skate scene in our super city report.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/19/l83zakd2ixgnhqzrpljm/brandon-valjalo-backside-tailslide-pimville-diy-skatepark-soweto-sout-africa"/>
-  </programme>
-  <programme channel="redbull.com" start="20240611175435+0000" stop="20240611182804+0000">
-    <title lang="en">Hope</title>
-    <desc lang="en">After a devastating injury, Marc Márquez's biggest challenge is to be what he once was, so he moves to Madrid.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/kmaaaguhwguqnucyeifw/marc-marquez-during-motogp"/>
-  </programme>
-  <programme channel="redbull.com" start="20240611182804+0000" stop="20240611191336+0000">
-    <title lang="en">Lil Zoo: Breaking Chose Me</title>
-    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
   </programme>
 </tv>
