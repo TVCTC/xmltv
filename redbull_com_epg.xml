@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-11 09:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-11 10:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240611040755+0000" stop="20240611050234+0000">
+    <title lang="en">Ice Waterfalls</title>
+    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/15/n9e71buasfvbbdzzu7di/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
+  </programme>
+  <programme channel="redbull.com" start="20240611050234+0000" stop="20240611054638+0000">
+    <title lang="en">Red Bull Drift Masters</title>
+    <desc lang="en">Strap in for some full-throttle action as we look back on the world's most thrilling drifting event.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/12/gixrm4euhxciusfuhj24/red-bull-drift-masters-hero-art"/>
+  </programme>
   <programme channel="redbull.com" start="20240611054638+0000" stop="20240611055744+0000">
     <title lang="en">Prologue 1 recap – Red Bull Erzbergrodeo</title>
     <desc lang="en">Enjoy a look back the opening Iron Road prologue, a full-throttle blast up gravel roads and forestry tracks.</desc>
@@ -112,11 +124,5 @@
     <desc lang="en">Explore the legendary skate scene in the Scottish city with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/11/sbftsa5tuhpclvl7inwi/jake-wooten-glasgow-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240611172047+0000" stop="20240611173409+0000">
-    <title lang="en">Greetings From: Skate Virginia</title>
-    <desc lang="en">Enjoy a different side of American skateboarding culture, ripping up the Virginia skate scene with the locals.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/28/ijmidoos7d2qrhrq4ghh/greetings-from-s2-e3-virginia-usa-gilbert-crockett"/>
   </programme>
 </tv>
