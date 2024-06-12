@@ -1,52 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-12 02:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-12 03:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240611194344+0000" stop="20240611195856+0000">
-    <title lang="en">London</title>
-    <desc lang="en">Explore the skate scene of one of the world's greatest cities with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/11/db1q41ssfmyfyq4z2jtx/margielyn-dida-london-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240611195856+0000" stop="20240611203306+0000">
-    <title lang="en">Champion</title>
-    <desc lang="en">Marc remembers his early MotoGP™ times and meets up with the man who was his idol back then: Valentino Rossi.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/bmlu7oqqvseia2kq2djv/marc-marquez-qualification-french-motogp-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20240611203306+0000" stop="20240611204659+0000">
-    <title lang="en">Manchester</title>
-    <desc lang="en">Explore the thriving skate scene in Manchester, England, with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/11/y4xxcffmobvgt4aga7al/eddie-belvedere-manchester-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240611204659+0000" stop="20240611210437+0000">
-    <title lang="en">Philadelphia</title>
-    <desc lang="en">Go street-level in one of skating's most influential cities with the locals who make up the Philly scene.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ntnymqjwzliurs3sel8r/jahmir-brown-switch-backtail-colin-kerrigan"/>
-  </programme>
-  <programme channel="redbull.com" start="20240611210437+0000" stop="20240611212211+0000">
-    <title lang="en">Santiago</title>
-    <desc lang="en">Around 20,000 skateboarders live in the greater metropolitan area of the Chilean city – let's roll with them!</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/19/zixv84jil6trsarsyjxb/marcelo-jimenez"/>
-  </programme>
-  <programme channel="redbull.com" start="20240611212211+0000" stop="20240611215610+0000">
-    <title lang="en">Passion</title>
-    <desc lang="en">Marc recovers from surgery with one goal: to win again. In Austria he meets his former rival, Dani Pedrosa.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/e0zkdjonyk62rusblfme/marc-maruqez-bike-french-motogp-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20240611215610+0000" stop="20240611223229+0000">
-    <title lang="en">Comeback</title>
-    <desc lang="en">It’s time for Marc to recap on a year that's seen him make some of the most difficult decisions of his life.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/emtuoqqfpkjgkdzrawmf/marc-marquez-santi-hernandez-french-motogp-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20240611223229+0000" stop="20240611225821+0000">
     <title lang="en">Highlights – Riyadh</title>
     <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
@@ -124,5 +82,47 @@
     <desc lang="en">Mathias Flückiger and Nino Schurter confront the bitter rivalry of Swiss MTB cross-country racing.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/aleq0pywjxtowwjzjynt/mathias-fluckiger"/>
+  </programme>
+  <programme channel="redbull.com" start="20240612052918+0000" stop="20240612053842+0000">
+    <title lang="en">2018's best runs</title>
+    <desc lang="en">Italian bagpipes and South Africa's fastest Stone Age soapbox made the cut among 2018's very best runs.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/pm6zgr2tqmnkc2jfehhf/red-bull-soapbox-race-rome-2018"/>
+  </programme>
+  <programme channel="redbull.com" start="20240612053842+0000" stop="20240612054902+0000">
+    <title lang="en">2017's best runs</title>
+    <desc lang="en">Every year the racers get faster. In 2017 the gadgets included the fastest musical drum set in history.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/gswa9r6s338cugpekony/red-bull-soapbox-valkenburg-netherlands-2017"/>
+  </programme>
+  <programme channel="redbull.com" start="20240612054902+0000" stop="20240612055659+0000">
+    <title lang="en">2016's best runs</title>
+    <desc lang="en">Fearless was very much the watch word during 2016's events, as these flat out and crash-filled runs show.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/vu4vua1txiqg4n7zujwh/house-of-horrors-red-bull-soapbox-race-cork-2016"/>
+  </programme>
+  <programme channel="redbull.com" start="20240612055659+0000" stop="20240612070649+0000">
+    <title lang="en">Anywhere from Here</title>
+    <desc lang="en">Just 11-years-old and already a freestyle ski phenomenon. Meet the extraordinary Walker Woodring.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/jjm6hlgjvjhygfx8dr09/logan-pehota-british-columbia-anywhere-from-here-ski-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20240612070649+0000" stop="20240612084221+0000">
+    <title lang="en">For the Dream</title>
+    <desc lang="en">Ex-pro surfer Ben Gravy sets out on his dream to become the first person to surf in all 50 US states.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/25/oczwecazd6w2w9figilo/for-the-dream-ben-gravy"/>
+  </programme>
+  <programme channel="redbull.com" start="20240612084221+0000" stop="20240612094145+0000">
+    <title lang="en">One at a Time</title>
+    <desc lang="en">Follow professional slopestyle rider Brett Rheeder through the ups and downs of a Crankworx contest season.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ju0vdt30ad36f7oel2k4/one-at-a-time-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240612094145+0000" stop="20240612112055+0000">
+    <title lang="en">Valley Uprising</title>
+    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art"/>
   </programme>
 </tv>
