@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-14 00:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-14 01:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240613214745+0000" stop="20240613222035+0000">
-    <title lang="en">Bros before foes</title>
-    <desc lang="en">DH riders Loïc Bruni and Loris Vergier have their relationship put to the test as they compete against each.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/flkywrg12h1rmqgunnqr/loic-bruni"/>
-  </programme>
-  <programme channel="redbull.com" start="20240613222035+0000" stop="20240613225416+0000">
-    <title lang="en">Home run</title>
-    <desc lang="en">As Rachel Atherton returns to MTB racing, she works to find a balance while Vali Höll prepares for success.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/dc5vg0kbtvhiw8okcbva/rachel-atherton"/>
-  </programme>
   <programme channel="redbull.com" start="20240613225416+0000" stop="20240613232106+0000">
     <title lang="en">Iron sharpens iron</title>
     <desc lang="en">Mathias Flückiger and Nino Schurter confront the bitter rivalry of Swiss MTB cross-country racing.</desc>
@@ -118,5 +106,17 @@
     <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
     <category lang="en">Breaking</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
+  </programme>
+  <programme channel="redbull.com" start="20240614093021+0000" stop="20240614094534+0000">
+    <title lang="en">London</title>
+    <desc lang="en">Explore the skate scene of one of the world's greatest cities with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/11/db1q41ssfmyfyq4z2jtx/margielyn-dida-london-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240614094534+0000" stop="20240614095926+0000">
+    <title lang="en">Manchester</title>
+    <desc lang="en">Explore the thriving skate scene in Manchester, England, with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/11/y4xxcffmobvgt4aga7al/eddie-belvedere-manchester-2022"/>
   </programme>
 </tv>
