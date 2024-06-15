@@ -1,66 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://owr-schedule-cdn.tomorrowland.com/" time-created="2024-06-15 00:01:01">
+<tv generator-info-name="TVCTC" source-info-url="https://owr-schedule-cdn.tomorrowland.com/" time-created="2024-06-16 00:01:01">
   <channel id="OneWorldRadio.be">
     <display-name>One World Radio</display-name>
     <icon src="https://images2.imgbox.com/be/87/YSrw1BiL_o.png"/>
   </channel>
-  <programme channel="OneWorldRadio.be" start="20240615000000+0200" stop="20240615010000+0200">
-    <title lang="en">Your Friday In The Mix</title>
-    <desc lang="en">Prepare for the weekend ahead with the ultimate selection of music right here on One World Radio.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1335912882.jpeg"/>
-  </programme>
-  <programme channel="OneWorldRadio.be" start="20240615010000+0200" stop="20240615020000+0200">
-    <title lang="en">Best of One World Radio with AdamK</title>
-    <desc lang="en">So many things happen on One World Radio in just one week! That's why every Friday, One World Radio's AdamK serves you a one-hour show with the ultimate highlights of the week.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1352004047.png"/>
-  </programme>
-  <programme channel="OneWorldRadio.be" start="20240615020000+0200" stop="20240615040000+0200">
-    <title lang="en">Your Friday In The Mix</title>
-    <desc lang="en">Prepare for the weekend ahead with the ultimate selection of music right here on One World Radio.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1335912882.jpeg"/>
-  </programme>
-  <programme channel="OneWorldRadio.be" start="20240615040000+0200" stop="20240615090000+0200">
-    <title lang="en">Sound Of Sunrise</title>
-    <desc lang="en">Good morning! Wake up to the finest tunes dance music has to offer. Tune in to Sound Of Sunrise on One World Radio.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1335896710.jpg"/>
-  </programme>
-  <programme channel="OneWorldRadio.be" start="20240615090000+0200" stop="20240615120000+0200">
-    <title lang="en">Ibiza Sunrise Sessions</title>
-    <desc lang="en">All week long, the Daybreak Sessions will be turned into an Ibiza themed morning show with more Ibiza tracks, some special mini mixes and much more.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1503754792.png"/>
-  </programme>
-  <programme channel="OneWorldRadio.be" start="20240615120000+0200" stop="20240615180000+0200">
-    <title lang="en">The Ibiza Top 100 with AdamK</title>
-    <desc lang="en">During a unique 6-hour show, AdamK will count down the 100 biggest classics from the White Island.
-
-Expect the 100 best tracks that have achieved an iconic status on Ibiza and relive the magic of timeless classics and modern anthems that have defined the Ibiza experience for decades.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1503757950.png"/>
-  </programme>
-  <programme channel="OneWorldRadio.be" start="20240615180000+0200" stop="20240615210000+0200">
-    <title lang="en">Ibiza Anthems</title>
-    <desc lang="en">Enjoy the ultimate Ibiza Anthems that have made Ibiza a global mecca for electronic music enthusiasts.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1503757689.jpg"/>
-  </programme>
-  <programme channel="OneWorldRadio.be" start="20240615210000+0200" stop="20240615220000+0200">
-    <title lang="en">Ushuaïa &amp; Hï Ibiza Residency</title>
-    <desc lang="en">Each Saturday night throughout the summer, Ushuaïa &amp; Hï Ibiza will be hosting a special 1-hour show on One World Radio, putting a different resident in the spotlight every week.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1503757947.jpg"/>
-  </programme>
-  <programme channel="OneWorldRadio.be" start="20240615220000+0200" stop="20240616000000+0200">
-    <title lang="en">Your Saturday In The Mix</title>
-    <desc lang="en">Elevate your Saturday vibes with a mix of the best beats and tunes. Tune in and let One World Radio soundtrack your weekend adventures.</desc>
-    <category lang="en">Radio</category>
-    <icon src="https://owr-schedule-cdn.tomorrowland.com/1335913470.jpeg"/>
-  </programme>
   <programme channel="OneWorldRadio.be" start="20240616000000+0200" stop="20240616040000+0200">
     <title lang="en">Your Saturday In The Mix</title>
     <desc lang="en">Elevate your Saturday vibes with a mix of the best beats and tunes. Tune in and let One World Radio soundtrack your weekend adventures.</desc>
@@ -114,5 +58,47 @@ Expect the 100 best tracks that have achieved an iconic status on Ibiza and reli
     <desc lang="en">It's Sunday, the final day of the week! Take this opportunity to recharge your batteries and get ready for the week ahead with One World Radio.</desc>
     <category lang="en">Radio</category>
     <icon src="https://owr-schedule-cdn.tomorrowland.com/1335893467.jpg"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240617000000+0200" stop="20240617040000+0200">
+    <title lang="en">Sunday Recharge</title>
+    <desc lang="en">It's Sunday, the final day of the week! Take this opportunity to recharge your batteries and get ready for the week ahead with One World Radio.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1335893467.jpg"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240617040000+0200" stop="20240617070000+0200">
+    <title lang="en">Sound Of Sunrise</title>
+    <desc lang="en">Good morning! Wake up to the finest tunes dance music has to offer. Tune in to Sound Of Sunrise on One World Radio.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1335896710.jpg"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240617070000+0200" stop="20240617120000+0200">
+    <title lang="en">Daybreak Sessions with Justin</title>
+    <desc lang="en">Join Justin every weekday morning for "Daybreak Sessions," where he sets the perfect easy dance music vibe to kickstart your day. Tune in to One World Radio and let Justin accompany you through your morning routine with smooth tunes and positive vibes.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1337008551.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240617120000+0200" stop="20240617130000+0200">
+    <title lang="en">Meet The World with Camille</title>
+    <desc lang="en">Tune in to "Meet The World with Camille" every weekday from noon to 13:00 CET. Camille plays the best lunch tunes and takes requests from you, the People of Tomorrow.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334491994.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240617130000+0200" stop="20240617190000+0200">
+    <title lang="en">United Through Music with AdamK</title>
+    <desc lang="en">People of Tomorrow! Unite through the power of music, wherever you are around the world. Tune in to United Through Music with AdamK, exclusively here on One World Radio.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1337028309.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240617190000+0200" stop="20240617210000+0200">
+    <title lang="en">Celebrate The Magic with Greg Jake</title>
+    <desc lang="en">Join the People of Tomorrow celebrating the magic with Greg Jake, straight from Texas, USA, as he hosts One World Radio every Monday through Thursday, from 19:00 to 21:00 CET.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1334483579.png"/>
+  </programme>
+  <programme channel="OneWorldRadio.be" start="20240617210000+0200" stop="20240618000000+0200">
+    <title lang="en">In The Mix</title>
+    <desc lang="en">Tune in to "In the Mix" for a blend of the latest chart-toppers and timeless classics. One World Radio curates the perfect playlist to keep you grooving.</desc>
+    <category lang="en">Radio</category>
+    <icon src="https://owr-schedule-cdn.tomorrowland.com/1335910342.jpeg"/>
   </programme>
 </tv>
