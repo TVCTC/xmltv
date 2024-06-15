@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-15 05:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-15 06:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240615013634+0000" stop="20240615031544+0000">
-    <title lang="en">Valley Uprising</title>
-    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240615031544+0000" stop="20240615032933+0000">
-    <title lang="en">Travis Rice: 'Old Dog' snowboard edit</title>
-    <desc lang="en">In his 23rd season, Travis takes on the breathtaking 3,700ft vertical drop of the Velvet Castle in BC, Canada.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/6/ckn86ackhujmc0zmsjqu/travis-rice-old-dog-snowboarding"/>
-  </programme>
   <programme channel="redbull.com" start="20240615032933+0000" stop="20240615042209+0000">
     <title lang="en">Brad Binder: Becoming 33</title>
     <desc lang="en">Brad Binder has earned his shot at MotoGP™ glory – see him take on the monumental challenge.</desc>
@@ -124,5 +112,17 @@
     <desc lang="en">Watch eight quintessentially British vehicles take on the ultimate motorsports challenge: dodging traffic.</desc>
     <category lang="en">F1</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/7/7/mmqdxvfr74rqap7h2kd3/boy-racer-car-ford-best-of-british"/>
+  </programme>
+  <programme channel="redbull.com" start="20240615090000+0000" stop="20240615103000+0000">
+    <title lang="en">Crankworx: Dual Slalom – Innsbruck</title>
+    <desc lang="en">Watch the Dual Slalom at the seventh edition of Crankworx Innsbruck. </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/11/wyxpnfxf80qjew71c8bj/harriet-burbidge-smith-dual-slalom-crankworx-whistler-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240615103000+0000" stop="20240615104107+0000">
+    <title lang="en">2017's best runs</title>
+    <desc lang="en">Every year the racers get faster. In 2017 the gadgets included the fastest musical drum set in history.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/gswa9r6s338cugpekony/red-bull-soapbox-valkenburg-netherlands-2017"/>
   </programme>
 </tv>
