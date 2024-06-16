@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-16 23:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-17 00:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240616203415+0000" stop="20240616205645+0000">
-    <title lang="en">Morocco</title>
-    <desc lang="en">Ashton Goggans guides you through Morocco to discover why it's one of surfing’s fastest growing hotspots.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/qkw1zzldvoa8eczq26nq/alan-van-gysen-no-contest-s2-e2-morocco"/>
-  </programme>
-  <programme channel="redbull.com" start="20240616205645+0000" stop="20240616212145+0000">
-    <title lang="en">No Contest: Surfing San Francisco</title>
-    <desc lang="en">Dive into the fray and get to meet one of surfing’s most hardcore communities.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/dghbrw5pjopeieu0komh/jamie-obrien-no-contest-s2-e1-san-francisco"/>
-  </programme>
-  <programme channel="redbull.com" start="20240616212145+0000" stop="20240616214651+0000">
-    <title lang="en">South Africa</title>
-    <desc lang="en">Let Ashton Goggans be your tour guide along South Africa’s wave-rich coastline from Durban to Cape Town.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/zzvtv9xuihj5vehbuyk4/crew-no-contest-s2-e4-south-africa"/>
-  </programme>
-  <programme channel="redbull.com" start="20240616214651+0000" stop="20240616221051+0000">
-    <title lang="en">Tahiti</title>
-    <desc lang="en">Michel Bourez and Kauli Vaast take you on a tour of beautiful islands of Tahiti. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/uywqkknj6cylyanrdz1n/kauli-vaast-no-contest-s2-e3-tahiti"/>
-  </programme>
   <programme channel="redbull.com" start="20240616221051+0000" stop="20240617004127+0000">
     <title lang="en">Crankworx: Slopestyle – Innsbruck</title>
     <desc lang="en">Watch the Slopestyle at the seventh edition of Crankworx Innsbruck.  </desc>
@@ -124,5 +100,29 @@
     <desc lang="en">Max Verstappen, Sergio Pérez, Daniel Ricciardo and Yuki Tsunoda race Can-Am Commanders in Melbourne.</desc>
     <category lang="en">F1</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/26/etwkgwg3yejpuljcvcqz/max-verstappen-and-sergio-perez-unserious-race-melbourne"/>
+  </programme>
+  <programme channel="redbull.com" start="20240617041811+0000" stop="20240617042225+0000">
+    <title lang="en">Ricciardo vs Tsunoda in mini jet boats</title>
+    <desc lang="en">Watch Daniel Ricciardo and Yuki Tsunoda race each other in mini jet boats ahead of the Miami Grand Prix.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/8/zt9ruex6wv9lfkqtstfm/yuki-tsunoda-daniel-ricciardo-red-bull-unserious-race-miami-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240617042225+0000" stop="20240617042816+0000">
+    <title lang="en">Verstappen vs Tsunoda in mega trucks</title>
+    <desc lang="en">Watch F1 drivers Max Verstappen and Yuki Tsunoda go head to head in mega trucks at an iron mine in Austria.</desc>
+    <category lang="en">Offroad</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/23/xvt1xohr2ynbvfk4rmkh/unserious-race-austria-max-verstappen-yuki-tsunoda"/>
+  </programme>
+  <programme channel="redbull.com" start="20240617042816+0000" stop="20240617044546+0000">
+    <title lang="en">Before &amp; after: Griffin Colapinto </title>
+    <desc lang="en">A surf town rallies behind their homegrown, hometown hero as he chases the glory of becoming a world champ.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/4/t6jf6zxpowosnau0i8zo/in-plain-sight-s2-e3-griffin-colapinto"/>
+  </programme>
+  <programme channel="redbull.com" start="20240617044546+0000" stop="20240617045800+0000">
+    <title lang="en">City Surf Project</title>
+    <desc lang="en">Most San Francisco inner-city youth have never been in the ocean. City Surf aims to change that.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/yjrnixpnb0agq1i9ec8w/the-city-surf-project-san-francisco"/>
   </programme>
 </tv>
