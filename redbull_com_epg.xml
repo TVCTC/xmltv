@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-17 21:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-17 22:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240617184841+0000" stop="20240617191317+0000">
-    <title lang="en">Tahiti</title>
-    <desc lang="en">Michel Bourez and Kauli Vaast take you on a tour of beautiful islands of Tahiti. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/uywqkknj6cylyanrdz1n/kauli-vaast-no-contest-s2-e3-tahiti"/>
-  </programme>
-  <programme channel="redbull.com" start="20240617191317+0000" stop="20240617202247+0000">
-    <title lang="en">The Old World</title>
-    <desc lang="en">Traverse iconic European locations in a celebration of biking culture that unites MTB and BMX.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual"/>
-  </programme>
-  <programme channel="redbull.com" start="20240617202247+0000" stop="20240617204915+0000">
-    <title lang="en">ABC of... Cliff diving</title>
-    <desc lang="en">There's an art to falling – learn all about it as top divers give an inside look at cliff diving.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-21728H81DBH11/orlando-duque-cliff-jumping-chile"/>
-  </programme>
   <programme channel="redbull.com" start="20240617204915+0000" stop="20240617205739+0000">
     <title lang="en">F1 drivers vs hovercraft </title>
     <desc lang="en">Watch F1 drivers go head-to-head in sci-fi hovercraft racing, deep in the desert outside Las Vegas.</desc>
@@ -118,5 +100,23 @@
     <desc lang="en">Every year the racers get faster. In 2017 the gadgets included the fastest musical drum set in history.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/gswa9r6s338cugpekony/red-bull-soapbox-valkenburg-netherlands-2017"/>
+  </programme>
+  <programme channel="redbull.com" start="20240618010431+0000" stop="20240618011410+0000">
+    <title lang="en">2015's best runs</title>
+    <desc lang="en">Flying bodywork, broken steering, a royal family and some really rapid runs star in 2015's fastest highlights.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/pzjag9xser2fklmxq8ye/team-pasatararri-red-bull-soapbox-race-2015-montreal"/>
+  </programme>
+  <programme channel="redbull.com" start="20240618011410+0000" stop="20240618012210+0000">
+    <title lang="en">2014's best runs</title>
+    <desc lang="en">Which teams pushed the fear to one side and smashed the speed limits in 2014? Hit play and find out.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/vipmfhqzdhan0i0hxnbh/team-pulaster-red-bull-soapbox-race-turin-2014"/>
+  </programme>
+  <programme channel="redbull.com" start="20240618012210+0000" stop="20240618013940+0000">
+    <title lang="en">Before &amp; after: Griffin Colapinto </title>
+    <desc lang="en">A surf town rallies behind their homegrown, hometown hero as he chases the glory of becoming a world champ.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/4/t6jf6zxpowosnau0i8zo/in-plain-sight-s2-e3-griffin-colapinto"/>
   </programme>
 </tv>
