@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-17 06:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-17 07:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240617011659+0000" stop="20240617020307+0000">
+    <title lang="en">Lil Zoo: Breaking Chose Me</title>
+    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
+    <category lang="en">Breaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
+  </programme>
+  <programme channel="redbull.com" start="20240617020307+0000" stop="20240617021819+0000">
+    <title lang="en">London</title>
+    <desc lang="en">Explore the skate scene of one of the world's greatest cities with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/11/db1q41ssfmyfyq4z2jtx/margielyn-dida-london-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240617021819+0000" stop="20240617023212+0000">
+    <title lang="en">Manchester</title>
+    <desc lang="en">Explore the thriving skate scene in Manchester, England, with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/11/y4xxcffmobvgt4aga7al/eddie-belvedere-manchester-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240617023212+0000" stop="20240617024910+0000">
+    <title lang="en">Philadelphia</title>
+    <desc lang="en">Go street-level in one of skating's most influential cities with the locals who make up the Philly scene.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ntnymqjwzliurs3sel8r/jahmir-brown-switch-backtail-colin-kerrigan"/>
+  </programme>
   <programme channel="redbull.com" start="20240617024910+0000" stop="20240617030720+0000">
     <title lang="en">Santiago</title>
     <desc lang="en">Around 20,000 skateboarders live in the greater metropolitan area of the Chilean city – let's roll with them!</desc>
@@ -94,29 +118,5 @@
     <desc lang="en">The pride of Oceanside, California, shows us the streets that raised one of the top surfers in the world.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/4/to130faut2ovr70trka6/in-plain-sight-s2-e4-caity-simmers"/>
-  </programme>
-  <programme channel="redbull.com" start="20240617052723+0000" stop="20240617053402+0000">
-    <title lang="en">Subjects: Carissa Moore</title>
-    <desc lang="en">Surfer Carissa Moore looks through a scrapbook of moments in her career. Her reactions do the talking!</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/7/n3vhq92gxcqhhrqkj3dh/in-plain-sight-s2-e1-carissa-moore-surfing"/>
-  </programme>
-  <programme channel="redbull.com" start="20240617053402+0000" stop="20240617054054+0000">
-    <title lang="en">Subjects: Kolohe Andino</title>
-    <desc lang="en">In the midst of the weirdest but best year of his life, Kolohe Andino reveals a side of him previously unseen.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/if3ghpddzrewbxgiru8r/kolohe-andino-surfing"/>
-  </programme>
-  <programme channel="redbull.com" start="20240617054054+0000" stop="20240617054959+0000">
-    <title lang="en">The surfing magician</title>
-    <desc lang="en">Zoltan Torkos is the kickflipping magician who lit the surf world on fire at Santa Cruz, California.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/1/5/teqalmhkd6t5lo7fcgcg/in-plain-sight-s1-e2-zoltan-torkos-surfing"/>
-  </programme>
-  <programme channel="redbull.com" start="20240617054959+0000" stop="20240617060322+0000">
-    <title lang="en">Greetings From: Skate Virginia</title>
-    <desc lang="en">Enjoy a different side of American skateboarding culture, ripping up the Virginia skate scene with the locals.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/28/ijmidoos7d2qrhrq4ghh/greetings-from-s2-e3-virginia-usa-gilbert-crockett"/>
   </programme>
 </tv>
