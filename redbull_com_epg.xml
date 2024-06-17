@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-17 23:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-18 00:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240617173605+0000" stop="20240617175911+0000">
-    <title lang="en">Morocco</title>
-    <desc lang="en">Ashton Goggans guides you through Morocco to discover why it's one of surfing’s fastest growing hotspots.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/qkw1zzldvoa8eczq26nq/alan-van-gysen-no-contest-s2-e2-morocco"/>
-  </programme>
-  <programme channel="redbull.com" start="20240617175911+0000" stop="20240617182411+0000">
-    <title lang="en">No Contest: Surfing San Francisco</title>
-    <desc lang="en">Dive into the fray and get to meet one of surfing’s most hardcore communities.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/dghbrw5pjopeieu0komh/jamie-obrien-no-contest-s2-e1-san-francisco"/>
-  </programme>
-  <programme channel="redbull.com" start="20240617182411+0000" stop="20240617184841+0000">
-    <title lang="en">South Africa</title>
-    <desc lang="en">Let Ashton Goggans be your tour guide along South Africa’s wave-rich coastline from Durban to Cape Town.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/zzvtv9xuihj5vehbuyk4/crew-no-contest-s2-e4-south-africa"/>
-  </programme>
-  <programme channel="redbull.com" start="20240617184841+0000" stop="20240617191317+0000">
-    <title lang="en">Tahiti</title>
-    <desc lang="en">Michel Bourez and Kauli Vaast take you on a tour of beautiful islands of Tahiti. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/uywqkknj6cylyanrdz1n/kauli-vaast-no-contest-s2-e3-tahiti"/>
-  </programme>
   <programme channel="redbull.com" start="20240617191317+0000" stop="20240617202247+0000">
     <title lang="en">The Old World</title>
     <desc lang="en">Traverse iconic European locations in a celebration of biking culture that unites MTB and BMX.</desc>
@@ -124,5 +100,29 @@
     <desc lang="en">Around 20,000 skateboarders live in the greater metropolitan area of the Chilean city – let's roll with them!</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/19/zixv84jil6trsarsyjxb/marcelo-jimenez"/>
+  </programme>
+  <programme channel="redbull.com" start="20240618004448+0000" stop="20240618005411+0000">
+    <title lang="en">2018's best runs</title>
+    <desc lang="en">Italian bagpipes and South Africa's fastest Stone Age soapbox made the cut among 2018's very best runs.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/pm6zgr2tqmnkc2jfehhf/red-bull-soapbox-race-rome-2018"/>
+  </programme>
+  <programme channel="redbull.com" start="20240618005411+0000" stop="20240618010431+0000">
+    <title lang="en">2017's best runs</title>
+    <desc lang="en">Every year the racers get faster. In 2017 the gadgets included the fastest musical drum set in history.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/gswa9r6s338cugpekony/red-bull-soapbox-valkenburg-netherlands-2017"/>
+  </programme>
+  <programme channel="redbull.com" start="20240618010431+0000" stop="20240618011410+0000">
+    <title lang="en">2015's best runs</title>
+    <desc lang="en">Flying bodywork, broken steering, a royal family and some really rapid runs star in 2015's fastest highlights.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/pzjag9xser2fklmxq8ye/team-pasatararri-red-bull-soapbox-race-2015-montreal"/>
+  </programme>
+  <programme channel="redbull.com" start="20240618011410+0000" stop="20240618012210+0000">
+    <title lang="en">2014's best runs</title>
+    <desc lang="en">Which teams pushed the fear to one side and smashed the speed limits in 2014? Hit play and find out.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/vipmfhqzdhan0i0hxnbh/team-pulaster-red-bull-soapbox-race-turin-2014"/>
   </programme>
 </tv>
