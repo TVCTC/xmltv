@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-20 06:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-20 07:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240620012534+0000" stop="20240620024415+0000">
+    <title lang="en">Highlight Show Rampage 2023</title>
+    <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.  </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/kp92a5bvrxlsmsyjrtfz/jaxson-riddle"/>
+  </programme>
   <programme channel="redbull.com" start="20240620024415+0000" stop="20240620042324+0000">
     <title lang="en">Valley Uprising</title>
     <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
@@ -118,11 +124,5 @@
     <desc lang="en">Max Verstappen, Sergio Pérez, Daniel Ricciardo and Yuki Tsunoda race Can-Am Commanders in Melbourne.</desc>
     <category lang="en">F1</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/26/etwkgwg3yejpuljcvcqz/max-verstappen-and-sergio-perez-unserious-race-melbourne"/>
-  </programme>
-  <programme channel="redbull.com" start="20240620121431+0000" stop="20240620121845+0000">
-    <title lang="en">Ricciardo vs Tsunoda in mini jet boats</title>
-    <desc lang="en">Watch Daniel Ricciardo and Yuki Tsunoda race each other in mini jet boats ahead of the Miami Grand Prix.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/8/zt9ruex6wv9lfkqtstfm/yuki-tsunoda-daniel-ricciardo-red-bull-unserious-race-miami-2023"/>
   </programme>
 </tv>
