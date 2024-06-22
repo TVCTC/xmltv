@@ -1,58 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-22 17:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-22 18:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240622105221+0000" stop="20240622121334+0000">
-    <title lang="en">Against the Odds</title>
-    <desc lang="en">Team OG defied the odds – witness their esports journey to Dota 2 glory at TI8. </desc>
-    <category lang="en">Gaming</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-2175QTR85BH11/fo-2175qtr85bh11-featuremedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20240622121334+0000" stop="20240622122843+0000">
-    <title lang="en">From 0 to 100</title>
-    <desc lang="en">Learn how Henrique Avancini, the first mountain biker to leave Brazil, earned the number 1 spot in the world.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/6/e1spnbmojb6xxjzbqtsq/henrique-avancini-uci-xc-mtb-world-cup-snowshoe-usa-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240622122843+0000" stop="20240622124428+0000">
-    <title lang="en">Back home</title>
-    <desc lang="en">After a complicated season, Henrique Avancini realises a dream: to compete in a World Cup stage in Brazil.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/6/u7skpijggav7e5bvvlay/henrique-avancini-uci-mtb-world-cup-petropolis-brazil-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240622124428+0000" stop="20240622130032+0000">
-    <title lang="en">A major rival</title>
-    <desc lang="en">Learn the story of Henrique Avancini's rivalry with fellow mountain bike rider Nino Schurter.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/19/ns0kbfgyug9fjam1c2kw/henrique-avancini-nino-schurter-uci-xcc-world-cup-petropolis-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240622130032+0000" stop="20240622131530+0000">
-    <title lang="en">Under pressure</title>
-    <desc lang="en">In an explosive short track race, Henrique faces the pressure of competing in front of his home crowd.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/13/vw4q9c9byg3jat4zu5em/henrique-avancini-uci-xc-world-cup-petropolis-brazil-april-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240622131530+0000" stop="20240622133116+0000">
-    <title lang="en">The big moment</title>
-    <desc lang="en">Henrique reflects after a disappointing cross-country result at Petrópolis, Brazil – his home ground.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/13/xpgvrt0lioswogaiqaxl/henrique-avancini-uci-xcc-world-cup-petropolis-brazil-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240622133116+0000" stop="20240622145539+0000">
-    <title lang="en">CEB: A Major Comeback</title>
-    <desc lang="en">Dota 2 player Sébastien Debs returns from retirement to help his team win at an ESL One Stockholm Major. </desc>
-    <category lang="en">Gaming</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/15/lm4ec2wd1auw8lz6eh2s/sebastien-debs"/>
-  </programme>
-  <programme channel="redbull.com" start="20240622145539+0000" stop="20240622154715+0000">
-    <title lang="en">Shires</title>
-    <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/29/rpfuqolbq2fpzctqjxgu/shires-rob-warner-bike-film"/>
-  </programme>
   <programme channel="redbull.com" start="20240622154715+0000" stop="20240622174912+0000">
     <title lang="en">Mission to the Edge of Space</title>
     <desc lang="en">In 2012, after five years of struggle and setbacks, Felix Baumgartner jumped from space down to Earth.</desc>
@@ -124,5 +76,41 @@
     <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
     <category lang="en">Breaking</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
+  </programme>
+  <programme channel="redbull.com" start="20240623000735+0000" stop="20240623002521+0000">
+    <title lang="en">Reset</title>
+    <desc lang="en">Kai Lenny's balancing act looks different in 2023, and his home life and performance goals are ready to reset.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/13/otdspjrmavrpts3qjaty/kai-lenny-surf-life-of-kai-s3-e1"/>
+  </programme>
+  <programme channel="redbull.com" start="20240623002521+0000" stop="20240623004457+0000">
+    <title lang="en">Proving ground (part 1)</title>
+    <desc lang="en">The Eddie is on and Kai Lenny has plenty to prove on the North Shore of Oahu at both Pipeline and Waimea Bay.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/11/a1vmkblr0jd3ftqkfu69/life-of-kai-backdoor-shoutout"/>
+  </programme>
+  <programme channel="redbull.com" start="20240623004457+0000" stop="20240623010718+0000">
+    <title lang="en">Proving ground (part 2)</title>
+    <desc lang="en">Kai Lenny chases a dream win at The Eddie then takes on the World Tour’s best pro surfers at Sunset Beach.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/5/kqgfmcysszcob5il70wy/kai-lenny-the-eddie"/>
+  </programme>
+  <programme channel="redbull.com" start="20240623010718+0000" stop="20240623013126+0000">
+    <title lang="en">Alaska</title>
+    <desc lang="en">At mid-season, Kai Lenny heads to Alaska for surf and snow heli sessions with snowboarding icon Travis Rice.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/16/crhbstuitk2ipmpamtae/kai-lenny-alaska-life-of-kai-s3-e4"/>
+  </programme>
+  <programme channel="redbull.com" start="20240623013126+0000" stop="20240623015156+0000">
+    <title lang="en">Strike</title>
+    <desc lang="en">Kai Lenny goes on a 24-hour strike mission to Tahiti and pushes the limits of what’s possible in the ocean.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/16/bkkpecvbdqoelndaf9rx/kai-lenny-life-of-kai-s3"/>
+  </programme>
+  <programme channel="redbull.com" start="20240623015156+0000" stop="20240623021752+0000">
+    <title lang="en">Rescue</title>
+    <desc lang="en">Kai Lenny kicks off the big wave season at Jaws and faces the risks that come with his pursuit of progression.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/19/jva9enrtrwaujjfkul2q/kai-lenny-jaws-surfing"/>
   </programme>
 </tv>
