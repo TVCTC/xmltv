@@ -1,86 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-22 11:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-22 12:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240622013458+0000" stop="20240622020057+0000">
+  <programme channel="redbull.com" start="20240622085242+0000" stop="20240622091842+0000">
+    <title lang="en">Highlights – Puerto Cabello Premier Padel P2</title>
+    <desc lang="en">Watch the highlights of the fourth stop of the season in Venezuela for the Puerto Cabello Premier Padel P2. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/4/iqmgalloe5lthvm6jgma/suzanne-casey-premier-padel-2024-puerto-cabello-p2"/>
+  </programme>
+  <programme channel="redbull.com" start="20240622091842+0000" stop="20240622094451+0000">
+    <title lang="en">Highlights – Brussels Premier Padel P2</title>
+    <desc lang="en">Watch the highlights of the fifth stop of the season in Belgium for the Brussels Premier Padel P2. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/zjzvsbcyjhp7htwrzgpu/beatriz-gonzalez-fernandez-doha-2024-padel"/>
+  </programme>
+  <programme channel="redbull.com" start="20240622094451+0000" stop="20240622101126+0000">
     <title lang="en">Highlights – Sevilla Premier Padel P2</title>
     <desc lang="en">Watch the highlights of the sixth stop of the season in Spain from the Premier Padel Andalucia Sevilla P2.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/suuv67u1shx4acshfred/premier-padel-milan-match"/>
   </programme>
-  <programme channel="redbull.com" start="20240622020057+0000" stop="20240622022403+0000">
-    <title lang="en">Morocco</title>
-    <desc lang="en">Ashton Goggans guides you through Morocco to discover why it's one of surfing’s fastest growing hotspots.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/qkw1zzldvoa8eczq26nq/alan-van-gysen-no-contest-s2-e2-morocco"/>
-  </programme>
-  <programme channel="redbull.com" start="20240622022403+0000" stop="20240622024903+0000">
-    <title lang="en">No Contest: Surfing San Francisco</title>
-    <desc lang="en">Dive into the fray and get to meet one of surfing’s most hardcore communities.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/dghbrw5pjopeieu0komh/jamie-obrien-no-contest-s2-e1-san-francisco"/>
-  </programme>
-  <programme channel="redbull.com" start="20240622024903+0000" stop="20240622031333+0000">
-    <title lang="en">South Africa</title>
-    <desc lang="en">Let Ashton Goggans be your tour guide along South Africa’s wave-rich coastline from Durban to Cape Town.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/zzvtv9xuihj5vehbuyk4/crew-no-contest-s2-e4-south-africa"/>
-  </programme>
-  <programme channel="redbull.com" start="20240622031333+0000" stop="20240622033809+0000">
-    <title lang="en">Tahiti</title>
-    <desc lang="en">Michel Bourez and Kauli Vaast take you on a tour of beautiful islands of Tahiti. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/uywqkknj6cylyanrdz1n/kauli-vaast-no-contest-s2-e3-tahiti"/>
-  </programme>
-  <programme channel="redbull.com" start="20240621221537+0000" stop="20240621232507+0000">
-    <title lang="en">The Old World</title>
-    <desc lang="en">Traverse iconic European locations in a celebration of biking culture that unites MTB and BMX.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual"/>
-  </programme>
-  <programme channel="redbull.com" start="20240622044738+0000" stop="20240622051407+0000">
-    <title lang="en">ABC of... Cliff diving</title>
-    <desc lang="en">There's an art to falling – learn all about it as top divers give an inside look at cliff diving.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-21728H81DBH11/orlando-duque-cliff-jumping-chile"/>
-  </programme>
-  <programme channel="redbull.com" start="20240622051407+0000" stop="20240622060000+0000">
-    <title lang="en">Red Bull Drift Masters</title>
-    <desc lang="en">Strap in for some full-throttle action as we look back on the world's most thrilling drifting event.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/12/gixrm4euhxciusfuhj24/red-bull-drift-masters-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240622060000+0000" stop="20240622065358+0000">
-    <title lang="en">Ice Waterfalls</title>
-    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
+  <programme channel="redbull.com" start="20240622101126+0000" stop="20240622102527+0000">
+    <title lang="en">Chasing the Patagonia Triple Crown</title>
+    <desc lang="en">Follow Nouria Newman, Erik Boomer and Ben Stookesberry as they pursue the Patagonia Triple Crown.</desc>
     <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/15/n9e71buasfvbbdzzu7di/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/09/11/495174a4-e76b-4e06-b59f-870e46ef3371/nouria-newman-patagonia"/>
   </programme>
-  <programme channel="redbull.com" start="20240622065358+0000" stop="20240622073500+0000">
-    <title lang="en">Chumbo: Made for Big Wave Surfing</title>
-    <desc lang="en">Get a glimpse into Lucas Chianca's life as he balances chasing big waves with looking after his family.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/9/wlapw5hodyuia7ry8ksp/lucas-chianca-chumbo-made-for-big-wave-surfing-header"/>
+  <programme channel="redbull.com" start="20240622102527+0000" stop="20240622103755+0000">
+    <title lang="en">Exploring Patagonia’s Rio Blanco</title>
+    <desc lang="en">Aniol Serrasolses and Nouria Newman explore Rio Blanco for a first descent, from a glacial lake to the ocean.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/7/umwndrb0tzst6ofrr49a/aniol-serrasolses-nouria-newman-rio-blanco-kayak"/>
   </programme>
-  <programme channel="redbull.com" start="20240621232507+0000" stop="20240621235058+0000">
-    <title lang="en">Highlights – Riyadh Premier Padel P1</title>
-    <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
+  <programme channel="redbull.com" start="20240622103755+0000" stop="20240622105221+0000">
+    <title lang="en">Solo kayaking in the Himalayas</title>
+    <desc lang="en">Follow kayaker Nouria Newman's vlog as she embarks on a treacherous solo expedition in the Himalayas.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Y5X3DHC15N11/FO-1Y5X3DHC15N11-featureMedia"/>
   </programme>
-  <programme channel="redbull.com" start="20240621235058+0000" stop="20240622001700+0000">
-    <title lang="en">Highlights – Qatar Major Premier Padel</title>
-    <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
+  <programme channel="redbull.com" start="20240622105221+0000" stop="20240622121334+0000">
+    <title lang="en">Against the Odds</title>
+    <desc lang="en">Team OG defied the odds – witness their esports journey to Dota 2 glory at TI8. </desc>
+    <category lang="en">Gaming</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-2175QTR85BH11/fo-2175qtr85bh11-featuremedia"/>
   </programme>
-  <programme channel="redbull.com" start="20240622001700+0000" stop="20240622004213+0000">
-    <title lang="en">Highlights – Acapulco Premier Padel P1</title>
-    <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
+  <programme channel="redbull.com" start="20240622121334+0000" stop="20240622122843+0000">
+    <title lang="en">From 0 to 100</title>
+    <desc lang="en">Learn how Henrique Avancini, the first mountain biker to leave Brazil, earned the number 1 spot in the world.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/6/e1spnbmojb6xxjzbqtsq/henrique-avancini-uci-xc-mtb-world-cup-snowshoe-usa-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240622122843+0000" stop="20240622124428+0000">
+    <title lang="en">Back home</title>
+    <desc lang="en">After a complicated season, Henrique Avancini realises a dream: to compete in a World Cup stage in Brazil.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/6/u7skpijggav7e5bvvlay/henrique-avancini-uci-mtb-world-cup-petropolis-brazil-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240622124428+0000" stop="20240622130032+0000">
+    <title lang="en">A major rival</title>
+    <desc lang="en">Learn the story of Henrique Avancini's rivalry with fellow mountain bike rider Nino Schurter.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/19/ns0kbfgyug9fjam1c2kw/henrique-avancini-nino-schurter-uci-xcc-world-cup-petropolis-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240622130032+0000" stop="20240622131530+0000">
+    <title lang="en">Under pressure</title>
+    <desc lang="en">In an explosive short track race, Henrique faces the pressure of competing in front of his home crowd.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/13/vw4q9c9byg3jat4zu5em/henrique-avancini-uci-xc-world-cup-petropolis-brazil-april-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240622131530+0000" stop="20240622133116+0000">
+    <title lang="en">The big moment</title>
+    <desc lang="en">Henrique reflects after a disappointing cross-country result at Petrópolis, Brazil – his home ground.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/13/xpgvrt0lioswogaiqaxl/henrique-avancini-uci-xcc-world-cup-petropolis-brazil-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240622133116+0000" stop="20240622145539+0000">
+    <title lang="en">CEB: A Major Comeback</title>
+    <desc lang="en">Dota 2 player Sébastien Debs returns from retirement to help his team win at an ESL One Stockholm Major. </desc>
+    <category lang="en">Gaming</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/15/lm4ec2wd1auw8lz6eh2s/sebastien-debs"/>
+  </programme>
+  <programme channel="redbull.com" start="20240622145539+0000" stop="20240622154715+0000">
+    <title lang="en">Shires</title>
+    <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/29/rpfuqolbq2fpzctqjxgu/shires-rob-warner-bike-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20240622154715+0000" stop="20240622174912+0000">
+    <title lang="en">Mission to the Edge of Space</title>
+    <desc lang="en">In 2012, after five years of struggle and setbacks, Felix Baumgartner jumped from space down to Earth.</desc>
+    <category lang="en">BASE Jumping</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/12/nkg1kpvxgomproepk626/missiontotheedgeofspace"/>
+  </programme>
+  <programme channel="redbull.com" start="20240622174912+0000" stop="20240622181936+0000">
+    <title lang="en">No I in team</title>
+    <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/5/dzfbz2heksvcugo7d5dr/jolanda-neff-uci-xco-world-cup-val-di-sole-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240622181936+0000" stop="20240622184759+0000">
+    <title lang="en">Apex predators </title>
+    <desc lang="en">In the downhill, Finn Iles struggles to beat his biggest competitor, team-mate Loïc Bruni.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/szk42xiugjm6ltrburtf/finn-iles"/>
+  </programme>
+  <programme channel="redbull.com" start="20240622184759+0000" stop="20240622191948+0000">
+    <title lang="en">Adapt or perish</title>
+    <desc lang="en">A wave of younger, faster competitors force 'old dogs to learn new tricks' to stay in the results sheet. </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/qjq0alzb0bk4pwfkj1os/jackson-goldstone"/>
+  </programme>
+  <programme channel="redbull.com" start="20240622191948+0000" stop="20240622194638+0000">
+    <title lang="en">Iron sharpens iron</title>
+    <desc lang="en">Mathias Flückiger and Nino Schurter confront the bitter rivalry of Swiss MTB cross-country racing.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/aleq0pywjxtowwjzjynt/mathias-fluckiger"/>
   </programme>
 </tv>
