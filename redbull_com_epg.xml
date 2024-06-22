@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-22 07:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-22 08:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240622044738+0000" stop="20240622051407+0000">
-    <title lang="en">ABC of... Cliff diving</title>
-    <desc lang="en">There's an art to falling – learn all about it as top divers give an inside look at cliff diving.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-21728H81DBH11/orlando-duque-cliff-jumping-chile"/>
-  </programme>
   <programme channel="redbull.com" start="20240622051407+0000" stop="20240622060000+0000">
     <title lang="en">Red Bull Drift Masters</title>
     <desc lang="en">Strap in for some full-throttle action as we look back on the world's most thrilling drifting event.</desc>
@@ -118,5 +112,17 @@
     <desc lang="en">Henrique reflects after a disappointing cross-country result at Petrópolis, Brazil – his home ground.</desc>
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/13/xpgvrt0lioswogaiqaxl/henrique-avancini-uci-xcc-world-cup-petropolis-brazil-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240622133116+0000" stop="20240622145539+0000">
+    <title lang="en">CEB: A Major Comeback</title>
+    <desc lang="en">Dota 2 player Sébastien Debs returns from retirement to help his team win at an ESL One Stockholm Major. </desc>
+    <category lang="en">Gaming</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/15/lm4ec2wd1auw8lz6eh2s/sebastien-debs"/>
+  </programme>
+  <programme channel="redbull.com" start="20240622145539+0000" stop="20240622154715+0000">
+    <title lang="en">Shires</title>
+    <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/29/rpfuqolbq2fpzctqjxgu/shires-rob-warner-bike-film"/>
   </programme>
 </tv>
