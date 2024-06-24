@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-24 23:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-25 00:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240624204136+0000" stop="20240624213534+0000">
-    <title lang="en">Ice Waterfalls</title>
-    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/15/n9e71buasfvbbdzzu7di/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
-  </programme>
   <programme channel="redbull.com" start="20240624213534+0000" stop="20240624221636+0000">
     <title lang="en">Chumbo: Made for Big Wave Surfing</title>
     <desc lang="en">Get a glimpse into Lucas Chianca's life as he balances chasing big waves with looking after his family.</desc>
@@ -94,5 +88,41 @@
     <desc lang="en">Learn the story of Henrique Avancini's rivalry with fellow mountain bike rider Nino Schurter.</desc>
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/19/ns0kbfgyug9fjam1c2kw/henrique-avancini-nino-schurter-uci-xcc-world-cup-petropolis-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240625034208+0000" stop="20240625035706+0000">
+    <title lang="en">Under pressure</title>
+    <desc lang="en">In an explosive short track race, Henrique faces the pressure of competing in front of his home crowd.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/13/vw4q9c9byg3jat4zu5em/henrique-avancini-uci-xc-world-cup-petropolis-brazil-april-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240625035706+0000" stop="20240625041252+0000">
+    <title lang="en">The big moment</title>
+    <desc lang="en">Henrique reflects after a disappointing cross-country result at Petrópolis, Brazil – his home ground.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/13/xpgvrt0lioswogaiqaxl/henrique-avancini-uci-xcc-world-cup-petropolis-brazil-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240625041252+0000" stop="20240625053715+0000">
+    <title lang="en">CEB: A Major Comeback</title>
+    <desc lang="en">Dota 2 player Sébastien Debs returns from retirement to help his team win at an ESL One Stockholm Major. </desc>
+    <category lang="en">Gaming</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/15/lm4ec2wd1auw8lz6eh2s/sebastien-debs"/>
+  </programme>
+  <programme channel="redbull.com" start="20240625053715+0000" stop="20240625060000+0000">
+    <title lang="en">Proving ground (part 2)</title>
+    <desc lang="en">Kai Lenny chases a dream win at The Eddie then takes on the World Tour’s best pro surfers at Sunset Beach.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/5/kqgfmcysszcob5il70wy/kai-lenny-the-eddie"/>
+  </programme>
+  <programme channel="redbull.com" start="20240625060000+0000" stop="20240625080156+0000">
+    <title lang="en">Mission to the Edge of Space</title>
+    <desc lang="en">In 2012, after five years of struggle and setbacks, Felix Baumgartner jumped from space down to Earth.</desc>
+    <category lang="en">BASE Jumping</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/12/nkg1kpvxgomproepk626/missiontotheedgeofspace"/>
+  </programme>
+  <programme channel="redbull.com" start="20240625080156+0000" stop="20240625083220+0000">
+    <title lang="en">No I in team</title>
+    <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/5/dzfbz2heksvcugo7d5dr/jolanda-neff-uci-xco-world-cup-val-di-sole-2022"/>
   </programme>
 </tv>
