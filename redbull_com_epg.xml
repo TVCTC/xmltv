@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-25 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-25 05:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240625005302+0000" stop="20240625010703+0000">
-    <title lang="en">Chasing the Patagonia Triple Crown</title>
-    <desc lang="en">Follow Nouria Newman, Erik Boomer and Ben Stookesberry as they pursue the Patagonia Triple Crown.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/09/11/495174a4-e76b-4e06-b59f-870e46ef3371/nouria-newman-patagonia"/>
-  </programme>
-  <programme channel="redbull.com" start="20240625010703+0000" stop="20240625011931+0000">
-    <title lang="en">Exploring Patagonia’s Rio Blanco</title>
-    <desc lang="en">Aniol Serrasolses and Nouria Newman explore Rio Blanco for a first descent, from a glacial lake to the ocean.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/7/umwndrb0tzst6ofrr49a/aniol-serrasolses-nouria-newman-rio-blanco-kayak"/>
-  </programme>
-  <programme channel="redbull.com" start="20240625011931+0000" stop="20240625013357+0000">
-    <title lang="en">Solo kayaking in the Himalayas</title>
-    <desc lang="en">Follow kayaker Nouria Newman's vlog as she embarks on a treacherous solo expedition in the Himalayas.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Y5X3DHC15N11/FO-1Y5X3DHC15N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20240625013357+0000" stop="20240625025510+0000">
     <title lang="en">Against the Odds</title>
     <desc lang="en">Team OG defied the odds – witness their esports journey to Dota 2 glory at TI8. </desc>
@@ -118,5 +100,29 @@
     <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240625124427+0000" stop="20240625125948+0000">
+    <title lang="en">Glasgow</title>
+    <desc lang="en">Explore the legendary skate scene in the Scottish city with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/11/sbftsa5tuhpclvl7inwi/jake-wooten-glasgow-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240625125948+0000" stop="20240625131310+0000">
+    <title lang="en">Greetings From: Skate Virginia</title>
+    <desc lang="en">Enjoy a different side of American skateboarding culture, ripping up the Virginia skate scene with the locals.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/28/ijmidoos7d2qrhrq4ghh/greetings-from-s2-e3-virginia-usa-gilbert-crockett"/>
+  </programme>
+  <programme channel="redbull.com" start="20240625131310+0000" stop="20240625133412+0000">
+    <title lang="en">Johannesburg</title>
+    <desc lang="en">Meet Brandon Valjalo and 30 more top dogs from South Africa's biggest skate scene in our super city report.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/19/l83zakd2ixgnhqzrpljm/brandon-valjalo-backside-tailslide-pimville-diy-skatepark-soweto-sout-africa"/>
+  </programme>
+  <programme channel="redbull.com" start="20240625133412+0000" stop="20240625141944+0000">
+    <title lang="en">Lil Zoo: Breaking Chose Me</title>
+    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
+    <category lang="en">Breaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
   </programme>
 </tv>
