@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-25 20:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-25 21:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240625162924+0000" stop="20240625165931+0000">
-    <title lang="en">Headspace</title>
-    <desc lang="en">Kai Lenny confronts the risks versus rewards of big wave surfing after suffering a serious injury at Pipeline.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/25/ut56kjlvncinr9wmi4zy/kai-lenny-surf"/>
-  </programme>
-  <programme channel="redbull.com" start="20240625165931+0000" stop="20240625170755+0000">
-    <title lang="en">F1 drivers vs hovercraft </title>
-    <desc lang="en">Watch F1 drivers go head-to-head in sci-fi hovercraft racing, deep in the desert outside Las Vegas.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/16/yp3uykk2yvhbnyviock7/f1-drivers-las-vegas-desert"/>
-  </programme>
   <programme channel="redbull.com" start="20240625170755+0000" stop="20240625180154+0000">
     <title lang="en">Ice Waterfalls</title>
     <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
@@ -124,5 +112,17 @@
     <desc lang="en">Dota 2 player Sébastien Debs returns from retirement to help his team win at an ESL One Stockholm Major. </desc>
     <category lang="en">Gaming</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/15/lm4ec2wd1auw8lz6eh2s/sebastien-debs"/>
+  </programme>
+  <programme channel="redbull.com" start="20240626020335+0000" stop="20240626025510+0000">
+    <title lang="en">Shires</title>
+    <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/29/rpfuqolbq2fpzctqjxgu/shires-rob-warner-bike-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20240626025510+0000" stop="20240626045707+0000">
+    <title lang="en">Mission to the Edge of Space</title>
+    <desc lang="en">In 2012, after five years of struggle and setbacks, Felix Baumgartner jumped from space down to Earth.</desc>
+    <category lang="en">BASE Jumping</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/12/nkg1kpvxgomproepk626/missiontotheedgeofspace"/>
   </programme>
 </tv>
