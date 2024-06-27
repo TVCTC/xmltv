@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-27 12:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-27 13:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240627082854+0000" stop="20240627091426+0000">
+    <title lang="en">Lil Zoo: Breaking Chose Me</title>
+    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
+    <category lang="en">Breaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
+  </programme>
+  <programme channel="redbull.com" start="20240627091426+0000" stop="20240627093136+0000">
+    <title lang="en">Reset</title>
+    <desc lang="en">Kai Lenny's balancing act looks different in 2023, and his home life and performance goals are ready to reset.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/13/otdspjrmavrpts3qjaty/kai-lenny-surf-life-of-kai-s3-e1"/>
+  </programme>
+  <programme channel="redbull.com" start="20240627093136+0000" stop="20240627095148+0000">
+    <title lang="en">Proving ground (part 1)</title>
+    <desc lang="en">The Eddie is on and Kai Lenny has plenty to prove on the North Shore of Oahu at both Pipeline and Waimea Bay.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/11/a1vmkblr0jd3ftqkfu69/life-of-kai-backdoor-shoutout"/>
+  </programme>
   <programme channel="redbull.com" start="20240627095148+0000" stop="20240627101409+0000">
     <title lang="en">Proving ground (part 2)</title>
     <desc lang="en">Kai Lenny chases a dream win at The Eddie then takes on the World Tour’s best pro surfers at Sunset Beach.</desc>
@@ -106,23 +124,5 @@
     <desc lang="en">Follow kayaker Nouria Newman's vlog as she embarks on a treacherous solo expedition in the Himalayas.</desc>
     <category lang="en">Kayaking</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Y5X3DHC15N11/FO-1Y5X3DHC15N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20240627165459+0000" stop="20240627181612+0000">
-    <title lang="en">Against the Odds</title>
-    <desc lang="en">Team OG defied the odds – witness their esports journey to Dota 2 glory at TI8. </desc>
-    <category lang="en">Gaming</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-2175QTR85BH11/fo-2175qtr85bh11-featuremedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20240627181612+0000" stop="20240627183121+0000">
-    <title lang="en">From 0 to 100</title>
-    <desc lang="en">Learn how Henrique Avancini, the first mountain biker to leave Brazil, earned the number 1 spot in the world.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/6/e1spnbmojb6xxjzbqtsq/henrique-avancini-uci-xc-mtb-world-cup-snowshoe-usa-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240627183121+0000" stop="20240627184706+0000">
-    <title lang="en">Back home</title>
-    <desc lang="en">After a complicated season, Henrique Avancini realises a dream: to compete in a World Cup stage in Brazil.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/6/u7skpijggav7e5bvvlay/henrique-avancini-uci-mtb-world-cup-petropolis-brazil-2022"/>
   </programme>
 </tv>
