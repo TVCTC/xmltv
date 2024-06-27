@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-27 14:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-27 15:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240627103741+0000" stop="20240627105811+0000">
-    <title lang="en">Strike</title>
-    <desc lang="en">Kai Lenny goes on a 24-hour strike mission to Tahiti and pushes the limits of what’s possible in the ocean.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/16/bkkpecvbdqoelndaf9rx/kai-lenny-life-of-kai-s3"/>
-  </programme>
-  <programme channel="redbull.com" start="20240627105811+0000" stop="20240627112442+0000">
-    <title lang="en">Rescue</title>
-    <desc lang="en">Kai Lenny kicks off the big wave season at Jaws and faces the risks that come with his pursuit of progression.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/19/jva9enrtrwaujjfkul2q/kai-lenny-jaws-surfing"/>
-  </programme>
-  <programme channel="redbull.com" start="20240627112442+0000" stop="20240627115413+0000">
-    <title lang="en">Headspace</title>
-    <desc lang="en">Kai Lenny confronts the risks versus rewards of big wave surfing after suffering a serious injury at Pipeline.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/25/ut56kjlvncinr9wmi4zy/kai-lenny-surf"/>
-  </programme>
   <programme channel="redbull.com" start="20240627115413+0000" stop="20240627120237+0000">
     <title lang="en">F1 drivers vs hovercraft </title>
     <desc lang="en">Watch F1 drivers go head-to-head in sci-fi hovercraft racing, deep in the desert outside Las Vegas.</desc>
@@ -124,5 +106,17 @@
     <desc lang="en">In an explosive short track race, Henrique faces the pressure of competing in front of his home crowd.</desc>
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/13/vw4q9c9byg3jat4zu5em/henrique-avancini-uci-xc-world-cup-petropolis-brazil-april-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240627191731+0000" stop="20240627193354+0000">
+    <title lang="en">The big moment</title>
+    <desc lang="en">Henrique reflects after a disappointing cross-country result at Petrópolis, Brazil – his home ground.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/13/xpgvrt0lioswogaiqaxl/henrique-avancini-uci-xcc-world-cup-petropolis-brazil-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240627193354+0000" stop="20240627205817+0000">
+    <title lang="en">CEB: A Major Comeback</title>
+    <desc lang="en">Dota 2 player Sébastien Debs returns from retirement to help his team win at an ESL One Stockholm Major. </desc>
+    <category lang="en">Gaming</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/15/lm4ec2wd1auw8lz6eh2s/sebastien-debs"/>
   </programme>
 </tv>
