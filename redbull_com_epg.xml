@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-28 10:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-28 11:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240628063645+0000" stop="20240628065906+0000">
-    <title lang="en">Proving ground (part 2)</title>
-    <desc lang="en">Kai Lenny chases a dream win at The Eddie then takes on the World Tour’s best pro surfers at Sunset Beach.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/5/kqgfmcysszcob5il70wy/kai-lenny-the-eddie"/>
-  </programme>
-  <programme channel="redbull.com" start="20240628065906+0000" stop="20240628072314+0000">
-    <title lang="en">Alaska</title>
-    <desc lang="en">At mid-season, Kai Lenny heads to Alaska for surf and snow heli sessions with snowboarding icon Travis Rice.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/16/crhbstuitk2ipmpamtae/kai-lenny-alaska-life-of-kai-s3-e4"/>
-  </programme>
-  <programme channel="redbull.com" start="20240628072314+0000" stop="20240628074345+0000">
-    <title lang="en">Strike</title>
-    <desc lang="en">Kai Lenny goes on a 24-hour strike mission to Tahiti and pushes the limits of what’s possible in the ocean.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/16/bkkpecvbdqoelndaf9rx/kai-lenny-life-of-kai-s3"/>
-  </programme>
   <programme channel="redbull.com" start="20240628074345+0000" stop="20240628080940+0000">
     <title lang="en">Rescue</title>
     <desc lang="en">Kai Lenny kicks off the big wave season at Jaws and faces the risks that come with his pursuit of progression.</desc>
@@ -124,5 +106,17 @@
     <desc lang="en">After a complicated season, Henrique Avancini realises a dream: to compete in a World Cup stage in Brazil.</desc>
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/6/u7skpijggav7e5bvvlay/henrique-avancini-uci-mtb-world-cup-petropolis-brazil-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240628153239+0000" stop="20240628154844+0000">
+    <title lang="en">A major rival</title>
+    <desc lang="en">Learn the story of Henrique Avancini's rivalry with fellow mountain bike rider Nino Schurter.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/19/ns0kbfgyug9fjam1c2kw/henrique-avancini-nino-schurter-uci-xcc-world-cup-petropolis-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240628154844+0000" stop="20240628160305+0000">
+    <title lang="en">Under pressure</title>
+    <desc lang="en">In an explosive short track race, Henrique faces the pressure of competing in front of his home crowd.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/13/vw4q9c9byg3jat4zu5em/henrique-avancini-uci-xc-world-cup-petropolis-brazil-april-2022"/>
   </programme>
 </tv>
