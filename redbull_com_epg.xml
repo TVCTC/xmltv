@@ -1,44 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-29 13:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-29 14:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240629053534+0000" stop="20240629060000+0000">
-    <title lang="en">Morocco</title>
-    <desc lang="en">Ashton Goggans guides you through Morocco to discover why it's one of surfing’s fastest growing hotspots.</desc>
+  <programme channel="redbull.com" start="20240629094834+0000" stop="20240629095658+0000">
+    <title lang="en">F1 drivers vs hovercraft </title>
+    <desc lang="en">Watch F1 drivers go head-to-head in sci-fi hovercraft racing, deep in the desert outside Las Vegas.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/16/yp3uykk2yvhbnyviock7/f1-drivers-las-vegas-desert"/>
+  </programme>
+  <programme channel="redbull.com" start="20240629095658+0000" stop="20240629100446+0000">
+    <title lang="en">Formula One drivers race as Australian surf lifesavers</title>
+    <desc lang="en">Max Verstappen, Sergio Pérez, Daniel Ricciardo and Yuki Tsunoda race Can-Am Commanders in Melbourne.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/26/etwkgwg3yejpuljcvcqz/max-verstappen-and-sergio-perez-unserious-race-melbourne"/>
+  </programme>
+  <programme channel="redbull.com" start="20240629100446+0000" stop="20240629105018+0000">
+    <title lang="en">Lil Zoo: Breaking Chose Me</title>
+    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
+    <category lang="en">Breaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
+  </programme>
+  <programme channel="redbull.com" start="20240629105018+0000" stop="20240629113119+0000">
+    <title lang="en">Chumbo: Made for Big Wave Surfing</title>
+    <desc lang="en">Get a glimpse into Lucas Chianca's life as he balances chasing big waves with looking after his family.</desc>
     <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/qkw1zzldvoa8eczq26nq/alan-van-gysen-no-contest-s2-e2-morocco"/>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/9/wlapw5hodyuia7ry8ksp/lucas-chianca-chumbo-made-for-big-wave-surfing-header"/>
   </programme>
-  <programme channel="redbull.com" start="20240629060000+0000" stop="20240629062551+0000">
-    <title lang="en">Highlights – Riyadh Premier Padel P1</title>
-    <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
+  <programme channel="redbull.com" start="20240629113119+0000" stop="20240629130104+0000">
+    <title lang="en">London, UK</title>
+    <desc lang="en">Engenious, fast and brave is the recipe to success for a man-made-machine race, but who has it all in London?</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/11/rkzzj4pulbfgnuswtsqe/asterix-and-obelix-contra-alexandra-palace-red-bull-soapbox-race-london-2022"/>
   </programme>
-  <programme channel="redbull.com" start="20240629062551+0000" stop="20240629065153+0000">
-    <title lang="en">Highlights – Qatar Major Premier Padel</title>
-    <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
+  <programme channel="redbull.com" start="20240629130104+0000" stop="20240629142527+0000">
+    <title lang="en">The Engine Inside</title>
+    <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film"/>
   </programme>
-  <programme channel="redbull.com" start="20240629065153+0000" stop="20240629071742+0000">
-    <title lang="en">Highlights – Acapulco Premier Padel P1</title>
-    <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
+  <programme channel="redbull.com" start="20240629142527+0000" stop="20240629143619+0000">
+    <title lang="en">Something old, something new</title>
+    <desc lang="en">The MotoGP™ season may be drawing to a close, but it's still a busy time for Jack – on and off the track.</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/eqftbwbhhge3vjbibdhw/jack-miller-valencia-moto-gp"/>
   </programme>
-  <programme channel="redbull.com" start="20240629071742+0000" stop="20240629074342+0000">
-    <title lang="en">Highlights – Puerto Cabello Premier Padel P2</title>
-    <desc lang="en">Watch the highlights of the fourth stop of the season in Venezuela for the Puerto Cabello Premier Padel P2. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/4/iqmgalloe5lthvm6jgma/suzanne-casey-premier-padel-2024-puerto-cabello-p2"/>
+  <programme channel="redbull.com" start="20240629143619+0000" stop="20240629145000+0000">
+    <title lang="en">Jack bids farewell to Ducati</title>
+    <desc lang="en">It's the last two GPs of 2022 and Jack Miller is looking to close it out in style before joining a new team.</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/zriahl1xj3vqdilosad1/fast-track-jack-miller-s1-e10-valencia-motogp-2022"/>
   </programme>
-  <programme channel="redbull.com" start="20240629074342+0000" stop="20240629080951+0000">
-    <title lang="en">Highlights – Brussels Premier Padel P2</title>
-    <desc lang="en">Watch the highlights of the fifth stop of the season in Belgium for the Brussels Premier Padel P2. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/zjzvsbcyjhp7htwrzgpu/beatriz-gonzalez-fernandez-doha-2024-padel"/>
+  <programme channel="redbull.com" start="20240629145000+0000" stop="20240629160036+0000">
+    <title lang="en">Red Bull MotoGP™ Rookies Cup: Assen Race 7</title>
+    <desc lang="en">Watch the first of the races at TT Circuit Assen, a racetrack known as 'The Cathedral' of motorcycling.</desc>
+    <category lang="en">Red Bull Rookies Cup</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SE5BUM7N5N11/FO-1SE5BUM7N5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20240629160036+0000" stop="20240629161049+0000">
+    <title lang="en">Electrifying start to the 2022 MotoGP™ season</title>
+    <desc lang="en">Can the Aussie get off to a flying start at Qatar and cement his place as favourite for the 2022 MotoGP™ title?</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/n57yravlpch0i9k9ipql/fast-track-jack-miller-ep1-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240629161049+0000" stop="20240629162255+0000">
+    <title lang="en">Prankster at work</title>
+    <desc lang="en">Publicity is part of the life of a MotoGP™ driver. Jack's way of handling the media is to be a cheeky joker!</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/21/cbixk3pieycjuly1btge/fast-track-jack-miller-ep2-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240629162255+0000" stop="20240629163349+0000">
+    <title lang="en">Being chased by Marc Márquez </title>
+    <desc lang="en">Will the intense pressure of trying to hold off Marc Márquez derail Jack Miller's hopes in Portimão?</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/11/t1nczkihepc7vpljlkaq/fast-track-jack-miller-s1-ep3"/>
+  </programme>
+  <programme channel="redbull.com" start="20240629163349+0000" stop="20240629164438+0000">
+    <title lang="en">Viva Miller, baby! Jack and Gypsy Tales at Le Mans</title>
+    <desc lang="en">Can Jack Miller get his season back on track in Le Mans where he's joined by his old mate Gypsy Tales?</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/6/23/em8wt7uuhvochogt4h7n/fast-track-jack-miller-s1-e4-motogp-barcelona"/>
+  </programme>
+  <programme channel="redbull.com" start="20240629164438+0000" stop="20240629165731+0000">
+    <title lang="en">Silly season</title>
+    <desc lang="en">With the rumour mill in full swing, Jack Miller's focus is on the track at the Circuit de Barcelona-Catalunya.</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/12/uxwzs553folc4nronxpk/jack-miller-dutch-moto-gp"/>
+  </programme>
+  <programme channel="redbull.com" start="20240629165731+0000" stop="20240629170815+0000">
+    <title lang="en">World Ducati Week 2022 in Misano</title>
+    <desc lang="en">Tag along with Jack Miller as he attends the World Ducati Week 2022 motorcycle rally in Misano, Italy.</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/6/klv3s2gq8xrapw1st16v/jack-miller-at-the-motogp-world-championship-in-le-mans-france-2021"/>
   </programme>
 </tv>
