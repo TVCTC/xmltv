@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.q-dance.com/en/" time-created="2024-06-29 21:27:36">
+<tv generator-info-name="TVCTC" source-info-url="https://www.q-dance.com/en/" time-created="2024-06-29 22:47:01">
   <channel id="q-dance.com">
     <display-name>Q-Dance</display-name>
     <icon src="https://thumbs2.imgbox.com/d1/41/66wxFdP7_t.png"/>
@@ -148,5 +148,11 @@
     <desc lang="en">Can't make it to Defqon.1 this year? We've got you covered. Defqon.1 will be streamed live on the Q-dance YouTube channel from Friday June 28th till Sunday June 30th. Get ready to experience everything the mighty RED has to offer, from The Opening Ceremony to The Closing Ritual!</desc>
     <category lang="en">Live event</category>
     <icon src="https://i.ytimg.com/vi/jMNqnasy-cQ/hqdefault.jpg"/>
+  </programme>
+  <programme channel="q-dance.com" start="20240630180000+0200" stop="20240630230000+0200">
+    <title lang="en">Defqon.1 2024 Live | Sunday | Power of the Tribe 🔴</title>
+    <desc lang="en">Can't make it to Defqon.1 this year? We've got you covered. Defqon.1 will be streamed live on the Q-dance YouTube channel from Friday June 28th till Sunday June 30th. Get ready to experience everything the mighty RED has to offer, from The Opening Ceremony to The Closing Ritual!</desc>
+    <category lang="en">Live event</category>
+    <icon src="https://i.ytimg.com/vi/CHI_JD_Te9k/hqdefault.jpg"/>
   </programme>
 </tv>
