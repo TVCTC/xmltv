@@ -1,58 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-30 14:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-30 15:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240630065436+0000" stop="20240630070224+0000">
-    <title lang="en">Formula One drivers race as Australian surf lifesavers</title>
-    <desc lang="en">Max Verstappen, Sergio Pérez, Daniel Ricciardo and Yuki Tsunoda race Can-Am Commanders in Melbourne.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/26/etwkgwg3yejpuljcvcqz/max-verstappen-and-sergio-perez-unserious-race-melbourne"/>
-  </programme>
-  <programme channel="redbull.com" start="20240630070224+0000" stop="20240630074756+0000">
-    <title lang="en">Lil Zoo: Breaking Chose Me</title>
-    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
-  </programme>
-  <programme channel="redbull.com" start="20240630074756+0000" stop="20240630082858+0000">
-    <title lang="en">Chumbo: Made for Big Wave Surfing</title>
-    <desc lang="en">Get a glimpse into Lucas Chianca's life as he balances chasing big waves with looking after his family.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/9/wlapw5hodyuia7ry8ksp/lucas-chianca-chumbo-made-for-big-wave-surfing-header"/>
-  </programme>
-  <programme channel="redbull.com" start="20240630082858+0000" stop="20240630095842+0000">
-    <title lang="en">London, UK</title>
-    <desc lang="en">Engenious, fast and brave is the recipe to success for a man-made-machine race, but who has it all in London?</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/11/rkzzj4pulbfgnuswtsqe/asterix-and-obelix-contra-alexandra-palace-red-bull-soapbox-race-london-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240630095842+0000" stop="20240630112305+0000">
-    <title lang="en">The Engine Inside</title>
-    <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
-    <category lang="en">Cycling</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film"/>
-  </programme>
-  <programme channel="redbull.com" start="20240630112305+0000" stop="20240630114916+0000">
-    <title lang="en">Leon Glatzer surfs Costa Rica</title>
-    <desc lang="en">Leon Glatzer unpacks the incredible history of Pavones and explores its thriving roots surf scene. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/11/keco6olelsxc7210nuv1/no-contest-off-tour-s1-e4-leon-glatzer"/>
-  </programme>
-  <programme channel="redbull.com" start="20240630114916+0000" stop="20240630121146+0000">
-    <title lang="en">Morocco</title>
-    <desc lang="en">Ashton Goggans guides you through Morocco to discover why it's one of surfing’s fastest growing hotspots.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/qkw1zzldvoa8eczq26nq/alan-van-gysen-no-contest-s2-e2-morocco"/>
-  </programme>
-  <programme channel="redbull.com" start="20240630121146+0000" stop="20240630123646+0000">
-    <title lang="en">No Contest: Surfing San Francisco</title>
-    <desc lang="en">Dive into the fray and get to meet one of surfing’s most hardcore communities.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/dghbrw5pjopeieu0komh/jamie-obrien-no-contest-s2-e1-san-francisco"/>
-  </programme>
   <programme channel="redbull.com" start="20240630123646+0000" stop="20240630130152+0000">
     <title lang="en">South Africa</title>
     <desc lang="en">Let Ashton Goggans be your tour guide along South Africa’s wave-rich coastline from Durban to Cape Town.</desc>
@@ -94,5 +46,71 @@
     <desc lang="en">With the rumour mill in full swing, Jack Miller's focus is on the track at the Circuit de Barcelona-Catalunya.</desc>
     <category lang="en">MotoGP</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/12/uxwzs553folc4nronxpk/jack-miller-dutch-moto-gp"/>
+  </programme>
+  <programme channel="redbull.com" start="20240630150452+0000" stop="20240630151535+0000">
+    <title lang="en">World Ducati Week 2022 in Misano</title>
+    <desc lang="en">Tag along with Jack Miller as he attends the World Ducati Week 2022 motorcycle rally in Misano, Italy.</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/6/klv3s2gq8xrapw1st16v/jack-miller-at-the-motogp-world-championship-in-le-mans-france-2021"/>
+  </programme>
+  <programme channel="redbull.com" start="20240630151535+0000" stop="20240630152720+0000">
+    <title lang="en">Miller Magic in Motegi</title>
+    <desc lang="en">Jack is back on top of the MotoGP™ podium with a win in Japan and dominates the latter part of the season.</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/17/yolm9ybac3m4bdrkix1p/fast-track-jack-miller-s1-e8-japan-motogp-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240630152720+0000" stop="20240630153000+0000">
+    <title lang="en">A mind-bending dance performance</title>
+    <desc lang="en">Red Bull TV programme</desc>
+    <category lang="en">Dance</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/kuxlfkfhp6gwuiuyzux0/kyoka"/>
+  </programme>
+  <programme channel="redbull.com" start="20240630170036+0000" stop="20240630171214+0000">
+    <title lang="en">City Surf Project</title>
+    <desc lang="en">Most San Francisco inner-city youth have never been in the ocean. City Surf aims to change that.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/yjrnixpnb0agq1i9ec8w/the-city-surf-project-san-francisco"/>
+  </programme>
+  <programme channel="redbull.com" start="20240630171214+0000" stop="20240630172114+0000">
+    <title lang="en">Dual Slalom final heats – Cairns</title>
+    <desc lang="en">Watch the final runs from the Crankworx Dual Slalom 2023 in Cairns, Australia.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/22/mou044qwmpl3s8je9w3l/tahnee-seagrave-and-jess-blewitt-dual-slalom-crankworx-rotorua-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240630172114+0000" stop="20240630172828+0000">
+    <title lang="en">Race &amp; surfing: a brief history</title>
+    <desc lang="en">Sal Masekela explains how colonial exploitation turned a Hawaiian tradition into a predominantly white sport.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/1/5/a0fbgufe4zqzur7onleq/in-plain-sight-s1-e1-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240630172828+0000" stop="20240630182117+0000">
+    <title lang="en">Red Bull Cliff Diving's anniversary opener</title>
+    <desc lang="en">The 2024 season kicks off in Lake Vougliameni, the elite sport returns to the Greek capital since 2009.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/31/acvrhoqktju1uwlqhexx/matthew-cooper-red-bull-cliff-diving-athens-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240630182117+0000" stop="20240630193958+0000">
+    <title lang="en">Highlight Show Rampage 2023</title>
+    <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.  </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/kp92a5bvrxlsmsyjrtfz/jaxson-riddle"/>
+  </programme>
+  <programme channel="redbull.com" start="20240630193958+0000" stop="20240630210639+0000">
+    <title lang="en">Wild Waters</title>
+    <desc lang="en">From Olympic pools to wild rivers, see the life of Nouria Newman, the most gifted kayaker of her generation.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/ez6viqxoy4iwxf7bxd7n/wild-waters-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240630210639+0000" stop="20240630220949+0000">
+    <title lang="en">Loose Change</title>
+    <desc lang="en">Follow Rob Machado as he explores the age-old question: what would pro surfers be doing if they didn't surf?</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/y1npvpevnpo6ln85i16k/shane-dorian-2015"/>
+  </programme>
+  <programme channel="redbull.com" start="20240630220949+0000" stop="20240630233806+0000">
+    <title lang="en">Layers</title>
+    <desc lang="en">Discover and celebrate the unique people, places, personalities and layers behind what we call snowboarding.</desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/a24wabmgl2h2stzq5tyk/snowboard-movie-layers"/>
   </programme>
 </tv>
