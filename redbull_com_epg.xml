@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-30 18:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-30 19:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240630145158+0000" stop="20240630150452+0000">
-    <title lang="en">Silly season</title>
-    <desc lang="en">With the rumour mill in full swing, Jack Miller's focus is on the track at the Circuit de Barcelona-Catalunya.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/12/uxwzs553folc4nronxpk/jack-miller-dutch-moto-gp"/>
-  </programme>
-  <programme channel="redbull.com" start="20240630150452+0000" stop="20240630151535+0000">
-    <title lang="en">World Ducati Week 2022 in Misano</title>
-    <desc lang="en">Tag along with Jack Miller as he attends the World Ducati Week 2022 motorcycle rally in Misano, Italy.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/6/klv3s2gq8xrapw1st16v/jack-miller-at-the-motogp-world-championship-in-le-mans-france-2021"/>
-  </programme>
-  <programme channel="redbull.com" start="20240630151535+0000" stop="20240630152720+0000">
-    <title lang="en">Miller Magic in Motegi</title>
-    <desc lang="en">Jack is back on top of the MotoGP™ podium with a win in Japan and dominates the latter part of the season.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/17/yolm9ybac3m4bdrkix1p/fast-track-jack-miller-s1-e8-japan-motogp-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240630152720+0000" stop="20240630153000+0000">
-    <title lang="en">A mind-bending dance performance</title>
-    <desc lang="en">Red Bull TV programme</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/kuxlfkfhp6gwuiuyzux0/kyoka"/>
-  </programme>
   <programme channel="redbull.com" start="20240630170036+0000" stop="20240630171214+0000">
     <title lang="en">City Surf Project</title>
     <desc lang="en">Most San Francisco inner-city youth have never been in the ocean. City Surf aims to change that.</desc>
@@ -106,5 +82,41 @@
     <desc lang="en">Watch the highlights of the fourth stop of the season in Venezuela for the Puerto Cabello Premier Padel P2. </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/4/iqmgalloe5lthvm6jgma/suzanne-casey-premier-padel-2024-puerto-cabello-p2"/>
+  </programme>
+  <programme channel="redbull.com" start="20240701024612+0000" stop="20240701031221+0000">
+    <title lang="en">Highlights – Brussels Premier Padel P2</title>
+    <desc lang="en">Watch the highlights of the fifth stop of the season in Belgium for the Brussels Premier Padel P2. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/zjzvsbcyjhp7htwrzgpu/beatriz-gonzalez-fernandez-doha-2024-padel"/>
+  </programme>
+  <programme channel="redbull.com" start="20240701031221+0000" stop="20240701033856+0000">
+    <title lang="en">Highlights – Sevilla Premier Padel P2</title>
+    <desc lang="en">Watch the highlights of the sixth stop of the season in Spain from the Premier Padel Andalucia Sevilla P2.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/suuv67u1shx4acshfred/premier-padel-milan-match"/>
+  </programme>
+  <programme channel="redbull.com" start="20240701033856+0000" stop="20240701040451+0000">
+    <title lang="en">Highlights – Asunción Premier Padel P2 </title>
+    <desc lang="en">Watch the highlights of the seventh stop of the season in Paraguay from the Asunción Premier Padel P2.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/yupj6ycdbof7x8jrd3at/beatriz-caldera-premier-padel"/>
+  </programme>
+  <programme channel="redbull.com" start="20240701040451+0000" stop="20240701043103+0000">
+    <title lang="en">Highlights – Mar del Plata Premier Padel P1</title>
+    <desc lang="en">Watch the highlights of the eighth stop of the season in Argentina from the Premier Padel Mar del Plata P1.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/22/wrcasajexcgkw9ffnrbz/premier-padel-tour-milan-mens-match-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240701043103+0000" stop="20240701043517+0000">
+    <title lang="en">Ricciardo vs Tsunoda in mini jet boats</title>
+    <desc lang="en">Watch Daniel Ricciardo and Yuki Tsunoda race each other in mini jet boats ahead of the Miami Grand Prix.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/8/zt9ruex6wv9lfkqtstfm/yuki-tsunoda-daniel-ricciardo-red-bull-unserious-race-miami-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240701043517+0000" stop="20240701044108+0000">
+    <title lang="en">Verstappen vs Tsunoda in mega trucks</title>
+    <desc lang="en">Watch F1 drivers Max Verstappen and Yuki Tsunoda go head to head in mega trucks at an iron mine in Austria.</desc>
+    <category lang="en">Offroad</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/23/xvt1xohr2ynbvfk4rmkh/max-verstappen-yuki-tsunoda-mega-trucks"/>
   </programme>
 </tv>
