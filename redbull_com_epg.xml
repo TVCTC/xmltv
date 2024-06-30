@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-30 05:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-30 06:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240630003911+0000" stop="20240630020334+0000">
-    <title lang="en">CEB: A Major Comeback</title>
-    <desc lang="en">Dota 2 player Sébastien Debs returns from retirement to help his team win at an ESL One Stockholm Major. </desc>
-    <category lang="en">Gaming</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/15/lm4ec2wd1auw8lz6eh2s/sebastien-debs"/>
-  </programme>
-  <programme channel="redbull.com" start="20240630020334+0000" stop="20240630025623+0000">
-    <title lang="en">Red Bull Cliff Diving's anniversary opener</title>
-    <desc lang="en">The 2024 season kicks off in Lake Vougliameni, the elite sport returns to the Greek capital since 2009.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/31/acvrhoqktju1uwlqhexx/matthew-cooper-red-bull-cliff-diving-athens-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240630025623+0000" stop="20240630032215+0000">
-    <title lang="en">Highlights – Riyadh Premier Padel P1</title>
-    <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
-  </programme>
-  <programme channel="redbull.com" start="20240630032215+0000" stop="20240630034816+0000">
-    <title lang="en">Highlights – Qatar Major Premier Padel</title>
-    <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
-  </programme>
   <programme channel="redbull.com" start="20240630034816+0000" stop="20240630041405+0000">
     <title lang="en">Highlights – Acapulco Premier Padel P1</title>
     <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
@@ -124,5 +100,29 @@
     <desc lang="en">Leon Glatzer unpacks the incredible history of Pavones and explores its thriving roots surf scene. </desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/11/keco6olelsxc7210nuv1/no-contest-off-tour-s1-e4-leon-glatzer"/>
+  </programme>
+  <programme channel="redbull.com" start="20240630114916+0000" stop="20240630121146+0000">
+    <title lang="en">Morocco</title>
+    <desc lang="en">Ashton Goggans guides you through Morocco to discover why it's one of surfing’s fastest growing hotspots.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/qkw1zzldvoa8eczq26nq/alan-van-gysen-no-contest-s2-e2-morocco"/>
+  </programme>
+  <programme channel="redbull.com" start="20240630121146+0000" stop="20240630123646+0000">
+    <title lang="en">No Contest: Surfing San Francisco</title>
+    <desc lang="en">Dive into the fray and get to meet one of surfing’s most hardcore communities.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/dghbrw5pjopeieu0komh/jamie-obrien-no-contest-s2-e1-san-francisco"/>
+  </programme>
+  <programme channel="redbull.com" start="20240630123646+0000" stop="20240630130152+0000">
+    <title lang="en">South Africa</title>
+    <desc lang="en">Let Ashton Goggans be your tour guide along South Africa’s wave-rich coastline from Durban to Cape Town.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/zzvtv9xuihj5vehbuyk4/crew-no-contest-s2-e4-south-africa"/>
+  </programme>
+  <programme channel="redbull.com" start="20240630130152+0000" stop="20240630130542+0000">
+    <title lang="en">Manuel Lettenbichler's best moments of the season</title>
+    <desc lang="en">Mani Lettenbichler defended his FIM Hard Enduro world title after his fifth consecutive victory this season.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/24/k8cx4jnv06myoitavxzw/fim-hard-enduro-world-championship-2023-stop-5-hixpania-manuel-lettenbichler"/>
   </programme>
 </tv>
