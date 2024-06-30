@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-30 17:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-06-30 18:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240630132000+0000" stop="20240630143036+0000">
-    <title lang="en">Red Bull MotoGP™ Rookies Cup: Assen Race 8</title>
-    <desc lang="en">Watch the second of the races at TT Circuit Assen, a racetrack known as 'The Cathedral' of motorcycling.</desc>
-    <category lang="en">Red Bull Rookies Cup</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/7/nixd1ec4uygxejk1udyf/ruche-moodley-leading-the-train-in-assen-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20240630143036+0000" stop="20240630144129+0000">
-    <title lang="en">Being chased by Marc Márquez </title>
-    <desc lang="en">Will the intense pressure of trying to hold off Marc Márquez derail Jack Miller's hopes in Portimão?</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/11/t1nczkihepc7vpljlkaq/fast-track-jack-miller-s1-ep3"/>
-  </programme>
-  <programme channel="redbull.com" start="20240630144129+0000" stop="20240630145158+0000">
-    <title lang="en">Viva Miller, baby! Jack and Gypsy Tales at Le Mans</title>
-    <desc lang="en">Can Jack Miller get his season back on track in Le Mans where he's joined by his old mate Gypsy Tales?</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/6/23/em8wt7uuhvochogt4h7n/fast-track-jack-miller-s1-e4-motogp-barcelona"/>
-  </programme>
   <programme channel="redbull.com" start="20240630145158+0000" stop="20240630150452+0000">
     <title lang="en">Silly season</title>
     <desc lang="en">With the rumour mill in full swing, Jack Miller's focus is on the track at the Circuit de Barcelona-Catalunya.</desc>
@@ -118,5 +100,11 @@
     <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
+  </programme>
+  <programme channel="redbull.com" start="20240701022012+0000" stop="20240701024612+0000">
+    <title lang="en">Highlights – Puerto Cabello Premier Padel P2</title>
+    <desc lang="en">Watch the highlights of the fourth stop of the season in Venezuela for the Puerto Cabello Premier Padel P2. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/4/iqmgalloe5lthvm6jgma/suzanne-casey-premier-padel-2024-puerto-cabello-p2"/>
   </programme>
 </tv>
