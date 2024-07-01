@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-01 08:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-01 09:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240701045103+0000" stop="20240701045927+0000">
-    <title lang="en">F1 drivers vs hovercraft </title>
-    <desc lang="en">Watch F1 drivers go head-to-head in sci-fi hovercraft racing, deep in the desert outside Las Vegas.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/16/yp3uykk2yvhbnyviock7/f1-drivers-las-vegas-desert"/>
-  </programme>
-  <programme channel="redbull.com" start="20240701045927+0000" stop="20240701050716+0000">
-    <title lang="en">Formula One drivers race as Australian surf lifesavers</title>
-    <desc lang="en">Max Verstappen, Sergio Pérez, Daniel Ricciardo and Yuki Tsunoda race Can-Am Commanders in Melbourne.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/26/etwkgwg3yejpuljcvcqz/max-verstappen-and-sergio-perez-unserious-race-melbourne"/>
-  </programme>
-  <programme channel="redbull.com" start="20240701050716+0000" stop="20240701055248+0000">
-    <title lang="en">Lil Zoo: Breaking Chose Me</title>
-    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
-  </programme>
-  <programme channel="redbull.com" start="20240701055248+0000" stop="20240701060000+0000">
-    <title lang="en">From sim to reality</title>
-    <desc lang="en">Max Verstappen gets sucked into his simulator and needs to clear different levels to get to the Belgium GP.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/18/s4egvvivtryvvcz2ngdf/red-bull-racing-road-trips-s2-ep3-max-verstappen"/>
-  </programme>
   <programme channel="redbull.com" start="20240701060000+0000" stop="20240701072944+0000">
     <title lang="en">London, UK</title>
     <desc lang="en">Engenious, fast and brave is the recipe to success for a man-made-machine race, but who has it all in London?</desc>
@@ -118,5 +94,35 @@
     <desc lang="en">The MotoGP™ season may be drawing to a close, but it's still a busy time for Jack – on and off the track.</desc>
     <category lang="en">MotoGP</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/eqftbwbhhge3vjbibdhw/jack-miller-valencia-moto-gp"/>
+  </programme>
+  <programme channel="redbull.com" start="20240701122721+0000" stop="20240701124104+0000">
+    <title lang="en">Jack bids farewell to Ducati</title>
+    <desc lang="en">It's the last two GPs of 2022 and Jack Miller is looking to close it out in style before joining a new team.</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/zriahl1xj3vqdilosad1/fast-track-jack-miller-s1-e10-valencia-motogp-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240701124104+0000" stop="20240701135420+0000">
+    <title lang="en">The Land of Giants</title>
+    <desc lang="en">Featuring the world's best skiers, The Land of Giants captures the power and sheer beauty of the mountains. </desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/10/dk8jryraqqiowysuxjvn/the-land-of-giants-eader"/>
+  </programme>
+  <programme channel="redbull.com" start="20240701135420+0000" stop="20240701151300+0000">
+    <title lang="en">Highlight Show Rampage 2023</title>
+    <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.  </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/kp92a5bvrxlsmsyjrtfz/jaxson-riddle"/>
+  </programme>
+  <programme channel="redbull.com" start="20240701151300+0000" stop="20240701163942+0000">
+    <title lang="en">Wild Waters</title>
+    <desc lang="en">From Olympic pools to wild rivers, see the life of Nouria Newman, the most gifted kayaker of her generation.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/ez6viqxoy4iwxf7bxd7n/wild-waters-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240701163942+0000" stop="20240701174252+0000">
+    <title lang="en">Loose Change</title>
+    <desc lang="en">Follow Rob Machado as he explores the age-old question: what would pro surfers be doing if they didn't surf?</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/y1npvpevnpo6ln85i16k/shane-dorian-2015"/>
   </programme>
 </tv>
