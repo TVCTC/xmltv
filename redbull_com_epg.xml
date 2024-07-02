@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-02 19:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-02 20:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240702125617+0000" stop="20240702135927+0000">
-    <title lang="en">Loose Change</title>
-    <desc lang="en">Follow Rob Machado as he explores the age-old question: what would pro surfers be doing if they didn't surf?</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/y1npvpevnpo6ln85i16k/shane-dorian-2015"/>
-  </programme>
-  <programme channel="redbull.com" start="20240702135927+0000" stop="20240702152744+0000">
-    <title lang="en">Layers</title>
-    <desc lang="en">Discover and celebrate the unique people, places, personalities and layers behind what we call snowboarding.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/a24wabmgl2h2stzq5tyk/snowboard-movie-layers"/>
-  </programme>
-  <programme channel="redbull.com" start="20240702152744+0000" stop="20240702165207+0000">
-    <title lang="en">CEB: A Major Comeback</title>
-    <desc lang="en">Dota 2 player Sébastien Debs returns from retirement to help his team win at an ESL One Stockholm Major. </desc>
-    <category lang="en">Gaming</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/15/lm4ec2wd1auw8lz6eh2s/sebastien-debs"/>
-  </programme>
   <programme channel="redbull.com" start="20240702165207+0000" stop="20240702174420+0000">
     <title lang="en">Red Bull Cliff Diving's anniversary opener</title>
     <desc lang="en">The 2024 season kicks off in Lake Vougliameni, the elite sport returns to the Greek capital since 2009.</desc>
@@ -124,5 +106,23 @@
     <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
     <category lang="en">Cycling</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20240703020426+0000" stop="20240703023038+0000">
+    <title lang="en">Leon Glatzer surfs Costa Rica</title>
+    <desc lang="en">Leon Glatzer unpacks the incredible history of Pavones and explores its thriving roots surf scene. </desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/11/keco6olelsxc7210nuv1/no-contest-off-tour-s1-e4-leon-glatzer"/>
+  </programme>
+  <programme channel="redbull.com" start="20240703023038+0000" stop="20240703025308+0000">
+    <title lang="en">Morocco</title>
+    <desc lang="en">Ashton Goggans guides you through Morocco to discover why it's one of surfing’s fastest growing hotspots.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/qkw1zzldvoa8eczq26nq/alan-van-gysen-no-contest-s2-e2-morocco"/>
+  </programme>
+  <programme channel="redbull.com" start="20240703025308+0000" stop="20240703031808+0000">
+    <title lang="en">No Contest: Surfing San Francisco</title>
+    <desc lang="en">Dive into the fray and get to meet one of surfing’s most hardcore communities.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/dghbrw5pjopeieu0komh/jamie-obrien-no-contest-s2-e1-san-francisco"/>
   </programme>
 </tv>
