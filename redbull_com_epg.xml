@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-03 02:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-03 03:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240702222917+0000" stop="20240702231019+0000">
-    <title lang="en">Chumbo: Made for Big Wave Surfing</title>
-    <desc lang="en">Get a glimpse into Lucas Chianca's life as he balances chasing big waves with looking after his family.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/9/wlapw5hodyuia7ry8ksp/lucas-chianca-chumbo-made-for-big-wave-surfing-header"/>
-  </programme>
   <programme channel="redbull.com" start="20240702231019+0000" stop="20240703004003+0000">
     <title lang="en">London, UK</title>
     <desc lang="en">Engenious, fast and brave is the recipe to success for a man-made-machine race, but who has it all in London?</desc>
@@ -88,5 +82,47 @@
     <desc lang="en">Tag along with Jack Miller as he attends the World Ducati Week 2022 motorcycle rally in Misano, Italy.</desc>
     <category lang="en">MotoGP</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/6/klv3s2gq8xrapw1st16v/jack-miller-at-the-motogp-world-championship-in-le-mans-france-2021"/>
+  </programme>
+  <programme channel="redbull.com" start="20240703051433+0000" stop="20240703052618+0000">
+    <title lang="en">Miller Magic in Motegi</title>
+    <desc lang="en">Jack is back on top of the MotoGP™ podium with a win in Japan and dominates the latter part of the season.</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/17/yolm9ybac3m4bdrkix1p/fast-track-jack-miller-s1-e8-japan-motogp-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240703052618+0000" stop="20240703053710+0000">
+    <title lang="en">Something old, something new</title>
+    <desc lang="en">The MotoGP™ season may be drawing to a close, but it's still a busy time for Jack – on and off the track.</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/eqftbwbhhge3vjbibdhw/jack-miller-valencia-moto-gp"/>
+  </programme>
+  <programme channel="redbull.com" start="20240703053710+0000" stop="20240703055647+0000">
+    <title lang="en">Proving ground (part 1)</title>
+    <desc lang="en">The Eddie is on and Kai Lenny has plenty to prove on the North Shore of Oahu at both Pipeline and Waimea Bay.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/11/a1vmkblr0jd3ftqkfu69/life-of-kai-backdoor-shoutout"/>
+  </programme>
+  <programme channel="redbull.com" start="20240703055647+0000" stop="20240703060000+0000">
+    <title lang="en">Coulthard and Forsberg hit Leipzig in F1 2-seater</title>
+    <desc lang="en">David Coulthard takes RB Leipzig soccer player, Emil Forsberg, on a (very) fast-paced trip through the city. </desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/9/nt9dscfv5dar3olzi6wl/coulthard-and-forsberg-hit-leipzig-in-f1-two-seater-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240703060000+0000" stop="20240703071315+0000">
+    <title lang="en">The Land of Giants</title>
+    <desc lang="en">Featuring the world's best skiers, The Land of Giants captures the power and sheer beauty of the mountains. </desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/10/dk8jryraqqiowysuxjvn/the-land-of-giants-eader"/>
+  </programme>
+  <programme channel="redbull.com" start="20240703071315+0000" stop="20240703083156+0000">
+    <title lang="en">Highlight Show Rampage 2023</title>
+    <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.  </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/kp92a5bvrxlsmsyjrtfz/jaxson-riddle"/>
+  </programme>
+  <programme channel="redbull.com" start="20240703083156+0000" stop="20240703095837+0000">
+    <title lang="en">Wild Waters</title>
+    <desc lang="en">From Olympic pools to wild rivers, see the life of Nouria Newman, the most gifted kayaker of her generation.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/ez6viqxoy4iwxf7bxd7n/wild-waters-hero-art"/>
   </programme>
 </tv>
