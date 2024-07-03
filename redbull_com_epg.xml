@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-03 08:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-03 09:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240703053710+0000" stop="20240703055647+0000">
-    <title lang="en">Proving ground (part 1)</title>
-    <desc lang="en">The Eddie is on and Kai Lenny has plenty to prove on the North Shore of Oahu at both Pipeline and Waimea Bay.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/11/a1vmkblr0jd3ftqkfu69/life-of-kai-backdoor-shoutout"/>
-  </programme>
-  <programme channel="redbull.com" start="20240703055647+0000" stop="20240703060000+0000">
-    <title lang="en">Coulthard and Forsberg hit Leipzig in F1 2-seater</title>
-    <desc lang="en">David Coulthard takes RB Leipzig soccer player, Emil Forsberg, on a (very) fast-paced trip through the city. </desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/9/nt9dscfv5dar3olzi6wl/coulthard-and-forsberg-hit-leipzig-in-f1-two-seater-art"/>
-  </programme>
   <programme channel="redbull.com" start="20240703060000+0000" stop="20240703071315+0000">
     <title lang="en">The Land of Giants</title>
     <desc lang="en">Featuring the world's best skiers, The Land of Giants captures the power and sheer beauty of the mountains. </desc>
@@ -124,5 +112,17 @@
     <desc lang="en">Drivers from each team will work together through a series of three challenges to win points for their team.</desc>
     <category lang="en">F1</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/3/uwitrznlhiaqzc7fqyhh/max-verstappen-sergio-perez-yuki-tsunoda-liam-lawson-unserious-race-series-japan-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240703183620+0000" stop="20240703184444+0000">
+    <title lang="en">F1 drivers vs hovercraft </title>
+    <desc lang="en">Watch F1 drivers go head-to-head in sci-fi hovercraft racing, deep in the desert outside Las Vegas.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/16/yp3uykk2yvhbnyviock7/f1-drivers-las-vegas-desert"/>
+  </programme>
+  <programme channel="redbull.com" start="20240703184444+0000" stop="20240703185232+0000">
+    <title lang="en">Formula One drivers race as Australian surf lifesavers</title>
+    <desc lang="en">Max Verstappen, Sergio Pérez, Daniel Ricciardo and Yuki Tsunoda race Can-Am Commanders in Melbourne.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/26/etwkgwg3yejpuljcvcqz/max-verstappen-and-sergio-perez-unserious-race-melbourne"/>
   </programme>
 </tv>
