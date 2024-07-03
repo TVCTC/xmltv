@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-03 18:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-03 19:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240703135457+0000" stop="20240703144710+0000">
-    <title lang="en">Red Bull Cliff Diving's anniversary opener</title>
-    <desc lang="en">The 2024 season kicks off in Lake Vougliameni, the elite sport returns to the Greek capital since 2009.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/31/acvrhoqktju1uwlqhexx/matthew-cooper-red-bull-cliff-diving-athens-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240703144710+0000" stop="20240703151338+0000">
-    <title lang="en">Highlights – Riyadh Premier Padel P1</title>
-    <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
-  </programme>
-  <programme channel="redbull.com" start="20240703151338+0000" stop="20240703153940+0000">
-    <title lang="en">Highlights – Qatar Major Premier Padel</title>
-    <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
-  </programme>
   <programme channel="redbull.com" start="20240703153940+0000" stop="20240703160453+0000">
     <title lang="en">Highlights – Acapulco Premier Padel P1</title>
     <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Publicity is part of the life of a MotoGP™ driver. Jack's way of handling the media is to be a cheeky joker!</desc>
     <category lang="en">MotoGP</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/21/cbixk3pieycjuly1btge/fast-track-jack-miller-ep2-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240704013851+0000" stop="20240704014944+0000">
+    <title lang="en">Being chased by Marc Márquez </title>
+    <desc lang="en">Will the intense pressure of trying to hold off Marc Márquez derail Jack Miller's hopes in Portimão?</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/11/t1nczkihepc7vpljlkaq/fast-track-jack-miller-s1-ep3"/>
+  </programme>
+  <programme channel="redbull.com" start="20240704014944+0000" stop="20240704020049+0000">
+    <title lang="en">Viva Miller, baby! Jack and Gypsy Tales at Le Mans</title>
+    <desc lang="en">Can Jack Miller get his season back on track in Le Mans where he's joined by his old mate Gypsy Tales?</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/6/23/em8wt7uuhvochogt4h7n/fast-track-jack-miller-s1-e4-motogp-barcelona"/>
+  </programme>
+  <programme channel="redbull.com" start="20240704020049+0000" stop="20240704021343+0000">
+    <title lang="en">Silly season</title>
+    <desc lang="en">With the rumour mill in full swing, Jack Miller's focus is on the track at the Circuit de Barcelona-Catalunya.</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/12/uxwzs553folc4nronxpk/jack-miller-dutch-moto-gp"/>
   </programme>
 </tv>
