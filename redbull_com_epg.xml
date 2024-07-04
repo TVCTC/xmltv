@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-04 05:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-04 06:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240704014944+0000" stop="20240704020049+0000">
-    <title lang="en">Viva Miller, baby! Jack and Gypsy Tales at Le Mans</title>
-    <desc lang="en">Can Jack Miller get his season back on track in Le Mans where he's joined by his old mate Gypsy Tales?</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/6/23/em8wt7uuhvochogt4h7n/fast-track-jack-miller-s1-e4-motogp-barcelona"/>
-  </programme>
-  <programme channel="redbull.com" start="20240704020049+0000" stop="20240704021343+0000">
-    <title lang="en">Silly season</title>
-    <desc lang="en">With the rumour mill in full swing, Jack Miller's focus is on the track at the Circuit de Barcelona-Catalunya.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/12/uxwzs553folc4nronxpk/jack-miller-dutch-moto-gp"/>
-  </programme>
-  <programme channel="redbull.com" start="20240704021343+0000" stop="20240704022350+0000">
-    <title lang="en">World Ducati Week 2022 in Misano</title>
-    <desc lang="en">Tag along with Jack Miller as he attends the World Ducati Week 2022 motorcycle rally in Misano, Italy.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/6/klv3s2gq8xrapw1st16v/jack-miller-at-the-motogp-world-championship-in-le-mans-france-2021"/>
-  </programme>
-  <programme channel="redbull.com" start="20240704022350+0000" stop="20240704023536+0000">
-    <title lang="en">Miller Magic in Motegi</title>
-    <desc lang="en">Jack is back on top of the MotoGP™ podium with a win in Japan and dominates the latter part of the season.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/17/yolm9ybac3m4bdrkix1p/fast-track-jack-miller-s1-e8-japan-motogp-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240704023536+0000" stop="20240704024628+0000">
-    <title lang="en">Something old, something new</title>
-    <desc lang="en">The MotoGP™ season may be drawing to a close, but it's still a busy time for Jack – on and off the track.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/eqftbwbhhge3vjbibdhw/jack-miller-valencia-moto-gp"/>
-  </programme>
   <programme channel="redbull.com" start="20240704024628+0000" stop="20240704030011+0000">
     <title lang="en">Jack bids farewell to Ducati</title>
     <desc lang="en">It's the last two GPs of 2022 and Jack Miller is looking to close it out in style before joining a new team.</desc>
@@ -53,7 +23,7 @@
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/kp92a5bvrxlsmsyjrtfz/jaxson-riddle"/>
   </programme>
-  <programme channel="redbull.com" start="20240704002801+0000" stop="20240704005231+0000">
+  <programme channel="redbull.com" start="20240704053237+0000" stop="20240704055707+0000">
     <title lang="en">South Africa</title>
     <desc lang="en">Let Ashton Goggans be your tour guide along South Africa’s wave-rich coastline from Durban to Cape Town.</desc>
     <category lang="en">Surfing</category>
@@ -154,5 +124,35 @@
     <desc lang="en">Watch F1 drivers go head-to-head in sci-fi hovercraft racing, deep in the desert outside Las Vegas.</desc>
     <category lang="en">F1</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/16/yp3uykk2yvhbnyviock7/f1-drivers-las-vegas-desert"/>
+  </programme>
+  <programme channel="redbull.com" start="20240704144152+0000" stop="20240704144941+0000">
+    <title lang="en">Formula One drivers race as Australian surf lifesavers</title>
+    <desc lang="en">Max Verstappen, Sergio Pérez, Daniel Ricciardo and Yuki Tsunoda race Can-Am Commanders in Melbourne.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/26/etwkgwg3yejpuljcvcqz/max-verstappen-and-sergio-perez-unserious-race-melbourne"/>
+  </programme>
+  <programme channel="redbull.com" start="20240704144941+0000" stop="20240704153513+0000">
+    <title lang="en">Lil Zoo: Breaking Chose Me</title>
+    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
+    <category lang="en">Breaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
+  </programme>
+  <programme channel="redbull.com" start="20240704153513+0000" stop="20240704161614+0000">
+    <title lang="en">Chumbo: Made for Big Wave Surfing</title>
+    <desc lang="en">Get a glimpse into Lucas Chianca's life as he balances chasing big waves with looking after his family.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/9/wlapw5hodyuia7ry8ksp/lucas-chianca-chumbo-made-for-big-wave-surfing-header"/>
+  </programme>
+  <programme channel="redbull.com" start="20240704161614+0000" stop="20240704174559+0000">
+    <title lang="en">London, UK</title>
+    <desc lang="en">Engenious, fast and brave is the recipe to success for a man-made-machine race, but who has it all in London?</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/11/rkzzj4pulbfgnuswtsqe/asterix-and-obelix-contra-alexandra-palace-red-bull-soapbox-race-london-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240704174559+0000" stop="20240704191021+0000">
+    <title lang="en">The Engine Inside</title>
+    <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film"/>
   </programme>
 </tv>
