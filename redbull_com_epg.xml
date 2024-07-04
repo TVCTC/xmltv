@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-04 08:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-04 09:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240704053237+0000" stop="20240704055707+0000">
-    <title lang="en">South Africa</title>
-    <desc lang="en">Let Ashton Goggans be your tour guide along South Africa’s wave-rich coastline from Durban to Cape Town.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/zzvtv9xuihj5vehbuyk4/crew-no-contest-s2-e4-south-africa"/>
-  </programme>
-  <programme channel="redbull.com" start="20240704055707+0000" stop="20240704060000+0000">
-    <title lang="en">A mind-bending dance performance</title>
-    <desc lang="en">Red Bull TV programme</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/kuxlfkfhp6gwuiuyzux0/kyoka"/>
-  </programme>
   <programme channel="redbull.com" start="20240704060000+0000" stop="20240704070309+0000">
     <title lang="en">Loose Change</title>
     <desc lang="en">Follow Rob Machado as he explores the age-old question: what would pro surfers be doing if they didn't surf?</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Dive into the fray and get to meet one of surfing’s most hardcore communities.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/dghbrw5pjopeieu0komh/jamie-obrien-no-contest-s2-e1-san-francisco"/>
+  </programme>
+  <programme channel="redbull.com" start="20240704053237+0000" stop="20240704055707+0000">
+    <title lang="en">South Africa</title>
+    <desc lang="en">Let Ashton Goggans be your tour guide along South Africa’s wave-rich coastline from Durban to Cape Town.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/zzvtv9xuihj5vehbuyk4/crew-no-contest-s2-e4-south-africa"/>
+  </programme>
+  <programme channel="redbull.com" start="20240704204939+0000" stop="20240704211339+0000">
+    <title lang="en">Tahiti</title>
+    <desc lang="en">Michel Bourez and Kauli Vaast take you on a tour of beautiful islands of Tahiti. </desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/uywqkknj6cylyanrdz1n/kauli-vaast-no-contest-s2-e3-tahiti"/>
   </programme>
 </tv>
