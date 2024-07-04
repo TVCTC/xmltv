@@ -1,46 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-04 11:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-04 12:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240704030011+0000" stop="20240704041326+0000">
-    <title lang="en">The Land of Giants</title>
-    <desc lang="en">Featuring the world's best skiers, The Land of Giants captures the power and sheer beauty of the mountains. </desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/10/dk8jryraqqiowysuxjvn/the-land-of-giants-eader"/>
-  </programme>
-  <programme channel="redbull.com" start="20240704041326+0000" stop="20240704053237+0000">
-    <title lang="en">Highlight Show Rampage 2023</title>
-    <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.  </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/kp92a5bvrxlsmsyjrtfz/jaxson-riddle"/>
-  </programme>
-  <programme channel="redbull.com" start="20240704002801+0000" stop="20240704005231+0000">
-    <title lang="en">South Africa</title>
-    <desc lang="en">Let Ashton Goggans be your tour guide along South Africa’s wave-rich coastline from Durban to Cape Town.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/zzvtv9xuihj5vehbuyk4/crew-no-contest-s2-e4-south-africa"/>
-  </programme>
-  <programme channel="redbull.com" start="20240704055707+0000" stop="20240704060000+0000">
-    <title lang="en">A mind-bending dance performance</title>
-    <desc lang="en">Red Bull TV programme</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/kuxlfkfhp6gwuiuyzux0/kyoka"/>
-  </programme>
-  <programme channel="redbull.com" start="20240704060000+0000" stop="20240704070309+0000">
-    <title lang="en">Loose Change</title>
-    <desc lang="en">Follow Rob Machado as he explores the age-old question: what would pro surfers be doing if they didn't surf?</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/y1npvpevnpo6ln85i16k/shane-dorian-2015"/>
-  </programme>
-  <programme channel="redbull.com" start="20240704070309+0000" stop="20240704083126+0000">
-    <title lang="en">Layers</title>
-    <desc lang="en">Discover and celebrate the unique people, places, personalities and layers behind what we call snowboarding.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/a24wabmgl2h2stzq5tyk/snowboard-movie-layers"/>
-  </programme>
   <programme channel="redbull.com" start="20240704083126+0000" stop="20240704095549+0000">
     <title lang="en">CEB: A Major Comeback</title>
     <desc lang="en">Dota 2 player Sébastien Debs returns from retirement to help his team win at an ESL One Stockholm Major. </desc>
@@ -154,5 +118,41 @@
     <desc lang="en">Leon Glatzer unpacks the incredible history of Pavones and explores its thriving roots surf scene. </desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/11/keco6olelsxc7210nuv1/no-contest-off-tour-s1-e4-leon-glatzer"/>
+  </programme>
+  <programme channel="redbull.com" start="20240704193633+0000" stop="20240704195903+0000">
+    <title lang="en">Morocco</title>
+    <desc lang="en">Ashton Goggans guides you through Morocco to discover why it's one of surfing’s fastest growing hotspots.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/qkw1zzldvoa8eczq26nq/alan-van-gysen-no-contest-s2-e2-morocco"/>
+  </programme>
+  <programme channel="redbull.com" start="20240704195903+0000" stop="20240704202509+0000">
+    <title lang="en">No Contest: Surfing San Francisco</title>
+    <desc lang="en">Dive into the fray and get to meet one of surfing’s most hardcore communities.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/dghbrw5pjopeieu0komh/jamie-obrien-no-contest-s2-e1-san-francisco"/>
+  </programme>
+  <programme channel="redbull.com" start="20240704202509+0000" stop="20240704204939+0000">
+    <title lang="en">South Africa</title>
+    <desc lang="en">Let Ashton Goggans be your tour guide along South Africa’s wave-rich coastline from Durban to Cape Town.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/zzvtv9xuihj5vehbuyk4/crew-no-contest-s2-e4-south-africa"/>
+  </programme>
+  <programme channel="redbull.com" start="20240704204939+0000" stop="20240704211339+0000">
+    <title lang="en">Tahiti</title>
+    <desc lang="en">Michel Bourez and Kauli Vaast take you on a tour of beautiful islands of Tahiti. </desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/uywqkknj6cylyanrdz1n/kauli-vaast-no-contest-s2-e3-tahiti"/>
+  </programme>
+  <programme channel="redbull.com" start="20240704211339+0000" stop="20240704212352+0000">
+    <title lang="en">Electrifying start to the 2022 MotoGP™ season</title>
+    <desc lang="en">Can the Aussie get off to a flying start at Qatar and cement his place as favourite for the 2022 MotoGP™ title?</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/n57yravlpch0i9k9ipql/fast-track-jack-miller-ep1-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240704212352+0000" stop="20240704213559+0000">
+    <title lang="en">Prankster at work</title>
+    <desc lang="en">Publicity is part of the life of a MotoGP™ driver. Jack's way of handling the media is to be a cheeky joker!</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/21/cbixk3pieycjuly1btge/fast-track-jack-miller-ep2-art"/>
   </programme>
 </tv>
