@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-05 19:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-05 20:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240705151846+0000" stop="20240705164309+0000">
-    <title lang="en">The Engine Inside</title>
-    <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
-    <category lang="en">Cycling</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film"/>
-  </programme>
-  <programme channel="redbull.com" start="20240705164309+0000" stop="20240705170920+0000">
-    <title lang="en">Leon Glatzer surfs Costa Rica</title>
-    <desc lang="en">Leon Glatzer unpacks the incredible history of Pavones and explores its thriving roots surf scene. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/11/keco6olelsxc7210nuv1/no-contest-off-tour-s1-e4-leon-glatzer"/>
-  </programme>
-  <programme channel="redbull.com" start="20240705170920+0000" stop="20240705173150+0000">
-    <title lang="en">Morocco</title>
-    <desc lang="en">Ashton Goggans guides you through Morocco to discover why it's one of surfing’s fastest growing hotspots.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/qkw1zzldvoa8eczq26nq/alan-van-gysen-no-contest-s2-e2-morocco"/>
-  </programme>
   <programme channel="redbull.com" start="20240705173150+0000" stop="20240705175650+0000">
     <title lang="en">No Contest: Surfing San Francisco</title>
     <desc lang="en">Dive into the fray and get to meet one of surfing’s most hardcore communities.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">It's the last two GPs of 2022 and Jack Miller is looking to close it out in style before joining a new team.</desc>
     <category lang="en">MotoGP</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/zriahl1xj3vqdilosad1/fast-track-jack-miller-s1-e10-valencia-motogp-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240706055232+0000" stop="20240706060000+0000">
+    <title lang="en">From sim to reality</title>
+    <desc lang="en">Max Verstappen gets sucked into his simulator and needs to clear different levels to get to the Belgium GP.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/18/s4egvvivtryvvcz2ngdf/red-bull-racing-road-trips-s2-ep3-max-verstappen"/>
+  </programme>
+  <programme channel="redbull.com" start="20240706060000+0000" stop="20240706062512+0000">
+    <title lang="en">Highlights – Acapulco Premier Padel P1</title>
+    <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
+  </programme>
+  <programme channel="redbull.com" start="20240706062512+0000" stop="20240706065108+0000">
+    <title lang="en">Highlights – Asunción Premier Padel P2 </title>
+    <desc lang="en">Watch the highlights of the seventh stop of the season in Paraguay from the Asunción Premier Padel P2.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/yupj6ycdbof7x8jrd3at/beatriz-caldera-premier-padel"/>
   </programme>
 </tv>
