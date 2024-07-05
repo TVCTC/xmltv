@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-05 10:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-05 11:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240705054315+0000" stop="20240705055637+0000">
-    <title lang="en">Greetings From: Skate Virginia</title>
-    <desc lang="en">Enjoy a different side of American skateboarding culture, ripping up the Virginia skate scene with the locals.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/28/ijmidoos7d2qrhrq4ghh/greetings-from-s2-e3-virginia-usa-gilbert-crockett"/>
-  </programme>
-  <programme channel="redbull.com" start="20240705055637+0000" stop="20240705060000+0000">
-    <title lang="en">Coulthard and Forsberg hit Leipzig in F1 2-seater</title>
-    <desc lang="en">David Coulthard takes RB Leipzig soccer player, Emil Forsberg, on a (very) fast-paced trip through the city. </desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/9/nt9dscfv5dar3olzi6wl/coulthard-and-forsberg-hit-leipzig-in-f1-two-seater-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240705060000+0000" stop="20240705072423+0000">
-    <title lang="en">CEB: A Major Comeback</title>
-    <desc lang="en">Dota 2 player Sébastien Debs returns from retirement to help his team win at an ESL One Stockholm Major. </desc>
-    <category lang="en">Gaming</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/15/lm4ec2wd1auw8lz6eh2s/sebastien-debs"/>
-  </programme>
   <programme channel="redbull.com" start="20240705072423+0000" stop="20240705081635+0000">
     <title lang="en">Red Bull Cliff Diving's anniversary opener</title>
     <desc lang="en">The 2024 season kicks off in Lake Vougliameni, the elite sport returns to the Greek capital since 2009.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Let Ashton Goggans be your tour guide along South Africa’s wave-rich coastline from Durban to Cape Town.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/zzvtv9xuihj5vehbuyk4/crew-no-contest-s2-e4-south-africa"/>
+  </programme>
+  <programme channel="redbull.com" start="20240705182156+0000" stop="20240705184556+0000">
+    <title lang="en">Tahiti</title>
+    <desc lang="en">Michel Bourez and Kauli Vaast take you on a tour of beautiful islands of Tahiti. </desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/uywqkknj6cylyanrdz1n/kauli-vaast-no-contest-s2-e3-tahiti"/>
+  </programme>
+  <programme channel="redbull.com" start="20240705184556+0000" stop="20240705185609+0000">
+    <title lang="en">Electrifying start to the 2022 MotoGP™ season</title>
+    <desc lang="en">Can the Aussie get off to a flying start at Qatar and cement his place as favourite for the 2022 MotoGP™ title?</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/n57yravlpch0i9k9ipql/fast-track-jack-miller-ep1-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240705185609+0000" stop="20240705190816+0000">
+    <title lang="en">Prankster at work</title>
+    <desc lang="en">Publicity is part of the life of a MotoGP™ driver. Jack's way of handling the media is to be a cheeky joker!</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/21/cbixk3pieycjuly1btge/fast-track-jack-miller-ep2-art"/>
   </programme>
 </tv>
