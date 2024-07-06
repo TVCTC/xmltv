@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-06 07:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-06 08:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240706013154+0000" stop="20240706030011+0000">
-    <title lang="en">Layers</title>
-    <desc lang="en">Discover and celebrate the unique people, places, personalities and layers behind what we call snowboarding.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/a24wabmgl2h2stzq5tyk/snowboard-movie-layers"/>
-  </programme>
-  <programme channel="redbull.com" start="20240706030011+0000" stop="20240706042434+0000">
-    <title lang="en">CEB: A Major Comeback</title>
-    <desc lang="en">Dota 2 player Sébastien Debs returns from retirement to help his team win at an ESL One Stockholm Major. </desc>
-    <category lang="en">Gaming</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/15/lm4ec2wd1auw8lz6eh2s/sebastien-debs"/>
-  </programme>
   <programme channel="redbull.com" start="20240706042434+0000" stop="20240706051647+0000">
     <title lang="en">Red Bull Cliff Diving's anniversary opener</title>
     <desc lang="en">The 2024 season kicks off in Lake Vougliameni, the elite sport returns to the Greek capital since 2009.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Drivers from each team will work together through a series of three challenges to win points for their team.</desc>
     <category lang="en">F1</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/3/uwitrznlhiaqzc7fqyhh/max-verstappen-sergio-perez-yuki-tsunoda-liam-lawson-unserious-race-series-japan-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240706161652+0000" stop="20240706170945+0000">
+    <title lang="en">Crunch time</title>
+    <desc lang="en">The iconic Mostar bridge challenged the divers and spiced up the battle for the title on the penultimate stop.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/18/eoyr4n97icwrgweaiv4p/gary-hunt"/>
+  </programme>
+  <programme channel="redbull.com" start="20240706170945+0000" stop="20240706180220+0000">
+    <title lang="en">Changing of the guard</title>
+    <desc lang="en">The Red Bull Cliff Diving World Series reaches its crescendo at the final stop in Auckland.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/7/tt3uy4mfvjutdd8uvddx/constantin-popovici-red-bull-cliff-diving-2023-auckland"/>
   </programme>
 </tv>
