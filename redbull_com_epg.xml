@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-07 15:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-07 16:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240707123306+0000" stop="20240707132608+0000">
-    <title lang="en">The sacred leap </title>
-    <desc lang="en">Divers show their skills in a never-before-seen Red Bull Cliff Diving World Series location in Japan. </desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/11/o1lf6qilqpl7asl3nk88/madeleine-bayon"/>
-  </programme>
   <programme channel="redbull.com" start="20240707132608+0000" stop="20240707141931+0000">
     <title lang="en">Crunch time</title>
     <desc lang="en">The iconic Mostar bridge challenged the divers and spiced up the battle for the title on the penultimate stop.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Watch Daniel Ricciardo and Yuki Tsunoda race each other in mini jet boats ahead of the Miami Grand Prix.</desc>
     <category lang="en">F1</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/8/zt9ruex6wv9lfkqtstfm/yuki-tsunoda-daniel-ricciardo-red-bull-unserious-race-miami-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240708050041+0000" stop="20240708050905+0000">
+    <title lang="en">F1 drivers vs hovercraft </title>
+    <desc lang="en">Watch F1 drivers go head-to-head in sci-fi hovercraft racing, deep in the desert outside Las Vegas.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/16/yp3uykk2yvhbnyviock7/f1-drivers-las-vegas-desert"/>
   </programme>
 </tv>
