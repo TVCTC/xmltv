@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-10 16:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-10 17:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240710103659+0000" stop="20240710114658+0000">
+    <title lang="en">The Old World</title>
+    <desc lang="en">Traverse iconic European locations in a celebration of biking culture that unites MTB and BMX.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual"/>
+  </programme>
+  <programme channel="redbull.com" start="20240710114658+0000" stop="20240710123230+0000">
+    <title lang="en">Lil Zoo: Breaking Chose Me</title>
+    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
+    <category lang="en">Breaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
+  </programme>
+  <programme channel="redbull.com" start="20240710123230+0000" stop="20240710125907+0000">
+    <title lang="en">Red Bull Erzbergrodeo recap</title>
+    <desc lang="en">Red Bull KTM Factory Racing’s Manuel Lettenbichler put on a masterclass, claiming a comfortable win.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/5/crlmyzqq56ywhcax4s4j/manuel-lettenbichler-red-bull-erzbergrodeo-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240710125907+0000" stop="20240710135342+0000">
+    <title lang="en">Ice Waterfalls</title>
+    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/15/n9e71buasfvbbdzzu7di/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
+  </programme>
   <programme channel="redbull.com" start="20240710135342+0000" stop="20240710152159+0000">
     <title lang="en">Layers</title>
     <desc lang="en">Discover and celebrate the unique people, places, personalities and layers behind what we call snowboarding.</desc>
@@ -130,29 +154,5 @@
     <desc lang="en">The iconic Mostar bridge challenged the divers and spiced up the battle for the title on the penultimate stop.</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/18/eoyr4n97icwrgweaiv4p/gary-hunt"/>
-  </programme>
-  <programme channel="redbull.com" start="20240711023424+0000" stop="20240711032658+0000">
-    <title lang="en">Changing of the guard</title>
-    <desc lang="en">The Red Bull Cliff Diving World Series reaches its crescendo at the final stop in Auckland.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/7/tt3uy4mfvjutdd8uvddx/constantin-popovici-red-bull-cliff-diving-2023-auckland"/>
-  </programme>
-  <programme channel="redbull.com" start="20240711032658+0000" stop="20240711035722+0000">
-    <title lang="en">No I in team</title>
-    <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/5/dzfbz2heksvcugo7d5dr/jolanda-neff-uci-xco-world-cup-val-di-sole-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240711035722+0000" stop="20240711042545+0000">
-    <title lang="en">Apex predators </title>
-    <desc lang="en">In the downhill, Finn Iles struggles to beat his biggest competitor, team-mate Loïc Bruni.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/szk42xiugjm6ltrburtf/finn-iles"/>
-  </programme>
-  <programme channel="redbull.com" start="20240711042545+0000" stop="20240711045734+0000">
-    <title lang="en">Adapt or perish</title>
-    <desc lang="en">A wave of younger, faster competitors force 'old dogs to learn new tricks' to stay in the results sheet. </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/qjq0alzb0bk4pwfkj1os/jackson-goldstone"/>
   </programme>
 </tv>
