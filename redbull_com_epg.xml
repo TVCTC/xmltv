@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-11 21:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-11 22:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240711172838+0000" stop="20240711184718+0000">
-    <title lang="en">Highlight Show Rampage 2023</title>
-    <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.  </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/kp92a5bvrxlsmsyjrtfz/jaxson-riddle"/>
-  </programme>
   <programme channel="redbull.com" start="20240711184718+0000" stop="20240711194058+0000">
     <title lang="en">Red Bull Cliff Diving: Boston</title>
     <desc lang="en">For the 2023 season opener in Boston, divers take on shaky weather conditions as they send it off 27m. </desc>
@@ -95,7 +89,7 @@
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual"/>
   </programme>
-  <programme channel="redbull.com" start="20240711163948+0000" stop="20240711164736+0000">
+  <programme channel="redbull.com" start="20240712055207+0000" stop="20240712060000+0000">
     <title lang="en">Formula One drivers race as Australian surf lifesavers</title>
     <desc lang="en">Max Verstappen, Sergio Pérez, Daniel Ricciardo and Yuki Tsunoda race Can-Am Commanders in Melbourne.</desc>
     <category lang="en">F1</category>
@@ -143,7 +137,7 @@
     <category lang="en">Offroad</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/23/xvt1xohr2ynbvfk4rmkh/max-verstappen-yuki-tsunoda-mega-trucks"/>
   </programme>
-  <programme channel="redbull.com" start="20240711163948+0000" stop="20240711164736+0000">
+  <programme channel="redbull.com" start="20240712055207+0000" stop="20240712060000+0000">
     <title lang="en">Formula One drivers race as Australian surf lifesavers</title>
     <desc lang="en">Max Verstappen, Sergio Pérez, Daniel Ricciardo and Yuki Tsunoda race Can-Am Commanders in Melbourne.</desc>
     <category lang="en">F1</category>
@@ -154,5 +148,11 @@
     <desc lang="en">Watch Daniel Ricciardo and Yuki Tsunoda race each other in mini jet boats ahead of the Miami Grand Prix.</desc>
     <category lang="en">F1</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/8/zt9ruex6wv9lfkqtstfm/yuki-tsunoda-daniel-ricciardo-red-bull-unserious-race-miami-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240712170456+0000" stop="20240712171048+0000">
+    <title lang="en">Verstappen vs Tsunoda in mega trucks</title>
+    <desc lang="en">Watch F1 drivers Max Verstappen and Yuki Tsunoda go head to head in mega trucks at an iron mine in Austria.</desc>
+    <category lang="en">Offroad</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/23/xvt1xohr2ynbvfk4rmkh/max-verstappen-yuki-tsunoda-mega-trucks"/>
   </programme>
 </tv>
