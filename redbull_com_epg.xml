@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-12 00:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-12 01:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240711203336+0000" stop="20240711212638+0000">
-    <title lang="en">Body and mind</title>
-    <desc lang="en">Injury, exhaustion and the stunning Italian coastline are on divers' minds at stop three of the 2023 season.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/7/11/l1tcpi2virhzpc0fg5pw/maria-paula-quintero-red-bull-cliff-diving-world-series-polignano-a-mare-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20240711212638+0000" stop="20240711221940+0000">
     <title lang="en">The sacred leap </title>
     <desc lang="en">Divers show their skills in a never-before-seen Red Bull Cliff Diving World Series location in Japan. </desc>
@@ -77,7 +71,7 @@
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual"/>
   </programme>
-  <programme channel="redbull.com" start="20240711163948+0000" stop="20240711164736+0000">
+  <programme channel="redbull.com" start="20240712055207+0000" stop="20240712060000+0000">
     <title lang="en">Formula One drivers race as Australian surf lifesavers</title>
     <desc lang="en">Max Verstappen, Sergio Pérez, Daniel Ricciardo and Yuki Tsunoda race Can-Am Commanders in Melbourne.</desc>
     <category lang="en">F1</category>
@@ -112,5 +106,53 @@
     <desc lang="en">Be one of the first to see Red Bull Racing's RB17 Hypercar unveiled at Goodwood FOS amidst the Friday action.</desc>
     <category lang="en">Motoring</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/8/qtmv72rympvfn4j1wu10/alex-albon-goodwood-f-o-s-2021"/>
+  </programme>
+  <programme channel="redbull.com" start="20240712170036+0000" stop="20240712170456+0000">
+    <title lang="en">Ricciardo vs Tsunoda in mini jet boats</title>
+    <desc lang="en">Watch Daniel Ricciardo and Yuki Tsunoda race each other in mini jet boats ahead of the Miami Grand Prix.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/8/zt9ruex6wv9lfkqtstfm/yuki-tsunoda-daniel-ricciardo-red-bull-unserious-race-miami-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240712170456+0000" stop="20240712171048+0000">
+    <title lang="en">Verstappen vs Tsunoda in mega trucks</title>
+    <desc lang="en">Watch F1 drivers Max Verstappen and Yuki Tsunoda go head to head in mega trucks at an iron mine in Austria.</desc>
+    <category lang="en">Offroad</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/23/xvt1xohr2ynbvfk4rmkh/max-verstappen-yuki-tsunoda-mega-trucks"/>
+  </programme>
+  <programme channel="redbull.com" start="20240712055207+0000" stop="20240712060000+0000">
+    <title lang="en">Formula One drivers race as Australian surf lifesavers</title>
+    <desc lang="en">Max Verstappen, Sergio Pérez, Daniel Ricciardo and Yuki Tsunoda race Can-Am Commanders in Melbourne.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/26/etwkgwg3yejpuljcvcqz/max-verstappen-and-sergio-perez-unserious-race-melbourne"/>
+  </programme>
+  <programme channel="redbull.com" start="20240712170036+0000" stop="20240712170456+0000">
+    <title lang="en">Ricciardo vs Tsunoda in mini jet boats</title>
+    <desc lang="en">Watch Daniel Ricciardo and Yuki Tsunoda race each other in mini jet boats ahead of the Miami Grand Prix.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/8/zt9ruex6wv9lfkqtstfm/yuki-tsunoda-daniel-ricciardo-red-bull-unserious-race-miami-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240712170456+0000" stop="20240712171048+0000">
+    <title lang="en">Verstappen vs Tsunoda in mega trucks</title>
+    <desc lang="en">Watch F1 drivers Max Verstappen and Yuki Tsunoda go head to head in mega trucks at an iron mine in Austria.</desc>
+    <category lang="en">Offroad</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/23/xvt1xohr2ynbvfk4rmkh/max-verstappen-yuki-tsunoda-mega-trucks"/>
+  </programme>
+  <programme channel="redbull.com" start="20240712172805+0000" stop="20240712182113+0000">
+    <title lang="en">Cliff diving is art</title>
+    <desc lang="en">The 2023 Red Bull Cliff Diving World Series touches down in the French capital for its first European stop.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/27/wfqzsldmldjfoyhymayz/iris-schmidbauer-red-bull-cliff-diving-world-series-2023-paris"/>
+  </programme>
+  <programme channel="redbull.com" start="20240711203336+0000" stop="20240711212638+0000">
+    <title lang="en">Body and mind</title>
+    <desc lang="en">Injury, exhaustion and the stunning Italian coastline are on divers' minds at stop three of the 2023 season.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/7/11/l1tcpi2virhzpc0fg5pw/maria-paula-quintero-red-bull-cliff-diving-world-series-polignano-a-mare-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240711212638+0000" stop="20240711221940+0000">
+    <title lang="en">The sacred leap </title>
+    <desc lang="en">Divers show their skills in a never-before-seen Red Bull Cliff Diving World Series location in Japan. </desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/11/o1lf6qilqpl7asl3nk88/madeleine-bayon"/>
   </programme>
 </tv>
