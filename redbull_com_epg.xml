@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-11 10:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-11 11:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240711073338+0000" stop="20240711084307+0000">
+    <title lang="en">The Old World</title>
+    <desc lang="en">Traverse iconic European locations in a celebration of biking culture that unites MTB and BMX.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual"/>
+  </programme>
   <programme channel="redbull.com" start="20240711084307+0000" stop="20240711092839+0000">
     <title lang="en">Lil Zoo: Breaking Chose Me</title>
     <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">In the downhill, Finn Iles struggles to beat his biggest competitor, team-mate Loïc Bruni.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/szk42xiugjm6ltrburtf/finn-iles"/>
-  </programme>
-  <programme channel="redbull.com" start="20240712010355+0000" stop="20240712013544+0000">
-    <title lang="en">Adapt or perish</title>
-    <desc lang="en">A wave of younger, faster competitors force 'old dogs to learn new tricks' to stay in the results sheet. </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/qjq0alzb0bk4pwfkj1os/jackson-goldstone"/>
   </programme>
 </tv>
