@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-12 23:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-13 00:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240712200717+0000" stop="20240712210011+0000">
-    <title lang="en">Crunch time</title>
-    <desc lang="en">The iconic Mostar bridge challenged the divers and spiced up the battle for the title on the penultimate stop.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/18/eoyr4n97icwrgweaiv4p/gary-hunt"/>
-  </programme>
-  <programme channel="redbull.com" start="20240712210011+0000" stop="20240712215245+0000">
-    <title lang="en">Changing of the guard</title>
-    <desc lang="en">The Red Bull Cliff Diving World Series reaches its crescendo at the final stop in Auckland.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/7/tt3uy4mfvjutdd8uvddx/constantin-popovici-red-bull-cliff-diving-2023-auckland"/>
-  </programme>
   <programme channel="redbull.com" start="20240712215245+0000" stop="20240712222309+0000">
     <title lang="en">No I in team</title>
     <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
@@ -95,6 +83,12 @@
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/doge7u1jj7vxmsg8m1sq/kade-edwards-dyfi-bike-park"/>
   </programme>
+  <programme channel="redbull.com" start="20240713060000+0000" stop="20240713065200+0000">
+    <title lang="en">Relive 2024’s record run</title>
+    <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
+    <category lang="en">Running</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/13/ja3b18y4rq9vp7jukejj/wings-for-life-world-run-2024-zadar-croatia"/>
+  </programme>
   <programme channel="redbull.com" start="20240713065200+0000" stop="20240713071748+0000">
     <title lang="en">Highlights – Acapulco Premier Padel P1</title>
     <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
@@ -107,11 +101,23 @@
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/12/ccum6jekqlpcwerit1ru/kenda-tennessee-knockout-hero-art"/>
   </programme>
+  <programme channel="redbull.com" start="20240713082523+0000" stop="20240713083000+0000">
+    <title lang="en">Verstappen vs Tsunoda reverse race</title>
+    <desc lang="en">It's a race with a twist as F1 drivers Max Verstappen and Yuki Tsunoda do battle in old-school DAF cars. </desc>
+    <category lang="en">Motoring</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/25/spgwvqxuoeyuhwzetpth/red-bull-reverse-max-verstappen-yuki-tsunoda"/>
+  </programme>
   <programme channel="redbull.com" start="20240713083000+0000" stop="20240713170036+0000">
     <title lang="en">Saturday</title>
     <desc lang="en">See F1 cars take the Hillclimb and celebrate 20 years of Red Bull Racing with iconic drivers at Goodwood.</desc>
     <category lang="en">Motoring</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/8/pnuhdoccff9lgaiiocxg/goodwood-festival-of-speed"/>
+  </programme>
+  <programme channel="redbull.com" start="20240713054628+0000" stop="20240713055623+0000">
+    <title lang="en">F1 drivers vs Japanese tv show</title>
+    <desc lang="en">Drivers from each team will work together through a series of three challenges to win points for their team.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/3/uwitrznlhiaqzc7fqyhh/max-verstappen-sergio-perez-yuki-tsunoda-liam-lawson-unserious-race-series-japan-2023"/>
   </programme>
   <programme channel="redbull.com" start="20240713171038+0000" stop="20240713171902+0000">
     <title lang="en">F1 drivers vs hovercraft </title>
@@ -124,5 +130,23 @@
     <desc lang="en">Brad Binder has earned his shot at MotoGP™ glory – see him take on the monumental challenge.</desc>
     <category lang="en">MotoGP</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/8/31/ex1kbwbekyroewn8fdmk/brad-binder-road-to-motogp-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240713181102+0000" stop="20240713183110+0000">
+    <title lang="en">All You Need is a Ball</title>
+    <desc lang="en">Enjoy a look into how the best freestyle footballers in the world are paving the way for a new generation.</desc>
+    <category lang="en">Freestyle Soccer</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/24/lyxf2utq1ljak5nrhoxg/all-you-need-is-a-ball-red-bull-street-style"/>
+  </programme>
+  <programme channel="redbull.com" start="20240713183110+0000" stop="20240713201422+0000">
+    <title lang="en">And Two If By Sea</title>
+    <desc lang="en">Twin surfers. Rival careers. Pro surfers and identical twins CJ and Damien Hobgood battle sibling rivalry.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/3/18/pyv4rszk7tj6t7jvkbax/andtwoifbythesea_landscape_hero"/>
+  </programme>
+  <programme channel="redbull.com" start="20240713201422+0000" stop="20240713212412+0000">
+    <title lang="en">Anywhere from Here</title>
+    <desc lang="en">Just 11-years-old and already a freestyle ski phenomenon. Meet the extraordinary Walker Woodring.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/jjm6hlgjvjhygfx8dr09/logan-pehota-british-columbia-anywhere-from-here-ski-film"/>
   </programme>
 </tv>
