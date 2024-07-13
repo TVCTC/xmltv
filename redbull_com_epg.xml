@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-13 11:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-13 12:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240713071748+0000" stop="20240713082523+0000">
+    <title lang="en">Kenda Tennessee Knockout</title>
+    <desc lang="en">Held in the Great Smoky Mountains, America's top off-road riders faced a brutal test of man and machine.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/12/ccum6jekqlpcwerit1ru/kenda-tennessee-knockout-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240713082523+0000" stop="20240713083000+0000">
+    <title lang="en">Verstappen vs Tsunoda reverse race</title>
+    <desc lang="en">It's a race with a twist as F1 drivers Max Verstappen and Yuki Tsunoda do battle in old-school DAF cars. </desc>
+    <category lang="en">Motoring</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/25/spgwvqxuoeyuhwzetpth/red-bull-reverse-max-verstappen-yuki-tsunoda"/>
+  </programme>
   <programme channel="redbull.com" start="20240713083000+0000" stop="20240713170036+0000">
     <title lang="en">Saturday</title>
     <desc lang="en">See F1 cars take the Hillclimb and celebrate 20 years of Red Bull Racing with iconic drivers at Goodwood.</desc>
@@ -95,13 +107,13 @@
     <category lang="en">Adventure Racing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/2/xg4pfpelekgevstwvp3s/patrick-von-kanel-red-bull-x-alps-2023"/>
   </programme>
-  <programme channel="redbull.com" start="20240714025523+0000" stop="20240714034723+0000">
+  <programme channel="redbull.com" start="20240713060000+0000" stop="20240713065200+0000">
     <title lang="en">Relive 2024’s record run</title>
     <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
     <category lang="en">Running</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/13/ja3b18y4rq9vp7jukejj/wings-for-life-world-run-2024-zadar-croatia"/>
   </programme>
-  <programme channel="redbull.com" start="20240714034723+0000" stop="20240714041312+0000">
+  <programme channel="redbull.com" start="20240713065200+0000" stop="20240713071748+0000">
     <title lang="en">Highlights – Acapulco Premier Padel P1</title>
     <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
     <category lang="en">Padel</category>
@@ -142,17 +154,5 @@
     <desc lang="en">Watch the highlights of the sixth stop of the season in Spain from the Premier Padel Andalucia Sevilla P2.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/suuv67u1shx4acshfred/premier-padel-milan-match"/>
-  </programme>
-  <programme channel="redbull.com" start="20240714065200+0000" stop="20240714071828+0000">
-    <title lang="en">Highlights – Riyadh Premier Padel P1</title>
-    <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
-  </programme>
-  <programme channel="redbull.com" start="20240714071828+0000" stop="20240714081330+0000">
-    <title lang="en">Erzbergrodeo Red Bull Hare Scramble</title>
-    <desc lang="en">Jonny Walker defends his title against hundreds of rivals in Hard Enduro racing's most infamous challenge.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1M7KKT66D2111/FO-1M7KKT66D2111-featureMedia"/>
   </programme>
 </tv>
