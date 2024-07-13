@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-13 20:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-13 21:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240713083000+0000" stop="20240713170036+0000">
-    <title lang="en">Saturday</title>
-    <desc lang="en">See F1 cars take the Hillclimb and celebrate 20 years of Red Bull Racing with iconic drivers at Goodwood.</desc>
-    <category lang="en">Motoring</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/8/pnuhdoccff9lgaiiocxg/goodwood-festival-of-speed"/>
-  </programme>
-  <programme channel="redbull.com" start="20240713170036+0000" stop="20240713171038+0000">
-    <title lang="en">F1 drivers vs Japanese tv show</title>
-    <desc lang="en">Drivers from each team will work together through a series of three challenges to win points for their team.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/3/uwitrznlhiaqzc7fqyhh/max-verstappen-sergio-perez-yuki-tsunoda-liam-lawson-unserious-race-series-japan-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20240713171038+0000" stop="20240713171902+0000">
-    <title lang="en">F1 drivers vs hovercraft </title>
-    <desc lang="en">Watch F1 drivers go head-to-head in sci-fi hovercraft racing, deep in the desert outside Las Vegas.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/16/yp3uykk2yvhbnyviock7/f1-drivers-las-vegas-desert"/>
-  </programme>
   <programme channel="redbull.com" start="20240713171902+0000" stop="20240713181102+0000">
     <title lang="en">Brad Binder: Becoming 33</title>
     <desc lang="en">Brad Binder has earned his shot at MotoGP™ glory – see him take on the monumental challenge.</desc>
@@ -154,5 +136,17 @@
     <desc lang="en">Jonny Walker defends his title against hundreds of rivals in Hard Enduro racing's most infamous challenge.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1M7KKT66D2111/FO-1M7KKT66D2111-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20240714081330+0000" stop="20240714083000+0000">
+    <title lang="en">Miguel Oliveira returns to the Red Bull Ring</title>
+    <desc lang="en">Miguel Oliveira won his first race in the Premier Class in Spielberg in 2020 and looks to repeat the victory.</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/8/10/b8nncjymfp2ssmid3gbz/motogp-inside-pass-s2021-e10-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240714083000+0000" stop="20240714170036+0000">
+    <title lang="en">Sunday</title>
+    <desc lang="en">The Hillclimb track, rally displays, and classic cars are part of the Goodwood FOS celebration of motorsport.</desc>
+    <category lang="en">Motoring</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/8/vqkwcrynrgkckto2btrw/patrick-friesacher"/>
   </programme>
 </tv>
