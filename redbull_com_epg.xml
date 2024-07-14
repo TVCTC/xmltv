@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-14 11:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-14 12:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240714071828+0000" stop="20240714081330+0000">
-    <title lang="en">Erzbergrodeo Red Bull Hare Scramble</title>
-    <desc lang="en">Jonny Walker defends his title against hundreds of rivals in Hard Enduro racing's most infamous challenge.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1M7KKT66D2111/FO-1M7KKT66D2111-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20240714081330+0000" stop="20240714083000+0000">
-    <title lang="en">Miguel Oliveira returns to the Red Bull Ring</title>
-    <desc lang="en">Miguel Oliveira won his first race in the Premier Class in Spielberg in 2020 and looks to repeat the victory.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/8/10/b8nncjymfp2ssmid3gbz/motogp-inside-pass-s2021-e10-art"/>
-  </programme>
   <programme channel="redbull.com" start="20240714083000+0000" stop="20240714170036+0000">
     <title lang="en">Sunday</title>
     <desc lang="en">The Hillclimb track, rally displays, and classic cars are part of the Goodwood FOS celebration of motorsport.</desc>
@@ -148,5 +136,17 @@
     <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.  </desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/kp92a5bvrxlsmsyjrtfz/jaxson-riddle"/>
+  </programme>
+  <programme channel="redbull.com" start="20240715051102+0000" stop="20240715060000+0000">
+    <title lang="en">360 Ascent</title>
+    <desc lang="en">Climbers Janja Garnbret and Domen Škofic scale the tallest artificial multi-pitch route in the world.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/26/qitalayy11zhvlrimmru/360-ascent-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240715060000+0000" stop="20240715064532+0000">
+    <title lang="en">Lil Zoo: Breaking Chose Me</title>
+    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
+    <category lang="en">Breaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
   </programme>
 </tv>
