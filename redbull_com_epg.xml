@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-14 20:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-14 21:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240714083000+0000" stop="20240714170036+0000">
+    <title lang="en">Sunday</title>
+    <desc lang="en">The Hillclimb track, rally displays, and classic cars are part of the Goodwood FOS celebration of motorsport.</desc>
+    <category lang="en">Motoring</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/8/vqkwcrynrgkckto2btrw/patrick-friesacher"/>
+  </programme>
+  <programme channel="redbull.com" start="20240714170036+0000" stop="20240714171252+0000">
+    <title lang="en">World’s fastest filming drone chases Max Verstappen</title>
+    <desc lang="en">Fast laps like you've never seen before – take flight with a drone that matches F1 car speeds of 300kph-plus. </desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/27/jl21wctlres0vwirgcur/oracle-red-bull-racing-launch-2024-filming-drone-chases-max-verstappen"/>
+  </programme>
+  <programme channel="redbull.com" start="20240714171252+0000" stop="20240714172144+0000">
+    <title lang="en">Ricciardo takes on the Outback</title>
+    <desc lang="en">The 'Honey Badger' in Oz – Red Bull Racing send driver Daniel Ricciardo to Melbourne's Albert Park circuit.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/23/atpdt6qxwzx6yudyeb6y/red-bull-racing-road-trips-s3-e1-daniel-ricciardo"/>
+  </programme>
+  <programme channel="redbull.com" start="20240714172144+0000" stop="20240714172924+0000">
+    <title lang="en">Pérez's Nevada night out</title>
+    <desc lang="en">What happens in Vegas doesn’t always stay in Vegas. Relive an epic night with Formula One driver Sergio Pérez.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/mncho9vduptsr2qp4niu/sergio-perez-red-bull-racing-road-trips-s3-e2-las-vegas"/>
+  </programme>
   <programme channel="redbull.com" start="20240714172924+0000" stop="20240714183914+0000">
     <title lang="en">Anywhere from Here</title>
     <desc lang="en">Just 11-years-old and already a freestyle ski phenomenon. Meet the extraordinary Walker Woodring.</desc>
@@ -124,23 +148,5 @@
     <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
     <category lang="en">Breaking</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
-  </programme>
-  <programme channel="redbull.com" start="20240715064532+0000" stop="20240715071209+0000">
-    <title lang="en">Red Bull Erzbergrodeo recap</title>
-    <desc lang="en">Red Bull KTM Factory Racing’s Manuel Lettenbichler put on a masterclass, claiming a comfortable win.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/5/crlmyzqq56ywhcax4s4j/manuel-lettenbichler-red-bull-erzbergrodeo-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240715071209+0000" stop="20240715073703+0000">
-    <title lang="en">HYROX World Championships highlights – Nice</title>
-    <desc lang="en">Discover what makes HYROX – the indoor fitness competition – a test of strength, endurance and determination.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/14/z7oqxo0xdlr3y4cwhm0s/hyrox-world-championships-2024-competitors"/>
-  </programme>
-  <programme channel="redbull.com" start="20240715073703+0000" stop="20240715081143+0000">
-    <title lang="en">Divers test their mental strength at Athens</title>
-    <desc lang="en">Host Gracie Kramer explores how top divers Xantheia and Jonathan train their minds to get a winner's mentality</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/23/c75zpim7v9wpr3wi2dql/gary-hunt-red-bull-cliff-diving-world-series-2024"/>
   </programme>
 </tv>
