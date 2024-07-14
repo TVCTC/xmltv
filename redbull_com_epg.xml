@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-15 00:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-15 01:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240714212401+0000" stop="20240714222105+0000">
-    <title lang="en">Paradigm Lost</title>
-    <desc lang="en">Take an in-depth look at the life of one of the world's most complete watermen, Kai Lenny.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1T946EH855N11/kai-lenny-yellow-longboard"/>
-  </programme>
   <programme channel="redbull.com" start="20240714222105+0000" stop="20240714230436+0000">
     <title lang="en">Red Bull X-Alps 2023 - The Champions Challenge</title>
     <desc lang="en">2023 marks the 20th anniversary of the world's toughest adventure race across the Alps with elite athletes.</desc>
@@ -142,5 +136,11 @@
     <desc lang="en">Twin surfers. Rival careers. Pro surfers and identical twins CJ and Damien Hobgood battle sibling rivalry.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/3/18/pyv4rszk7tj6t7jvkbax/andtwoifbythesea_landscape_hero"/>
+  </programme>
+  <programme channel="redbull.com" start="20240715141926+0000" stop="20240715152916+0000">
+    <title lang="en">Anywhere from Here</title>
+    <desc lang="en">Just 11-years-old and already a freestyle ski phenomenon. Meet the extraordinary Walker Woodring.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/jjm6hlgjvjhygfx8dr09/logan-pehota-british-columbia-anywhere-from-here-ski-film"/>
   </programme>
 </tv>
