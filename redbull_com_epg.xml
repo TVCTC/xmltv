@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-15 14:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-15 15:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240715073703+0000" stop="20240715081143+0000">
+    <title lang="en">Divers test their mental strength at Athens</title>
+    <desc lang="en">Host Gracie Kramer explores how top divers Xantheia and Jonathan train their minds to get a winner's mentality</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/23/c75zpim7v9wpr3wi2dql/gary-hunt-red-bull-cliff-diving-world-series-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240715091017+0000" stop="20240715094249+0000">
+    <title lang="en">20 Years of Red Bull Valparaíso Cerro Abajo</title>
+    <desc lang="en">Relive 20 years of the largest urban downhill race in the world that began as an idea among friends.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/grv8ijzyrwhtsstkoas3/red-bull-valparaiso-cerro-abajo-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240715094249+0000" stop="20240715100604+0000">
+    <title lang="en">9191</title>
+    <desc lang="en">Gigi Rüf stars in an introspective dreamscape documenting one season in a life of snowboarding exploration.</desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/eltcdixeuk8zm1jkv83o/gigi-ruf-red-bull-snow-backcountry-camp-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240715100604+0000" stop="20240715105452+0000">
+    <title lang="en">A Fly in the Champagne</title>
+    <desc lang="en">After a decade of bitter rivalry, Kelly Slater and Andy Irons come together to surf off their differences.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/j0qjn7adpo4zf4yrs9uh/kelly-slater-queensland-australia-2016"/>
+  </programme>
   <programme channel="redbull.com" start="20240715105452+0000" stop="20240715121605+0000">
     <title lang="en">Against the Odds</title>
     <desc lang="en">Team OG defied the odds – witness their esports journey to Dota 2 glory at TI8. </desc>
@@ -124,29 +148,5 @@
     <desc lang="en">Watch the highlights of the sixth stop of the season in Spain from the Premier Padel Andalucia Sevilla P2.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/suuv67u1shx4acshfred/premier-padel-milan-match"/>
-  </programme>
-  <programme channel="redbull.com" start="20240716005346+0000" stop="20240716011938+0000">
-    <title lang="en">Highlights – Riyadh Premier Padel P1</title>
-    <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
-  </programme>
-  <programme channel="redbull.com" start="20240716014614+0000" stop="20240716030454+0000">
-    <title lang="en">Highlight Show Rampage 2023</title>
-    <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.  </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/kp92a5bvrxlsmsyjrtfz/jaxson-riddle"/>
-  </programme>
-  <programme channel="redbull.com" start="20240716030454+0000" stop="20240716035026+0000">
-    <title lang="en">Lil Zoo: Breaking Chose Me</title>
-    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
-  </programme>
-  <programme channel="redbull.com" start="20240716035026+0000" stop="20240716044501+0000">
-    <title lang="en">Ice Waterfalls</title>
-    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/15/n9e71buasfvbbdzzu7di/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
   </programme>
 </tv>
