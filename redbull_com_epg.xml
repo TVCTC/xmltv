@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-17 15:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-17 16:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240717124347+0000" stop="20240717130452+0000">
-    <title lang="en">Noah</title>
-    <desc lang="en">Discover the art of surfing through the world of Noah Beschen, a pro surfer from the North Shore of Oahu.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/ukwuuxjogk4bakirmnym/noah-header-image"/>
-  </programme>
   <programme channel="redbull.com" start="20240717130452+0000" stop="20240717140156+0000">
     <title lang="en">Paradigm Lost</title>
     <desc lang="en">Take an in-depth look at the life of one of the world's most complete watermen, Kai Lenny.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Just 11-years-old and already a freestyle ski phenomenon. Meet the extraordinary Walker Woodring.</desc>
     <category lang="en">Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/jjm6hlgjvjhygfx8dr09/logan-pehota-british-columbia-anywhere-from-here-ski-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20240718060000+0000" stop="20240718063651+0000">
+    <title lang="en">Back to the Bowl</title>
+    <desc lang="en">Explore the history of one of the world's most iconic skate spots as told by the riders who made it famous.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RNY38JB92111/fo-1rny38jb92111-featuremedia"/>
   </programme>
 </tv>
