@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-19 06:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-19 07:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240718215014+0000" stop="20240718231127+0000">
+    <title lang="en">Against the Odds</title>
+    <desc lang="en">Team OG defied the odds – witness their esports journey to Dota 2 glory at TI8. </desc>
+    <category lang="en">Gaming</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-2175QTR85BH11/fo-2175qtr85bh11-featuremedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20240718231127+0000" stop="20240718233211+0000">
+    <title lang="en">All You Need is a Ball</title>
+    <desc lang="en">Enjoy a look into how the best freestyle footballers in the world are paving the way for a new generation.</desc>
+    <category lang="en">Freestyle Soccer</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/24/lyxf2utq1ljak5nrhoxg/all-you-need-is-a-ball-red-bull-street-style"/>
+  </programme>
+  <programme channel="redbull.com" start="20240718233211+0000" stop="20240719011523+0000">
+    <title lang="en">And Two If By Sea</title>
+    <desc lang="en">Twin surfers. Rival careers. Pro surfers and identical twins CJ and Damien Hobgood battle sibling rivalry.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/3/18/pyv4rszk7tj6t7jvkbax/andtwoifbythesea_landscape_hero"/>
+  </programme>
+  <programme channel="redbull.com" start="20240719011523+0000" stop="20240719022543+0000">
+    <title lang="en">Anywhere from Here</title>
+    <desc lang="en">Just 11-years-old and already a freestyle ski phenomenon. Meet the extraordinary Walker Woodring.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/jjm6hlgjvjhygfx8dr09/logan-pehota-british-columbia-anywhere-from-here-ski-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20240719022543+0000" stop="20240719030235+0000">
+    <title lang="en">Back to the Bowl</title>
+    <desc lang="en">Explore the history of one of the world's most iconic skate spots as told by the riders who made it famous.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RNY38JB92111/fo-1rny38jb92111-featuremedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20240719030235+0000" stop="20240719032916+0000">
+    <title lang="en">Baja 1000 team highlights</title>
+    <desc lang="en">Many familiar names paired up this year to tackle Baja 1000 2019 as a team.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/12/ruosxn6twvgimqwbqhww/andy-mcmillin-baja-1000"/>
+  </programme>
   <programme channel="redbull.com" start="20240719032916+0000" stop="20240719041812+0000">
     <title lang="en">Open the Doors: Hellfest</title>
     <desc lang="en">Go to ground zero of the colossal effort to put together Europe's go-to festival for extreme music.</desc>
@@ -118,41 +154,5 @@
     <desc lang="en">Red Bull KTM Factory Racing’s Manuel Lettenbichler put on a masterclass, claiming a comfortable win.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/5/crlmyzqq56ywhcax4s4j/manuel-lettenbichler-red-bull-erzbergrodeo-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240719145204+0000" stop="20240719151657+0000">
-    <title lang="en">HYROX World Championships highlights – Nice</title>
-    <desc lang="en">Discover what makes HYROX – the indoor fitness competition – a test of strength, endurance and determination.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/14/z7oqxo0xdlr3y4cwhm0s/hyrox-world-championships-2024-competitors"/>
-  </programme>
-  <programme channel="redbull.com" start="20240719151657+0000" stop="20240719155214+0000">
-    <title lang="en">Divers test their mental strength at Athens</title>
-    <desc lang="en">Host Gracie Kramer explores how top divers Xantheia and Jonathan train their minds to get a winner's mentality</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/23/c75zpim7v9wpr3wi2dql/gary-hunt-red-bull-cliff-diving-world-series-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240719155214+0000" stop="20240719170107+0000">
-    <title lang="en">The Old World</title>
-    <desc lang="en">Traverse iconic European locations in a celebration of biking culture that unites MTB and BMX.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual"/>
-  </programme>
-  <programme channel="redbull.com" start="20240719170107+0000" stop="20240719171703+0000">
-    <title lang="en">Honda CT70</title>
-    <desc lang="en">Pro stunt rider and expert builder Aaron Colton turns a clunker Honda CT70 into the pit bike of his dreams.</desc>
-    <category lang="en">Motorbike Stuntriding </category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/8/24/gb7ocumfixcgmvvwh7s3/bike-builds-with-aaron-colton-s1-e3-honda-ct70-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240719171703+0000" stop="20240719175005+0000">
-    <title lang="en">20 Years of Red Bull Valparaíso Cerro Abajo</title>
-    <desc lang="en">Relive 20 years of the largest urban downhill race in the world that began as an idea among friends.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/grv8ijzyrwhtsstkoas3/red-bull-valparaiso-cerro-abajo-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20240719175005+0000" stop="20240719181320+0000">
-    <title lang="en">9191</title>
-    <desc lang="en">Gigi Rüf stars in an introspective dreamscape documenting one season in a life of snowboarding exploration.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/eltcdixeuk8zm1jkv83o/gigi-ruf-red-bull-snow-backcountry-camp-2024"/>
   </programme>
 </tv>
