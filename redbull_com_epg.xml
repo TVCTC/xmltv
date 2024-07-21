@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-21 04:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-21 05:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240721013811+0000" stop="20240721015509+0000">
-    <title lang="en">Philadelphia</title>
-    <desc lang="en">Go street-level in one of skating's most influential cities with the locals who make up the Philly scene.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ntnymqjwzliurs3sel8r/jahmir-brown-switch-backtail-colin-kerrigan"/>
-  </programme>
-  <programme channel="redbull.com" start="20240721015509+0000" stop="20240721021319+0000">
-    <title lang="en">Santiago</title>
-    <desc lang="en">Around 20,000 skateboarders live in the greater metropolitan area of the Chilean city – let's roll with them!</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/19/zixv84jil6trsarsyjxb/marcelo-jimenez"/>
-  </programme>
-  <programme channel="redbull.com" start="20240721021319+0000" stop="20240721025110+0000">
-    <title lang="en">Abstract</title>
-    <desc lang="en">Faction's fourth feature film exhibits pure creativity through a series of high-octane freeski sequences.</desc>
-    <category lang="en">Freeskiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/w67ikgbwzwzaqvlr5kut/abstract-skiing-film"/>
-  </programme>
   <programme channel="redbull.com" start="20240721025110+0000" stop="20240721032004+0000">
     <title lang="en">Return of the Lords</title>
     <desc lang="en">Follow the electrifying 2024 event as the world's best breaking crews battled it out in Seattle, USA.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Explore the legendary skate scene in the Scottish city with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/11/sbftsa5tuhpclvl7inwi/jake-wooten-glasgow-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240721134220+0000" stop="20240721135619+0000">
+    <title lang="en">Greetings From: Skate Virginia</title>
+    <desc lang="en">Enjoy a different side of American skateboarding culture, ripping up the Virginia skate scene with the locals.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/28/ijmidoos7d2qrhrq4ghh/greetings-from-s2-e3-virginia-usa-gilbert-crockett"/>
+  </programme>
+  <programme channel="redbull.com" start="20240721135619+0000" stop="20240721141644+0000">
+    <title lang="en">Johannesburg</title>
+    <desc lang="en">Meet Brandon Valjalo and 30 more top dogs from South Africa's biggest skate scene in our super city report.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/19/l83zakd2ixgnhqzrpljm/brandon-valjalo-backside-tailslide-pimville-diy-skatepark-soweto-sout-africa"/>
+  </programme>
+  <programme channel="redbull.com" start="20240721141644+0000" stop="20240721145710+0000">
+    <title lang="en">Chumbo: Made for Big Wave Surfing</title>
+    <desc lang="en">Get a glimpse into Lucas Chianca's life as he balances chasing big waves with looking after his family.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/9/wlapw5hodyuia7ry8ksp/lucas-chianca-chumbo-made-for-big-wave-surfing-header"/>
   </programme>
 </tv>
