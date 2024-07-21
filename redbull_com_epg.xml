@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-21 05:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-21 06:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240721025110+0000" stop="20240721032004+0000">
-    <title lang="en">Return of the Lords</title>
-    <desc lang="en">Follow the electrifying 2024 event as the world's best breaking crews battled it out in Seattle, USA.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/2/rnbkzxtmalh2ymnzbvdc/red-bull-lords-of-the-floor-breaking"/>
-  </programme>
   <programme channel="redbull.com" start="20240721032004+0000" stop="20240721041204+0000">
     <title lang="en">Relive 2024’s record run</title>
     <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
@@ -113,7 +107,7 @@
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/flkywrg12h1rmqgunnqr/loic-bruni"/>
   </programme>
-  <programme channel="redbull.com" start="20240721002228+0000" stop="20240721010906+0000">
+  <programme channel="redbull.com" start="20240721112051+0000" stop="20240721120623+0000">
     <title lang="en">Lil Zoo: Breaking Chose Me</title>
     <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
     <category lang="en">Breaking</category>
@@ -154,5 +148,11 @@
     <desc lang="en">Get a glimpse into Lucas Chianca's life as he balances chasing big waves with looking after his family.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/9/wlapw5hodyuia7ry8ksp/lucas-chianca-chumbo-made-for-big-wave-surfing-header"/>
+  </programme>
+  <programme channel="redbull.com" start="20240721145710+0000" stop="20240721153431+0000">
+    <title lang="en">Brandon Semenuk – Steps to the Top </title>
+    <desc lang="en">An inside look at the creative process behind Brandon Semenuk’s Red Bull Rampage winning run in 2021. </desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/3/h3axlc6y2gglk0zhtzqz/brandon-semenuk-steps-to-the-top-hero-art"/>
   </programme>
 </tv>
