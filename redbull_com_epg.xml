@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-22 08:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-22 09:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240722044939+0000" stop="20240722051539+0000">
-    <title lang="en">Highlights – Puerto Cabello Premier Padel P2</title>
-    <desc lang="en">Watch the highlights of the fourth stop of the season in Venezuela for the Puerto Cabello Premier Padel P2. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/4/iqmgalloe5lthvm6jgma/suzanne-casey-premier-padel-2024-puerto-cabello-p2"/>
-  </programme>
-  <programme channel="redbull.com" start="20240722051539+0000" stop="20240722054217+0000">
-    <title lang="en">Highlights – Qatar Major Premier Padel</title>
-    <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
-  </programme>
-  <programme channel="redbull.com" start="20240722054217+0000" stop="20240722060000+0000">
-    <title lang="en">Beneath the Ice</title>
-    <desc lang="en">Will Gadd uses his unmatched ice climbing skills and knowledge to lead a scientific expedition into a previously unexplored territory beneath the Greenland ice sheet.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/12/aaeetjdfgzyopom0pddl/beneath-the-ice-will-gadd-greenland"/>
-  </programme>
-  <programme channel="redbull.com" start="20240722060000+0000" stop="20240722063225+0000">
-    <title lang="en">Adapt or perish</title>
-    <desc lang="en">A wave of younger, faster competitors force 'old dogs to learn new tricks' to stay in the results sheet. </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/qjq0alzb0bk4pwfkj1os/jackson-goldstone"/>
-  </programme>
   <programme channel="redbull.com" start="20240722063225+0000" stop="20240722065839+0000">
     <title lang="en">Iron sharpens iron</title>
     <desc lang="en">Mathias Flückiger and Nino Schurter confront the bitter rivalry of Swiss MTB cross-country racing.</desc>
@@ -148,5 +124,29 @@
     <desc lang="en">Explore the skate scene of one of the world's greatest cities with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/11/db1q41ssfmyfyq4z2jtx/margielyn-dida-london-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240722184722+0000" stop="20240722190115+0000">
+    <title lang="en">Manchester</title>
+    <desc lang="en">Explore the thriving skate scene in Manchester, England, with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/11/y4xxcffmobvgt4aga7al/eddie-belvedere-manchester-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240722190115+0000" stop="20240722191813+0000">
+    <title lang="en">Philadelphia</title>
+    <desc lang="en">Go street-level in one of skating's most influential cities with the locals who make up the Philly scene.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ntnymqjwzliurs3sel8r/jahmir-brown-switch-backtail-colin-kerrigan"/>
+  </programme>
+  <programme channel="redbull.com" start="20240722191813+0000" stop="20240722193653+0000">
+    <title lang="en">Santiago</title>
+    <desc lang="en">Around 20,000 skateboarders live in the greater metropolitan area of the Chilean city – let's roll with them!</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/19/zixv84jil6trsarsyjxb/marcelo-jimenez"/>
+  </programme>
+  <programme channel="redbull.com" start="20240722193653+0000" stop="20240722201443+0000">
+    <title lang="en">Abstract</title>
+    <desc lang="en">Faction's fourth feature film exhibits pure creativity through a series of high-octane freeski sequences.</desc>
+    <category lang="en">Freeskiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/w67ikgbwzwzaqvlr5kut/abstract-skiing-film"/>
   </programme>
 </tv>
