@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-25 11:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-25 12:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240725081215+0000" stop="20240725085806+0000">
-    <title lang="en">(Un)credited</title>
-    <desc lang="en">Dive deep into the origins of Afro Dance in Nigeria and how it has shaped a global mainstream culture.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/22/w86gbabyv0vhfdl5zlya/un-credited-nigeria-afro-dance"/>
-  </programme>
-  <programme channel="redbull.com" start="20240725085806+0000" stop="20240725094414+0000">
-    <title lang="en">Lil Zoo: Breaking Chose Me</title>
-    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
-  </programme>
   <programme channel="redbull.com" start="20240725094414+0000" stop="20240725095927+0000">
     <title lang="en">London</title>
     <desc lang="en">Explore the skate scene of one of the world's greatest cities with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">DH riders Loïc Bruni and Loris Vergier have their relationship put to the test as they compete against each.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/flkywrg12h1rmqgunnqr/loic-bruni"/>
+  </programme>
+  <programme channel="redbull.com" start="20240725201731+0000" stop="20240725203000+0000">
+    <title lang="en">2017's top car designs</title>
+    <desc lang="en">Not every genius design translates into a stable soapbox, as 2017's creative but crash-heavy highlights show.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/1/sp4dd86w1kbgtvew5jtq/red-bull-soapbox-race-valkenburg-2017"/>
+  </programme>
+  <programme channel="redbull.com" start="20240725203000+0000" stop="20240725220036+0000">
+    <title lang="en">Crankworx: Pump Track – Whistler</title>
+    <desc lang="en">Watch the Pump Track at the grand finale of the Crankworx World Tour 2024 in Whistler, Canada. </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/19/lepkcukv5tvqzoehwn7h/tuhoto-ariki-pene-at-crankworx-whistler-pump-track-2023"/>
   </programme>
 </tv>
