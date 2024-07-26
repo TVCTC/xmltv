@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-26 17:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-26 18:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240726144552+0000" stop="20240726151415+0000">
-    <title lang="en">Apex predators </title>
-    <desc lang="en">In the downhill, Finn Iles struggles to beat his biggest competitor, team-mate Loïc Bruni.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/szk42xiugjm6ltrburtf/finn-iles"/>
-  </programme>
-  <programme channel="redbull.com" start="20240726151415+0000" stop="20240726154640+0000">
-    <title lang="en">Adapt or perish</title>
-    <desc lang="en">A wave of younger, faster competitors force 'old dogs to learn new tricks' to stay in the results sheet. </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/qjq0alzb0bk4pwfkj1os/jackson-goldstone"/>
-  </programme>
   <programme channel="redbull.com" start="20240726154640+0000" stop="20240726161254+0000">
     <title lang="en">Iron sharpens iron</title>
     <desc lang="en">Mathias Flückiger and Nino Schurter confront the bitter rivalry of Swiss MTB cross-country racing.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Around 20,000 skateboarders live in the greater metropolitan area of the Chilean city – let's roll with them!</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/19/zixv84jil6trsarsyjxb/marcelo-jimenez"/>
+  </programme>
+  <programme channel="redbull.com" start="20240727053112+0000" stop="20240727060000+0000">
+    <title lang="en">Return of the Lords</title>
+    <desc lang="en">Follow the electrifying 2024 event as the world's best breaking crews battled it out in Seattle, USA.</desc>
+    <category lang="en">Breaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/2/rnbkzxtmalh2ymnzbvdc/red-bull-lords-of-the-floor-breaking"/>
+  </programme>
+  <programme channel="redbull.com" start="20240727060000+0000" stop="20240727064621+0000">
+    <title lang="en">Scratching the Surface</title>
+    <desc lang="en">This is the story of Julian Wilson’s rise to becoming a surfing megastar.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/vixrwqd4sylwz7rkgefh/julian-wilson-pipeline-2020"/>
   </programme>
 </tv>
