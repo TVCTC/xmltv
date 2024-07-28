@@ -1,17 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-28 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-28 05:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240727204248+0000" stop="20240727221213+0000">
+    <title lang="en">Madrid, Spain</title>
+    <desc lang="en">A churros-powered descent is taking place in the steep road of Madrid! Who will come out on top?</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/xifrq4b6kfis2z2uzxkm/sardinatti-team-red-bull-soapbox-race-madrid-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240727221213+0000" stop="20240727230523+0000">
+    <title lang="en">Changing of the guard</title>
+    <desc lang="en">The Red Bull Cliff Diving World Series reaches its crescendo at the final stop in Auckland.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/7/tt3uy4mfvjutdd8uvddx/constantin-popovici-red-bull-cliff-diving-2023-auckland"/>
+  </programme>
+  <programme channel="redbull.com" start="20240727230523+0000" stop="20240728000000+0000">
+    <title lang="en">Toby Price: Ridin’ Shotgun</title>
+    <desc lang="en">Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
+    <category lang="en">Offroad</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/9/22/uizpbk9kquu6ustdsgnf/toby-price-ridin-shotgun-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240728000000+0000" stop="20240728013016+0000">
+    <title lang="en">Crankworx: Pump Track – Whistler</title>
+    <desc lang="en">Watch the Pump Track at the grand finale of the Crankworx World Tour 2024 in Whistler, Canada. </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/19/lepkcukv5tvqzoehwn7h/tuhoto-ariki-pene-at-crankworx-whistler-pump-track-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240728013016+0000" stop="20240728013607+0000">
+    <title lang="en">Verstappen vs Tsunoda in mega trucks</title>
+    <desc lang="en">Watch F1 drivers Max Verstappen and Yuki Tsunoda go head to head in mega trucks at an iron mine in Austria.</desc>
+    <category lang="en">Offroad</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/23/xvt1xohr2ynbvfk4rmkh/max-verstappen-yuki-tsunoda-mega-trucks"/>
+  </programme>
+  <programme channel="redbull.com" start="20240728013607+0000" stop="20240728013920+0000">
+    <title lang="en">Downhill drone chase </title>
+    <desc lang="en">The talented FPV drone pilots chase Tomáš Slavík down the iconic Red Bull Valparaíso track.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/4/iwnozucs57yq7fxekxea/red-bull-cerro-abajo-valparaiso-tomas-slavik-drone-follow-art"/>
+  </programme>
   <programme channel="redbull.com" start="20240728013920+0000" stop="20240728023908+0000">
     <title lang="en">The MTB World Cup season is back with a bang!</title>
     <desc lang="en">Review Martin Vidaurre's career, Vali Höll talks team changes and Kate Courtney discusses Paris qualifying.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/17/g63nexzcsm0h0dsj8tha/martin-vidaurre-uci-xco-world-cup-2024"/>
   </programme>
-  <programme channel="redbull.com" start="20240728023908+0000" stop="20240728033142+0000">
+  <programme channel="redbull.com" start="20240727221213+0000" stop="20240727230523+0000">
     <title lang="en">Changing of the guard</title>
     <desc lang="en">The Red Bull Cliff Diving World Series reaches its crescendo at the final stop in Auckland.</desc>
     <category lang="en">Cliff Diving</category>
@@ -41,7 +77,7 @@
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/gl3qlrwdaz1smqbizu1b/reel-rock-s8-e4-aldolfo-trujillo-yucatan-penninsula"/>
   </programme>
-  <programme channel="redbull.com" start="20240728061942+0000" stop="20240728071408+0000">
+  <programme channel="redbull.com" start="20240727230523+0000" stop="20240728000000+0000">
     <title lang="en">Toby Price: Ridin’ Shotgun</title>
     <desc lang="en">Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
     <category lang="en">Offroad</category>
@@ -107,7 +143,7 @@
     <category lang="en">Snowboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/a24wabmgl2h2stzq5tyk/snowboard-movie-layers"/>
   </programme>
-  <programme channel="redbull.com" start="20240728181946+0000" stop="20240728194911+0000">
+  <programme channel="redbull.com" start="20240727204248+0000" stop="20240727221213+0000">
     <title lang="en">Madrid, Spain</title>
     <desc lang="en">A churros-powered descent is taking place in the steep road of Madrid! Who will come out on top?</desc>
     <category lang="en">Red Bull Soapbox Race</category>
@@ -118,35 +154,5 @@
     <desc lang="en">Strap in for the ride of your life as we follow surfer Justine Dupont through a ground-breaking big wave season.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/3/29/i4k8i7pteppumtyjozw1/a-la-folie-justine-dupont-surf"/>
-  </programme>
-  <programme channel="redbull.com" start="20240728202208+0000" stop="20240728213137+0000">
-    <title lang="en">The Old World</title>
-    <desc lang="en">Traverse iconic European locations in a celebration of biking culture that unites MTB and BMX.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual"/>
-  </programme>
-  <programme channel="redbull.com" start="20240728213137+0000" stop="20240728225819+0000">
-    <title lang="en">Wild Waters</title>
-    <desc lang="en">From Olympic pools to wild rivers, see the life of Nouria Newman, the most gifted kayaker of her generation.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/ez6viqxoy4iwxf7bxd7n/wild-waters-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240728131147+0000" stop="20240728142512+0000">
-    <title lang="en">Stoke the Fire</title>
-    <desc lang="en">The best skiing locations. Imposing mountains. Plenty of powder. See what makes the sport so special.</desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/12/9/i5sqiq5zo0swskyffxmo/stoke-the-fire-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240728155850+0000" stop="20240728165129+0000">
-    <title lang="en">Snowboarding highlights</title>
-    <desc lang="en">Thirty of the world’s top street snowboarders converge on the Minnesota State Capitol Building.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/26/qeqrokrg5t2aqzmooyi2/grace-warner-red-bull-heavy-metal-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240728041728+0000" stop="20240728054637+0000">
-    <title lang="en">London, UK</title>
-    <desc lang="en">Engenious, fast and brave is the recipe to success for a man-made-machine race, but who has it all in London?</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/11/rkzzj4pulbfgnuswtsqe/asterix-and-obelix-contra-alexandra-palace-red-bull-soapbox-race-london-2022"/>
   </programme>
 </tv>
