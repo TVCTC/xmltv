@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-28 10:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-28 11:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240728071408+0000" stop="20240728082555+0000">
-    <title lang="en">Broken Molds</title>
-    <desc lang="en">Travel back to the origins of windsurfing to find out how it's become one of the world's fastest-growing sports.</desc>
-    <category lang="en">Windsurfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/20/qibyjmco0mhsfbnwbyka/broken-molds-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20240728082555+0000" stop="20240728093802+0000">
     <title lang="en">Magic Hour</title>
     <desc lang="en">The 'magic hour' provides the perfect light to capture stunning ski images in the mountains.</desc>
@@ -101,7 +95,7 @@
     <category lang="en">Snowboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/26/qeqrokrg5t2aqzmooyi2/grace-warner-red-bull-heavy-metal-2024"/>
   </programme>
-  <programme channel="redbull.com" start="20240728041728+0000" stop="20240728054637+0000">
+  <programme channel="redbull.com" start="20240729010310+0000" stop="20240729023219+0000">
     <title lang="en">London, UK</title>
     <desc lang="en">Engenious, fast and brave is the recipe to success for a man-made-machine race, but who has it all in London?</desc>
     <category lang="en">Red Bull Soapbox Race</category>
@@ -119,7 +113,7 @@
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/ih4gy94ufhrghrh059nc/reel-rock-s8-e3-alex-johnson-swarm-usa"/>
   </programme>
-  <programme channel="redbull.com" start="20240728060000+0000" stop="20240728061942+0000">
+  <programme channel="redbull.com" start="20240729032428+0000" stop="20240729034335+0000">
     <title lang="en">Cenote</title>
     <desc lang="en">Adolfo 'Fito' Trujillo’s discovery of climbing in the limestone sinkholes turns the farmer’s life around.</desc>
     <category lang="en">Climbing</category>
@@ -148,5 +142,17 @@
     <desc lang="en">This is a film about travelling to find waves... and everything that happens in between.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/22/h7xnny83dapezq5kykwo/se7en-signs-a-travelling-film-header"/>
+  </programme>
+  <programme channel="redbull.com" start="20240728102430+0000" stop="20240728111606+0000">
+    <title lang="en">Shires</title>
+    <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/29/rpfuqolbq2fpzctqjxgu/shires-rob-warner-bike-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20240728111606+0000" stop="20240728122520+0000">
+    <title lang="en">Anywhere from Here</title>
+    <desc lang="en">Just 11-years-old and already a freestyle ski phenomenon. Meet the extraordinary Walker Woodring.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/jjm6hlgjvjhygfx8dr09/logan-pehota-british-columbia-anywhere-from-here-ski-film"/>
   </programme>
 </tv>
