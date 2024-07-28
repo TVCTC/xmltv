@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-28 09:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-28 10:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240728054637+0000" stop="20240728060000+0000">
-    <title lang="en">Greetings From: Skate Virginia</title>
-    <desc lang="en">Enjoy a different side of American skateboarding culture, ripping up the Virginia skate scene with the locals.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/28/ijmidoos7d2qrhrq4ghh/greetings-from-s2-e3-virginia-usa-gilbert-crockett"/>
-  </programme>
-  <programme channel="redbull.com" start="20240728060000+0000" stop="20240728061942+0000">
-    <title lang="en">Cenote</title>
-    <desc lang="en">Adolfo 'Fito' Trujillo’s discovery of climbing in the limestone sinkholes turns the farmer’s life around.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/gl3qlrwdaz1smqbizu1b/reel-rock-s8-e4-aldolfo-trujillo-yucatan-penninsula"/>
-  </programme>
-  <programme channel="redbull.com" start="20240728061942+0000" stop="20240728071408+0000">
-    <title lang="en">Toby Price: Ridin’ Shotgun</title>
-    <desc lang="en">Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
-    <category lang="en">Offroad</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/9/22/uizpbk9kquu6ustdsgnf/toby-price-ridin-shotgun-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20240728071408+0000" stop="20240728082555+0000">
     <title lang="en">Broken Molds</title>
     <desc lang="en">Travel back to the origins of windsurfing to find out how it's become one of the world's fastest-growing sports.</desc>
@@ -148,5 +130,23 @@
     <desc lang="en">Travel back to the origins of windsurfing to find out how it's become one of the world's fastest-growing sports.</desc>
     <category lang="en">Windsurfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/20/qibyjmco0mhsfbnwbyka/broken-molds-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240729045522+0000" stop="20240729052510+0000">
+    <title lang="en">No I in team</title>
+    <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/5/dzfbz2heksvcugo7d5dr/jolanda-neff-uci-xco-world-cup-val-di-sole-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240728194911+0000" stop="20240728202208+0000">
+    <title lang="en">à la folie</title>
+    <desc lang="en">Strap in for the ride of your life as we follow surfer Justine Dupont through a ground-breaking big wave season.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/3/29/i4k8i7pteppumtyjozw1/a-la-folie-justine-dupont-surf"/>
+  </programme>
+  <programme channel="redbull.com" start="20240728093802+0000" stop="20240728102430+0000">
+    <title lang="en">Se7en Signs: A Travelling Film</title>
+    <desc lang="en">This is a film about travelling to find waves... and everything that happens in between.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/22/h7xnny83dapezq5kykwo/se7en-signs-a-travelling-film-header"/>
   </programme>
 </tv>
