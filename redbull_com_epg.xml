@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-29 17:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-29 18:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240729131438+0000" stop="20240729144255+0000">
-    <title lang="en">Layers</title>
-    <desc lang="en">Discover and celebrate the unique people, places, personalities and layers behind what we call snowboarding.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/a24wabmgl2h2stzq5tyk/snowboard-movie-layers"/>
-  </programme>
   <programme channel="redbull.com" start="20240729144255+0000" stop="20240729161220+0000">
     <title lang="en">Madrid, Spain</title>
     <desc lang="en">A churros-powered descent is taking place in the steep road of Madrid! Who will come out on top?</desc>
@@ -101,13 +95,13 @@
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/22/h7xnny83dapezq5kykwo/se7en-signs-a-travelling-film-header"/>
   </programme>
-  <programme channel="redbull.com" start="20240729064703+0000" stop="20240729073839+0000">
+  <programme channel="redbull.com" start="20240730035340+0000" stop="20240730044516+0000">
     <title lang="en">Shires</title>
     <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/29/rpfuqolbq2fpzctqjxgu/shires-rob-warner-bike-film"/>
   </programme>
-  <programme channel="redbull.com" start="20240729073839+0000" stop="20240729084830+0000">
+  <programme channel="redbull.com" start="20240730044516+0000" stop="20240730055506+0000">
     <title lang="en">Anywhere from Here</title>
     <desc lang="en">Just 11-years-old and already a freestyle ski phenomenon. Meet the extraordinary Walker Woodring.</desc>
     <category lang="en">Skiing</category>
@@ -125,22 +119,40 @@
     <category lang="en">Dance</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/kuxlfkfhp6gwuiuyzux0/kyoka"/>
   </programme>
-  <programme channel="redbull.com" start="20240729084830+0000" stop="20240729093457+0000">
+  <programme channel="redbull.com" start="20240730060000+0000" stop="20240730064627+0000">
     <title lang="en">(Un)credited</title>
     <desc lang="en">Dive deep into the origins of Afro Dance in Nigeria and how it has shaped a global mainstream culture.</desc>
     <category lang="en">Dance</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/22/w86gbabyv0vhfdl5zlya/un-credited-nigeria-afro-dance"/>
   </programme>
-  <programme channel="redbull.com" start="20240729093457+0000" stop="20240729104821+0000">
+  <programme channel="redbull.com" start="20240730064627+0000" stop="20240730075951+0000">
     <title lang="en">Stoke the Fire</title>
     <desc lang="en">The best skiing locations. Imposing mountains. Plenty of powder. See what makes the sport so special.</desc>
     <category lang="en">Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/12/9/i5sqiq5zo0swskyffxmo/stoke-the-fire-hero-art"/>
   </programme>
-  <programme channel="redbull.com" start="20240729104821+0000" stop="20240729122200+0000">
+  <programme channel="redbull.com" start="20240730075951+0000" stop="20240730093330+0000">
     <title lang="en">Long Live Chainsaw</title>
     <desc lang="en">From underdog to world champ – this is the mountain bike in memory of legend Stevie 'Chainsaw' Smith.</desc>
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/4/uy6brgtuxhj4xr129iui/long-live-chainsaw-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240730093330+0000" stop="20240730102608+0000">
+    <title lang="en">Snowboarding highlights</title>
+    <desc lang="en">Thirty of the world’s top street snowboarders converge on the Minnesota State Capitol Building.</desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/26/qeqrokrg5t2aqzmooyi2/grace-warner-red-bull-heavy-metal-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240729131438+0000" stop="20240729144255+0000">
+    <title lang="en">Layers</title>
+    <desc lang="en">Discover and celebrate the unique people, places, personalities and layers behind what we call snowboarding.</desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/a24wabmgl2h2stzq5tyk/snowboard-movie-layers"/>
+  </programme>
+  <programme channel="redbull.com" start="20240729144255+0000" stop="20240729161220+0000">
+    <title lang="en">Madrid, Spain</title>
+    <desc lang="en">A churros-powered descent is taking place in the steep road of Madrid! Who will come out on top?</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/xifrq4b6kfis2z2uzxkm/sardinatti-team-red-bull-soapbox-race-madrid-2022"/>
   </programme>
 </tv>
