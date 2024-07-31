@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-31 20:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-07-31 21:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240731164211+0000" stop="20240731170427+0000">
-    <title lang="en">Big things to come</title>
-    <desc lang="en">Alex Johnson spent a decade trying to climb The Swarm, USA. The challenge forces her to face her true self.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/ih4gy94ufhrghrh059nc/reel-rock-s8-e3-alex-johnson-swarm-usa"/>
-  </programme>
-  <programme channel="redbull.com" start="20240731170427+0000" stop="20240731172410+0000">
-    <title lang="en">Cenote</title>
-    <desc lang="en">Adolfo 'Fito' Trujillo’s discovery of climbing in the limestone sinkholes turns the farmer’s life around.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/gl3qlrwdaz1smqbizu1b/reel-rock-s8-e4-aldolfo-trujillo-yucatan-penninsula"/>
-  </programme>
-  <programme channel="redbull.com" start="20240731172410+0000" stop="20240731181836+0000">
-    <title lang="en">Toby Price: Ridin’ Shotgun</title>
-    <desc lang="en">Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
-    <category lang="en">Offroad</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/9/22/uizpbk9kquu6ustdsgnf/toby-price-ridin-shotgun-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20240731181836+0000" stop="20240731193023+0000">
     <title lang="en">Broken Molds</title>
     <desc lang="en">Travel back to the origins of windsurfing to find out how it's become one of the world's fastest-growing sports.</desc>
@@ -154,5 +136,11 @@
     <desc lang="en">Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
     <category lang="en">Offroad</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/9/22/uizpbk9kquu6ustdsgnf/toby-price-ridin-shotgun-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240731181836+0000" stop="20240731193023+0000">
+    <title lang="en">Broken Molds</title>
+    <desc lang="en">Travel back to the origins of windsurfing to find out how it's become one of the world's fastest-growing sports.</desc>
+    <category lang="en">Windsurfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/20/qibyjmco0mhsfbnwbyka/broken-molds-hero-art"/>
   </programme>
 </tv>
