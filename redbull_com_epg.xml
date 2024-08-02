@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-02 14:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-02 15:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240802090614+0000" stop="20240802103558+0000">
+    <title lang="en">London, UK</title>
+    <desc lang="en">Engenious, fast and brave is the recipe to success for a man-made-machine race, but who has it all in London?</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/11/rkzzj4pulbfgnuswtsqe/asterix-and-obelix-contra-alexandra-palace-red-bull-soapbox-race-london-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240802103558+0000" stop="20240802110551+0000">
+    <title lang="en">Barefoot Charles</title>
+    <desc lang="en">Barefoot Charles Albert is a minimalist who climbs boulders in Fontainebleau, France, and lives in a cave.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/ydxaxjhqzror4iclvx2k/giuliano-cameroni-the-feather-reel-rock-s8-ep2"/>
+  </programme>
+  <programme channel="redbull.com" start="20240802110551+0000" stop="20240802112807+0000">
+    <title lang="en">Big things to come</title>
+    <desc lang="en">Alex Johnson spent a decade trying to climb The Swarm, USA. The challenge forces her to face her true self.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/ih4gy94ufhrghrh059nc/reel-rock-s8-e3-alex-johnson-swarm-usa"/>
+  </programme>
+  <programme channel="redbull.com" start="20240802112807+0000" stop="20240802114750+0000">
+    <title lang="en">Cenote</title>
+    <desc lang="en">Adolfo 'Fito' Trujillo’s discovery of climbing in the limestone sinkholes turns the farmer’s life around.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/gl3qlrwdaz1smqbizu1b/reel-rock-s8-e4-aldolfo-trujillo-yucatan-penninsula"/>
+  </programme>
   <programme channel="redbull.com" start="20240802114750+0000" stop="20240802124216+0000">
     <title lang="en">Toby Price: Ridin’ Shotgun</title>
     <desc lang="en">Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
@@ -130,29 +154,5 @@
     <desc lang="en">Discover what makes HYROX – the indoor fitness competition – a test of strength, endurance and determination.</desc>
     <category lang="en">Athletics</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/14/z7oqxo0xdlr3y4cwhm0s/hyrox-world-championships-2024-competitors"/>
-  </programme>
-  <programme channel="redbull.com" start="20240803075209+0000" stop="20240803081722+0000">
-    <title lang="en">Highlights – Acapulco Premier Padel P1</title>
-    <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
-  </programme>
-  <programme channel="redbull.com" start="20240803081722+0000" stop="20240803084354+0000">
-    <title lang="en">Highlights – Asunción Premier Padel P2 </title>
-    <desc lang="en">Watch the highlights of the seventh stop of the season in Paraguay from the Asunción Premier Padel P2.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/yupj6ycdbof7x8jrd3at/beatriz-caldera-premier-padel"/>
-  </programme>
-  <programme channel="redbull.com" start="20240803084354+0000" stop="20240803090952+0000">
-    <title lang="en">Highlights – BNL Italy Major Premier Padel</title>
-    <desc lang="en">Relive the action from the third Major of the Premier Padel Season 2024 as Italy takes the main stage.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/lwozjjuxbuh1lsoad8xb/ale-galan-sevilla-premier-padel-p2-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240803090952+0000" stop="20240803093550+0000">
-    <title lang="en">Highlights – Bordeaux Premier Padel P2</title>
-    <desc lang="en">See the best moments from the action-packed Bordeaux Premier Padel P2 tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/kj8nobdgp207u02uj09c/thomas-leygue-bordeaux-premier-padel-p2-2024"/>
   </programme>
 </tv>
