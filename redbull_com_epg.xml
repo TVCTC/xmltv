@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-02 10:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-02 11:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240802060000+0000" stop="20240802072641+0000">
-    <title lang="en">Wild Waters</title>
-    <desc lang="en">From Olympic pools to wild rivers, see the life of Nouria Newman, the most gifted kayaker of her generation.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/11/ez6viqxoy4iwxf7bxd7n/wild-waters-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20240802072641+0000" stop="20240802081952+0000">
     <title lang="en">Changing of the guard</title>
     <desc lang="en">The Red Bull Cliff Diving World Series reaches its crescendo at the final stop in Auckland.</desc>
@@ -125,7 +119,7 @@
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/30/inmn3pjglt8q3tlpdk2c/red-bull-dual-ascent-2022-domen-skofic"/>
   </programme>
-  <programme channel="redbull.com" start="20240802044808+0000" stop="20240802055702+0000">
+  <programme channel="redbull.com" start="20240803015500+0000" stop="20240803030430+0000">
     <title lang="en">The Old World</title>
     <desc lang="en">Traverse iconic European locations in a celebration of biking culture that unites MTB and BMX.</desc>
     <category lang="en">MTB</category>
@@ -154,5 +148,11 @@
     <desc lang="en">Red Bull TV programme</desc>
     <category lang="en">Dance</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/kuxlfkfhp6gwuiuyzux0/kyoka"/>
+  </programme>
+  <programme channel="redbull.com" start="20240803060000+0000" stop="20240803065200+0000">
+    <title lang="en">Relive 2024’s record run</title>
+    <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
+    <category lang="en">Running</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/13/ja3b18y4rq9vp7jukejj/wings-for-life-world-run-2024-zadar-croatia"/>
   </programme>
 </tv>
