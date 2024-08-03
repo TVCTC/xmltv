@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-03 09:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-03 10:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240803065200+0000" stop="20240803072716+0000">
-    <title lang="en">Divers test their mental strength at Athens</title>
-    <desc lang="en">Host Gracie Kramer explores how top divers Xantheia and Jonathan train their minds to get a winner's mentality</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/23/c75zpim7v9wpr3wi2dql/gary-hunt-red-bull-cliff-diving-world-series-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240803072716+0000" stop="20240803075209+0000">
-    <title lang="en">HYROX World Championships highlights – Nice</title>
-    <desc lang="en">Discover what makes HYROX – the indoor fitness competition – a test of strength, endurance and determination.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/14/z7oqxo0xdlr3y4cwhm0s/hyrox-world-championships-2024-competitors"/>
-  </programme>
   <programme channel="redbull.com" start="20240803075209+0000" stop="20240803081722+0000">
     <title lang="en">Highlights – Acapulco Premier Padel P1</title>
     <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
@@ -136,5 +124,11 @@
     <desc lang="en">Rick Ross and acclaimed all-Black symphony Orchestra Noir bring Red Bull Symphonic to Atlanta.</desc>
     <category lang="en">Music</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/18/lpxvcamjafpavqtgxrmw/rick-ross-red-bull-symphonic-2022-atlanta"/>
+  </programme>
+  <programme channel="redbull.com" start="20240803192324+0000" stop="20240803193519+0000">
+    <title lang="en">The Making of Red Bull Symphonic with Metro Boomin</title>
+    <desc lang="en">Metro Boomin reimagines his biggest hits with a full orchestra and special guests at Red Bull Symphonic in LA.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/4/dpmlvljooivqllfltzcs/red-bull-symphonic-metro-boomin"/>
   </programme>
 </tv>
