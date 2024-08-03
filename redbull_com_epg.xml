@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-03 04:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-03 05:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240802234906+0000" stop="20240803011830+0000">
-    <title lang="en">Madrid, Spain</title>
-    <desc lang="en">A churros-powered descent is taking place in the steep road of Madrid! Who will come out on top?</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/xifrq4b6kfis2z2uzxkm/sardinatti-team-red-bull-soapbox-race-madrid-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240803011830+0000" stop="20240803015500+0000">
-    <title lang="en">Red Bull Dual Ascent</title>
-    <desc lang="en">Sixteen world-class athletes on eight teams battle to be the fastest up a wall of six gruelling pitches.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/30/inmn3pjglt8q3tlpdk2c/red-bull-dual-ascent-2022-domen-skofic"/>
-  </programme>
   <programme channel="redbull.com" start="20240803015500+0000" stop="20240803030430+0000">
     <title lang="en">The Old World</title>
     <desc lang="en">Traverse iconic European locations in a celebration of biking culture that unites MTB and BMX.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Alex Johnson spent a decade trying to climb The Swarm, USA. The challenge forces her to face her true self.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/ih4gy94ufhrghrh059nc/reel-rock-s8-e3-alex-johnson-swarm-usa"/>
+  </programme>
+  <programme channel="redbull.com" start="20240803154040+0000" stop="20240803155000+0000">
+    <title lang="en">Max Verstappen drift driving challenge</title>
+    <desc lang="en">Oracle Red Bull Racing driver Max Verstappen gets behind the wheel of a drift car with ‘Mad’ Mike Whiddett.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/1/ajtwdf7dbvshygox7vnz/max-verstappen-with-madbul"/>
+  </programme>
+  <programme channel="redbull.com" start="20240803155000+0000" stop="20240803180036+0000">
+    <title lang="en">Top 16 – Latvia</title>
+    <desc lang="en">Watch the Top 16 at round four of the 2024 season of Drift Masters at Latvia’s Biķernieki Circuit.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/22/ad9sjyjsmewylgs4bgoq/james-dean-drift-masters-latvia-2023"/>
   </programme>
 </tv>
