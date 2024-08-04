@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-04 19:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-04 20:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240804164245+0000" stop="20240804170041+0000">
-    <title lang="en">ABC of... Breaking</title>
-    <desc lang="en">Take a journey through breaking to dive into the dopest moves, hip hop culture and how the dance was born.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/11/3/gbc431eliudmmzrzwevu/abc-of-breaking-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240804170041+0000" stop="20240804172612+0000">
-    <title lang="en">ABC of... Climbing</title>
-    <desc lang="en">Join Sasha DiGiulian as she takes you on an expedition around the globe with some of the world's top climbers.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/3/3/iayq9ughxcjbdcc5xryb/abc-of-climbing-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240804172612+0000" stop="20240804175149+0000">
-    <title lang="en">ABC of... Kayaking</title>
-    <desc lang="en">Jessica Fox takes you on an epic run through the origins of kayaking and the paddlers who shaped the sport.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/1/15/ygoc19j6uct7bqyuzyy8/jessica-fox-training-session-sydney"/>
-  </programme>
-  <programme channel="redbull.com" start="20240804175149+0000" stop="20240804181819+0000">
-    <title lang="en">ABC... of MotoGP™</title>
-    <desc lang="en">From understanding the rules to learning the jargon, find out what makes this motorsport so thrilling.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1WR6QJV515N11/FO-1WR6QJV515N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20240804181819+0000" stop="20240804184415+0000">
-    <title lang="en">ABC of... Mountain Biking</title>
-    <desc lang="en">Get a crash course in mountain biking, with lessons in the terminology, history and heroes of the sport.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RTEWYES91W11/FO-1RTEWYES91W11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20240804184415+0000" stop="20240804191150+0000">
     <title lang="en">ABC of... Surfing</title>
     <desc lang="en">Discover some facts and figures of surfing, from its origins to the spectacular adrenaline-fuelled present.</desc>
@@ -154,5 +124,35 @@
     <desc lang="en">Watch the highlights of the fourth stop of the season in Venezuela for the Puerto Cabello Premier Padel P2. </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/4/iqmgalloe5lthvm6jgma/suzanne-casey-premier-padel-2024-puerto-cabello-p2"/>
+  </programme>
+  <programme channel="redbull.com" start="20240805052751+0000" stop="20240805055429+0000">
+    <title lang="en">Highlights – Qatar Major Premier Padel</title>
+    <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
+  </programme>
+  <programme channel="redbull.com" start="20240805055429+0000" stop="20240805060000+0000">
+    <title lang="en">Snowboarding destruction in Detroit </title>
+    <desc lang="en">Red Bull Heavy Metal saw Detroit’s Hart Plaza transformed into a street snowboarding arena unlike any other.</desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/17/zk9l5xjasgczigt2embs/red-bull-heavy-metal"/>
+  </programme>
+  <programme channel="redbull.com" start="20240805060000+0000" stop="20240805062627+0000">
+    <title lang="en">Highlights – Riyadh Premier Padel P1</title>
+    <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
+  </programme>
+  <programme channel="redbull.com" start="20240805062627+0000" stop="20240805071930+0000">
+    <title lang="en">Home awaits cliff divers</title>
+    <desc lang="en">After Boston's urban landscape, divers headed to the natural cliffs of Italy's picturesque Polignano a Mare.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/fto9ezvkvpj5ik5zqpzo/andrea-barnaba"/>
+  </programme>
+  <programme channel="redbull.com" start="20240805071930+0000" stop="20240805081219+0000">
+    <title lang="en">Red Bull Cliff Diving's anniversary opener</title>
+    <desc lang="en">The 2024 season kicks off in Lake Vougliameni, the elite sport returns to the Greek capital since 2009.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/31/acvrhoqktju1uwlqhexx/matthew-cooper-red-bull-cliff-diving-athens-2024"/>
   </programme>
 </tv>
