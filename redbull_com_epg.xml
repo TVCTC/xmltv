@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-04 01:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-04 02:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240803204523+0000" stop="20240803223059+0000">
-    <title lang="en">Skateboarding final - English stream</title>
-    <desc lang="en">Watch skateboarders perform tricks on a specially designed floating skatepark built on Munich's Olympic Lake.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/28/id4d8upctaahqfwly2rf/red-bull-pool-drop"/>
-  </programme>
-  <programme channel="redbull.com" start="20240803223059+0000" stop="20240803232345+0000">
-    <title lang="en">Life &amp; Basketball: The Rise of Lethal Shooter</title>
-    <desc lang="en">Head behind the scenes to meet one of basketball's most incredible men – Chris Matthews, aka Lethal Shooter.</desc>
-    <category lang="en">Basketball</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/5/kxdehfb7ltxbeuztf1ar/chris-matthews-the-rise-of-lethal-shooter"/>
-  </programme>
-  <programme channel="redbull.com" start="20240803232345+0000" stop="20240803233858+0000">
-    <title lang="en">London</title>
-    <desc lang="en">Explore the skate scene of one of the world's greatest cities with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/11/db1q41ssfmyfyq4z2jtx/margielyn-dida-london-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240803233858+0000" stop="20240803235326+0000">
-    <title lang="en">Manchester</title>
-    <desc lang="en">Explore the thriving skate scene in Manchester, England, with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/11/y4xxcffmobvgt4aga7al/eddie-belvedere-manchester-2022"/>
-  </programme>
   <programme channel="redbull.com" start="20240803235326+0000" stop="20240804001024+0000">
     <title lang="en">Philadelphia</title>
     <desc lang="en">Go street-level in one of skating's most influential cities with the locals who make up the Philly scene.</desc>
@@ -148,5 +124,29 @@
     <desc lang="en">The 2024 season kicks off in Lake Vougliameni, the elite sport returns to the Greek capital since 2009.</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/31/acvrhoqktju1uwlqhexx/matthew-cooper-red-bull-cliff-diving-athens-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240804020034+0000" stop="20240804025509+0000">
+    <title lang="en">Ice Waterfalls</title>
+    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/15/n9e71buasfvbbdzzu7di/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
+  </programme>
+  <programme channel="redbull.com" start="20240804130223+0000" stop="20240804130649+0000">
+    <title lang="en">Manuel Lettenbichler's best moments of the season</title>
+    <desc lang="en">Mani Lettenbichler defended his FIM Hard Enduro world title after his fifth consecutive victory this season.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/24/k8cx4jnv06myoitavxzw/fim-hard-enduro-world-championship-2023-stop-5-hixpania-manuel-lettenbichler"/>
+  </programme>
+  <programme channel="redbull.com" start="20240804130649+0000" stop="20240804131500+0000">
+    <title lang="en">From sim to reality</title>
+    <desc lang="en">Max Verstappen gets sucked into his simulator and needs to clear different levels to get to the Belgium GP.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/18/s4egvvivtryvvcz2ngdf/red-bull-racing-road-trips-s2-ep3-max-verstappen"/>
+  </programme>
+  <programme channel="redbull.com" start="20240804131500+0000" stop="20240804143036+0000">
+    <title lang="en">BMX final</title>
+    <desc lang="en">Munich Mash ramps things up for the final as rails, drops and spines galore define the BMX contest.</desc>
+    <category lang="en">BMX</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/15/trjvvwwhwaaeqmsqb1ey/munich-mash-bmx-final"/>
   </programme>
 </tv>
