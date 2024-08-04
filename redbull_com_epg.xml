@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-04 16:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-04 17:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240804131500+0000" stop="20240804143036+0000">
+    <title lang="en">BMX final</title>
+    <desc lang="en">Munich Mash ramps things up for the final as rails, drops and spines galore define the BMX contest.</desc>
+    <category lang="en">BMX</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/15/trjvvwwhwaaeqmsqb1ey/munich-mash-bmx-final"/>
+  </programme>
   <programme channel="redbull.com" start="20240804143606+0000" stop="20240804150000+0000">
     <title lang="en">Rick Ross: Orchestra Noir</title>
     <desc lang="en">Rick Ross and acclaimed all-Black symphony Orchestra Noir bring Red Bull Symphonic to Atlanta.</desc>
@@ -107,7 +113,7 @@
     <category lang="en">Breaking</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
   </programme>
-  <programme channel="redbull.com" start="20240804224125+0000" stop="20240804233600+0000">
+  <programme channel="redbull.com" start="20240804120825+0000" stop="20240804130223+0000">
     <title lang="en">Ice Waterfalls</title>
     <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
     <category lang="en">Kayaking</category>
@@ -130,23 +136,5 @@
     <desc lang="en">Host Gracie Kramer explores how top divers Xantheia and Jonathan train their minds to get a winner's mentality</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/23/c75zpim7v9wpr3wi2dql/gary-hunt-red-bull-cliff-diving-world-series-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240805020020+0000" stop="20240805022514+0000">
-    <title lang="en">HYROX World Championships highlights – Nice</title>
-    <desc lang="en">Discover what makes HYROX – the indoor fitness competition – a test of strength, endurance and determination.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/14/z7oqxo0xdlr3y4cwhm0s/hyrox-world-championships-2024-competitors"/>
-  </programme>
-  <programme channel="redbull.com" start="20240805022514+0000" stop="20240805025027+0000">
-    <title lang="en">Highlights – Acapulco Premier Padel P1</title>
-    <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
-  </programme>
-  <programme channel="redbull.com" start="20240805025027+0000" stop="20240805031658+0000">
-    <title lang="en">Highlights – Asunción Premier Padel P2 </title>
-    <desc lang="en">Watch the highlights of the seventh stop of the season in Paraguay from the Asunción Premier Padel P2.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/yupj6ycdbof7x8jrd3at/beatriz-caldera-premier-padel"/>
   </programme>
 </tv>
