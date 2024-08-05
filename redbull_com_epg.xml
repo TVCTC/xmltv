@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-05 19:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-05 20:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240805151850+0000" stop="20240805161136+0000">
+    <title lang="en">Life &amp; Basketball: The Rise of Lethal Shooter</title>
+    <desc lang="en">Head behind the scenes to meet one of basketball's most incredible men – Chris Matthews, aka Lethal Shooter.</desc>
+    <category lang="en">Basketball</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/5/kxdehfb7ltxbeuztf1ar/chris-matthews-the-rise-of-lethal-shooter"/>
+  </programme>
+  <programme channel="redbull.com" start="20240805161136+0000" stop="20240805162648+0000">
+    <title lang="en">London</title>
+    <desc lang="en">Explore the skate scene of one of the world's greatest cities with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/11/db1q41ssfmyfyq4z2jtx/margielyn-dida-london-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240805162648+0000" stop="20240805164117+0000">
+    <title lang="en">Manchester</title>
+    <desc lang="en">Explore the thriving skate scene in Manchester, England, with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/11/y4xxcffmobvgt4aga7al/eddie-belvedere-manchester-2022"/>
+  </programme>
   <programme channel="redbull.com" start="20240805164117+0000" stop="20240805165815+0000">
     <title lang="en">Philadelphia</title>
     <desc lang="en">Go street-level in one of skating's most influential cities with the locals who make up the Philly scene.</desc>
@@ -136,17 +154,5 @@
     <desc lang="en">The 2024 season kicks off in Lake Vougliameni, the elite sport returns to the Greek capital since 2009.</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/31/acvrhoqktju1uwlqhexx/matthew-cooper-red-bull-cliff-diving-athens-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240805184824+0000" stop="20240805194259+0000">
-    <title lang="en">Ice Waterfalls</title>
-    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/15/n9e71buasfvbbdzzu7di/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
-  </programme>
-  <programme channel="redbull.com" start="20240806065358+0000" stop="20240806072014+0000">
-    <title lang="en">The Next Centimeter </title>
-    <desc lang="en">Discover what it takes for pole vaulter Armand ‘Mondo’ Duplantis to raise the bar – one centimetre at a time.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/pwwexoxiuktwyga29v3b/the-next-centimeter-armand-duplantis"/>
   </programme>
 </tv>
