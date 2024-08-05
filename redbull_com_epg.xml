@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-05 12:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-05 13:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240805090456+0000" stop="20240805095855+0000">
-    <title lang="en">Ice Waterfalls</title>
-    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/15/n9e71buasfvbbdzzu7di/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
-  </programme>
-  <programme channel="redbull.com" start="20240805095855+0000" stop="20240805102510+0000">
-    <title lang="en">The Next Centimeter </title>
-    <desc lang="en">Discover what it takes for pole vaulter Armand ‘Mondo’ Duplantis to raise the bar – one centimetre at a time.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/pwwexoxiuktwyga29v3b/the-next-centimeter-armand-duplantis"/>
-  </programme>
-  <programme channel="redbull.com" start="20240805102510+0000" stop="20240805105138+0000">
-    <title lang="en">ABC of... Cliff diving</title>
-    <desc lang="en">There's an art to falling – learn all about it as top divers give an inside look at cliff diving.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-21728H81DBH11/orlando-duque-cliff-jumping-chile"/>
-  </programme>
   <programme channel="redbull.com" start="20240805110033+0000" stop="20240805114347+0000">
     <title lang="en">Camo &amp; Krooked</title>
     <desc lang="en">D ‘n’ B duo Camo &amp; Krooked get together with classical composer Christian Kolonovits to fuse their sounds.</desc>
@@ -130,5 +112,23 @@
     <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
     <category lang="en">Kayaking</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/15/n9e71buasfvbbdzzu7di/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
+  </programme>
+  <programme channel="redbull.com" start="20240805194259+0000" stop="20240805204004+0000">
+    <title lang="en">Paradigm Lost</title>
+    <desc lang="en">Take an in-depth look at the life of one of the world's most complete watermen, Kai Lenny.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1T946EH855N11/kai-lenny-yellow-longboard"/>
+  </programme>
+  <programme channel="redbull.com" start="20240805204004+0000" stop="20240805213204+0000">
+    <title lang="en">Relive 2024’s record run</title>
+    <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
+    <category lang="en">Running</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/13/ja3b18y4rq9vp7jukejj/wings-for-life-world-run-2024-zadar-croatia"/>
+  </programme>
+  <programme channel="redbull.com" start="20240805213204+0000" stop="20240805220720+0000">
+    <title lang="en">Divers test their mental strength at Athens</title>
+    <desc lang="en">Host Gracie Kramer explores how top divers Xantheia and Jonathan train their minds to get a winner's mentality</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/23/c75zpim7v9wpr3wi2dql/gary-hunt-red-bull-cliff-diving-world-series-2024"/>
   </programme>
 </tv>
