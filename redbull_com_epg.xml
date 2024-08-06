@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-06 14:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-06 15:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240806093630+0000" stop="20240806100230+0000">
+    <title lang="en">Tunnel Pass</title>
+    <desc lang="en">Italian aerobatic pilot Dario Costa clears Turkey’s dual Çatalca Tunnels in Istanbul in just 44 seconds.</desc>
+    <category lang="en">Air Racing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/29/ep6fkw8ratytt6pgw9oe/tunnel-pass-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240806100230+0000" stop="20240806102027+0000">
+    <title lang="en">ABC of... Breaking</title>
+    <desc lang="en">Take a journey through breaking to dive into the dopest moves, hip hop culture and how the dance was born.</desc>
+    <category lang="en">Dance</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/11/3/gbc431eliudmmzrzwevu/abc-of-breaking-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240806102027+0000" stop="20240806104558+0000">
+    <title lang="en">ABC of... Climbing</title>
+    <desc lang="en">Join Sasha DiGiulian as she takes you on an expedition around the globe with some of the world's top climbers.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/3/3/iayq9ughxcjbdcc5xryb/abc-of-climbing-art"/>
+  </programme>
   <programme channel="redbull.com" start="20240806104558+0000" stop="20240806111135+0000">
     <title lang="en">ABC of... Kayaking</title>
     <desc lang="en">Jessica Fox takes you on an epic run through the origins of kayaking and the paddlers who shaped the sport.</desc>
@@ -136,23 +154,5 @@
     <desc lang="en">Watch the highlights of the eighth stop of the season in Argentina from the Premier Padel Mar del Plata P1.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/22/wrcasajexcgkw9ffnrbz/premier-padel-tour-milan-mens-match-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240806222137+0000" stop="20240806224737+0000">
-    <title lang="en">Highlights – Puerto Cabello Premier Padel P2</title>
-    <desc lang="en">Watch the highlights of the fourth stop of the season in Venezuela for the Puerto Cabello Premier Padel P2. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/4/iqmgalloe5lthvm6jgma/suzanne-casey-premier-padel-2024-puerto-cabello-p2"/>
-  </programme>
-  <programme channel="redbull.com" start="20240806224737+0000" stop="20240806231415+0000">
-    <title lang="en">Highlights – Qatar Major Premier Padel</title>
-    <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
-  </programme>
-  <programme channel="redbull.com" start="20240806231415+0000" stop="20240806234012+0000">
-    <title lang="en">Highlights – Santiago Premier Padel P1</title>
-    <desc lang="en">See the Santiago Premier Padel P1 highlights as the season continued in one of padel's most popular countries.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/16/kryxydhbip56obt9samh/federico-chingotto-and-alejandro-galan-premier-padel-p1-in-santiago"/>
   </programme>
 </tv>
