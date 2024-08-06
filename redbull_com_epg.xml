@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-06 07:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-06 08:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240806025325+0000" stop="20240806031953+0000">
+    <title lang="en">Highlights – Riyadh Premier Padel P1</title>
+    <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
+  </programme>
+  <programme channel="redbull.com" start="20240806031953+0000" stop="20240806041256+0000">
+    <title lang="en">Home awaits cliff divers</title>
+    <desc lang="en">After Boston's urban landscape, divers headed to the natural cliffs of Italy's picturesque Polignano a Mare.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/fto9ezvkvpj5ik5zqpzo/andrea-barnaba"/>
+  </programme>
   <programme channel="redbull.com" start="20240806041256+0000" stop="20240806050545+0000">
     <title lang="en">Red Bull Cliff Diving's anniversary opener</title>
     <desc lang="en">The 2024 season kicks off in Lake Vougliameni, the elite sport returns to the Greek capital since 2009.</desc>
@@ -136,17 +148,5 @@
     <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
     <category lang="en">Breaking</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
-  </programme>
-  <programme channel="redbull.com" start="20240806060000+0000" stop="20240806065358+0000">
-    <title lang="en">Ice Waterfalls</title>
-    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/15/n9e71buasfvbbdzzu7di/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
-  </programme>
-  <programme channel="redbull.com" start="20240806165545+0000" stop="20240806175250+0000">
-    <title lang="en">Paradigm Lost</title>
-    <desc lang="en">Take an in-depth look at the life of one of the world's most complete watermen, Kai Lenny.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1T946EH855N11/kai-lenny-yellow-longboard"/>
   </programme>
 </tv>
