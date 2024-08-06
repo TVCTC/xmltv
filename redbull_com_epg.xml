@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-06 18:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-06 19:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240806151502+0000" stop="20240806160110+0000">
-    <title lang="en">Lil Zoo: Breaking Chose Me</title>
-    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
-  </programme>
   <programme channel="redbull.com" start="20240806160110+0000" stop="20240806165545+0000">
     <title lang="en">Ice Waterfalls</title>
     <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Enjoy a look into how the best freestyle footballers in the world are paving the way for a new generation.</desc>
     <category lang="en">Freestyle Soccer</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/24/lyxf2utq1ljak5nrhoxg/all-you-need-is-a-ball-red-bull-street-style"/>
+  </programme>
+  <programme channel="redbull.com" start="20240807054932+0000" stop="20240807060000+0000">
+    <title lang="en">F1 drivers vs Japanese tv show</title>
+    <desc lang="en">Drivers from each team will work together through a series of three challenges to win points for their team.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/3/uwitrznlhiaqzc7fqyhh/max-verstappen-sergio-perez-yuki-tsunoda-liam-lawson-unserious-race-series-japan-2023"/>
   </programme>
 </tv>
