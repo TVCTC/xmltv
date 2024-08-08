@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-08 11:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-08 12:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240808085030+0000" stop="20240808093658+0000">
-    <title lang="en">(Un)credited</title>
-    <desc lang="en">Dive deep into the origins of Afro Dance in Nigeria and how it has shaped a global mainstream culture.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/22/w86gbabyv0vhfdl5zlya/un-credited-nigeria-afro-dance"/>
-  </programme>
   <programme channel="redbull.com" start="20240808093658+0000" stop="20240808102306+0000">
     <title lang="en">Lil Zoo: Breaking Chose Me</title>
     <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Red Bull Can You Make It? highlights and expert travel advice helps you prep for your own global adventures.</desc>
     <category lang="en">Exploration</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/15/edwz3gpfgxwn0gtnvsql/red-bull-can-you-make-it-2024-malmoe-sweden-team-travel-competition"/>
+  </programme>
+  <programme channel="redbull.com" start="20240808235119+0000" stop="20240809003508+0000">
+    <title lang="en">Camo &amp; Krooked</title>
+    <desc lang="en">D ‘n’ B duo Camo &amp; Krooked get together with classical composer Christian Kolonovits to fuse their sounds.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/5/7/m6nqlfvokygnfcxl7m4a/assembly-required-s1e2"/>
   </programme>
 </tv>
