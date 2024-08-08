@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-08 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-08 05:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240808013229+0000" stop="20240808015858+0000">
-    <title lang="en">ABC of... Cliff diving</title>
-    <desc lang="en">There's an art to falling – learn all about it as top divers give an inside look at cliff diving.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-21728H81DBH11/orlando-duque-cliff-jumping-chile"/>
-  </programme>
-  <programme channel="redbull.com" start="20240808015858+0000" stop="20240808022913+0000">
-    <title lang="en">Adventure Unscripted</title>
-    <desc lang="en">Red Bull Can You Make It? highlights and expert travel advice helps you prep for your own global adventures.</desc>
-    <category lang="en">Exploration</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/15/edwz3gpfgxwn0gtnvsql/red-bull-can-you-make-it-2024-malmoe-sweden-team-travel-competition"/>
-  </programme>
   <programme channel="redbull.com" start="20240808022913+0000" stop="20240808031302+0000">
     <title lang="en">Camo &amp; Krooked</title>
     <desc lang="en">D ‘n’ B duo Camo &amp; Krooked get together with classical composer Christian Kolonovits to fuse their sounds.</desc>
@@ -125,7 +113,7 @@
     <category lang="en">Breaking</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
   </programme>
-  <programme channel="redbull.com" start="20240808001215+0000" stop="20240808010614+0000">
+  <programme channel="redbull.com" start="20240808102306+0000" stop="20240808111740+0000">
     <title lang="en">Ice Waterfalls</title>
     <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
     <category lang="en">Kayaking</category>
@@ -154,5 +142,17 @@
     <desc lang="en">Discover what makes HYROX – the indoor fitness competition – a test of strength, endurance and determination.</desc>
     <category lang="en">Athletics</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/14/z7oqxo0xdlr3y4cwhm0s/hyrox-world-championships-2024-competitors"/>
+  </programme>
+  <programme channel="redbull.com" start="20240808140654+0000" stop="20240808143207+0000">
+    <title lang="en">Highlights – Acapulco Premier Padel P1</title>
+    <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
+  </programme>
+  <programme channel="redbull.com" start="20240808143207+0000" stop="20240808145839+0000">
+    <title lang="en">Highlights – Asunción Premier Padel P2 </title>
+    <desc lang="en">Watch the highlights of the seventh stop of the season in Paraguay from the Asunción Premier Padel P2.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/yupj6ycdbof7x8jrd3at/beatriz-caldera-premier-padel"/>
   </programme>
 </tv>
