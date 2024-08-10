@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-10 06:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-10 07:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240810025452+0000" stop="20240810031226+0000">
+    <title lang="en">Santiago</title>
+    <desc lang="en">Around 20,000 skateboarders live in the greater metropolitan area of the Chilean city – let's roll with them!</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/19/zixv84jil6trsarsyjxb/marcelo-jimenez"/>
+  </programme>
   <programme channel="redbull.com" start="20240810031226+0000" stop="20240810035853+0000">
     <title lang="en">(Un)credited</title>
     <desc lang="en">Dive deep into the origins of Afro Dance in Nigeria and how it has shaped a global mainstream culture.</desc>
@@ -142,11 +148,5 @@
     <desc lang="en">Host Gracie Kramer explores how top divers Xantheia and Jonathan train their minds to get a winner's mentality</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/23/c75zpim7v9wpr3wi2dql/gary-hunt-red-bull-cliff-diving-world-series-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240810153516+0000" stop="20240810161019+0000">
-    <title lang="en">Choose your instrument wisely</title>
-    <desc lang="en">S1 E4 – The top three teams of songwriters and music producers have one more challenge before they can claim victory.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/20/ztzguzthfb1xei7e0evk/the-cut-ep4-art"/>
   </programme>
 </tv>
