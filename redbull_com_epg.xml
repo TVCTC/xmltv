@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-10 07:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-10 08:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240810025452+0000" stop="20240810031226+0000">
-    <title lang="en">Santiago</title>
-    <desc lang="en">Around 20,000 skateboarders live in the greater metropolitan area of the Chilean city – let's roll with them!</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/19/zixv84jil6trsarsyjxb/marcelo-jimenez"/>
-  </programme>
-  <programme channel="redbull.com" start="20240810031226+0000" stop="20240810035853+0000">
-    <title lang="en">(Un)credited</title>
-    <desc lang="en">Dive deep into the origins of Afro Dance in Nigeria and how it has shaped a global mainstream culture.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/22/w86gbabyv0vhfdl5zlya/un-credited-nigeria-afro-dance"/>
-  </programme>
-  <programme channel="redbull.com" start="20240810035853+0000" stop="20240810044501+0000">
-    <title lang="en">Lil Zoo: Breaking Chose Me</title>
-    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
-  </programme>
-  <programme channel="redbull.com" start="20240810044501+0000" stop="20240810053936+0000">
-    <title lang="en">Ice Waterfalls</title>
-    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/15/n9e71buasfvbbdzzu7di/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
-  </programme>
-  <programme channel="redbull.com" start="20240810053936+0000" stop="20240810054839+0000">
-    <title lang="en">Brighton Zeuner</title>
-    <desc lang="en">Tag along with Brighton Zeuner for an insightful day of thrifting, grocery shopping, sushi and skateboarding.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/8/qzjzdlpv9wnhepc4uflp/brighton-zeuner-field-day-s3-e4"/>
-  </programme>
   <programme channel="redbull.com" start="20240810054839+0000" stop="20240810060000+0000">
     <title lang="en">F1 drivers vs Japanese tv show</title>
     <desc lang="en">Drivers from each team will work together through a series of three challenges to win points for their team.</desc>
@@ -148,5 +118,35 @@
     <desc lang="en">Host Gracie Kramer explores how top divers Xantheia and Jonathan train their minds to get a winner's mentality</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/23/c75zpim7v9wpr3wi2dql/gary-hunt-red-bull-cliff-diving-world-series-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240810153516+0000" stop="20240810161019+0000">
+    <title lang="en">Choose your instrument wisely</title>
+    <desc lang="en">S1 E4 – The top three teams of songwriters and music producers have one more challenge before they can claim victory.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/20/ztzguzthfb1xei7e0evk/the-cut-ep4-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240810161019+0000" stop="20240810164619+0000">
+    <title lang="en">A passion for the sound</title>
+    <desc lang="en">S2 E1 – Songwriters and producers get randomly paired up in a challenge to create a completely original track.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/20/zso9rcg4ingzswaycldz/the-cut-usa-ep1-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240810164619+0000" stop="20240810171750+0000">
+    <title lang="en">Mixing styles in the studio</title>
+    <desc lang="en">S2 E2 – Songwriters and producers collaborate in the studio to create a brand-new track.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/20/pzuk3hggzmwtug4qraom/the-cut-usa-ep2-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240810171750+0000" stop="20240810175347+0000">
+    <title lang="en">Chasing the sound</title>
+    <desc lang="en">S2 E3 – Watch what happens when songwriters get randomly paired up with producers to create a fresh track.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/20/bgt7nxsuo1uulm5gmgkf/the-cut-usa-ep3-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240810175347+0000" stop="20240810183139+0000">
+    <title lang="en">Everything is on the line</title>
+    <desc lang="en">S2 E4 – The top teams of songwriters and producers have one more challenge before winning a publishing deal.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/20/flrp21qwpnufjqjrkvtj/the-cut-usa-ep4-art"/>
   </programme>
 </tv>
