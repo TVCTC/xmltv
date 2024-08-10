@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-10 21:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-10 22:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240810153516+0000" stop="20240810161019+0000">
-    <title lang="en">Choose your instrument wisely</title>
-    <desc lang="en">S1 E4 – The top three teams of songwriters and music producers have one more challenge before they can claim victory.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/20/ztzguzthfb1xei7e0evk/the-cut-ep4-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240810161019+0000" stop="20240810164619+0000">
-    <title lang="en">A passion for the sound</title>
-    <desc lang="en">S2 E1 – Songwriters and producers get randomly paired up in a challenge to create a completely original track.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/20/zso9rcg4ingzswaycldz/the-cut-usa-ep1-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240810164619+0000" stop="20240810171750+0000">
-    <title lang="en">Mixing styles in the studio</title>
-    <desc lang="en">S2 E2 – Songwriters and producers collaborate in the studio to create a brand-new track.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/20/pzuk3hggzmwtug4qraom/the-cut-usa-ep2-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240810171750+0000" stop="20240810175347+0000">
-    <title lang="en">Chasing the sound</title>
-    <desc lang="en">S2 E3 – Watch what happens when songwriters get randomly paired up with producers to create a fresh track.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/20/bgt7nxsuo1uulm5gmgkf/the-cut-usa-ep3-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240810175347+0000" stop="20240810183139+0000">
-    <title lang="en">Everything is on the line</title>
-    <desc lang="en">S2 E4 – The top teams of songwriters and producers have one more challenge before winning a publishing deal.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/20/flrp21qwpnufjqjrkvtj/the-cut-usa-ep4-art"/>
-  </programme>
   <programme channel="redbull.com" start="20240810183139+0000" stop="20240810190127+0000">
     <title lang="en">No I in team</title>
     <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
@@ -148,5 +118,35 @@
     <desc lang="en">Babsi Zangerl and Jacopo Larcher’s two-year big wall climbing quest comes down to one short weather window.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/gfhlivdykyqwj1wobfmq/reel-rock-s9-e3-jacopo-larcher"/>
+  </programme>
+  <programme channel="redbull.com" start="20240811025701+0000" stop="20240811032317+0000">
+    <title lang="en">House of the gods part 1</title>
+    <desc lang="en">Leo Houlding, Anna Taylor and Waldo Etherington attempt a new route up Mount Roraima in the Amazonian Jungle.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/gzvvsct474x3bhtajbsu/reel-rock-s9-e6-image"/>
+  </programme>
+  <programme channel="redbull.com" start="20240811032317+0000" stop="20240811034415+0000">
+    <title lang="en">House of the gods part 2</title>
+    <desc lang="en">Anna Taylor must battle the hardest pitch yet to achieve the team's goal of a fully free ascent.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/zx7l8ltgi9gbhq2lwpvg/reel-rock-s9-e7-leo-houlding-anna-taylor-waldo-etherington"/>
+  </programme>
+  <programme channel="redbull.com" start="20240811034415+0000" stop="20240811040558+0000">
+    <title lang="en">Sleeping lion</title>
+    <desc lang="en">Big wall climbing legend Chris Sharma introduces his mega new project in Siurana, Spain: the Sleeping Lion.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/cghmb3stfcolvkju5jbe/reel-rock-s9-e8-chris-sharma"/>
+  </programme>
+  <programme channel="redbull.com" start="20240811040558+0000" stop="20240811045758+0000">
+    <title lang="en">Relive 2024’s record run</title>
+    <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
+    <category lang="en">Running</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/13/ja3b18y4rq9vp7jukejj/wings-for-life-world-run-2024-zadar-croatia"/>
+  </programme>
+  <programme channel="redbull.com" start="20240811045758+0000" stop="20240811053314+0000">
+    <title lang="en">Divers test their mental strength at Athens</title>
+    <desc lang="en">Host Gracie Kramer explores how top divers Xantheia and Jonathan train their minds to get a winner's mentality</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/23/c75zpim7v9wpr3wi2dql/gary-hunt-red-bull-cliff-diving-world-series-2024"/>
   </programme>
 </tv>
