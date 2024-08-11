@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-11 05:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-11 06:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240811025701+0000" stop="20240811032317+0000">
-    <title lang="en">House of the gods part 1</title>
-    <desc lang="en">Leo Houlding, Anna Taylor and Waldo Etherington attempt a new route up Mount Roraima in the Amazonian Jungle.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/gzvvsct474x3bhtajbsu/reel-rock-s9-e6-image"/>
-  </programme>
-  <programme channel="redbull.com" start="20240811032317+0000" stop="20240811034415+0000">
-    <title lang="en">House of the gods part 2</title>
-    <desc lang="en">Anna Taylor must battle the hardest pitch yet to achieve the team's goal of a fully free ascent.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/zx7l8ltgi9gbhq2lwpvg/reel-rock-s9-e7-leo-houlding-anna-taylor-waldo-etherington"/>
-  </programme>
   <programme channel="redbull.com" start="20240811034415+0000" stop="20240811040558+0000">
     <title lang="en">Sleeping lion</title>
     <desc lang="en">Big wall climbing legend Chris Sharma introduces his mega new project in Siurana, Spain: the Sleeping Lion.</desc>
@@ -148,5 +136,23 @@
     <desc lang="en">In the downhill, Finn Iles struggles to beat his biggest competitor, team-mate Loïc Bruni.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/szk42xiugjm6ltrburtf/finn-iles"/>
+  </programme>
+  <programme channel="redbull.com" start="20240811150157+0000" stop="20240811153422+0000">
+    <title lang="en">Adapt or perish</title>
+    <desc lang="en">A wave of younger, faster competitors force 'old dogs to learn new tricks' to stay in the results sheet. </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/qjq0alzb0bk4pwfkj1os/jackson-goldstone"/>
+  </programme>
+  <programme channel="redbull.com" start="20240811153422+0000" stop="20240811160036+0000">
+    <title lang="en">Iron sharpens iron</title>
+    <desc lang="en">Mathias Flückiger and Nino Schurter confront the bitter rivalry of Swiss MTB cross-country racing.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/aleq0pywjxtowwjzjynt/mathias-fluckiger"/>
+  </programme>
+  <programme channel="redbull.com" start="20240811160036+0000" stop="20240811163417+0000">
+    <title lang="en">Home run</title>
+    <desc lang="en">As Rachel Atherton returns to MTB racing, she works to find a balance while Vali Höll prepares for success.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/dc5vg0kbtvhiw8okcbva/rachel-atherton"/>
   </programme>
 </tv>
