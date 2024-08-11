@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-12 00:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-12 01:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240811213825+0000" stop="20240811220422+0000">
-    <title lang="en">Burning the flame part 2</title>
-    <desc lang="en">Babsi Zangerl and Jacopo Larcher’s two-year big wall climbing quest comes down to one short weather window.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/gfhlivdykyqwj1wobfmq/reel-rock-s9-e3-jacopo-larcher"/>
-  </programme>
   <programme channel="redbull.com" start="20240811222908+0000" stop="20240811225524+0000">
     <title lang="en">House of the gods part 1</title>
     <desc lang="en">Leo Houlding, Anna Taylor and Waldo Etherington attempt a new route up Mount Roraima in the Amazonian Jungle.</desc>
@@ -148,5 +142,17 @@
     <desc lang="en">S2 E1 – Songwriters and producers get randomly paired up in a challenge to create a completely original track.</desc>
     <category lang="en">Music</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/20/zso9rcg4ingzswaycldz/the-cut-usa-ep1-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240812091422+0000" stop="20240812094552+0000">
+    <title lang="en">Mixing styles in the studio</title>
+    <desc lang="en">S2 E2 – Songwriters and producers collaborate in the studio to create a brand-new track.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/20/pzuk3hggzmwtug4qraom/the-cut-usa-ep2-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240812094552+0000" stop="20240812102149+0000">
+    <title lang="en">Chasing the sound</title>
+    <desc lang="en">S2 E3 – Watch what happens when songwriters get randomly paired up with producers to create a fresh track.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/20/bgt7nxsuo1uulm5gmgkf/the-cut-usa-ep3-art"/>
   </programme>
 </tv>
