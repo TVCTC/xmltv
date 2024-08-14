@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-14 05:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-14 06:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240814015132+0000" stop="20240814022446+0000">
-    <title lang="en">Going to the final</title>
-    <desc lang="en">S1 E3 – More singers are introduced to their producer partners and get to work on creating a new track.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/20/o4cfogmwxzbsg6tepwov/the-cut-ep3-art"/>
-  </programme>
   <programme channel="redbull.com" start="20240814022446+0000" stop="20240814025950+0000">
     <title lang="en">Choose your instrument wisely</title>
     <desc lang="en">S1 E4 – The top three teams of songwriters and music producers have one more challenge before they can claim victory.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Babsi Zangerl and Jacopo Larcher’s two-year big wall climbing quest comes down to one short weather window.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/gfhlivdykyqwj1wobfmq/reel-rock-s9-e3-jacopo-larcher"/>
+  </programme>
+  <programme channel="redbull.com" start="20240814130224+0000" stop="20240814132707+0000">
+    <title lang="en">DNA</title>
+    <desc lang="en">French phenom Seb Bouin tackles what may be the world’s hardest sport climb in the Verdon Gorge.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/qrip1psdzs4nhxdbqhl2/reel-rock-s9-e4-seb-bouin"/>
   </programme>
 </tv>
