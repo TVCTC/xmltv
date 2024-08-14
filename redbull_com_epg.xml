@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-14 06:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-14 07:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240814022446+0000" stop="20240814025950+0000">
-    <title lang="en">Choose your instrument wisely</title>
-    <desc lang="en">S1 E4 – The top three teams of songwriters and music producers have one more challenge before they can claim victory.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/20/ztzguzthfb1xei7e0evk/the-cut-ep4-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240814025950+0000" stop="20240814033550+0000">
-    <title lang="en">A passion for the sound</title>
-    <desc lang="en">S2 E1 – Songwriters and producers get randomly paired up in a challenge to create a completely original track.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/20/zso9rcg4ingzswaycldz/the-cut-usa-ep1-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240814033550+0000" stop="20240814040721+0000">
-    <title lang="en">Mixing styles in the studio</title>
-    <desc lang="en">S2 E2 – Songwriters and producers collaborate in the studio to create a brand-new track.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/20/pzuk3hggzmwtug4qraom/the-cut-usa-ep2-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240814040721+0000" stop="20240814044318+0000">
-    <title lang="en">Chasing the sound</title>
-    <desc lang="en">S2 E3 – Watch what happens when songwriters get randomly paired up with producers to create a fresh track.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/20/bgt7nxsuo1uulm5gmgkf/the-cut-usa-ep3-art"/>
-  </programme>
   <programme channel="redbull.com" start="20240814044318+0000" stop="20240814052110+0000">
     <title lang="en">Everything is on the line</title>
     <desc lang="en">S2 E4 – The top teams of songwriters and producers have one more challenge before winning a publishing deal.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">French phenom Seb Bouin tackles what may be the world’s hardest sport climb in the Verdon Gorge.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/qrip1psdzs4nhxdbqhl2/reel-rock-s9-e4-seb-bouin"/>
+  </programme>
+  <programme channel="redbull.com" start="20240814132707+0000" stop="20240814135323+0000">
+    <title lang="en">House of the gods part 1</title>
+    <desc lang="en">Leo Houlding, Anna Taylor and Waldo Etherington attempt a new route up Mount Roraima in the Amazonian Jungle.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/gzvvsct474x3bhtajbsu/reel-rock-s9-e6-image"/>
+  </programme>
+  <programme channel="redbull.com" start="20240814135323+0000" stop="20240814141421+0000">
+    <title lang="en">House of the gods part 2</title>
+    <desc lang="en">Anna Taylor must battle the hardest pitch yet to achieve the team's goal of a fully free ascent.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/zx7l8ltgi9gbhq2lwpvg/reel-rock-s9-e7-leo-houlding-anna-taylor-waldo-etherington"/>
+  </programme>
+  <programme channel="redbull.com" start="20240814141421+0000" stop="20240814143604+0000">
+    <title lang="en">Sleeping lion</title>
+    <desc lang="en">Big wall climbing legend Chris Sharma introduces his mega new project in Siurana, Spain: the Sleeping Lion.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/cghmb3stfcolvkju5jbe/reel-rock-s9-e8-chris-sharma"/>
+  </programme>
+  <programme channel="redbull.com" start="20240814143604+0000" stop="20240814152804+0000">
+    <title lang="en">Relive 2024’s record run</title>
+    <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
+    <category lang="en">Running</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/13/ja3b18y4rq9vp7jukejj/wings-for-life-world-run-2024-zadar-croatia"/>
   </programme>
 </tv>
