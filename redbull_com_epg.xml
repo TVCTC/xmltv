@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-14 04:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-14 05:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240814004720+0000" stop="20240814011924+0000">
-    <title lang="en">Looking for musical chemistry</title>
-    <desc lang="en">S1 E1 – Songwriters get randomly paired up with producers as they work together to create an original track.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/20/c38rmo9no6vnsvxy8ug0/the-cut-ep1-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240814011924+0000" stop="20240814015132+0000">
-    <title lang="en">Rising to the challenge</title>
-    <desc lang="en">S1 E2 – With the pressure on, singers and producers are paired up to create a brand-new track.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/20/ojxgsg95vrlalyz3icdj/the-cut-ep2-art"/>
-  </programme>
   <programme channel="redbull.com" start="20240814015132+0000" stop="20240814022446+0000">
     <title lang="en">Going to the final</title>
     <desc lang="en">S1 E3 – More singers are introduced to their producer partners and get to work on creating a new track.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Alex Honnold gears up for the hardest section of his Red Rock Canyon climb so far just in time for nightfall.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/otjzpavrbg5uvl0sagg0/reel-rock-s9-e10-alex-honnold"/>
+  </programme>
+  <programme channel="redbull.com" start="20240814121134+0000" stop="20240814123628+0000">
+    <title lang="en">Burning the flame part 1</title>
+    <desc lang="en">Elite power duo Babsi and Jacopo attempt a coveted free ascent of the Nameless Tower in Pakistan.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/zmpo02mtlydgmpfzy7no/reel-rock-s9-e2-babsi-zangerl-jacopo-larcher"/>
+  </programme>
+  <programme channel="redbull.com" start="20240814123628+0000" stop="20240814130224+0000">
+    <title lang="en">Burning the flame part 2</title>
+    <desc lang="en">Babsi Zangerl and Jacopo Larcher’s two-year big wall climbing quest comes down to one short weather window.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/gfhlivdykyqwj1wobfmq/reel-rock-s9-e3-jacopo-larcher"/>
   </programme>
 </tv>
