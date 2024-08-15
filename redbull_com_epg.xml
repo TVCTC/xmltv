@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-15 09:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-15 10:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240815063752+0000" stop="20240815065700+0000">
-    <title lang="en">Cuddle part 2</title>
-    <desc lang="en">The missed resupply pushes Tommy and Alex to the limit as they continue their challenge on empty stomachs.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/bymmgwqwutmllrhd3jcp/alex-honnold-drus-chamonix-2021"/>
-  </programme>
-  <programme channel="redbull.com" start="20240815065700+0000" stop="20240815071644+0000">
-    <title lang="en">This is Beth</title>
-    <desc lang="en">An intimate look beneath the success of legendary climber Beth Rodden, diving into her struggles and transformation.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/kysfw3fryc93bqptemxk/reel-rock-s8-e7-beth-rodden"/>
-  </programme>
-  <programme channel="redbull.com" start="20240815071644+0000" stop="20240815074610+0000">
-    <title lang="en">Bridge boys</title>
-    <desc lang="en">Tom Randall and Pete Whittaker take on the most absurd crack climb when they end up under a motorway bridge.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/xjlxmcymtyup27bncoy4/reel-rock-s8-e8-tom-randall-pete-whittaker"/>
-  </programme>
   <programme channel="redbull.com" start="20240815074610+0000" stop="20240815081106+0000">
     <title lang="en">Flex</title>
     <desc lang="en">Matty Hong and Margo Hayes challenge themselves by ascending two of the hardest climbs in Colorado, USA. </desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
+  </programme>
+  <programme channel="redbull.com" start="20240815171130+0000" stop="20240815173727+0000">
+    <title lang="en">Highlights – Santiago Premier Padel P1</title>
+    <desc lang="en">See the Santiago Premier Padel P1 highlights as the season continued in one of padel's most popular countries.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/16/kryxydhbip56obt9samh/federico-chingotto-and-alejandro-galan-premier-padel-p1-in-santiago"/>
+  </programme>
+  <programme channel="redbull.com" start="20240815173727+0000" stop="20240815180402+0000">
+    <title lang="en">Highlights – Sevilla Premier Padel P2</title>
+    <desc lang="en">Watch the highlights of the sixth stop of the season in Spain from the Premier Padel Andalucia Sevilla P2.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/17/dyjezvxom1vpei5t6upe/fede-chingotto-and-ale-galan-premier-padel-p2-final-in-sevilla"/>
+  </programme>
+  <programme channel="redbull.com" start="20240815180402+0000" stop="20240815182954+0000">
+    <title lang="en">Highlights – Riyadh Premier Padel P1</title>
+    <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
   </programme>
 </tv>
