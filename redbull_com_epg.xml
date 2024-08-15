@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-15 10:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-15 11:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240815074610+0000" stop="20240815081106+0000">
-    <title lang="en">Flex</title>
-    <desc lang="en">Matty Hong and Margo Hayes challenge themselves by ascending two of the hardest climbs in Colorado, USA. </desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/fsk7akaw85kryjhdatkj/matty-hong-red-bull-dual-ascent-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240815081106+0000" stop="20240815083345+0000">
-    <title lang="en">Smile and fight</title>
-    <desc lang="en">Can big wall climber Natalia Grossman handle the pressure of defending her IFSC World Cup Champion title?</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/mc7bjmfxmd7ueucvx4qc/reel-rock-s9-e1-natalia-grossman"/>
-  </programme>
-  <programme channel="redbull.com" start="20240815083345+0000" stop="20240815085449+0000">
-    <title lang="en">Reel Rock: Alex Honnold in Nevada</title>
-    <desc lang="en">Alex Honnold attempts his latest and most treacherous single-push solo mission in Red Rock Canyon, Nevada.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/q7jztsoil9xcmoa1fqak/reel-rock-s9-e9-alex-honnold"/>
-  </programme>
   <programme channel="redbull.com" start="20240815085449+0000" stop="20240815091414+0000">
     <title lang="en">The hurt part 2</title>
     <desc lang="en">Alex Honnold gears up for the hardest section of his Red Rock Canyon climb so far just in time for nightfall.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
+  </programme>
+  <programme channel="redbull.com" start="20240815182954+0000" stop="20240815190159+0000">
+    <title lang="en">Looking for musical chemistry</title>
+    <desc lang="en">S1 E1 – Songwriters get randomly paired up with producers as they work together to create an original track.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/20/c38rmo9no6vnsvxy8ug0/the-cut-ep1-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240815190159+0000" stop="20240815193407+0000">
+    <title lang="en">Rising to the challenge</title>
+    <desc lang="en">S1 E2 – With the pressure on, singers and producers are paired up to create a brand-new track.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/20/ojxgsg95vrlalyz3icdj/the-cut-ep2-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240815193407+0000" stop="20240815200721+0000">
+    <title lang="en">Going to the final</title>
+    <desc lang="en">S1 E3 – More singers are introduced to their producer partners and get to work on creating a new track.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/20/o4cfogmwxzbsg6tepwov/the-cut-ep3-art"/>
   </programme>
 </tv>
