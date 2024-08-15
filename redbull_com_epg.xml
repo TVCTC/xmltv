@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-15 02:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-15 03:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240814234019+0000" stop="20240815001620+0000">
-    <title lang="en">A passion for the sound</title>
-    <desc lang="en">S2 E1 – Songwriters and producers get randomly paired up in a challenge to create a completely original track.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/20/zso9rcg4ingzswaycldz/the-cut-usa-ep1-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240815001620+0000" stop="20240815004750+0000">
-    <title lang="en">Mixing styles in the studio</title>
-    <desc lang="en">S2 E2 – Songwriters and producers collaborate in the studio to create a brand-new track.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/20/pzuk3hggzmwtug4qraom/the-cut-usa-ep2-art"/>
-  </programme>
   <programme channel="redbull.com" start="20240815004750+0000" stop="20240815012347+0000">
     <title lang="en">Chasing the sound</title>
     <desc lang="en">S2 E3 – Watch what happens when songwriters get randomly paired up with producers to create a fresh track.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">French phenom Seb Bouin tackles what may be the world’s hardest sport climb in the Verdon Gorge.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/qrip1psdzs4nhxdbqhl2/reel-rock-s9-e4-seb-bouin"/>
+  </programme>
+  <programme channel="redbull.com" start="20240815102948+0000" stop="20240815105528+0000">
+    <title lang="en">House of the gods part 1</title>
+    <desc lang="en">Leo Houlding, Anna Taylor and Waldo Etherington attempt a new route up Mount Roraima in the Amazonian Jungle.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/gzvvsct474x3bhtajbsu/reel-rock-s9-e6-image"/>
+  </programme>
+  <programme channel="redbull.com" start="20240815105528+0000" stop="20240815111626+0000">
+    <title lang="en">House of the gods part 2</title>
+    <desc lang="en">Anna Taylor must battle the hardest pitch yet to achieve the team's goal of a fully free ascent.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/zx7l8ltgi9gbhq2lwpvg/reel-rock-s9-e7-leo-houlding-anna-taylor-waldo-etherington"/>
   </programme>
 </tv>
