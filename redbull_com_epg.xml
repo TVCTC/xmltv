@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-18 00:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-18 01:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240817185312+0000" stop="20240817202523+0000">
+    <title lang="en">Au Revoir</title>
+    <desc lang="en">The story of wakeboarding champion Raph Derome as he retires from riding in front of crowds and cameras.</desc>
+    <category lang="en">Wakeboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/21/six64tifrqioqukziszs/raph-derome-au-revoir-screenshot-wakeboarding"/>
+  </programme>
+  <programme channel="redbull.com" start="20240817202523+0000" stop="20240817204912+0000">
+    <title lang="en">Plus 27</title>
+    <desc lang="en">Jordy Smith shares his journey and the profound impact his homeland has had on his life and surfing career.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/ugzer3h63p5gcvb8qf2m/jordy-smith-surfing"/>
+  </programme>
   <programme channel="redbull.com" start="20240817204912+0000" stop="20240817211807+0000">
     <title lang="en">Return of the Lords</title>
     <desc lang="en">Follow the electrifying 2024 event as the world's best breaking crews battled it out in Seattle, USA.</desc>
@@ -130,17 +142,5 @@
     <desc lang="en">Photographer Mark McInnis hunts waves in South America with Hank Gaskell, Noah Wegrich and Cam Richards.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMYTA5FS5N11/FO-1SMYTA5FS5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20240818102216+0000" stop="20240818103006+0000">
-    <title lang="en">Chile (Part 2)</title>
-    <desc lang="en">The journey to South America’s best surf spots keeps paying off with barrel after barrel.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMZ76AFH5N11/FO-1SMZ76AFH5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20240818103006+0000" stop="20240818103445+0000">
-    <title lang="en">Fiordland (Part 1)</title>
-    <desc lang="en">Photographer Matt Dunbar and a team of surfers helicopter out to some of New Zealand’s most remote beaches.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMZD2G195N11/FO-1SMZD2G195N11-featureMedia"/>
   </programme>
 </tv>
