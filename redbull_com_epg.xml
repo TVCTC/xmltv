@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-17 08:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-17 09:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240817054234+0000" stop="20240817060000+0000">
+    <title lang="en">Beneath the Ice</title>
+    <desc lang="en">Will Gadd uses his unmatched ice climbing skills and knowledge to lead a scientific expedition into a previously unexplored territory beneath the Greenland ice sheet.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/12/aaeetjdfgzyopom0pddl/beneath-the-ice-will-gadd-greenland"/>
+  </programme>
+  <programme channel="redbull.com" start="20240817060000+0000" stop="20240817065200+0000">
+    <title lang="en">Relive 2024’s record run</title>
+    <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
+    <category lang="en">Running</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/13/ja3b18y4rq9vp7jukejj/wings-for-life-world-run-2024-zadar-croatia"/>
+  </programme>
   <programme channel="redbull.com" start="20240817065200+0000" stop="20240817070355+0000">
     <title lang="en">The Making of Red Bull Symphonic with Metro Boomin</title>
     <desc lang="en">Metro Boomin reimagines his biggest hits with a full orchestra and special guests at Red Bull Symphonic in LA.</desc>
@@ -136,17 +148,5 @@
     <desc lang="en">Get a glimpse of the Emerald Isle’s unique surf scene through photographer Mark McInnis’ lens.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMZ729DD5N11/FO-1SMZ729DD5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20240817143401+0000" stop="20240817143855+0000">
-    <title lang="en">Ireland part 2</title>
-    <desc lang="en">With some local help, photographer Mark McInnis and his surfers hunt surf spots well off the beaten path.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMZ985WD5N11/FO-1SMZ985WD5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20240817143855+0000" stop="20240817144409+0000">
-    <title lang="en">Lighting the spirit</title>
-    <desc lang="en">Photographer Michael Clark and Red Bull Athlete Rafa Ortiz test the new Elinchrom Lightpack to its limits.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SQF4RCPN5N11/FO-1SQF4RCPN5N11-featureMedia"/>
   </programme>
 </tv>
