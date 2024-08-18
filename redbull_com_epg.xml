@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-18 14:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-18 15:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240818114000+0000" stop="20240818120038+0000">
-    <title lang="en">La compétition</title>
-    <desc lang="en">It's time for the athletes to take on the best surfers in the world at the Quiksilver &amp; Roxy Pro France.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYVSRCD5N11/FO-1YPYVSRCD5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20240818120038+0000" stop="20240818121938+0000">
-    <title lang="en">Prologue</title>
-    <desc lang="en">Get a look at what motivates four of the world's best competitive surfers.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYV8WYW5N11/FO-1YPYV8WYW5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20240818121938+0000" stop="20240818123433+0000">
-    <title lang="en">The arrival</title>
-    <desc lang="en">The surfers arrive in France for the Quiksilver &amp; Roxy Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYVHHVS5N11/FO-1YPYVHHVS5N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20240818123433+0000" stop="20240818125649+0000">
     <title lang="en">The calm before the storm</title>
     <desc lang="en">As the surfers prepare to travel to their next event in France they reflect on their season so far. </desc>
@@ -142,5 +124,23 @@
     <desc lang="en">Matchstick Productions' two-year project follows top skiers around the world chasing what they love: snow.</desc>
     <category lang="en">Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MH22H1TW1W11/FO-1MH22H1TW1W11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20240818162332+0000" stop="20240818165227+0000">
+    <title lang="en">Return of the Lords</title>
+    <desc lang="en">Follow the electrifying 2024 event as the world's best breaking crews battled it out in Seattle, USA.</desc>
+    <category lang="en">Breaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/2/rnbkzxtmalh2ymnzbvdc/red-bull-lords-of-the-floor-breaking"/>
+  </programme>
+  <programme channel="redbull.com" start="20240818155942+0000" stop="20240818162332+0000">
+    <title lang="en">Plus 27</title>
+    <desc lang="en">Jordy Smith shares his journey and the profound impact his homeland has had on his life and surfing career.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/ugzer3h63p5gcvb8qf2m/jordy-smith-surfing"/>
+  </programme>
+  <programme channel="redbull.com" start="20240819055547+0000" stop="20240819060000+0000">
+    <title lang="en">Manuel Lettenbichler's best moments of the season</title>
+    <desc lang="en">Mani Lettenbichler defended his FIM Hard Enduro world title after his fifth consecutive victory this season.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/24/k8cx4jnv06myoitavxzw/fim-hard-enduro-world-championship-2023-stop-5-hixpania-manuel-lettenbichler"/>
   </programme>
 </tv>
