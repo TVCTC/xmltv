@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-19 05:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-19 06:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240819015159+0000" stop="20240819025931+0000">
-    <title lang="en">Yamnuska: The Ragged Edge </title>
-    <desc lang="en">Vikki Weldon and Quentin Roberts explore the enduring legacy of rock climbing on Canada's Mount Yamnuska.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/ll4jsqgipcgeh5kufqli/will-gadd-yamnuska-canada-climbing"/>
-  </programme>
   <programme channel="redbull.com" start="20240819040133+0000" stop="20240819050339+0000">
     <title lang="en">Days of My Youth</title>
     <desc lang="en">Matchstick Productions' two-year project follows top skiers around the world chasing what they love: snow.</desc>
@@ -47,7 +41,7 @@
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/17/dyjezvxom1vpei5t6upe/fede-chingotto-and-ale-galan-premier-padel-p2-final-in-sevilla"/>
   </programme>
-  <programme channel="redbull.com" start="20240819012607+0000" stop="20240819015159+0000">
+  <programme channel="redbull.com" start="20240819065232+0000" stop="20240819071824+0000">
     <title lang="en">Highlights – Riyadh Premier Padel P1</title>
     <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
     <category lang="en">Padel</category>
@@ -142,5 +136,11 @@
     <desc lang="en">The surfers arrive in France for the Quiksilver &amp; Roxy Pro.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYVHHVS5N11/FO-1YPYVHHVS5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20240819100945+0000" stop="20240819103201+0000">
+    <title lang="en">The calm before the storm</title>
+    <desc lang="en">As the surfers prepare to travel to their next event in France they reflect on their season so far. </desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYW36N95N11/FO-1YPYW36N95N11-featureMedia"/>
   </programme>
 </tv>
