@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-19 07:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-19 08:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240819040133+0000" stop="20240819050339+0000">
-    <title lang="en">Days of My Youth</title>
-    <desc lang="en">Matchstick Productions' two-year project follows top skiers around the world chasing what they love: snow.</desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MH22H1TW1W11/FO-1MH22H1TW1W11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20240819050339+0000" stop="20240819053158+0000">
-    <title lang="en">Return of the Lords</title>
-    <desc lang="en">Follow the electrifying 2024 event as the world's best breaking crews battled it out in Seattle, USA.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/2/rnbkzxtmalh2ymnzbvdc/red-bull-lords-of-the-floor-breaking"/>
-  </programme>
   <programme channel="redbull.com" start="20240819053158+0000" stop="20240819055547+0000">
     <title lang="en">Plus 27</title>
     <desc lang="en">Jordy Smith shares his journey and the profound impact his homeland has had on his life and surfing career.</desc>
@@ -41,7 +29,7 @@
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/17/dyjezvxom1vpei5t6upe/fede-chingotto-and-ale-galan-premier-padel-p2-final-in-sevilla"/>
   </programme>
-  <programme channel="redbull.com" start="20240819012607+0000" stop="20240819015159+0000">
+  <programme channel="redbull.com" start="20240819065232+0000" stop="20240819071824+0000">
     <title lang="en">Highlights – Riyadh Premier Padel P1</title>
     <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
     <category lang="en">Padel</category>
@@ -148,5 +136,17 @@
     <desc lang="en">Follow Julian Wilson and Jordy Smith as they look to win more than just the prestigious Pipe Masters trophy.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYUXGTN5N11/FO-1YPYUXGTN5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20240819105750+0000" stop="20240819111830+0000">
+    <title lang="en">The final preparation</title>
+    <desc lang="en">As the 2018 season draws to an end, the athletes spend time with family before the final events of the year.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYWPCCH5N11/FO-1YPYWPCCH5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20240819111830+0000" stop="20240819114410+0000">
+    <title lang="en">Women’s world title</title>
+    <desc lang="en">The WSL Championship Tour has made it to Hawaii for the final two events of the season.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YUAWPTD95N11/FO-1YUAWPTD95N11-featureMedia"/>
   </programme>
 </tv>
