@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-19 02:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-19 03:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240818224222+0000" stop="20240818235538+0000">
-    <title lang="en">The Land of Giants</title>
-    <desc lang="en">Featuring the world's best skiers, The Land of Giants captures the power and sheer beauty of the mountains. </desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/10/dk8jryraqqiowysuxjvn/the-land-of-giants-eader"/>
-  </programme>
-  <programme channel="redbull.com" start="20240818235538+0000" stop="20240819000733+0000">
-    <title lang="en">The Making of Red Bull Symphonic with Metro Boomin</title>
-    <desc lang="en">Metro Boomin reimagines his biggest hits with a full orchestra and special guests at Red Bull Symphonic in LA.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/4/dpmlvljooivqllfltzcs/red-bull-symphonic-metro-boomin"/>
-  </programme>
-  <programme channel="redbull.com" start="20240819000733+0000" stop="20240819003335+0000">
-    <title lang="en">Highlights – Qatar Major Premier Padel</title>
-    <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
-  </programme>
   <programme channel="redbull.com" start="20240819003335+0000" stop="20240819005932+0000">
     <title lang="en">Highlights – Santiago Premier Padel P1</title>
     <desc lang="en">See the Santiago Premier Padel P1 highlights as the season continued in one of padel's most popular countries.</desc>
@@ -142,5 +124,23 @@
     <desc lang="en">Photographer Michael Clark and Red Bull Athlete Rafa Ortiz test the new Elinchrom Lightpack to its limits.</desc>
     <category lang="en">Kayaking</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SQF4RCPN5N11/FO-1SQF4RCPN5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20240819084033+0000" stop="20240819084554+0000">
+    <title lang="en">New challenges</title>
+    <desc lang="en">Mick Fanning and Trevor Moran learn that shooting in Norway comes with a unique set of challenges to overcome.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SGXW3QP15N11/FO-1SGXW3QP15N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20240819084554+0000" stop="20240819085525+0000">
+    <title lang="en">Zak Noyle</title>
+    <desc lang="en">Paddle out with young talent Zak Noyle as he shoots surfing's biggest names on Hawaii's biggest waves.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SJQRJAXH5N11/FO-1SJQRJAXH5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20240819085525+0000" stop="20240819091511+0000">
+    <title lang="en">Down to the wire</title>
+    <desc lang="en">Lakey Peterson and Carissa Moore regroup at home while the pressure is on for Jordy Smith and Julian Wilson.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYWAK715N11/FO-1YPYWAK715N11-featureMedia"/>
   </programme>
 </tv>
