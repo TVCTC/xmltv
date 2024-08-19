@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-19 19:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-19 20:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240819163712+0000" stop="20240819173918+0000">
-    <title lang="en">Days of My Youth</title>
-    <desc lang="en">Matchstick Productions' two-year project follows top skiers around the world chasing what they love: snow.</desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MH22H1TW1W11/FO-1MH22H1TW1W11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20240819173918+0000" stop="20240819190735+0000">
     <title lang="en">Layers</title>
     <desc lang="en">Discover and celebrate the unique people, places, personalities and layers behind what we call snowboarding.</desc>
@@ -148,5 +142,11 @@
     <desc lang="en">Photographer Matt Dunbar and a team of surfers helicopter out to some of New Zealand’s most remote beaches.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMZD2G195N11/FO-1SMZD2G195N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20240820053902+0000" stop="20240820055600+0000">
+    <title lang="en">Iceland's undiscovered waves</title>
+    <desc lang="en">The surf scene is nascent in Iceland, but two natives, Heidar Logi and Elli Thor, are working to change that.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/13/axqwd3qmqfz370kr1zv0/chasing-the-shot-iceland"/>
   </programme>
 </tv>
