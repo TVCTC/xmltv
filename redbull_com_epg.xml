@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-20 06:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-20 07:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240820014926+0000" stop="20240820021535+0000">
-    <title lang="en">Highlights – Brussels Premier Padel P2</title>
-    <desc lang="en">Watch the highlights of the fifth stop of the season in Belgium for the Brussels Premier Padel P2. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/zjzvsbcyjhp7htwrzgpu/beatriz-gonzalez-fernandez-doha-2024-padel"/>
-  </programme>
-  <programme channel="redbull.com" start="20240820021535+0000" stop="20240820024147+0000">
-    <title lang="en">Highlights – Mar del Plata Premier Padel P1</title>
-    <desc lang="en">Watch the highlights of the eighth stop of the season in Argentina from the Premier Padel Mar del Plata P1.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/22/wrcasajexcgkw9ffnrbz/premier-padel-tour-milan-mens-match-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240820024147+0000" stop="20240820030823+0000">
-    <title lang="en">Highlights – Puerto Cabello Premier Padel P2</title>
-    <desc lang="en">Watch the highlights of the fourth stop of the season in Venezuela for the Puerto Cabello Premier Padel P2. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/4/iqmgalloe5lthvm6jgma/suzanne-casey-premier-padel-2024-puerto-cabello-p2"/>
-  </programme>
-  <programme channel="redbull.com" start="20240820030823+0000" stop="20240820033425+0000">
-    <title lang="en">Highlights – Qatar Major Premier Padel</title>
-    <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
-  </programme>
   <programme channel="redbull.com" start="20240820033425+0000" stop="20240820040022+0000">
     <title lang="en">Highlights – Santiago Premier Padel P1</title>
     <desc lang="en">See the Santiago Premier Padel P1 highlights as the season continued in one of padel's most popular countries.</desc>
@@ -148,5 +124,23 @@
     <desc lang="en">Follow the electrifying 2024 event as the world's best breaking crews battled it out in Seattle, USA.</desc>
     <category lang="en">Breaking</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/2/rnbkzxtmalh2ymnzbvdc/red-bull-lords-of-the-floor-breaking"/>
+  </programme>
+  <programme channel="redbull.com" start="20240820111150+0000" stop="20240820121923+0000">
+    <title lang="en">Yamnuska: The Ragged Edge </title>
+    <desc lang="en">Vikki Weldon and Quentin Roberts explore the enduring legacy of rock climbing on Canada's Mount Yamnuska.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/ll4jsqgipcgeh5kufqli/will-gadd-yamnuska-canada-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20240820132124+0000" stop="20240820142331+0000">
+    <title lang="en">Days of My Youth</title>
+    <desc lang="en">Matchstick Productions' two-year project follows top skiers around the world chasing what they love: snow.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MH22H1TW1W11/FO-1MH22H1TW1W11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20240820142331+0000" stop="20240820155148+0000">
+    <title lang="en">Layers</title>
+    <desc lang="en">Discover and celebrate the unique people, places, personalities and layers behind what we call snowboarding.</desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/a24wabmgl2h2stzq5tyk/snowboard-movie-layers"/>
   </programme>
 </tv>
