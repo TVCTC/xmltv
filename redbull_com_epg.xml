@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-22 03:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-22 04:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240822004653+0000" stop="20240822010731+0000">
-    <title lang="en">La compétition</title>
-    <desc lang="en">It's time for the athletes to take on the best surfers in the world at the Quiksilver &amp; Roxy Pro France.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYVSRCD5N11/FO-1YPYVSRCD5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20240822010731+0000" stop="20240822012631+0000">
-    <title lang="en">Prologue</title>
-    <desc lang="en">Get a look at what motivates four of the world's best competitive surfers.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYV8WYW5N11/FO-1YPYV8WYW5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20240822012631+0000" stop="20240822014126+0000">
-    <title lang="en">The arrival</title>
-    <desc lang="en">The surfers arrive in France for the Quiksilver &amp; Roxy Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYVHHVS5N11/FO-1YPYVHHVS5N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20240822014126+0000" stop="20240822020342+0000">
     <title lang="en">The calm before the storm</title>
     <desc lang="en">As the surfers prepare to travel to their next event in France they reflect on their season so far. </desc>
@@ -148,5 +130,23 @@
     <desc lang="en">See the best moments from the action-packed Bordeaux Premier Padel P2 tournament.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/kj8nobdgp207u02uj09c/thomas-leygue-bordeaux-premier-padel-p2-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240822161416+0000" stop="20240822164024+0000">
+    <title lang="en">Highlights – Brussels Premier Padel P2</title>
+    <desc lang="en">Watch the highlights of the fifth stop of the season in Belgium for the Brussels Premier Padel P2. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/zjzvsbcyjhp7htwrzgpu/beatriz-gonzalez-fernandez-doha-2024-padel"/>
+  </programme>
+  <programme channel="redbull.com" start="20240822164024+0000" stop="20240822170636+0000">
+    <title lang="en">Highlights – Mar del Plata Premier Padel P1</title>
+    <desc lang="en">Watch the highlights of the eighth stop of the season in Argentina from the Premier Padel Mar del Plata P1.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/22/wrcasajexcgkw9ffnrbz/premier-padel-tour-milan-mens-match-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240822170636+0000" stop="20240822173312+0000">
+    <title lang="en">Highlights – Puerto Cabello Premier Padel P2</title>
+    <desc lang="en">Watch the highlights of the fourth stop of the season in Venezuela for the Puerto Cabello Premier Padel P2. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/4/iqmgalloe5lthvm6jgma/suzanne-casey-premier-padel-2024-puerto-cabello-p2"/>
   </programme>
 </tv>
