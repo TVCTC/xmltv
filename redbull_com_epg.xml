@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-24 21:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-24 22:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240824164900+0000" stop="20240824174259+0000">
-    <title lang="en">Ice Waterfalls</title>
-    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/15/n9e71buasfvbbdzzu7di/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
-  </programme>
-  <programme channel="redbull.com" start="20240824174259+0000" stop="20240824175000+0000">
-    <title lang="en">F1 drivers swamp race</title>
-    <desc lang="en">Max Verstappen and Yuki Tsunoda trade their F1 cars for a 900HP, V8 swamp buggy ahead of the Miami Grand Prix.</desc>
-    <category lang="en">Motoring</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/5/orl9mdkwzi4y5qrhjbri/red-bull-racing-swamp-buggy-max-verstappen-2022"/>
-  </programme>
   <programme channel="redbull.com" start="20240824175000+0000" stop="20240824200036+0000">
     <title lang="en">Top 16 – Hungary</title>
     <desc lang="en">Watch the Top 16 at round five of the 2024 season of Drift Masters at Hungary’s RabócsiRing Máriapócs.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Discover what makes HYROX – the indoor fitness competition – a test of strength, endurance and determination.</desc>
     <category lang="en">Athletics</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/14/z7oqxo0xdlr3y4cwhm0s/hyrox-world-championships-2024-competitors"/>
+  </programme>
+  <programme channel="redbull.com" start="20240825044756+0000" stop="20240825051348+0000">
+    <title lang="en">Highlights – Riyadh Premier Padel P1</title>
+    <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
+  </programme>
+  <programme channel="redbull.com" start="20240825051348+0000" stop="20240825053950+0000">
+    <title lang="en">Highlights – Qatar Major Premier Padel</title>
+    <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
   </programme>
 </tv>
