@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-24 09:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-24 10:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240824044459+0000" stop="20240824060000+0000">
-    <title lang="en">The Land of Giants</title>
-    <desc lang="en">Featuring the world's best skiers, The Land of Giants captures the power and sheer beauty of the mountains. </desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/10/dk8jryraqqiowysuxjvn/the-land-of-giants-eader"/>
-  </programme>
-  <programme channel="redbull.com" start="20240824060000+0000" stop="20240824065200+0000">
-    <title lang="en">Relive 2024’s record run</title>
-    <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
-    <category lang="en">Running</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/13/ja3b18y4rq9vp7jukejj/wings-for-life-world-run-2024-zadar-croatia"/>
-  </programme>
   <programme channel="redbull.com" start="20240824065200+0000" stop="20240824070355+0000">
     <title lang="en">The Making of Red Bull Symphonic with Metro Boomin</title>
     <desc lang="en">Metro Boomin reimagines his biggest hits with a full orchestra and special guests at Red Bull Symphonic in LA.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Watch the Top 16 at round five of the 2024 season of Drift Masters at Hungary’s RabócsiRing Máriapócs.</desc>
     <category lang="en">Drifting</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/22/hzaeiptyzoyt5kpj5izm/jakub-przygonski-drift-masters-latvia-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240824200036+0000" stop="20240824201548+0000">
+    <title lang="en">London</title>
+    <desc lang="en">Explore the skate scene of one of the world's greatest cities with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/11/db1q41ssfmyfyq4z2jtx/margielyn-dida-london-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240824201548+0000" stop="20240824203258+0000">
+    <title lang="en">Reset</title>
+    <desc lang="en">Kai Lenny's balancing act looks different in 2023, and his home life and performance goals are ready to reset.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/13/otdspjrmavrpts3qjaty/kai-lenny-surf-life-of-kai-s3-e1"/>
   </programme>
 </tv>
