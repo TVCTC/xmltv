@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-25 00:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-25 01:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240824213853+0000" stop="20240824220259+0000">
-    <title lang="en">Alaska</title>
-    <desc lang="en">At mid-season, Kai Lenny heads to Alaska for surf and snow heli sessions with snowboarding icon Travis Rice.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/16/crhbstuitk2ipmpamtae/kai-lenny-alaska-life-of-kai-s3-e4"/>
-  </programme>
-  <programme channel="redbull.com" start="20240824220259+0000" stop="20240824222328+0000">
-    <title lang="en">Strike</title>
-    <desc lang="en">Kai Lenny goes on a 24-hour strike mission to Tahiti and pushes the limits of what’s possible in the ocean.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/16/bkkpecvbdqoelndaf9rx/kai-lenny-life-of-kai-s3"/>
-  </programme>
-  <programme channel="redbull.com" start="20240824222328+0000" stop="20240824224923+0000">
-    <title lang="en">Rescue</title>
-    <desc lang="en">Kai Lenny kicks off the big wave season at Jaws and faces the risks that come with his pursuit of progression.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/19/jva9enrtrwaujjfkul2q/kai-lenny-jaws-surfing"/>
-  </programme>
   <programme channel="redbull.com" start="20240824224923+0000" stop="20240824231930+0000">
     <title lang="en">Headspace</title>
     <desc lang="en">Kai Lenny confronts the risks versus rewards of big wave surfing after suffering a serious injury at Pipeline.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Watch the highlights of the eighth stop of the season in Argentina from the Premier Padel Mar del Plata P1.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/22/wrcasajexcgkw9ffnrbz/premier-padel-tour-milan-mens-match-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240825074451+0000" stop="20240825081048+0000">
+    <title lang="en">Highlights – Santiago Premier Padel P1</title>
+    <desc lang="en">See the Santiago Premier Padel P1 highlights as the season continued in one of padel's most popular countries.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/16/kryxydhbip56obt9samh/federico-chingotto-and-alejandro-galan-premier-padel-p1-in-santiago"/>
+  </programme>
+  <programme channel="redbull.com" start="20240825081048+0000" stop="20240825083722+0000">
+    <title lang="en">Highlights – Bordeaux Premier Padel P2</title>
+    <desc lang="en">See the best moments from the action-packed Bordeaux Premier Padel P2 tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/kj8nobdgp207u02uj09c/thomas-leygue-bordeaux-premier-padel-p2-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240825083722+0000" stop="20240825090320+0000">
+    <title lang="en">Highlights – BNL Italy Major Premier Padel</title>
+    <desc lang="en">Relive the action from the third Major of the Premier Padel Season 2024 as Italy takes the main stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/lwozjjuxbuh1lsoad8xb/ale-galan-sevilla-premier-padel-p2-2024"/>
   </programme>
 </tv>
