@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-24 04:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-24 05:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240823225504+0000" stop="20240824000236+0000">
-    <title lang="en">Yamnuska: The Ragged Edge </title>
-    <desc lang="en">Vikki Weldon and Quentin Roberts explore the enduring legacy of rock climbing on Canada's Mount Yamnuska.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/ll4jsqgipcgeh5kufqli/will-gadd-yamnuska-canada-climbing"/>
-  </programme>
   <programme channel="redbull.com" start="20240824010437+0000" stop="20240824020644+0000">
     <title lang="en">Days of My Youth</title>
     <desc lang="en">Matchstick Productions' two-year project follows top skiers around the world chasing what they love: snow.</desc>
@@ -148,5 +142,11 @@
     <desc lang="en">Explore the thriving skate scene in Manchester, England, with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/11/y4xxcffmobvgt4aga7al/eddie-belvedere-manchester-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240824161428+0000" stop="20240824163126+0000">
+    <title lang="en">Philadelphia</title>
+    <desc lang="en">Go street-level in one of skating's most influential cities with the locals who make up the Philly scene.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ntnymqjwzliurs3sel8r/jahmir-brown-switch-backtail-colin-kerrigan"/>
   </programme>
 </tv>
