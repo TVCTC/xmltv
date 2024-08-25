@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-25 22:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-25 23:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240825184834+0000" stop="20240825190902+0000">
-    <title lang="en">Strike</title>
-    <desc lang="en">Kai Lenny goes on a 24-hour strike mission to Tahiti and pushes the limits of what’s possible in the ocean.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/16/bkkpecvbdqoelndaf9rx/kai-lenny-life-of-kai-s3"/>
-  </programme>
-  <programme channel="redbull.com" start="20240825190902+0000" stop="20240825193457+0000">
-    <title lang="en">Rescue</title>
-    <desc lang="en">Kai Lenny kicks off the big wave season at Jaws and faces the risks that come with his pursuit of progression.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/19/jva9enrtrwaujjfkul2q/kai-lenny-jaws-surfing"/>
-  </programme>
-  <programme channel="redbull.com" start="20240825193457+0000" stop="20240825200000+0000">
-    <title lang="en">Morocco</title>
-    <desc lang="en">Ashton Goggans guides you through Morocco to discover why it's one of surfing’s fastest growing hotspots.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/qkw1zzldvoa8eczq26nq/alan-van-gysen-no-contest-s2-e2-morocco"/>
-  </programme>
   <programme channel="redbull.com" start="20240825213036+0000" stop="20240825215506+0000">
     <title lang="en">South Africa</title>
     <desc lang="en">Let Ashton Goggans be your tour guide along South Africa’s wave-rich coastline from Durban to Cape Town.</desc>
@@ -148,5 +130,23 @@
     <desc lang="en">Photographer Matt Dunbar and a team of surfers helicopter out to some of New Zealand’s most remote beaches.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMZD2G195N11/FO-1SMZD2G195N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20240826055615+0000" stop="20240826060000+0000">
+    <title lang="en">Kade Edwards destroys Dyfi Bike Park</title>
+    <desc lang="en">Enjoy the sound of speed as British mountain bike rider Kade Edwards rips up Dyfi Bike Park in Wales. </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/doge7u1jj7vxmsg8m1sq/kade-edwards-dyfi-bike-park"/>
+  </programme>
+  <programme channel="redbull.com" start="20240826060000+0000" stop="20240826062600+0000">
+    <title lang="en">Highlights – Genova Premier Padel P2</title>
+    <desc lang="en">Relive the action from the Genova Premier Padel P2 as the world's best players battle for the top prize.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/s253hq7fqbonj5la7zqi/beatriz-gonzalez-premier-padel-asuncion-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240826062600+0000" stop="20240826065116+0000">
+    <title lang="en">Highlights – Malaga Premier Padel P1</title>
+    <desc lang="en">Watch the highlights from Spain as the Malaga Premier Padel P1 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/16/e7a1ua8wknq0q8v13voe/alejandro-galan-malaga-premier-padel-p1"/>
   </programme>
 </tv>
