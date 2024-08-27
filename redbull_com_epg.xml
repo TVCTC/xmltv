@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-27 19:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-27 20:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240827163533+0000" stop="20240827165701+0000">
-    <title lang="en">Ian Walsh</title>
-    <desc lang="en">Join one of big wave surfing’s most renowned athletes on his quest for progression in high-risk environments. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/8/efjmmgqwjxnp2hfcw7si/ian-walsh-jaws-peahi"/>
-  </programme>
-  <programme channel="redbull.com" start="20240827165701+0000" stop="20240827171459+0000">
-    <title lang="en">Lucas 'Chumbo' Chianca</title>
-    <desc lang="en">Join Brazil’s Lucas 'Chumbo' Chianca as he tackles the biggest waves on Earth across two memorable winters.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/8/zmvufpdmt1ddyx6lkpag/my-last-two-winters-lucas-chumbo-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240827171459+0000" stop="20240827173216+0000">
-    <title lang="en">Naxto González</title>
-    <desc lang="en">Go behind the scenes with one of big wave surfing’s most passionate characters as he lays it all on the line. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/8/xskgwoozzbb5qswsnqn5/my-last-two-winters-s1-e1-natxo-gonzales-art"/>
-  </programme>
   <programme channel="redbull.com" start="20240827173216+0000" stop="20240827175932+0000">
     <title lang="en">The Last Step</title>
     <desc lang="en">See young talent from climbing, surf and skate as they prepare for the most important event of their careers.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Go street-level in one of skating's most influential cities with the locals who make up the Philly scene.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ntnymqjwzliurs3sel8r/jahmir-brown-switch-backtail-colin-kerrigan"/>
+  </programme>
+  <programme channel="redbull.com" start="20240828025903+0000" stop="20240828031713+0000">
+    <title lang="en">Santiago</title>
+    <desc lang="en">Around 20,000 skateboarders live in the greater metropolitan area of the Chilean city – let's roll with them!</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/19/zixv84jil6trsarsyjxb/marcelo-jimenez"/>
+  </programme>
+  <programme channel="redbull.com" start="20240828031713+0000" stop="20240828040305+0000">
+    <title lang="en">(Un)credited</title>
+    <desc lang="en">Dive deep into the origins of Afro Dance in Nigeria and how it has shaped a global mainstream culture.</desc>
+    <category lang="en">Dance</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/22/w86gbabyv0vhfdl5zlya/un-credited-nigeria-afro-dance"/>
+  </programme>
+  <programme channel="redbull.com" start="20240828040305+0000" stop="20240828044913+0000">
+    <title lang="en">Lil Zoo: Breaking Chose Me</title>
+    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
+    <category lang="en">Breaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
   </programme>
 </tv>
