@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-28 08:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-28 11:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240828054518+0000" stop="20240828060000+0000">
+  <programme channel="redbull.com" start="20240828044913+0000" stop="20240828054311+0000">
+    <title lang="en">Ice Waterfalls</title>
+    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/15/n9e71buasfvbbdzzu7di/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
+  </programme>
+  <programme channel="redbull.com" start="20240828054311+0000" stop="20240828054518+0000">
+    <title lang="en">A mind-bending dance performance</title>
+    <desc lang="en">Red Bull TV programme</desc>
+    <category lang="en">Dance</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/kuxlfkfhp6gwuiuyzux0/kyoka"/>
+  </programme>
+  <programme channel="redbull.com" start="20240828022813+0000" stop="20240828024205+0000">
     <title lang="en">Manchester</title>
     <desc lang="en">Explore the thriving skate scene in Manchester, England, with Margielyn Didal, Jake Wooten and Jamie Foy.</desc>
     <category lang="en">Skateboarding</category>
@@ -142,17 +154,5 @@
     <desc lang="en">Metro Boomin reimagines his biggest hits with a full orchestra and special guests at Red Bull Symphonic in LA.</desc>
     <category lang="en">Music</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/4/dpmlvljooivqllfltzcs/red-bull-symphonic-metro-boomin"/>
-  </programme>
-  <programme channel="redbull.com" start="20240828154025+0000" stop="20240828160555+0000">
-    <title lang="en">HYROX World Championships highlights – Nice</title>
-    <desc lang="en">Discover what makes HYROX – the indoor fitness competition – a test of strength, endurance and determination.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/14/z7oqxo0xdlr3y4cwhm0s/hyrox-world-championships-2024-competitors"/>
-  </programme>
-  <programme channel="redbull.com" start="20240828160555+0000" stop="20240828163147+0000">
-    <title lang="en">Highlights – Riyadh Premier Padel P1</title>
-    <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
   </programme>
 </tv>
