@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-31 07:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-31 08:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240831034143+0000" stop="20240831040543+0000">
-    <title lang="en">Tahiti</title>
-    <desc lang="en">Michel Bourez and Kauli Vaast take you on a tour of beautiful islands of Tahiti. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/uywqkknj6cylyanrdz1n/kauli-vaast-no-contest-s2-e3-tahiti"/>
-  </programme>
-  <programme channel="redbull.com" start="20240831040543+0000" stop="20240831044645+0000">
-    <title lang="en">Chumbo: Made for Big Wave Surfing</title>
-    <desc lang="en">Get a glimpse into Lucas Chianca's life as he balances chasing big waves with looking after his family.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/9/wlapw5hodyuia7ry8ksp/lucas-chianca-chumbo-made-for-big-wave-surfing-header"/>
-  </programme>
   <programme channel="redbull.com" start="20240831044645+0000" stop="20240831050410+0000">
     <title lang="en">Conor Maguire</title>
     <desc lang="en">Conor Maguire's wild endless winter sees him take on Australia's heaviest slabs and Ireland's biggest waves.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Nothing less than infinity and beyond was enough for 2016's top design wizards... or at least the finish line.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/1/biq8mly48ypufjcb0pgn/toy-story-team-red-bull-soapbox-rce-santiago-chile-2016"/>
+  </programme>
+  <programme channel="redbull.com" start="20240831140000+0000" stop="20240831150036+0000">
+    <title lang="en">Red Bull MotoGP™ Rookies Cup: ARAGON - Race 11</title>
+    <desc lang="en">Watch the first of the races at MotorLand Aragón, where earthworks provide challenging changes in elevation.</desc>
+    <category lang="en">Red Bull Rookies Cup</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/2/2/din6rg6yuwjboaxnwbqr/riders-racing-the-fp-in-aragon-2017"/>
+  </programme>
+  <programme channel="redbull.com" start="20240831150036+0000" stop="20240831150641+0000">
+    <title lang="en">Red Bull Racing vs Best of British</title>
+    <desc lang="en">Watch eight quintessentially British vehicles take on the ultimate motorsports challenge: dodging traffic.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/7/7/mmqdxvfr74rqap7h2kd3/boy-racer-car-ford-best-of-british"/>
   </programme>
 </tv>
