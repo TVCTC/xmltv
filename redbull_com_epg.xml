@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-31 16:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-31 17:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240831124222+0000" stop="20240831130858+0000">
-    <title lang="en">Highlights – Genova Premier Padel P2</title>
-    <desc lang="en">Relive the action from the Genova Premier Padel P2 as the world's best players battle for the top prize.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/s253hq7fqbonj5la7zqi/beatriz-gonzalez-premier-padel-asuncion-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240831130858+0000" stop="20240831133414+0000">
-    <title lang="en">Highlights – Malaga Premier Padel P1</title>
-    <desc lang="en">Watch the highlights from Spain as the Malaga Premier Padel P1 took centre stage.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/16/e7a1ua8wknq0q8v13voe/alejandro-galan-malaga-premier-padel-p1"/>
-  </programme>
-  <programme channel="redbull.com" start="20240831133414+0000" stop="20240831134934+0000">
-    <title lang="en">Honda CT70</title>
-    <desc lang="en">Pro stunt rider and expert builder Aaron Colton turns a clunker Honda CT70 into the pit bike of his dreams.</desc>
-    <category lang="en">Motorbike Stuntriding </category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/8/24/gb7ocumfixcgmvvwh7s3/bike-builds-with-aaron-colton-s1-e3-honda-ct70-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240831134934+0000" stop="20240831140000+0000">
-    <title lang="en">2016's top car designs</title>
-    <desc lang="en">Nothing less than infinity and beyond was enough for 2016's top design wizards... or at least the finish line.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/1/biq8mly48ypufjcb0pgn/toy-story-team-red-bull-soapbox-rce-santiago-chile-2016"/>
-  </programme>
   <programme channel="redbull.com" start="20240831140000+0000" stop="20240831150036+0000">
     <title lang="en">Red Bull MotoGP™ Rookies Cup: ARAGON - Race 11</title>
     <desc lang="en">Watch the first of the races at MotorLand Aragón, where earthworks provide challenging changes in elevation.</desc>
@@ -148,5 +124,29 @@
     <desc lang="en">Watch the highlights of the fourth stop of the season in Venezuela for the Puerto Cabello Premier Padel P2. </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/4/iqmgalloe5lthvm6jgma/suzanne-casey-premier-padel-2024-puerto-cabello-p2"/>
+  </programme>
+  <programme channel="redbull.com" start="20240901062636+0000" stop="20240901063500+0000">
+    <title lang="en">From sim to reality</title>
+    <desc lang="en">Max Verstappen gets sucked into his simulator and needs to clear different levels to get to the Belgium GP.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/18/s4egvvivtryvvcz2ngdf/red-bull-racing-road-trips-s2-ep3-max-verstappen"/>
+  </programme>
+  <programme channel="redbull.com" start="20240901063500+0000" stop="20240901073536+0000">
+    <title lang="en">Red Bull MotoGP™ Rookies Cup: ARAGON - Race 10</title>
+    <desc lang="en">Watch the second of the races at MotorLand Aragón, where earthworks provide challenging changes in elevation.</desc>
+    <category lang="en">Red Bull Rookies Cup</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/15/jcdbmcl72xpbknwznqi6/the-train-at-aragon-2-race-1-2020"/>
+  </programme>
+  <programme channel="redbull.com" start="20240831150641+0000" stop="20240831151655+0000">
+    <title lang="en">2015's top car designs</title>
+    <desc lang="en">From an uncanny Indiana Jones tribute to a truly genius Albert Einstein soapbox, these were 2015's top racers.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/1/htol909yu7qa1s1vtqog/red-bull-soapbox-race-cincinnati-2015"/>
+  </programme>
+  <programme channel="redbull.com" start="20240901074550+0000" stop="20240901075919+0000">
+    <title lang="en">2017's fan-favourite teams</title>
+    <desc lang="en">As 2017's fan favourites teach us, two-wheels never work, and everyone loves a pop culture referencing racer.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/dho8x52o7xnz6asj4kiy/team-gripen-light-red-bull-soapbox-race-lausanne-2017"/>
   </programme>
 </tv>
