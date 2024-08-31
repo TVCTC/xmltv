@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-31 09:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-08-31 10:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240831054336+0000" stop="20240831060000+0000">
-    <title lang="en">Honda CT70</title>
-    <desc lang="en">Pro stunt rider and expert builder Aaron Colton turns a clunker Honda CT70 into the pit bike of his dreams.</desc>
-    <category lang="en">Motorbike Stuntriding </category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/8/24/gb7ocumfixcgmvvwh7s3/bike-builds-with-aaron-colton-s1-e3-honda-ct70-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20240831060000+0000" stop="20240831065200+0000">
-    <title lang="en">Relive 2024’s record run</title>
-    <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
-    <category lang="en">Running</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/13/ja3b18y4rq9vp7jukejj/wings-for-life-world-run-2024-zadar-croatia"/>
-  </programme>
   <programme channel="redbull.com" start="20240831065200+0000" stop="20240831070355+0000">
     <title lang="en">The Making of Red Bull Symphonic with Metro Boomin</title>
     <desc lang="en">Metro Boomin reimagines his biggest hits with a full orchestra and special guests at Red Bull Symphonic in LA.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Host Gracie Kramer explores how top divers Xantheia and Jonathan train their minds to get a winner's mentality</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/23/c75zpim7v9wpr3wi2dql/gary-hunt-red-bull-cliff-diving-world-series-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240831160357+0000" stop="20240831163423+0000">
+    <title lang="en">Cliff conquest in Northern Ireland</title>
+    <desc lang="en">Nature's beauty takes centre stage as competitors faced off against Causeway's spectacular rugged cliffs.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/8/snzalb0wsmr8aklakp8d/red-bull-cliff-diving-world-series-2024-causeway-coast"/>
+  </programme>
+  <programme channel="redbull.com" start="20240831163423+0000" stop="20240831174413+0000">
+    <title lang="en">Anywhere from Here</title>
+    <desc lang="en">Just 11-years-old and already a freestyle ski phenomenon. Meet the extraordinary Walker Woodring.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/jjm6hlgjvjhygfx8dr09/logan-pehota-british-columbia-anywhere-from-here-ski-film"/>
   </programme>
 </tv>
