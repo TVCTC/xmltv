@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-01 10:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-01 11:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240901063500+0000" stop="20240901073536+0000">
-    <title lang="en">Red Bull MotoGP™ Rookies Cup: ARAGON - Race 10</title>
-    <desc lang="en">Watch the second of the races at MotorLand Aragón, where earthworks provide challenging changes in elevation.</desc>
-    <category lang="en">Red Bull Rookies Cup</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/15/jcdbmcl72xpbknwznqi6/the-train-at-aragon-2-race-1-2020"/>
-  </programme>
-  <programme channel="redbull.com" start="20240901073536+0000" stop="20240901074550+0000">
-    <title lang="en">2015's top car designs</title>
-    <desc lang="en">From an uncanny Indiana Jones tribute to a truly genius Albert Einstein soapbox, these were 2015's top racers.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/1/htol909yu7qa1s1vtqog/red-bull-soapbox-race-cincinnati-2015"/>
-  </programme>
-  <programme channel="redbull.com" start="20240901074550+0000" stop="20240901075919+0000">
-    <title lang="en">2017's fan-favourite teams</title>
-    <desc lang="en">As 2017's fan favourites teach us, two-wheels never work, and everyone loves a pop culture referencing racer.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/dho8x52o7xnz6asj4kiy/team-gripen-light-red-bull-soapbox-race-lausanne-2017"/>
-  </programme>
-  <programme channel="redbull.com" start="20240901075919+0000" stop="20240901081156+0000">
-    <title lang="en">2019's best crashes and smashes</title>
-    <desc lang="en">To win in Red Bull Soapbox Race, first you've got to finish. This is not easy for these hard-crashing teams.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/xq7dyki6fwmedpguo1co/mighty-magnificent-men-red-bull-soapbox-race-london-2019"/>
-  </programme>
-  <programme channel="redbull.com" start="20240901081156+0000" stop="20240901083830+0000">
-    <title lang="en">Highlights – Santiago Premier Padel P1</title>
-    <desc lang="en">See the Santiago Premier Padel P1 highlights as the season continued in one of padel's most popular countries.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/16/kryxydhbip56obt9samh/federico-chingotto-and-alejandro-galan-premier-padel-p1-in-santiago"/>
-  </programme>
   <programme channel="redbull.com" start="20240901083830+0000" stop="20240901090428+0000">
     <title lang="en">Highlights – Bordeaux Premier Padel P2</title>
     <desc lang="en">See the best moments from the action-packed Bordeaux Premier Padel P2 tournament.</desc>
@@ -148,5 +118,35 @@
     <desc lang="en">Metro Boomin reimagines his biggest hits with a full orchestra and special guests at Red Bull Symphonic in LA.</desc>
     <category lang="en">Music</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/4/dpmlvljooivqllfltzcs/red-bull-symphonic-metro-boomin"/>
+  </programme>
+  <programme channel="redbull.com" start="20240902020334+0000" stop="20240902022904+0000">
+    <title lang="en">HYROX World Championships highlights – Nice</title>
+    <desc lang="en">Discover what makes HYROX – the indoor fitness competition – a test of strength, endurance and determination.</desc>
+    <category lang="en">Athletics</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/14/z7oqxo0xdlr3y4cwhm0s/hyrox-world-championships-2024-competitors"/>
+  </programme>
+  <programme channel="redbull.com" start="20240902022904+0000" stop="20240902025458+0000">
+    <title lang="en">Red Bull Kumite highlights</title>
+    <desc lang="en">16 heroes gathered in NYC to discover the best Street Fighter 6 player on the planet. Welcome to the games.</desc>
+    <category lang="en">Games</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/13/nnargacmzfbacjpuqjhi/menard-winner-red-bull-kumite-2024-brooklyn"/>
+  </programme>
+  <programme channel="redbull.com" start="20240902025458+0000" stop="20240902032049+0000">
+    <title lang="en">Highlights – Riyadh Premier Padel P1</title>
+    <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
+  </programme>
+  <programme channel="redbull.com" start="20240902032049+0000" stop="20240902034651+0000">
+    <title lang="en">Highlights – Qatar Major Premier Padel</title>
+    <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
+  </programme>
+  <programme channel="redbull.com" start="20240902034651+0000" stop="20240902041240+0000">
+    <title lang="en">Highlights – Acapulco Premier Padel P1</title>
+    <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
   </programme>
 </tv>
