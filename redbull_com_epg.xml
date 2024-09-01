@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-01 06:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-01 07:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240901014202+0000" stop="20240901024129+0000">
+    <title lang="en">One at a Time</title>
+    <desc lang="en">Follow professional slopestyle rider Brett Rheeder through the ups and downs of a Crankworx contest season.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ju0vdt30ad36f7oel2k4/one-at-a-time-hero-art"/>
+  </programme>
   <programme channel="redbull.com" start="20240901024129+0000" stop="20240901042039+0000">
     <title lang="en">Valley Uprising</title>
     <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
