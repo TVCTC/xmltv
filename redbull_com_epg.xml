@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-03 10:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-03 11:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240903045214+0000" stop="20240903051730+0000">
-    <title lang="en">Highlights – Malaga Premier Padel P1</title>
-    <desc lang="en">Watch the highlights from Spain as the Malaga Premier Padel P1 took centre stage.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/16/e7a1ua8wknq0q8v13voe/alejandro-galan-malaga-premier-padel-p1"/>
-  </programme>
-  <programme channel="redbull.com" start="20240903051730+0000" stop="20240903055210+0000">
-    <title lang="en">Divers test their mental strength at Athens</title>
-    <desc lang="en">Host Gracie Kramer explores how top divers Xantheia and Jonathan train their minds to get a winner's mentality</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/23/c75zpim7v9wpr3wi2dql/gary-hunt-red-bull-cliff-diving-world-series-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20240903055210+0000" stop="20240903060000+0000">
     <title lang="en">From sim to reality</title>
     <desc lang="en">Max Verstappen gets sucked into his simulator and needs to clear different levels to get to the Belgium GP.</desc>
@@ -143,10 +131,22 @@
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/17/dyjezvxom1vpei5t6upe/fede-chingotto-and-ale-galan-premier-padel-p2-final-in-sevilla"/>
   </programme>
-  <programme channel="redbull.com" start="20240903021501+0000" stop="20240903024056+0000">
+  <programme channel="redbull.com" start="20240903225626+0000" stop="20240903232222+0000">
     <title lang="en">Highlights – Asunción Premier Padel P2 </title>
     <desc lang="en">Watch the highlights of the seventh stop of the season in Paraguay from the Asunción Premier Padel P2.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/yupj6ycdbof7x8jrd3at/beatriz-caldera-premier-padel"/>
+  </programme>
+  <programme channel="redbull.com" start="20240903232222+0000" stop="20240903234834+0000">
+    <title lang="en">Highlights – Mar del Plata Premier Padel P1</title>
+    <desc lang="en">Watch the highlights of the eighth stop of the season in Argentina from the Premier Padel Mar del Plata P1.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/22/wrcasajexcgkw9ffnrbz/premier-padel-tour-milan-mens-match-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240903234834+0000" stop="20240904001507+0000">
+    <title lang="en">Highlights – Santiago Premier Padel P1</title>
+    <desc lang="en">See the Santiago Premier Padel P1 highlights as the season continued in one of padel's most popular countries.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/16/kryxydhbip56obt9samh/federico-chingotto-and-alejandro-galan-premier-padel-p1-in-santiago"/>
   </programme>
 </tv>
