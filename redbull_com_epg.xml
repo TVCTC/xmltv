@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-07 20:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-07 21:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240907172731+0000" stop="20240907183503+0000">
-    <title lang="en">Yamnuska: The Ragged Edge </title>
-    <desc lang="en">Vikki Weldon and Quentin Roberts explore the enduring legacy of rock climbing on Canada's Mount Yamnuska.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/ll4jsqgipcgeh5kufqli/will-gadd-yamnuska-canada-climbing"/>
-  </programme>
   <programme channel="redbull.com" start="20240907183503+0000" stop="20240907192752+0000">
     <title lang="en">Red Bull Cliff Diving's anniversary opener</title>
     <desc lang="en">The 2024 season kicks off in Lake Vougliameni, the elite sport returns to the Greek capital since 2009.</desc>
@@ -119,7 +113,7 @@
     <category lang="en">Red Bull Rookies Cup</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/10/pk0ri5d97ujxtzt3deop/the-rookies-train-of-race-2-on-the-finish-straight-of-misano-2023"/>
   </programme>
-  <programme channel="redbull.com" start="20240907160641+0000" stop="20240907161655+0000">
+  <programme channel="redbull.com" start="20240908074536+0000" stop="20240908075550+0000">
     <title lang="en">2015's top car designs</title>
     <desc lang="en">From an uncanny Indiana Jones tribute to a truly genius Albert Einstein soapbox, these were 2015's top racers.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
@@ -136,5 +130,11 @@
     <desc lang="en">To win in Red Bull Soapbox Race, first you've got to finish. This is not easy for these hard-crashing teams.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/xq7dyki6fwmedpguo1co/mighty-magnificent-men-red-bull-soapbox-race-london-2019"/>
+  </programme>
+  <programme channel="redbull.com" start="20240908082156+0000" stop="20240908084841+0000">
+    <title lang="en">Highlights – Brussels Premier Padel P2</title>
+    <desc lang="en">Watch the highlights of the fifth stop of the season in Belgium for the Brussels Premier Padel P2. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/zjzvsbcyjhp7htwrzgpu/beatriz-gonzalez-fernandez-doha-2024-padel"/>
   </programme>
 </tv>
