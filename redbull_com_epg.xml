@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-07 13:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-07 14:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240907103116+0000" stop="20240907105716+0000">
-    <title lang="en">Highlights – Genova Premier Padel P2</title>
-    <desc lang="en">Relive the action from the Genova Premier Padel P2 as the world's best players battle for the top prize.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/s253hq7fqbonj5la7zqi/beatriz-gonzalez-premier-padel-asuncion-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240907105716+0000" stop="20240907112308+0000">
-    <title lang="en">Highlights – Malaga Premier Padel P1</title>
-    <desc lang="en">Watch the highlights from Spain as the Malaga Premier Padel P1 took centre stage.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/16/e7a1ua8wknq0q8v13voe/alejandro-galan-malaga-premier-padel-p1"/>
-  </programme>
-  <programme channel="redbull.com" start="20240907112308+0000" stop="20240907114920+0000">
-    <title lang="en">Highlights – Mar del Plata Premier Padel P1</title>
-    <desc lang="en">Watch the highlights of the eighth stop of the season in Argentina from the Premier Padel Mar del Plata P1.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/22/wrcasajexcgkw9ffnrbz/premier-padel-tour-milan-mens-match-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20240907114920+0000" stop="20240907121520+0000">
     <title lang="en">Highlights – Puerto Cabello Premier Padel P2</title>
     <desc lang="en">Watch the highlights of the fourth stop of the season in Venezuela for the Puerto Cabello Premier Padel P2. </desc>
@@ -136,5 +118,23 @@
     <desc lang="en">Watch breathtaking dives amid Oslo's stunning fjords, with the iconic Opera House as a majestic backdrop.</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/19/envrfl2xh0qwtgyerlzb/red-bull-cliff-diving-world-series-2024-oslo-opera-house-james-lichtenstein"/>
+  </programme>
+  <programme channel="redbull.com" start="20240907235144+0000" stop="20240908012826+0000">
+    <title lang="en">Born to Fly</title>
+    <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
+    <category lang="en">Athletics</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240908012826+0000" stop="20240908015814+0000">
+    <title lang="en">No I in team</title>
+    <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/5/dzfbz2heksvcugo7d5dr/jolanda-neff-uci-xco-world-cup-val-di-sole-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240908015814+0000" stop="20240908022637+0000">
+    <title lang="en">Apex predators </title>
+    <desc lang="en">In the downhill, Finn Iles struggles to beat his biggest competitor, team-mate Loïc Bruni.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/szk42xiugjm6ltrburtf/finn-iles"/>
   </programme>
 </tv>
