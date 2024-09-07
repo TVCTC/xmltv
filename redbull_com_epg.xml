@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-07 18:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-07 19:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240907145004+0000" stop="20240907150000+0000">
+    <title lang="en">2016's top car designs</title>
+    <desc lang="en">Nothing less than infinity and beyond was enough for 2016's top design wizards... or at least the finish line.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/1/biq8mly48ypufjcb0pgn/toy-story-team-red-bull-soapbox-rce-santiago-chile-2016"/>
+  </programme>
   <programme channel="redbull.com" start="20240907150000+0000" stop="20240907160036+0000">
     <title lang="en">Red Bull MotoGP Rookies Cup 2024 MISANO – Race 13</title>
     <desc lang="en">Watch the first of the races at the Misano World Circuit, the final stop of the season.</desc>
@@ -113,10 +119,22 @@
     <category lang="en">Kayaking</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/15/n9e71buasfvbbdzzu7di/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
   </programme>
-  <programme channel="redbull.com" start="20240907070355+0000" stop="20240907072925+0000">
+  <programme channel="redbull.com" start="20240908052546+0000" stop="20240908055116+0000">
     <title lang="en">HYROX World Championships highlights – Nice</title>
     <desc lang="en">Discover what makes HYROX – the indoor fitness competition – a test of strength, endurance and determination.</desc>
     <category lang="en">Athletics</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/14/z7oqxo0xdlr3y4cwhm0s/hyrox-world-championships-2024-competitors"/>
+  </programme>
+  <programme channel="redbull.com" start="20240908055116+0000" stop="20240908060000+0000">
+    <title lang="en">F1 drivers vs hovercraft </title>
+    <desc lang="en">Watch F1 drivers go head-to-head in sci-fi hovercraft racing, deep in the desert outside Las Vegas.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/16/yp3uykk2yvhbnyviock7/f1-drivers-las-vegas-desert"/>
+  </programme>
+  <programme channel="redbull.com" start="20240908060000+0000" stop="20240908062558+0000">
+    <title lang="en">Highlights – Bordeaux Premier Padel P2</title>
+    <desc lang="en">See the best moments from the action-packed Bordeaux Premier Padel P2 tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/kj8nobdgp207u02uj09c/thomas-leygue-bordeaux-premier-padel-p2-2024"/>
   </programme>
 </tv>
