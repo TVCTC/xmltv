@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-07 12:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-07 13:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240907093859+0000" stop="20240907100544+0000">
-    <title lang="en">Highlights – Brussels Premier Padel P2</title>
-    <desc lang="en">Watch the highlights of the fifth stop of the season in Belgium for the Brussels Premier Padel P2. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/zjzvsbcyjhp7htwrzgpu/beatriz-gonzalez-fernandez-doha-2024-padel"/>
-  </programme>
-  <programme channel="redbull.com" start="20240907100544+0000" stop="20240907103116+0000">
-    <title lang="en">Highlights – Finland Premier Padel P2</title>
-    <desc lang="en">See the best moments from the action-packed Finland Premier Padel P2 tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/31/x3zbbzdkmavuhd6yin7o/arturo-coello-malaga-premier-padel-p1"/>
-  </programme>
   <programme channel="redbull.com" start="20240907103116+0000" stop="20240907105716+0000">
     <title lang="en">Highlights – Genova Premier Padel P2</title>
     <desc lang="en">Relive the action from the Genova Premier Padel P2 as the world's best players battle for the top prize.</desc>
@@ -136,5 +124,17 @@
     <desc lang="en">The 2024 season kicks off in Lake Vougliameni, the elite sport returns to the Greek capital since 2009.</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/31/acvrhoqktju1uwlqhexx/matthew-cooper-red-bull-cliff-diving-athens-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240907220541+0000" stop="20240907225817+0000">
+    <title lang="en">Red Bull Cliff Diving - Stop 4 Northern Ireland</title>
+    <desc lang="en">Northern Ireland welcomes the world’s best cliff divers to a challenging location with three dive spots.  </desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/29/grxofewrdfvsm0vtjzvp/red-bull-cliff-diving-james-lichtenstein-northern-ireland-ballycastle-harbour-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240907225817+0000" stop="20240907235144+0000">
+    <title lang="en">The stage is yours</title>
+    <desc lang="en">Watch breathtaking dives amid Oslo's stunning fjords, with the iconic Opera House as a majestic backdrop.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/19/envrfl2xh0qwtgyerlzb/red-bull-cliff-diving-world-series-2024-oslo-opera-house-james-lichtenstein"/>
   </programme>
 </tv>
