@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-07 08:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-07 09:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240907041135+0000" stop="20240907045743+0000">
+    <title lang="en">Lil Zoo: Breaking Chose Me</title>
+    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
+    <category lang="en">Breaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
+  </programme>
   <programme channel="redbull.com" start="20240907045743+0000" stop="20240907055710+0000">
     <title lang="en">One at a Time</title>
     <desc lang="en">Follow professional slopestyle rider Brett Rheeder through the ups and downs of a Crankworx contest season.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">Nothing less than infinity and beyond was enough for 2016's top design wizards... or at least the finish line.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/1/biq8mly48ypufjcb0pgn/toy-story-team-red-bull-soapbox-rce-santiago-chile-2016"/>
-  </programme>
-  <programme channel="redbull.com" start="20240907150000+0000" stop="20240907160036+0000">
-    <title lang="en">Red Bull MotoGP Rookies Cup 2024 MISANO – Race 13</title>
-    <desc lang="en">Watch the first of the races at the Misano World Circuit, the final stop of the season.</desc>
-    <category lang="en">Red Bull Rookies Cup</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/9/n6x91uwjptw2ncadfkxc/start-of-race-1-rookies-cup-misano-2023"/>
   </programme>
 </tv>
