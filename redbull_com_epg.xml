@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-08 10:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-08 11:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240908064500+0000" stop="20240908074536+0000">
-    <title lang="en">Red Bull MotoGP Rookies Cup 2024 MISANO – Race 14</title>
-    <desc lang="en">Watch the second of the races at the Misano World Circuit, the final stop of the season.</desc>
-    <category lang="en">Red Bull Rookies Cup</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/10/pk0ri5d97ujxtzt3deop/the-rookies-train-of-race-2-on-the-finish-straight-of-misano-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20240908074536+0000" stop="20240908075550+0000">
     <title lang="en">2015's top car designs</title>
     <desc lang="en">From an uncanny Indiana Jones tribute to a truly genius Albert Einstein soapbox, these were 2015's top racers.</desc>
@@ -136,5 +130,11 @@
     <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
     <category lang="en">Athletics</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240908221633+0000" stop="20240908224621+0000">
+    <title lang="en">No I in team</title>
+    <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/5/dzfbz2heksvcugo7d5dr/jolanda-neff-uci-xco-world-cup-val-di-sole-2022"/>
   </programme>
 </tv>
