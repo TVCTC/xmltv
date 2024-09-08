@@ -1,46 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-08 11:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-08 12:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240908074536+0000" stop="20240908075550+0000">
-    <title lang="en">2015's top car designs</title>
-    <desc lang="en">From an uncanny Indiana Jones tribute to a truly genius Albert Einstein soapbox, these were 2015's top racers.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/1/htol909yu7qa1s1vtqog/red-bull-soapbox-race-cincinnati-2015"/>
-  </programme>
-  <programme channel="redbull.com" start="20240908075550+0000" stop="20240908080919+0000">
-    <title lang="en">2017's fan-favourite teams</title>
-    <desc lang="en">As 2017's fan favourites teach us, two-wheels never work, and everyone loves a pop culture referencing racer.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/dho8x52o7xnz6asj4kiy/team-gripen-light-red-bull-soapbox-race-lausanne-2017"/>
-  </programme>
-  <programme channel="redbull.com" start="20240908080919+0000" stop="20240908082156+0000">
-    <title lang="en">2019's best crashes and smashes</title>
-    <desc lang="en">To win in Red Bull Soapbox Race, first you've got to finish. This is not easy for these hard-crashing teams.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/xq7dyki6fwmedpguo1co/mighty-magnificent-men-red-bull-soapbox-race-london-2019"/>
-  </programme>
-  <programme channel="redbull.com" start="20240908082156+0000" stop="20240908084841+0000">
-    <title lang="en">Highlights – Brussels Premier Padel P2</title>
-    <desc lang="en">Watch the highlights of the fifth stop of the season in Belgium for the Brussels Premier Padel P2. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/zjzvsbcyjhp7htwrzgpu/beatriz-gonzalez-fernandez-doha-2024-padel"/>
-  </programme>
-  <programme channel="redbull.com" start="20240908084841+0000" stop="20240908091413+0000">
-    <title lang="en">Highlights – Finland Premier Padel P2</title>
-    <desc lang="en">See the best moments from the action-packed Finland Premier Padel P2 tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/31/x3zbbzdkmavuhd6yin7o/arturo-coello-malaga-premier-padel-p1"/>
-  </programme>
-  <programme channel="redbull.com" start="20240908091413+0000" stop="20240908094013+0000">
-    <title lang="en">Highlights – Genova Premier Padel P2</title>
-    <desc lang="en">Relive the action from the Genova Premier Padel P2 as the world's best players battle for the top prize.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/s253hq7fqbonj5la7zqi/beatriz-gonzalez-premier-padel-asuncion-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20240908094013+0000" stop="20240908100605+0000">
     <title lang="en">Highlights – Malaga Premier Padel P1</title>
     <desc lang="en">Watch the highlights from Spain as the Malaga Premier Padel P1 took centre stage.</desc>
@@ -136,5 +100,41 @@
     <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/5/dzfbz2heksvcugo7d5dr/jolanda-neff-uci-xco-world-cup-val-di-sole-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240908224621+0000" stop="20240908231443+0000">
+    <title lang="en">Apex predators </title>
+    <desc lang="en">In the downhill, Finn Iles struggles to beat his biggest competitor, team-mate Loïc Bruni.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/szk42xiugjm6ltrburtf/finn-iles"/>
+  </programme>
+  <programme channel="redbull.com" start="20240908231443+0000" stop="20240908234709+0000">
+    <title lang="en">Adapt or perish</title>
+    <desc lang="en">A wave of younger, faster competitors force 'old dogs to learn new tricks' to stay in the results sheet. </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/qjq0alzb0bk4pwfkj1os/jackson-goldstone"/>
+  </programme>
+  <programme channel="redbull.com" start="20240908234709+0000" stop="20240909001323+0000">
+    <title lang="en">Iron sharpens iron</title>
+    <desc lang="en">Mathias Flückiger and Nino Schurter confront the bitter rivalry of Swiss MTB cross-country racing.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/aleq0pywjxtowwjzjynt/mathias-fluckiger"/>
+  </programme>
+  <programme channel="redbull.com" start="20240909001323+0000" stop="20240909004704+0000">
+    <title lang="en">Home run</title>
+    <desc lang="en">As Rachel Atherton returns to MTB racing, she works to find a balance while Vali Höll prepares for success.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/dc5vg0kbtvhiw8okcbva/rachel-atherton"/>
+  </programme>
+  <programme channel="redbull.com" start="20240909004704+0000" stop="20240909011953+0000">
+    <title lang="en">Bros before foes</title>
+    <desc lang="en">DH riders Loïc Bruni and Loris Vergier have their relationship put to the test as they compete against each.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/flkywrg12h1rmqgunnqr/loic-bruni"/>
+  </programme>
+  <programme channel="redbull.com" start="20240909011953+0000" stop="20240909021352+0000">
+    <title lang="en">Ice Waterfalls</title>
+    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/15/n9e71buasfvbbdzzu7di/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
   </programme>
 </tv>
