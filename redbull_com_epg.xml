@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-09 17:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-09 18:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240909135606+0000" stop="20240909144842+0000">
+    <title lang="en">Red Bull Cliff Diving - Stop 4 Northern Ireland</title>
+    <desc lang="en">Northern Ireland welcomes the world’s best cliff divers to a challenging location with three dive spots.  </desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/29/grxofewrdfvsm0vtjzvp/red-bull-cliff-diving-james-lichtenstein-northern-ireland-ballycastle-harbour-2024"/>
+  </programme>
   <programme channel="redbull.com" start="20240909144842+0000" stop="20240909154209+0000">
     <title lang="en">The stage is yours</title>
     <desc lang="en">Watch breathtaking dives amid Oslo's stunning fjords, with the iconic Opera House as a majestic backdrop.</desc>
@@ -142,17 +148,5 @@
     <desc lang="en">Watch the highlights of the fourth stop of the season in Venezuela for the Puerto Cabello Premier Padel P2. </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/4/iqmgalloe5lthvm6jgma/suzanne-casey-premier-padel-2024-puerto-cabello-p2"/>
-  </programme>
-  <programme channel="redbull.com" start="20240910033207+0000" stop="20240910035845+0000">
-    <title lang="en">Highlights – Qatar Major Premier Padel</title>
-    <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
-  </programme>
-  <programme channel="redbull.com" start="20240910035845+0000" stop="20240910042443+0000">
-    <title lang="en">Highlights – Santiago Premier Padel P1</title>
-    <desc lang="en">See the Santiago Premier Padel P1 highlights as the season continued in one of padel's most popular countries.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/16/kryxydhbip56obt9samh/federico-chingotto-and-alejandro-galan-premier-padel-p1-in-santiago"/>
   </programme>
 </tv>
