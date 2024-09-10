@@ -1,46 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.radio-kastel.com/" time-created="2024-09-10 00:02:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.radio-kastel.com/" time-created="2024-09-11 00:02:02">
   <channel id="RadioKastel.hr">
     <display-name>Radio Kaštel</display-name>
     <icon src="https://thumbs2.imgbox.com/77/b4/6tRmAHLW_t.png"/>
   </channel>
-  <programme channel="RadioKastel.hr" start="20240910000000+0200" stop="20240910060000+0200">
-    <title lang="hr">NOĆNI PROGRAM</title>
-    <desc lang="hr">Radio Kaštel program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/77/b4/6tRmAHLW_t.png"/>
-  </programme>
-  <programme channel="RadioKastel.hr" start="20240910060000+0200" stop="20240910120000+0200">
-    <title lang="hr">JUTARNJI PROGRAM</title>
-    <desc lang="hr">Radio Kaštel program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/77/b4/6tRmAHLW_t.png"/>
-  </programme>
-  <programme channel="RadioKastel.hr" start="20240910120000+0200" stop="20240910150000+0200">
-    <title lang="hr">DNEVNI PROGRAM</title>
-    <desc lang="hr">Radio Kaštel program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/77/b4/6tRmAHLW_t.png"/>
-  </programme>
-  <programme channel="RadioKastel.hr" start="20240910150000+0200" stop="20240910151500+0200">
-    <title lang="hr">BLIC AKTUALNO</title>
-    <desc lang="hr">Radnim danima od 15:00. U emisiji 'BLIC AKTUALNO', slušatelji mogu pronaći propitujuće osvrte na trenutno najvažnije teme koje oblikuju politički, gospodarski i sportski svijet, kao i tehničke novitete. Uz novinarski komentar, ova 15 minutna emisija prožeta glazbenim brojevima pruža uvid u ključne događaje koji utječu na svakodnevni život.</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://static1.s123-cdn-static-a.com/uploads/4240069/2000_643ffbdcf16b1_filter_65c1525a686b5.png"/>
-  </programme>
-  <programme channel="RadioKastel.hr" start="20240910151500+0200" stop="20240910200000+0200">
-    <title lang="hr">POPODNEVNI PROGRAM</title>
-    <desc lang="hr">Radio Kaštel program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/77/b4/6tRmAHLW_t.png"/>
-  </programme>
-  <programme channel="RadioKastel.hr" start="20240910200000+0200" stop="20240911000000+0200">
-    <title lang="hr">VEČERNJI PROGRAM</title>
-    <desc lang="hr">Radio Kaštel program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/77/b4/6tRmAHLW_t.png"/>
-  </programme>
   <programme channel="RadioKastel.hr" start="20240911000000+0200" stop="20240911060000+0200">
     <title lang="hr">NOĆNI PROGRAM</title>
     <desc lang="hr">Radio Kaštel program</desc>
@@ -72,6 +36,42 @@
     <icon src="https://thumbs2.imgbox.com/77/b4/6tRmAHLW_t.png"/>
   </programme>
   <programme channel="RadioKastel.hr" start="20240911200000+0200" stop="20240912000000+0200">
+    <title lang="hr">VEČERNJI PROGRAM</title>
+    <desc lang="hr">Radio Kaštel program</desc>
+    <category lang="hr">Radio</category>
+    <icon src="https://thumbs2.imgbox.com/77/b4/6tRmAHLW_t.png"/>
+  </programme>
+  <programme channel="RadioKastel.hr" start="20240912000000+0200" stop="20240912060000+0200">
+    <title lang="hr">NOĆNI PROGRAM</title>
+    <desc lang="hr">Radio Kaštel program</desc>
+    <category lang="hr">Radio</category>
+    <icon src="https://thumbs2.imgbox.com/77/b4/6tRmAHLW_t.png"/>
+  </programme>
+  <programme channel="RadioKastel.hr" start="20240912060000+0200" stop="20240912120000+0200">
+    <title lang="hr">JUTARNJI PROGRAM</title>
+    <desc lang="hr">Radio Kaštel program</desc>
+    <category lang="hr">Radio</category>
+    <icon src="https://thumbs2.imgbox.com/77/b4/6tRmAHLW_t.png"/>
+  </programme>
+  <programme channel="RadioKastel.hr" start="20240912120000+0200" stop="20240912150000+0200">
+    <title lang="hr">DNEVNI PROGRAM</title>
+    <desc lang="hr">Radio Kaštel program</desc>
+    <category lang="hr">Radio</category>
+    <icon src="https://thumbs2.imgbox.com/77/b4/6tRmAHLW_t.png"/>
+  </programme>
+  <programme channel="RadioKastel.hr" start="20240912150000+0200" stop="20240912151500+0200">
+    <title lang="hr">BLIC AKTUALNO</title>
+    <desc lang="hr">Radnim danima od 15:00. U emisiji 'BLIC AKTUALNO', slušatelji mogu pronaći propitujuće osvrte na trenutno najvažnije teme koje oblikuju politički, gospodarski i sportski svijet, kao i tehničke novitete. Uz novinarski komentar, ova 15 minutna emisija prožeta glazbenim brojevima pruža uvid u ključne događaje koji utječu na svakodnevni život.</desc>
+    <category lang="hr">Radio</category>
+    <icon src="https://static1.s123-cdn-static-a.com/uploads/4240069/2000_643ffbdcf16b1_filter_65c1525a686b5.png"/>
+  </programme>
+  <programme channel="RadioKastel.hr" start="20240912151500+0200" stop="20240912200000+0200">
+    <title lang="hr">POPODNEVNI PROGRAM</title>
+    <desc lang="hr">Radio Kaštel program</desc>
+    <category lang="hr">Radio</category>
+    <icon src="https://thumbs2.imgbox.com/77/b4/6tRmAHLW_t.png"/>
+  </programme>
+  <programme channel="RadioKastel.hr" start="20240912200000+0200" stop="20240913000000+0200">
     <title lang="hr">VEČERNJI PROGRAM</title>
     <desc lang="hr">Radio Kaštel program</desc>
     <category lang="hr">Radio</category>
