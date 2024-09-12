@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-12 15:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-12 16:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240912122805+0000" stop="20240912132005+0000">
-    <title lang="en">Relive 2024’s record run</title>
-    <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
-    <category lang="en">Running</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/13/ja3b18y4rq9vp7jukejj/wings-for-life-world-run-2024-zadar-croatia"/>
-  </programme>
-  <programme channel="redbull.com" start="20240912132005+0000" stop="20240912133200+0000">
-    <title lang="en">The Making of Red Bull Symphonic with Metro Boomin</title>
-    <desc lang="en">Metro Boomin reimagines his biggest hits with a full orchestra and special guests at Red Bull Symphonic in LA.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/4/dpmlvljooivqllfltzcs/red-bull-symphonic-metro-boomin"/>
-  </programme>
   <programme channel="redbull.com" start="20240912133200+0000" stop="20240912135730+0000">
     <title lang="en">HYROX World Championships highlights – Nice</title>
     <desc lang="en">Discover what makes HYROX – the indoor fitness competition – a test of strength, endurance and determination.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Montreal's cliff diving saw new faces challenge seasoned pros, with fierce competition and surprise podiums.</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/2/cwegk5g1ni9pc1gd9zl3/oleksiy-prygorov-red-bull-cliff-diving-world-series-2024-montreal-skyscrapers"/>
+  </programme>
+  <programme channel="redbull.com" start="20240913014840+0000" stop="20240913024116+0000">
+    <title lang="en">Red Bull Cliff Diving - Stop 4 Northern Ireland</title>
+    <desc lang="en">Northern Ireland welcomes the world’s best cliff divers to a challenging location with three dive spots.  </desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/29/grxofewrdfvsm0vtjzvp/red-bull-cliff-diving-james-lichtenstein-northern-ireland-ballycastle-harbour-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240913024116+0000" stop="20240913033408+0000">
+    <title lang="en">The stage is yours</title>
+    <desc lang="en">Watch breathtaking dives amid Oslo's stunning fjords, with the iconic Opera House as a majestic backdrop.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/19/envrfl2xh0qwtgyerlzb/red-bull-cliff-diving-world-series-2024-oslo-opera-house-james-lichtenstein"/>
   </programme>
 </tv>
