@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-13 09:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-13 10:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240913062822+0000" stop="20240913070048+0000">
-    <title lang="en">Adapt or perish</title>
-    <desc lang="en">A wave of younger, faster competitors force 'old dogs to learn new tricks' to stay in the results sheet. </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/qjq0alzb0bk4pwfkj1os/jackson-goldstone"/>
-  </programme>
-  <programme channel="redbull.com" start="20240913070048+0000" stop="20240913072702+0000">
-    <title lang="en">Iron sharpens iron</title>
-    <desc lang="en">Mathias Flückiger and Nino Schurter confront the bitter rivalry of Swiss MTB cross-country racing.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/aleq0pywjxtowwjzjynt/mathias-fluckiger"/>
-  </programme>
   <programme channel="redbull.com" start="20240913072702+0000" stop="20240913080043+0000">
     <title lang="en">Home run</title>
     <desc lang="en">As Rachel Atherton returns to MTB racing, she works to find a balance while Vali Höll prepares for success.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Nature's beauty takes centre stage as competitors faced off against Causeway's spectacular rugged cliffs.</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/8/snzalb0wsmr8aklakp8d/red-bull-cliff-diving-world-series-2024-causeway-coast"/>
+  </programme>
+  <programme channel="redbull.com" start="20240913183224+0000" stop="20240913190013+0000">
+    <title lang="en">A refreshing take in Oslo</title>
+    <desc lang="en">See 2023 champions face windy Oslo as Gracie Kramer goes deeper into the sport and Norwegian diving traditions</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/19/umj4o4l6q8suwrgqnrts/molly-carlson-red-bull-cliff-diving-oslo-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240913190013+0000" stop="20240913200745+0000">
+    <title lang="en">Yamnuska: The Ragged Edge </title>
+    <desc lang="en">Vikki Weldon and Quentin Roberts explore the enduring legacy of rock climbing on Canada's Mount Yamnuska.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/ll4jsqgipcgeh5kufqli/will-gadd-yamnuska-canada-climbing"/>
   </programme>
 </tv>
