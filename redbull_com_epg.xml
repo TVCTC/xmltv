@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-15 06:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-15 07:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240915015403+0000" stop="20240915030355+0000">
-    <title lang="en">Legend Has It</title>
-    <desc lang="en">Three whole decades of Teton Gravity Research capturing extraordinary ski and snowboard moments.</desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/20/kzt1k9frjcgtfokployt/legend-has-it-ski-film"/>
-  </programme>
-  <programme channel="redbull.com" start="20240915041018+0000" stop="20240915045401+0000">
-    <title lang="en">Encouraged: Building the Future</title>
-    <desc lang="en">Join Courage Adams as he returns to Nigeria to fulfil his promise of building Lagos's first skatepark.</desc>
-    <category lang="en">BMX</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/vwwci81eotk8udlrfy1n/lagos-bmx-crew-courage-adams-encouraged"/>
-  </programme>
   <programme channel="redbull.com" start="20240915045401+0000" stop="20240915054637+0000">
     <title lang="en">Relive 2024’s record run</title>
     <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
@@ -148,5 +136,23 @@
     <desc lang="en">Madars Apse is in Massachusetts to meet the group of friends redefining what's possible in skateboarding.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/12/kuyfse93gxl5s79wckye/skate-tales-s2-e1-madars-apse-fancy-lad-crew"/>
+  </programme>
+  <programme channel="redbull.com" start="20240915151322+0000" stop="20240915154234+0000">
+    <title lang="en">Madars Apse meets Mike Vallely</title>
+    <desc lang="en">Madars Apse meets Mike Vallely – the pioneer of modern skateboard culture – in Des Moines, Iowa. </desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/12/qkzwihyphhsipoqqbhof/skate-tales-s2-e5-gose-gerald-uganda-skateboard-society"/>
+  </programme>
+  <programme channel="redbull.com" start="20240915154234+0000" stop="20240915161607+0000">
+    <title lang="en">Metal on Streif: Dominik Paris in Kitzbühel</title>
+    <desc lang="en">Follow top alpine ski racer Dominik Paris during the week of Kitzbühel in the lead up to the Hahnenkamm race.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/17/h1rqusvifv2pecud7dax/dominik-paris-fis-alpine-world-ski-world-cup-kitzbuhel-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240915161607+0000" stop="20240915163951+0000">
+    <title lang="en">No Hotels</title>
+    <desc lang="en">Madars Apse joins the touring skate crew who call a tent home after a day of shredding.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/wvzxytuj9zl3y0kywuzb/madars-apse-mendoza-argentina-skate-tales"/>
   </programme>
 </tv>
