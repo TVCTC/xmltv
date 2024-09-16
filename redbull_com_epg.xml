@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-16 20:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-16 21:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240916173443+0000" stop="20240916182143+0000">
-    <title lang="en">Walls on Silk Road</title>
-    <desc lang="en">Mountaineer Stefan Glowacz embarks on an expedition along the historic Silk Road. </desc>
-    <category lang="en">Mountaineering</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/23/g9ugonvolghvbkdhrxyn/landscape-tadschikistan"/>
-  </programme>
-  <programme channel="redbull.com" start="20240916182143+0000" stop="20240916184424+0000">
-    <title lang="en">Wes Kremer in San Diego</title>
-    <desc lang="en">Madars Apse meets the elusive and enigmatic San Diego skate rat Wes Kremer.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/qfbmqtrstkpgmdjywifc/wes-kremer-san-diego-usa-skate-tales"/>
-  </programme>
   <programme channel="redbull.com" start="20240916184424+0000" stop="20240916195417+0000">
     <title lang="en">Legend Has It</title>
     <desc lang="en">Three whole decades of Teton Gravity Research capturing extraordinary ski and snowboard moments.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
     <category lang="en">Athletics</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240917073642+0000" stop="20240917080403+0000">
+    <title lang="en">Douglas Miles Jr and Apache Skateboards</title>
+    <desc lang="en">Madars Apse reveals the incredible story of the community skate company thriving on a reservation in Arizona.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/12/osj0kextwffsc6sevmcq/skate-tales-s2-e6-madars-apse-mike-vallely"/>
+  </programme>
+  <programme channel="redbull.com" start="20240917080403+0000" stop="20240917083236+0000">
+    <title lang="en">Gose Gerald &amp; Uganda Skateboard Society</title>
+    <desc lang="en">Madars Apse meets Uganda Skateboard Society founder, Gose Gerald, and his crew who invent their own tricks.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/12/grft6ualxectsoapdmlr/skate-tales-s2-e2-madars-apse-kilian-martin"/>
   </programme>
 </tv>
