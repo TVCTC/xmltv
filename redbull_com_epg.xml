@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-16 08:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-16 09:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240916045301+0000" stop="20240916051833+0000">
-    <title lang="en">Highlights – Finland Premier Padel P2</title>
-    <desc lang="en">See the best moments from the action-packed Finland Premier Padel P2 tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/31/x3zbbzdkmavuhd6yin7o/arturo-coello-malaga-premier-padel-p1"/>
-  </programme>
-  <programme channel="redbull.com" start="20240916051833+0000" stop="20240916054433+0000">
-    <title lang="en">Highlights – Genova Premier Padel P2</title>
-    <desc lang="en">Relive the action from the Genova Premier Padel P2 as the world's best players battle for the top prize.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/s253hq7fqbonj5la7zqi/beatriz-gonzalez-premier-padel-asuncion-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20240916054433+0000" stop="20240916060000+0000">
     <title lang="en">Beaver Fleming</title>
     <desc lang="en">Can Madars Apse take on the mini Megaramp with Beaver Fleming's help?</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Madars Apse meets the Japanese skateboarder who shaped an alternative skate movement.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/u2tupkishahsetcu9lla/madars-apse-and-takahiro-morita-tokyo-japan-skate-tales"/>
+  </programme>
+  <programme channel="redbull.com" start="20240916154035+0000" stop="20240916162854+0000">
+    <title lang="en">The Collective</title>
+    <desc lang="en">Undiscovered peaks and midnight-raids on inner-city handrails – that's the Skiing is Collective spirit.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/11/11/0aebb731-50ee-4451-be94-1a958dee2876/thecollective_landscape_hero"/>
+  </programme>
+  <programme channel="redbull.com" start="20240916162854+0000" stop="20240916165541+0000">
+    <title lang="en">Vibing with Felipe Nunes</title>
+    <desc lang="en">Madars Apse travels to Brazil to skate with double-amputee and Birdhouse Skateboards pro Felipe Nunes.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/12/dbiyajn7gyjn9qhpff0o/skate-tales-s2-e3-douglas-miles-jr-apache-skateboards"/>
   </programme>
 </tv>
