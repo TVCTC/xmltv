@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-17 22:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-17 23:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240917194851+0000" stop="20240917201404+0000">
-    <title lang="en">Highlights – Acapulco Premier Padel P1</title>
-    <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
-  </programme>
-  <programme channel="redbull.com" start="20240917201404+0000" stop="20240917204036+0000">
-    <title lang="en">Highlights – Asunción Premier Padel P2 </title>
-    <desc lang="en">Watch the highlights of the seventh stop of the season in Paraguay from the Asunción Premier Padel P2.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/yupj6ycdbof7x8jrd3at/beatriz-caldera-premier-padel"/>
-  </programme>
   <programme channel="redbull.com" start="20240917204036+0000" stop="20240917210634+0000">
     <title lang="en">Highlights – BNL Italy Major Premier Padel</title>
     <desc lang="en">Relive the action from the third Major of the Premier Padel Season 2024 as Italy takes the main stage.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Follow top alpine ski racer Dominik Paris during the week of Kitzbühel in the lead up to the Hahnenkamm race.</desc>
     <category lang="en">Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/17/h1rqusvifv2pecud7dax/dominik-paris-fis-alpine-world-ski-world-cup-kitzbuhel-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20240918070245+0000" stop="20240918072629+0000">
+    <title lang="en">No Hotels</title>
+    <desc lang="en">Madars Apse joins the touring skate crew who call a tent home after a day of shredding.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/wvzxytuj9zl3y0kywuzb/madars-apse-mendoza-argentina-skate-tales"/>
+  </programme>
+  <programme channel="redbull.com" start="20240918072629+0000" stop="20240918074629+0000">
+    <title lang="en">Osaka Daggers</title>
+    <desc lang="en">Madars Apse meets the Osaka Daggers, a skate crew who built the underground skate scene in Japan.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/17/l38whbcbbpc5lfwovywj/skate-tales-s1e5-art"/>
   </programme>
 </tv>
