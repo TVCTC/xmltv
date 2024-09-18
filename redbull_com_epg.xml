@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-18 17:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-18 18:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240918134349+0000" stop="20240918145012+0000">
+    <title lang="en">K2 The Impossible Descent</title>
+    <desc lang="en">Andrzej Bargiel reaches Pakistan to descend K2, the world's second-highest peak after Mount Everest, on skis.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/7/20/yrvrnujshbplwd6gfm2b/andrzej-bargiel-acclimatises-ascent-k2"/>
+  </programme>
   <programme channel="redbull.com" start="20240918145012+0000" stop="20240918153318+0000">
     <title lang="en">Encouraged: Building the Future</title>
     <desc lang="en">Join Courage Adams as he returns to Nigeria to fulfil his promise of building Lagos's first skatepark.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">Madars Apse reveals the incredible story of the community skate company thriving on a reservation in Arizona.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/12/osj0kextwffsc6sevmcq/skate-tales-s2-e6-madars-apse-mike-vallely"/>
-  </programme>
-  <programme channel="redbull.com" start="20240919014736+0000" stop="20240919021609+0000">
-    <title lang="en">Gose Gerald &amp; Uganda Skateboard Society</title>
-    <desc lang="en">Madars Apse meets Uganda Skateboard Society founder, Gose Gerald, and his crew who invent their own tricks.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/12/grft6ualxectsoapdmlr/skate-tales-s2-e2-madars-apse-kilian-martin"/>
   </programme>
 </tv>
