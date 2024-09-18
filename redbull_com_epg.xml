@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-18 14:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-18 15:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240918074629+0000" stop="20240918080701+0000">
+    <title lang="en">Richie Jackson</title>
+    <desc lang="en">Richie Jackson is skateboarding's last true outlaw, challenging every facet of skateboarding culture.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/efq5y0chesyr2jhorite/madars-apse-and-richie-jackson-barcelona-spain-skate-tales"/>
+  </programme>
+  <programme channel="redbull.com" start="20240918080701+0000" stop="20240918082508+0000">
+    <title lang="en">Sergio Yuppie</title>
+    <desc lang="en">Travel to Brazil with Madars Apse to learn from downhill skateboarding legend Sergio Yuppie.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/16/u6emnwbzrxhzzpybwp7i/skate-tales-s1e2-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240918082508+0000" stop="20240918084604+0000">
+    <title lang="en">Skate Ethiopia</title>
+    <desc lang="en">Madars Apse travels to Ethiopia to discover the growing, 150-strong skate scene in Addis Ababa.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/24/hhcqsdiwdllmwatjvaxm/skate-tales-s1e6-art"/>
+  </programme>
   <programme channel="redbull.com" start="20240918084604+0000" stop="20240918090830+0000">
     <title lang="en">Skate Tales: Detroit</title>
     <desc lang="en">Madars Apse hears the incredible story of blind skateboarder Dan Mancina's journey back to skating.</desc>
@@ -136,23 +154,5 @@
     <desc lang="en">Watch the highlights from Spain as the Malaga Premier Padel P1 took centre stage.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/16/e7a1ua8wknq0q8v13voe/alejandro-galan-malaga-premier-padel-p1"/>
-  </programme>
-  <programme channel="redbull.com" start="20240918200427+0000" stop="20240918203039+0000">
-    <title lang="en">Highlights – Mar del Plata Premier Padel P1</title>
-    <desc lang="en">Watch the highlights of the eighth stop of the season in Argentina from the Premier Padel Mar del Plata P1.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/22/wrcasajexcgkw9ffnrbz/premier-padel-tour-milan-mens-match-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240918203039+0000" stop="20240918205639+0000">
-    <title lang="en">Highlights – Puerto Cabello Premier Padel P2</title>
-    <desc lang="en">Watch the highlights of the fourth stop of the season in Venezuela for the Puerto Cabello Premier Padel P2. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/4/iqmgalloe5lthvm6jgma/suzanne-casey-premier-padel-2024-puerto-cabello-p2"/>
-  </programme>
-  <programme channel="redbull.com" start="20240918205639+0000" stop="20240918212240+0000">
-    <title lang="en">Highlights – Qatar Major Premier Padel</title>
-    <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
   </programme>
 </tv>
