@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-20 16:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-20 17:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240920124338+0000" stop="20240920131009+0000">
+    <title lang="en">Highlights – Asunción Premier Padel P2 </title>
+    <desc lang="en">Watch the highlights of the seventh stop of the season in Paraguay from the Asunción Premier Padel P2.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/yupj6ycdbof7x8jrd3at/beatriz-caldera-premier-padel"/>
+  </programme>
+  <programme channel="redbull.com" start="20240920131009+0000" stop="20240920133608+0000">
+    <title lang="en">Highlights – BNL Italy Major Premier Padel</title>
+    <desc lang="en">Relive the action from the third Major of the Premier Padel Season 2024 as Italy takes the main stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/lwozjjuxbuh1lsoad8xb/ale-galan-sevilla-premier-padel-p2-2024"/>
+  </programme>
   <programme channel="redbull.com" start="20240920133608+0000" stop="20240920140206+0000">
     <title lang="en">Highlights – Bordeaux Premier Padel P2</title>
     <desc lang="en">See the best moments from the action-packed Bordeaux Premier Padel P2 tournament.</desc>
@@ -142,17 +154,5 @@
     <desc lang="en">Follow top alpine ski racer Dominik Paris during the week of Kitzbühel in the lead up to the Hahnenkamm race.</desc>
     <category lang="en">Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/17/h1rqusvifv2pecud7dax/dominik-paris-fis-alpine-world-ski-world-cup-kitzbuhel-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20240921005355+0000" stop="20240921011739+0000">
-    <title lang="en">No Hotels</title>
-    <desc lang="en">Madars Apse joins the touring skate crew who call a tent home after a day of shredding.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/wvzxytuj9zl3y0kywuzb/madars-apse-mendoza-argentina-skate-tales"/>
-  </programme>
-  <programme channel="redbull.com" start="20240920190355+0000" stop="20240920200534+0000">
-    <title lang="en">ANYTIME</title>
-    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
   </programme>
 </tv>
