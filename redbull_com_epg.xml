@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-20 08:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-20 09:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240920054546+0000" stop="20240920060000+0000">
-    <title lang="en">The Making of Red Bull Symphonic with Metro Boomin</title>
-    <desc lang="en">Metro Boomin reimagines his biggest hits with a full orchestra and special guests at Red Bull Symphonic in LA.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/4/dpmlvljooivqllfltzcs/red-bull-symphonic-metro-boomin"/>
-  </programme>
-  <programme channel="redbull.com" start="20240920060000+0000" stop="20240920062205+0000">
-    <title lang="en">Wes Kremer in San Diego</title>
-    <desc lang="en">Madars Apse meets the elusive and enigmatic San Diego skate rat Wes Kremer.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/qfbmqtrstkpgmdjywifc/wes-kremer-san-diego-usa-skate-tales"/>
-  </programme>
   <programme channel="redbull.com" start="20240920062205+0000" stop="20240920073158+0000">
     <title lang="en">Legend Has It</title>
     <desc lang="en">Three whole decades of Teton Gravity Research capturing extraordinary ski and snowboard moments.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Atita Verghese is India’s foremost female skateboarder and an inspiration to millions.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/lbr5d7m65udzwwoqmr4d/urmila-pabale-mysore-india-skate-tales"/>
+  </programme>
+  <programme channel="redbull.com" start="20240920184559+0000" stop="20240920190355+0000">
+    <title lang="en">Bam Margera</title>
+    <desc lang="en">Meet icon Bam Margera as Madars Apse begins his skateboarding hall of fame journey.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/17/yvqgyjn4swn8fyergyjl/skate-tales-s1e1-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20240920073158+0000" stop="20240920083337+0000">
+    <title lang="en">ANYTIME</title>
+    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME. Coming September 20, 2024. </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
   </programme>
 </tv>
