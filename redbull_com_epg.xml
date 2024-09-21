@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-21 08:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-21 09:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240921053920+0000" stop="20240921060000+0000">
-    <title lang="en">Vitória Mendonça</title>
-    <desc lang="en">Inspirational Brazilian Vitória Mendonça is changing the face of pro skateboarding culture.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/tfdirjr0iwykq7e0otmc/madars-apse-and-vitoria-mendonca-sao-paulo-brazil-skate-tales"/>
-  </programme>
-  <programme channel="redbull.com" start="20240921060000+0000" stop="20240921065200+0000">
-    <title lang="en">Relive 2024’s record run</title>
-    <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
-    <category lang="en">Running</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/13/ja3b18y4rq9vp7jukejj/wings-for-life-world-run-2024-zadar-croatia"/>
-  </programme>
   <programme channel="redbull.com" start="20240921065200+0000" stop="20240921070355+0000">
     <title lang="en">The Making of Red Bull Symphonic with Metro Boomin</title>
     <desc lang="en">Metro Boomin reimagines his biggest hits with a full orchestra and special guests at Red Bull Symphonic in LA.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">See 2023 champions face windy Oslo as Gracie Kramer goes deeper into the sport and Norwegian diving traditions</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/19/umj4o4l6q8suwrgqnrts/molly-carlson-red-bull-cliff-diving-oslo-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240921185754+0000" stop="20240921192745+0000">
+    <title lang="en">Cliff conquest in Northern Ireland</title>
+    <desc lang="en">Nature's beauty takes centre stage as competitors faced off against Causeway's spectacular rugged cliffs.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/8/snzalb0wsmr8aklakp8d/red-bull-cliff-diving-world-series-2024-causeway-coast"/>
+  </programme>
+  <programme channel="redbull.com" start="20240921192745+0000" stop="20240921194056+0000">
+    <title lang="en">Best of Bolton – Valleys Hard Enduro</title>
+    <desc lang="en">Enjoy the best onboard moments with our field reporter Paul Bolton, following our Hard Enduro riders.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/16/jh4ufscfarhg5jc1decp/riders-valleys-hard-enduro-2024"/>
   </programme>
 </tv>
