@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-22 10:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-22 11:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240922065242+0000" stop="20240922071814+0000">
-    <title lang="en">Highlights – Finland Premier Padel P2</title>
-    <desc lang="en">See the best moments from the action-packed Finland Premier Padel P2 tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/31/x3zbbzdkmavuhd6yin7o/arturo-coello-malaga-premier-padel-p1"/>
-  </programme>
-  <programme channel="redbull.com" start="20240922071814+0000" stop="20240922074414+0000">
-    <title lang="en">Highlights – Genova Premier Padel P2</title>
-    <desc lang="en">Relive the action from the Genova Premier Padel P2 as the world's best players battle for the top prize.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/s253hq7fqbonj5la7zqi/beatriz-gonzalez-premier-padel-asuncion-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20240922074414+0000" stop="20240922081006+0000">
     <title lang="en">Highlights – Malaga Premier Padel P1</title>
     <desc lang="en">Watch the highlights from Spain as the Malaga Premier Padel P1 took centre stage.</desc>
@@ -113,7 +101,7 @@
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/5/x4iuq3iwmb7wyhldugfa/wade-young-red-bull-erzbergrodeo-2024"/>
   </programme>
-  <programme channel="redbull.com" start="20240922051501+0000" stop="20240922053725+0000">
+  <programme channel="redbull.com" start="20240922164552+0000" stop="20240922170815+0000">
     <title lang="en">Best of Bolton – Xross Hard Enduro Rally</title>
     <desc lang="en">Enjoy the best onboard moments following Red Bull Hard Enduro riders as they race for the win in Serbia.</desc>
     <category lang="en">Enduro</category>
@@ -154,5 +142,17 @@
     <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
     <category lang="en">Running</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/13/ja3b18y4rq9vp7jukejj/wings-for-life-world-run-2024-zadar-croatia"/>
+  </programme>
+  <programme channel="redbull.com" start="20240922225830+0000" stop="20240922232400+0000">
+    <title lang="en">HYROX World Championships highlights – Nice</title>
+    <desc lang="en">Discover what makes HYROX – the indoor fitness competition – a test of strength, endurance and determination.</desc>
+    <category lang="en">Athletics</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/14/z7oqxo0xdlr3y4cwhm0s/hyrox-world-championships-2024-competitors"/>
+  </programme>
+  <programme channel="redbull.com" start="20240922232400+0000" stop="20240922235324+0000">
+    <title lang="en">Dune racing with Kirsten Landman</title>
+    <desc lang="en">Jason and Nick track down endurance motorcyclist Kirsten Landman on sun-scorched dunes in Cape Town.</desc>
+    <category lang="en">Motoring</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/brsrbtjamhd6bhvm5npv/jason-goliath-and-kirsten-landman-giving-it-gears"/>
   </programme>
 </tv>
