@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-22 02:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-22 03:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240921212108+0000" stop="20240921225319+0000">
-    <title lang="en">Au Revoir</title>
-    <desc lang="en">The story of wakeboarding champion Raph Derome as he retires from riding in front of crowds and cameras.</desc>
-    <category lang="en">Wakeboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/21/six64tifrqioqukziszs/raph-derome-au-revoir-screenshot-wakeboarding"/>
-  </programme>
   <programme channel="redbull.com" start="20240921225319+0000" stop="20240922002852+0000">
     <title lang="en">For the Dream</title>
     <desc lang="en">Ex-pro surfer Ben Gravy sets out on his dream to become the first person to surf in all 50 US states.</desc>
@@ -65,19 +59,19 @@
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/lwozjjuxbuh1lsoad8xb/ale-galan-sevilla-premier-padel-p2-2024"/>
   </programme>
-  <programme channel="redbull.com" start="20240921192745+0000" stop="20240921194056+0000">
+  <programme channel="redbull.com" start="20240922043959+0000" stop="20240922045310+0000">
     <title lang="en">Best of Bolton – Valleys Hard Enduro</title>
     <desc lang="en">Enjoy the best onboard moments with our field reporter Paul Bolton, following our Hard Enduro riders.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/16/jh4ufscfarhg5jc1decp/riders-valleys-hard-enduro-2024"/>
   </programme>
-  <programme channel="redbull.com" start="20240921194056+0000" stop="20240921200248+0000">
+  <programme channel="redbull.com" start="20240922045310+0000" stop="20240922051501+0000">
     <title lang="en">Best of Bolton at Red Bull Erzbergrodeo</title>
     <desc lang="en">Enjoy the best onboard moments with our field reporter Paul Bolton, following our Hard Enduro riders.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/5/x4iuq3iwmb7wyhldugfa/wade-young-red-bull-erzbergrodeo-2024"/>
   </programme>
-  <programme channel="redbull.com" start="20240921200248+0000" stop="20240921202511+0000">
+  <programme channel="redbull.com" start="20240922051501+0000" stop="20240922053725+0000">
     <title lang="en">Best of Bolton – Xross Hard Enduro Rally</title>
     <desc lang="en">Enjoy the best onboard moments following Red Bull Hard Enduro riders as they race for the win in Serbia.</desc>
     <category lang="en">Enduro</category>
@@ -154,5 +148,11 @@
     <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
+  </programme>
+  <programme channel="redbull.com" start="20240922104720+0000" stop="20240922114009+0000">
+    <title lang="en">Red Bull Cliff Diving's anniversary opener</title>
+    <desc lang="en">The 2024 season kicks off in Lake Vougliameni, the elite sport returns to the Greek capital since 2009.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/31/acvrhoqktju1uwlqhexx/matthew-cooper-red-bull-cliff-diving-athens-2024"/>
   </programme>
 </tv>
