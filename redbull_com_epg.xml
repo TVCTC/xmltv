@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-24 00:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-24 01:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240923190820+0000" stop="20240923200056+0000">
+    <title lang="en">Relive 2024’s record run</title>
+    <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
+    <category lang="en">Running</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/13/ja3b18y4rq9vp7jukejj/wings-for-life-world-run-2024-zadar-croatia"/>
+  </programme>
+  <programme channel="redbull.com" start="20240923200056+0000" stop="20240923201252+0000">
+    <title lang="en">The Making of Red Bull Symphonic with Metro Boomin</title>
+    <desc lang="en">Metro Boomin reimagines his biggest hits with a full orchestra and special guests at Red Bull Symphonic in LA.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/4/dpmlvljooivqllfltzcs/red-bull-symphonic-metro-boomin"/>
+  </programme>
+  <programme channel="redbull.com" start="20240923201252+0000" stop="20240923204252+0000">
+    <title lang="en">Dune racing with Kirsten Landman</title>
+    <desc lang="en">Jason and Nick track down endurance motorcyclist Kirsten Landman on sun-scorched dunes in Cape Town.</desc>
+    <category lang="en">Motoring</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/brsrbtjamhd6bhvm5npv/jason-goliath-and-kirsten-landman-giving-it-gears"/>
+  </programme>
+  <programme channel="redbull.com" start="20240923204252+0000" stop="20240923210845+0000">
+    <title lang="en">Red Bull Kumite highlights</title>
+    <desc lang="en">16 heroes gathered in NYC to discover the best Street Fighter 6 player on the planet. Welcome to the games.</desc>
+    <category lang="en">Games</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/13/nnargacmzfbacjpuqjhi/menard-winner-red-bull-kumite-2024-brooklyn"/>
+  </programme>
+  <programme channel="redbull.com" start="20240923210845+0000" stop="20240923213434+0000">
+    <title lang="en">Highlights – Acapulco Premier Padel P1</title>
+    <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
+  </programme>
   <programme channel="redbull.com" start="20240923213434+0000" stop="20240923220106+0000">
     <title lang="en">Highlights – Asunción Premier Padel P2 </title>
     <desc lang="en">Watch the highlights of the seventh stop of the season in Paraguay from the Asunción Premier Padel P2.</desc>
@@ -95,7 +125,7 @@
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/29/grxofewrdfvsm0vtjzvp/red-bull-cliff-diving-james-lichtenstein-northern-ireland-ballycastle-harbour-2024"/>
   </programme>
-  <programme channel="redbull.com" start="20240924045950+0000" stop="20240924055150+0000">
+  <programme channel="redbull.com" start="20240923190820+0000" stop="20240923200056+0000">
     <title lang="en">Relive 2024’s record run</title>
     <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
     <category lang="en">Running</category>
@@ -124,35 +154,5 @@
     <desc lang="en">Watch breathtaking dives amid Oslo's stunning fjords, with the iconic Opera House as a majestic backdrop.</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/19/envrfl2xh0qwtgyerlzb/red-bull-cliff-diving-world-series-2024-oslo-opera-house-james-lichtenstein"/>
-  </programme>
-  <programme channel="redbull.com" start="20240924084024+0000" stop="20240924090813+0000">
-    <title lang="en">A refreshing take in Oslo</title>
-    <desc lang="en">See 2023 champions face windy Oslo as Gracie Kramer goes deeper into the sport and Norwegian diving traditions</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/19/umj4o4l6q8suwrgqnrts/molly-carlson-red-bull-cliff-diving-oslo-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240924090813+0000" stop="20240924093803+0000">
-    <title lang="en">Cliff conquest in Northern Ireland</title>
-    <desc lang="en">Nature's beauty takes centre stage as competitors faced off against Causeway's spectacular rugged cliffs.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/8/snzalb0wsmr8aklakp8d/red-bull-cliff-diving-world-series-2024-causeway-coast"/>
-  </programme>
-  <programme channel="redbull.com" start="20240924093803+0000" stop="20240924095114+0000">
-    <title lang="en">Best of Bolton – Valleys Hard Enduro</title>
-    <desc lang="en">Enjoy the best onboard moments with our field reporter Paul Bolton, following our Hard Enduro riders.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/16/jh4ufscfarhg5jc1decp/riders-valleys-hard-enduro-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240924095114+0000" stop="20240924101306+0000">
-    <title lang="en">Best of Bolton at Red Bull Erzbergrodeo</title>
-    <desc lang="en">Enjoy the best onboard moments with our field reporter Paul Bolton, following our Hard Enduro riders.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/5/x4iuq3iwmb7wyhldugfa/wade-young-red-bull-erzbergrodeo-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240924101306+0000" stop="20240924103529+0000">
-    <title lang="en">Best of Bolton – Xross Hard Enduro Rally</title>
-    <desc lang="en">Enjoy the best onboard moments following Red Bull Hard Enduro riders as they race for the win in Serbia.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/26/ydplinj0ornnnmekwfw4/michael-walkner-xross-hard-enduro-rally-2024"/>
   </programme>
 </tv>
