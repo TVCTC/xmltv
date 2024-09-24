@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-24 18:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-24 19:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240924153345+0000" stop="20240924162545+0000">
-    <title lang="en">Relive 2024’s record run</title>
-    <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
-    <category lang="en">Running</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/13/ja3b18y4rq9vp7jukejj/wings-for-life-world-run-2024-zadar-croatia"/>
-  </programme>
-  <programme channel="redbull.com" start="20240924162545+0000" stop="20240924163740+0000">
-    <title lang="en">The Making of Red Bull Symphonic with Metro Boomin</title>
-    <desc lang="en">Metro Boomin reimagines his biggest hits with a full orchestra and special guests at Red Bull Symphonic in LA.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/4/dpmlvljooivqllfltzcs/red-bull-symphonic-metro-boomin"/>
-  </programme>
   <programme channel="redbull.com" start="20240924163740+0000" stop="20240924170740+0000">
     <title lang="en">Dune racing with Kirsten Landman</title>
     <desc lang="en">Jason and Nick track down endurance motorcyclist Kirsten Landman on sun-scorched dunes in Cape Town.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Enjoy the best onboard moments following Red Bull Hard Enduro riders as they race for the win in Serbia.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/26/ydplinj0ornnnmekwfw4/michael-walkner-xross-hard-enduro-rally-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240924210124+0000" stop="20240924212735+0000">
+    <title lang="en">Highlights – Mar del Plata Premier Padel P1</title>
+    <desc lang="en">Watch the highlights of the eighth stop of the season in Argentina from the Premier Padel Mar del Plata P1.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/22/wrcasajexcgkw9ffnrbz/premier-padel-tour-milan-mens-match-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240925062611+0000" stop="20240925065359+0000">
+    <title lang="en">A refreshing take in Oslo</title>
+    <desc lang="en">See 2023 champions face windy Oslo as Gracie Kramer goes deeper into the sport and Norwegian diving traditions</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/19/umj4o4l6q8suwrgqnrts/molly-carlson-red-bull-cliff-diving-oslo-2024"/>
   </programme>
 </tv>
