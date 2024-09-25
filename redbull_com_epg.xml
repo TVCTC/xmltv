@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-25 12:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-25 13:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240925073737+0000" stop="20240925075853+0000">
+    <title lang="en">Best of Bolton at Red Bull Erzbergrodeo</title>
+    <desc lang="en">Enjoy the best onboard moments with our field reporter Paul Bolton, following our Hard Enduro riders.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/5/x4iuq3iwmb7wyhldugfa/wade-young-red-bull-erzbergrodeo-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240925075853+0000" stop="20240925082116+0000">
+    <title lang="en">Best of Bolton – Xross Hard Enduro Rally</title>
+    <desc lang="en">Enjoy the best onboard moments following Red Bull Hard Enduro riders as they race for the win in Serbia.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/26/ydplinj0ornnnmekwfw4/michael-walkner-xross-hard-enduro-rally-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240925082116+0000" stop="20240925085510+0000">
+    <title lang="en">Best of Paul Bolton – Red Bull Romaniacs</title>
+    <desc lang="en">Join field reporter Paul Bolton as he follows Hard Enduro riders fighting for the win in Romania.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/29/pnnirbrhvnlc9h4torsx/jonny-walker-red-bull-romaniacs-fim-hard-enduro-sibiu-romania-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240925085510+0000" stop="20240925091713+0000">
+    <title lang="en">Best of Bolton – Red Bull TKO</title>
+    <desc lang="en">Ride with extreme enduro rider Paul Bolton alongside Hard Enduro heroes fighting for the win at Red Bull TKO.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/29/u1luua7rdcznvkv7mqtc/trystan-hart-ktm-enduro-factory-racing-red-bull-tennessee-knockout-tko-2024"/>
+  </programme>
   <programme channel="redbull.com" start="20240925091713+0000" stop="20240925104924+0000">
     <title lang="en">Au Revoir</title>
     <desc lang="en">The story of wakeboarding champion Raph Derome as he retires from riding in front of crowds and cameras.</desc>
@@ -130,29 +154,5 @@
     <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
-  </programme>
-  <programme channel="redbull.com" start="20240925212325+0000" stop="20240925221613+0000">
-    <title lang="en">Red Bull Cliff Diving's anniversary opener</title>
-    <desc lang="en">The 2024 season kicks off in Lake Vougliameni, the elite sport returns to the Greek capital since 2009.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/31/acvrhoqktju1uwlqhexx/matthew-cooper-red-bull-cliff-diving-athens-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240925221613+0000" stop="20240925230849+0000">
-    <title lang="en">Red Bull Cliff Diving - Stop 4 Northern Ireland</title>
-    <desc lang="en">Northern Ireland welcomes the world’s best cliff divers to a challenging location with three dive spots.  </desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/29/grxofewrdfvsm0vtjzvp/red-bull-cliff-diving-james-lichtenstein-northern-ireland-ballycastle-harbour-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240925230849+0000" stop="20240926000245+0000">
-    <title lang="en">Diving into history</title>
-    <desc lang="en">Athletes jump from the edge of Boston's Institute of Contemporary Art to celebrate the 100th stop in history </desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/12/h7sjgpotah6okxxqa5ks/gary-hunt-red-bull-cliff-diving-world-series-boston-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20240926000245+0000" stop="20240926005547+0000">
-    <title lang="en">Red Bull Cliff Diving debuts in Montreal</title>
-    <desc lang="en">Montreal's cliff diving saw new faces challenge seasoned pros, with fierce competition and surprise podiums.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/2/cwegk5g1ni9pc1gd9zl3/oleksiy-prygorov-red-bull-cliff-diving-world-series-2024-montreal-skyscrapers"/>
   </programme>
 </tv>
