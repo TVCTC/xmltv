@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-25 02:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-25 03:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240924233838+0000" stop="20240925003126+0000">
-    <title lang="en">Red Bull Cliff Diving's anniversary opener</title>
-    <desc lang="en">The 2024 season kicks off in Lake Vougliameni, the elite sport returns to the Greek capital since 2009.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/31/acvrhoqktju1uwlqhexx/matthew-cooper-red-bull-cliff-diving-athens-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20240925003126+0000" stop="20240925012402+0000">
     <title lang="en">Red Bull Cliff Diving - Stop 4 Northern Ireland</title>
     <desc lang="en">Northern Ireland welcomes the world’s best cliff divers to a challenging location with three dive spots.  </desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Relive the action from the third Major of the Premier Padel Season 2024 as Italy takes the main stage.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/lwozjjuxbuh1lsoad8xb/ale-galan-sevilla-premier-padel-p2-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240925163604+0000" stop="20240925170202+0000">
+    <title lang="en">Highlights – Bordeaux Premier Padel P2</title>
+    <desc lang="en">See the best moments from the action-packed Bordeaux Premier Padel P2 tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/kj8nobdgp207u02uj09c/thomas-leygue-bordeaux-premier-padel-p2-2024"/>
   </programme>
 </tv>
