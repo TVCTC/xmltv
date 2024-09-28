@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-28 07:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-28 08:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240928043618+0000" stop="20240928050542+0000">
-    <title lang="en">Dune racing with Kirsten Landman</title>
-    <desc lang="en">Jason and Nick track down endurance motorcyclist Kirsten Landman on sun-scorched dunes in Cape Town.</desc>
-    <category lang="en">Motoring</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/brsrbtjamhd6bhvm5npv/jason-goliath-and-kirsten-landman-giving-it-gears"/>
-  </programme>
-  <programme channel="redbull.com" start="20240928050542+0000" stop="20240928055242+0000">
-    <title lang="en">Walls on Silk Road</title>
-    <desc lang="en">Mountaineer Stefan Glowacz embarks on an expedition along the historic Silk Road. </desc>
-    <category lang="en">Mountaineering</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/23/g9ugonvolghvbkdhrxyn/landscape-tadschikistan"/>
-  </programme>
   <programme channel="redbull.com" start="20240928055242+0000" stop="20240928060000+0000">
     <title lang="en">From sim to reality</title>
     <desc lang="en">Max Verstappen gets sucked into his simulator and needs to clear different levels to get to the Belgium GP.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">14 riders battled head-to-head at Newcastle’s iconic Quayside at the UK's toughest motorcycle event.</desc>
     <category lang="en">Motoring</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/20/ykjscl7ehvihhlgiskya/red-bull-tyne-ride-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240928162356+0000" stop="20240928185932+0000">
+    <title lang="en">Live: SAP Garden Opening - English livestream</title>
+    <desc lang="en">Red Bull Munich open their new home, the SAP Garden, with a clash against the NHL team Buffalo Sabres.</desc>
+    <category lang="en">Ice Hockey</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/11/zwdeiefmzixhptbjaqox/sap-garden"/>
+  </programme>
+  <programme channel="redbull.com" start="20240928185932+0000" stop="20240928202354+0000">
+    <title lang="en">The Engine Inside</title>
+    <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film"/>
   </programme>
 </tv>
