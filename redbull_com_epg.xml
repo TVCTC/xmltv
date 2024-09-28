@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-28 11:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-28 12:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240928072925+0000" stop="20240928075518+0000">
-    <title lang="en">Red Bull Kumite highlights</title>
-    <desc lang="en">16 heroes gathered in NYC to discover the best Street Fighter 6 player on the planet. Welcome to the games.</desc>
-    <category lang="en">Games</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/13/nnargacmzfbacjpuqjhi/menard-winner-red-bull-kumite-2024-brooklyn"/>
-  </programme>
   <programme channel="redbull.com" start="20240928075518+0000" stop="20240928085733+0000">
     <title lang="en">ANYTIME</title>
     <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
@@ -119,6 +113,12 @@
     <category lang="en">Motoring</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/20/ykjscl7ehvihhlgiskya/red-bull-tyne-ride-2024"/>
   </programme>
+  <programme channel="redbull.com" start="20240928162356+0000" stop="20240928185932+0000">
+    <title lang="en">Live: SAP Garden Opening - English livestream</title>
+    <desc lang="en">Red Bull Munich open their new home, the SAP Garden, with a clash against the NHL team Buffalo Sabres.</desc>
+    <category lang="en">Ice Hockey</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/11/zwdeiefmzixhptbjaqox/sap-garden"/>
+  </programme>
   <programme channel="redbull.com" start="20240928185932+0000" stop="20240928202354+0000">
     <title lang="en">The Engine Inside</title>
     <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
@@ -130,5 +130,29 @@
     <desc lang="en">Vikki Weldon and Quentin Roberts explore the enduring legacy of rock climbing on Canada's Mount Yamnuska.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/ll4jsqgipcgeh5kufqli/will-gadd-yamnuska-canada-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20240928213126+0000" stop="20240928223150+0000">
+    <title lang="en">The MTB World Cup season is back with a bang!</title>
+    <desc lang="en">Review Martin Vidaurre's career, Vali Höll talks team changes and Kate Courtney discusses Paris qualifying.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/17/g63nexzcsm0h0dsj8tha/martin-vidaurre-uci-xco-world-cup-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240928223150+0000" stop="20240928231726+0000">
+    <title lang="en">How to build the perfect mountain bike team</title>
+    <desc lang="en">Get the inside track from pros on building a downhill team, plus cross-country tips for training and recovery.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/13/csl6c4m4k6xpokqjrzxl/jackson-goldstone-uci-downhill-world-cup-mont-sainte-anne-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240928231726+0000" stop="20240928233000+0000">
+    <title lang="en">About Time with Ben Ferguson</title>
+    <desc lang="en">Go inside the mind of snowboarder Ben Ferguson and see his vision for the film Fleeting Time.</desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/4/fdb7slc0gu0euh8ehm2x/ben-ferguson-shredding-in-alaska"/>
+  </programme>
+  <programme channel="redbull.com" start="20240928233000+0000" stop="20240929033036+0000">
+    <title lang="en">Red Bull BC One Cypher USA 2024 – Livestream</title>
+    <desc lang="en">The one-on-one breaking battle tournament determines the best breakers in the USA. </desc>
+    <category lang="en">Dance</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/19/l08x6trxtjue8qrgdwhy/red-bull-bc-one-cypher-usa-and-camp-usa"/>
   </programme>
 </tv>
