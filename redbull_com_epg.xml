@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-29 02:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-29 03:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20240928213126+0000" stop="20240928223150+0000">
+    <title lang="en">The MTB World Cup season is back with a bang!</title>
+    <desc lang="en">Review Martin Vidaurre's career, Vali Höll talks team changes and Kate Courtney discusses Paris qualifying.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/17/g63nexzcsm0h0dsj8tha/martin-vidaurre-uci-xco-world-cup-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240928223150+0000" stop="20240928231726+0000">
+    <title lang="en">How to build the perfect mountain bike team</title>
+    <desc lang="en">Get the inside track from pros on building a downhill team, plus cross-country tips for training and recovery.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/13/csl6c4m4k6xpokqjrzxl/jackson-goldstone-uci-downhill-world-cup-mont-sainte-anne-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20240928231726+0000" stop="20240928233000+0000">
+    <title lang="en">About Time with Ben Ferguson</title>
+    <desc lang="en">Go inside the mind of snowboarder Ben Ferguson and see his vision for the film Fleeting Time.</desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/4/fdb7slc0gu0euh8ehm2x/ben-ferguson-shredding-in-alaska"/>
+  </programme>
   <programme channel="redbull.com" start="20240928233000+0000" stop="20240929033036+0000">
     <title lang="en">Red Bull BC One Cypher USA 2024 – Livestream</title>
     <desc lang="en">The one-on-one breaking battle tournament determines the best breakers in the USA. </desc>
@@ -136,23 +154,5 @@
     <desc lang="en">Drivers from each team will work together through a series of three challenges to win points for their team.</desc>
     <category lang="en">F1</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/3/uwitrznlhiaqzc7fqyhh/max-verstappen-sergio-perez-yuki-tsunoda-liam-lawson-unserious-race-series-japan-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20240929115718+0000" stop="20240929122506+0000">
-    <title lang="en">A refreshing take in Oslo</title>
-    <desc lang="en">See 2023 champions face windy Oslo as Gracie Kramer goes deeper into the sport and Norwegian diving traditions</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/19/umj4o4l6q8suwrgqnrts/molly-carlson-red-bull-cliff-diving-oslo-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20240929122506+0000" stop="20240929125533+0000">
-    <title lang="en">Cliff conquest in Northern Ireland</title>
-    <desc lang="en">Nature's beauty takes centre stage as competitors faced off against Causeway's spectacular rugged cliffs.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/8/snzalb0wsmr8aklakp8d/red-bull-cliff-diving-world-series-2024-causeway-coast"/>
-  </programme>
-  <programme channel="redbull.com" start="20240929125533+0000" stop="20240929130000+0000">
-    <title lang="en">Ricciardo vs Tsunoda in mini jet boats</title>
-    <desc lang="en">Watch Daniel Ricciardo and Yuki Tsunoda race each other in mini jet boats ahead of the Miami Grand Prix.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/8/zt9ruex6wv9lfkqtstfm/yuki-tsunoda-daniel-ricciardo-red-bull-unserious-race-miami-2023"/>
   </programme>
 </tv>
