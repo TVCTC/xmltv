@@ -1,58 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-30 08:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-09-30 09:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20240930002905+0000" stop="20240930013855+0000">
-    <title lang="en">Anywhere from Here</title>
-    <desc lang="en">Just 11-years-old and already a freestyle ski phenomenon. Meet the extraordinary Walker Woodring.</desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/jjm6hlgjvjhygfx8dr09/logan-pehota-british-columbia-anywhere-from-here-ski-film"/>
-  </programme>
-  <programme channel="redbull.com" start="20240930013855+0000" stop="20240930014728+0000">
-    <title lang="en">2016's top car designs</title>
-    <desc lang="en">Nothing less than infinity and beyond was enough for 2016's top design wizards... or at least the finish line.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/1/biq8mly48ypufjcb0pgn/toy-story-team-red-bull-soapbox-rce-santiago-chile-2016"/>
-  </programme>
-  <programme channel="redbull.com" start="20240930014728+0000" stop="20240930024943+0000">
-    <title lang="en">ANYTIME</title>
-    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
-  </programme>
-  <programme channel="redbull.com" start="20240930024943+0000" stop="20240930031514+0000">
-    <title lang="en">Jaan Roose: Life on the Line</title>
-    <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
-    <category lang="en">Slacklining</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
-  </programme>
-  <programme channel="redbull.com" start="20240930031514+0000" stop="20240930034026+0000">
-    <title lang="en">Highlights – Acapulco Premier Padel P1</title>
-    <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
-  </programme>
-  <programme channel="redbull.com" start="20240930034026+0000" stop="20240930040658+0000">
-    <title lang="en">Highlights – Asunción Premier Padel P2 </title>
-    <desc lang="en">Watch the highlights of the seventh stop of the season in Paraguay from the Asunción Premier Padel P2.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/yupj6ycdbof7x8jrd3at/beatriz-caldera-premier-padel"/>
-  </programme>
-  <programme channel="redbull.com" start="20240930040658+0000" stop="20240930054231+0000">
-    <title lang="en">For the Dream</title>
-    <desc lang="en">Ex-pro surfer Ben Gravy sets out on his dream to become the first person to surf in all 50 US states.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/25/oczwecazd6w2w9figilo/for-the-dream-ben-gravy"/>
-  </programme>
-  <programme channel="redbull.com" start="20240930054231+0000" stop="20240930055250+0000">
-    <title lang="en">Markus Eder in The Ultimate Run </title>
-    <desc lang="en">Take a cinematic journey in this Emmy Award-winning ski film from the world's most renowned freestyle skier, Markus Eder. </desc>
-    <category lang="en">Freeskiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/y2c56creex2hieri6m7v/the-ultimate-run-ep1-art"/>
-  </programme>
   <programme channel="redbull.com" start="20240930055250+0000" stop="20240930060000+0000">
     <title lang="en">From sim to reality</title>
     <desc lang="en">Max Verstappen gets sucked into his simulator and needs to clear different levels to get to the Belgium GP.</desc>
@@ -154,5 +106,53 @@
     <desc lang="en">Get the MTB dirt right here, from Crans-Montana track controversy to Myriam Nicole vs Tahnée Seagrave.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/4/yrjkssrvog5wlwniozu0/tom-pidcock-uci-xco-world-cup-crans-montana-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240930175029+0000" stop="20240930184218+0000">
+    <title lang="en">MTB legends, UCI Loudenvielle and bike tech trends</title>
+    <desc lang="en">Dive into the legacy of Pauline Ferrand-Prévot, bike tech trends, and the lowdown from UCI Loudenvielle.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/9/rc26dvam7uxevda0ip09/aaron-gwin-uci-mountain-bike-world-cup-loudenvielle-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20240930184218+0000" stop="20240930185431+0000">
+    <title lang="en">About Time with Ben Ferguson</title>
+    <desc lang="en">Go inside the mind of snowboarder Ben Ferguson and see his vision for the film Fleeting Time.</desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/4/fdb7slc0gu0euh8ehm2x/ben-ferguson-shredding-in-alaska"/>
+  </programme>
+  <programme channel="redbull.com" start="20240930185431+0000" stop="20240930190236+0000">
+    <title lang="en">About Time with Hailey Langland</title>
+    <desc lang="en">Snowboarder Hailey Langland braves the backcountry in British Columbia to film for Fleeting Time.</desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/14/dhfr8sfehhbswbnvwzrs/hailey-langland-whistler-snowboarding"/>
+  </programme>
+  <programme channel="redbull.com" start="20240930190236+0000" stop="20240930191327+0000">
+    <title lang="en">Making of Fleeting Time</title>
+    <desc lang="en">Go behind the scenes to check out how Fleeting Time, Ben Ferguson's new snowboard film, was made. </desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/10/fpsg7r3pzeethbyppvec/travis-rice-alaska-fleeting-time"/>
+  </programme>
+  <programme channel="redbull.com" start="20240930191327+0000" stop="20240930195117+0000">
+    <title lang="en">Abstract</title>
+    <desc lang="en">Faction's fourth feature film exhibits pure creativity through a series of high-octane freeski sequences.</desc>
+    <category lang="en">Freeskiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/w67ikgbwzwzaqvlr5kut/abstract-skiing-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20240930195117+0000" stop="20240930210107+0000">
+    <title lang="en">Anywhere from Here</title>
+    <desc lang="en">Just 11-years-old and already a freestyle ski phenomenon. Meet the extraordinary Walker Woodring.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/jjm6hlgjvjhygfx8dr09/logan-pehota-british-columbia-anywhere-from-here-ski-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20240930210107+0000" stop="20240930215307+0000">
+    <title lang="en">Relive 2024’s record run</title>
+    <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
+    <category lang="en">Running</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/13/ja3b18y4rq9vp7jukejj/wings-for-life-world-run-2024-zadar-croatia"/>
+  </programme>
+  <programme channel="redbull.com" start="20240930215307+0000" stop="20240930221048+0000">
+    <title lang="en">Behind the scenes</title>
+    <desc lang="en">Markus Eder and film director Christoph Thoresen reflect on two special years of creating their masterpiece.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/27/gdsewjzeiksupztqvs3f/the-ultimate-run-ep2-bts-art"/>
   </programme>
 </tv>
