@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-01 13:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-01 14:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241001085009+0000" stop="20241001100001+0000">
-    <title lang="en">Legend Has It</title>
-    <desc lang="en">Three whole decades of Teton Gravity Research capturing extraordinary ski and snowboard moments.</desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/20/kzt1k9frjcgtfokployt/legend-has-it-ski-film"/>
-  </programme>
-  <programme channel="redbull.com" start="20241001100001+0000" stop="20241001112424+0000">
-    <title lang="en">The Engine Inside</title>
-    <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
-    <category lang="en">Cycling</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film"/>
-  </programme>
   <programme channel="redbull.com" start="20241001112424+0000" stop="20241001123156+0000">
     <title lang="en">Yamnuska: The Ragged Edge </title>
     <desc lang="en">Vikki Weldon and Quentin Roberts explore the enduring legacy of rock climbing on Canada's Mount Yamnuska.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">See the best moments from the action-packed Finland Premier Padel P2 tournament.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/31/x3zbbzdkmavuhd6yin7o/arturo-coello-malaga-premier-padel-p1"/>
+  </programme>
+  <programme channel="redbull.com" start="20241002000608+0000" stop="20241002003208+0000">
+    <title lang="en">Highlights – Genova Premier Padel P2</title>
+    <desc lang="en">Relive the action from the Genova Premier Padel P2 as the world's best players battle for the top prize.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/s253hq7fqbonj5la7zqi/beatriz-gonzalez-premier-padel-asuncion-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241002003208+0000" stop="20241002005830+0000">
+    <title lang="en">Highlights – Madrid Premier Padel P1 </title>
+    <desc lang="en">Watch the highlights from Spain as the Madrid Premier Padel P1 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/3/o2t3bgdxiartzlbbwp30/juan-lebron-padel-madrid-2024"/>
   </programme>
 </tv>
