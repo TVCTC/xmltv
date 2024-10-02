@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-03 00:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-03 01:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241002164029+0000" stop="20241002174244+0000">
+    <title lang="en">ANYTIME</title>
+    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
+  </programme>
+  <programme channel="redbull.com" start="20241002174244+0000" stop="20241002180815+0000">
+    <title lang="en">Jaan Roose: Life on the Line</title>
+    <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
+    <category lang="en">Slacklining</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
+  </programme>
+  <programme channel="redbull.com" start="20241002180815+0000" stop="20241002183328+0000">
+    <title lang="en">Highlights – Acapulco Premier Padel P1</title>
+    <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
+  </programme>
   <programme channel="redbull.com" start="20241002183328+0000" stop="20241002185959+0000">
     <title lang="en">Highlights – Asunción Premier Padel P2 </title>
     <desc lang="en">Watch the highlights of the seventh stop of the season in Paraguay from the Asunción Premier Padel P2.</desc>
@@ -136,23 +154,5 @@
     <desc lang="en">Get the MTB dirt right here, from Crans-Montana track controversy to Myriam Nicole vs Tahnée Seagrave.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/4/yrjkssrvog5wlwniozu0/tom-pidcock-uci-xco-world-cup-crans-montana-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241003084207+0000" stop="20241003093355+0000">
-    <title lang="en">MTB legends, UCI Loudenvielle and bike tech trends</title>
-    <desc lang="en">Dive into the legacy of Pauline Ferrand-Prévot, bike tech trends, and the lowdown from UCI Loudenvielle.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/9/rc26dvam7uxevda0ip09/aaron-gwin-uci-mountain-bike-world-cup-loudenvielle-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241003093355+0000" stop="20241003094608+0000">
-    <title lang="en">About Time with Ben Ferguson</title>
-    <desc lang="en">Go inside the mind of snowboarder Ben Ferguson and see his vision for the film Fleeting Time.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/4/fdb7slc0gu0euh8ehm2x/ben-ferguson-shredding-in-alaska"/>
-  </programme>
-  <programme channel="redbull.com" start="20241003094608+0000" stop="20241003095414+0000">
-    <title lang="en">About Time with Hailey Langland</title>
-    <desc lang="en">Snowboarder Hailey Langland braves the backcountry in British Columbia to film for Fleeting Time.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/14/dhfr8sfehhbswbnvwzrs/hailey-langland-whistler-snowboarding"/>
   </programme>
 </tv>
