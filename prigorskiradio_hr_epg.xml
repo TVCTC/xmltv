@@ -1,118 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://prigorskiradio.hr/program/" time-created="2024-10-03 06:00:02">
+<tv generator-info-name="TVCTC" source-info-url="https://prigorskiradio.hr/program/" time-created="2024-10-04 06:00:02">
   <channel id="PrigorskiRadio.hr">
     <display-name>Prigorski Radio</display-name>
     <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
   </channel>
-  <programme channel="PrigorskiRadio.hr" start="20241003060000+0200" stop="20241003063000+0200">
-    <title lang="hr">NAJAVA PROGRAMA</title>
-    <desc lang="hr">Prigorski Radio program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
-  </programme>
-  <programme channel="PrigorskiRadio.hr" start="20241003063000+0200" stop="20241003064500+0200">
-    <title lang="hr">PRIČEBUDILICA</title>
-    <desc lang="hr">Prigorski Radio program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
-  </programme>
-  <programme channel="PrigorskiRadio.hr" start="20241003064500+0200" stop="20241003070000+0200">
-    <title lang="hr">HOROSKOP</title>
-    <desc lang="hr">Prigorski Radio program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
-  </programme>
-  <programme channel="PrigorskiRadio.hr" start="20241003070000+0200" stop="20241003074500+0200">
-    <title lang="hr">VIJESTI PRVOG PROGRAMA HRVATSKOG RADIJA</title>
-    <desc lang="hr">Prigorski Radio program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
-  </programme>
-  <programme channel="PrigorskiRadio.hr" start="20241003074500+0200" stop="20241003080000+0200">
-    <title lang="hr">GLAZBA SA STILOM</title>
-    <desc lang="hr">Prigorski Radio program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
-  </programme>
-  <programme channel="PrigorskiRadio.hr" start="20241003080000+0200" stop="20241003081500+0200">
-    <title lang="hr">KALENDAR DOGAĐAJA</title>
-    <desc lang="hr">Prigorski Radio program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
-  </programme>
-  <programme channel="PrigorskiRadio.hr" start="20241003081500+0200" stop="20241003082000+0200">
-    <title lang="hr">MALI OGLASI</title>
-    <desc lang="hr">Poslušajte što se prodaje i kupuje u Prigorskoj tržnici</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://prigorskiradio.hr/wp-content/uploads/2023/08/Photo_1691576940364.png"/>
-  </programme>
-  <programme channel="PrigorskiRadio.hr" start="20241003082000+0200" stop="20241003083000+0200">
-    <title lang="hr">VIJESTI</title>
-    <desc lang="hr">Prigorski Radio program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
-  </programme>
-  <programme channel="PrigorskiRadio.hr" start="20241003083000+0200" stop="20241003090000+0200">
-    <title lang="hr">TELEFONSKI OGLASI</title>
-    <desc lang="hr">Prigorski Radio program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
-  </programme>
-  <programme channel="PrigorskiRadio.hr" start="20241003090000+0200" stop="20241003110000+0200">
-    <title lang="hr">IZABERIMO ZDRAVLJE</title>
-    <desc lang="hr">Prigorski Radio program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
-  </programme>
-  <programme channel="PrigorskiRadio.hr" start="20241003110000+0200" stop="20241003120000+0200">
-    <title lang="hr">ŽUPANIJSKE MINUTE</title>
-    <desc lang="hr">Prigorski Radio program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
-  </programme>
-  <programme channel="PrigorskiRadio.hr" start="20241003120000+0200" stop="20241003121500+0200">
-    <title lang="hr">VIJESTI</title>
-    <desc lang="hr">Prigorski Radio program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
-  </programme>
-  <programme channel="PrigorskiRadio.hr" start="20241003121500+0200" stop="20241003133000+0200">
-    <title lang="hr">MALI OGLASI</title>
-    <desc lang="hr">Poslušajte što se prodaje i kupuje u Prigorskoj tržnici</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://prigorskiradio.hr/wp-content/uploads/2023/08/Photo_1691576940364.png"/>
-  </programme>
-  <programme channel="PrigorskiRadio.hr" start="20241003133000+0200" stop="20241003143000+0200">
-    <title lang="hr">SAMO ŽENA ZNA</title>
-    <desc lang="hr">Prigorski Radio program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
-  </programme>
-  <programme channel="PrigorskiRadio.hr" start="20241003143000+0200" stop="20241003154500+0200">
-    <title lang="hr">INFORMATIVNA EMISIJA RADIJA KRIŽEVCI</title>
-    <desc lang="hr">Prigorski Radio program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
-  </programme>
-  <programme channel="PrigorskiRadio.hr" start="20241003154500+0200" stop="20241003161500+0200">
-    <title lang="hr">TELEFONSKI OGLASI</title>
-    <desc lang="hr">Prigorski Radio program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
-  </programme>
-  <programme channel="PrigorskiRadio.hr" start="20241003161500+0200" stop="20241003183000+0200">
-    <title lang="hr">MALI OGLASI</title>
-    <desc lang="hr">Poslušajte što se prodaje i kupuje u Prigorskoj tržnici</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://prigorskiradio.hr/wp-content/uploads/2023/08/Photo_1691576940364.png"/>
-  </programme>
-  <programme channel="PrigorskiRadio.hr" start="20241003183000+0200" stop="20241004060000+0200">
-    <title lang="hr">INFORMATIVNA EMISIJA RADIJA KRIŽEVCI</title>
-    <desc lang="hr">Prigorski Radio program</desc>
-    <category lang="hr">Radio</category>
-    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
-  </programme>
   <programme channel="PrigorskiRadio.hr" start="20241004060000+0200" stop="20241004063000+0200">
     <title lang="hr">NAJAVA PROGRAMA</title>
     <desc lang="hr">Prigorski Radio program</desc>
@@ -209,8 +101,62 @@
     <category lang="hr">Radio</category>
     <icon src="https://prigorskiradio.hr/wp-content/uploads/2023/08/Photo_1691576940364.png"/>
   </programme>
-  <programme channel="PrigorskiRadio.hr" start="20241004183000+0200" stop="20241005060000+0200">
+  <programme channel="PrigorskiRadio.hr" start="20241004183000+0200" stop="20241005080000+0200">
     <title lang="hr">INFORMATIVNA EMISIJA RADIJA KRIŽEVCI</title>
+    <desc lang="hr">Prigorski Radio program</desc>
+    <category lang="hr">Radio</category>
+    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
+  </programme>
+  <programme channel="PrigorskiRadio.hr" start="20241005080000+0200" stop="20241005081500+0200">
+    <title lang="hr">NAJAVA PROGRAMA</title>
+    <desc lang="hr">Prigorski Radio program</desc>
+    <category lang="hr">Radio</category>
+    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
+  </programme>
+  <programme channel="PrigorskiRadio.hr" start="20241005081500+0200" stop="20241005100000+0200">
+    <title lang="hr">MALI OGLASI</title>
+    <desc lang="hr">Poslušajte što se prodaje i kupuje u Prigorskoj tržnici</desc>
+    <category lang="hr">Radio</category>
+    <icon src="https://prigorskiradio.hr/wp-content/uploads/2023/08/Photo_1691576940364.png"/>
+  </programme>
+  <programme channel="PrigorskiRadio.hr" start="20241005100000+0200" stop="20241005120000+0200">
+    <title lang="hr">TELEFONSKI OGLASI</title>
+    <desc lang="hr">Prigorski Radio program</desc>
+    <category lang="hr">Radio</category>
+    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
+  </programme>
+  <programme channel="PrigorskiRadio.hr" start="20241005120000+0200" stop="20241005121500+0200">
+    <title lang="hr">VIJESTI</title>
+    <desc lang="hr">Prigorski Radio program</desc>
+    <category lang="hr">Radio</category>
+    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
+  </programme>
+  <programme channel="PrigorskiRadio.hr" start="20241005121500+0200" stop="20241005123000+0200">
+    <title lang="hr">MALI OGLASI</title>
+    <desc lang="hr">Poslušajte što se prodaje i kupuje u Prigorskoj tržnici</desc>
+    <category lang="hr">Radio</category>
+    <icon src="https://prigorskiradio.hr/wp-content/uploads/2023/08/Photo_1691576940364.png"/>
+  </programme>
+  <programme channel="PrigorskiRadio.hr" start="20241005123000+0200" stop="20241005161500+0200">
+    <title lang="hr">TKO PJEVA ZLO NE MISLI</title>
+    <desc lang="hr">Prigorski Radio program</desc>
+    <category lang="hr">Radio</category>
+    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
+  </programme>
+  <programme channel="PrigorskiRadio.hr" start="20241005161500+0200" stop="20241005180000+0200">
+    <title lang="hr">MALI OGLASI</title>
+    <desc lang="hr">Poslušajte što se prodaje i kupuje u Prigorskoj tržnici</desc>
+    <category lang="hr">Radio</category>
+    <icon src="https://prigorskiradio.hr/wp-content/uploads/2023/08/Photo_1691576940364.png"/>
+  </programme>
+  <programme channel="PrigorskiRadio.hr" start="20241005180000+0200" stop="20241005210000+0200">
+    <title lang="hr">REPRIZA EMISIJE IZABERIMO ZDRAVLJE</title>
+    <desc lang="hr">Prigorski Radio program</desc>
+    <category lang="hr">Radio</category>
+    <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
+  </programme>
+  <programme channel="PrigorskiRadio.hr" start="20241005210000+0200" stop="20241006060000+0200">
+    <title lang="hr">REPRIZA EMISIJE NE DIRAJTE MI KRUGOVE</title>
     <desc lang="hr">Prigorski Radio program</desc>
     <category lang="hr">Radio</category>
     <icon src="https://thumbs2.imgbox.com/c9/6a/LYvwMBJS_t.png"/>
