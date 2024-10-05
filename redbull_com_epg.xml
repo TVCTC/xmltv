@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-05 23:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-06 00:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241005203039+0000" stop="20241005212848+0000">
-    <title lang="en">Drive Thru Australia 2</title>
-    <desc lang="en">Spend two insane weeks driving and surfing through some of Australia’s most incredible coastlines.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/uk9zttlgxamnios5f5dr/drive-thru-australia-2-header"/>
-  </programme>
   <programme channel="redbull.com" start="20241005212848+0000" stop="20241005220835+0000">
     <title lang="en">Drive Thru California</title>
     <desc lang="en">Donavon Frankenreiter, Timmy Curran, Greg Browning and Shawn Barron journey down the coast of California.	 </desc>
@@ -149,10 +143,16 @@
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
   </programme>
-  <programme channel="redbull.com" start="20241006111225+0000" stop="20241006113823+0000">
+  <programme channel="redbull.com" start="20241005143529+0000" stop="20241005150127+0000">
     <title lang="en">Highlights – Santiago Premier Padel P1</title>
     <desc lang="en">See the Santiago Premier Padel P1 highlights as the season continued in one of padel's most popular countries.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/16/kryxydhbip56obt9samh/federico-chingotto-and-alejandro-galan-premier-padel-p1-in-santiago"/>
+  </programme>
+  <programme channel="redbull.com" start="20241005150127+0000" stop="20241005152802+0000">
+    <title lang="en">Highlights – Sevilla Premier Padel P2</title>
+    <desc lang="en">Watch the highlights of the sixth stop of the season in Spain from the Premier Padel Andalucia Sevilla P2.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/17/dyjezvxom1vpei5t6upe/fede-chingotto-and-ale-galan-premier-padel-p2-final-in-sevilla"/>
   </programme>
 </tv>
