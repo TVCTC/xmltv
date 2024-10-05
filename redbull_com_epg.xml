@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-05 04:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-05 05:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241005000542+0000" stop="20241005011314+0000">
-    <title lang="en">Yamnuska: The Ragged Edge </title>
-    <desc lang="en">Vikki Weldon and Quentin Roberts explore the enduring legacy of rock climbing on Canada's Mount Yamnuska.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/ll4jsqgipcgeh5kufqli/will-gadd-yamnuska-canada-climbing"/>
-  </programme>
-  <programme channel="redbull.com" start="20241005011314+0000" stop="20241005021338+0000">
-    <title lang="en">The MTB World Cup season is back with a bang!</title>
-    <desc lang="en">Review Martin Vidaurre's career, Vali Höll talks team changes and Kate Courtney discusses Paris qualifying.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/17/g63nexzcsm0h0dsj8tha/martin-vidaurre-uci-xco-world-cup-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20241005021338+0000" stop="20241005025950+0000">
     <title lang="en">How to build the perfect mountain bike team</title>
     <desc lang="en">Get the inside track from pros on building a downhill team, plus cross-country tips for training and recovery.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Watch the highlights of the eighth stop of the season in Argentina from the Premier Padel Mar del Plata P1.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/22/wrcasajexcgkw9ffnrbz/premier-padel-tour-milan-mens-match-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241005134252+0000" stop="20241005140928+0000">
+    <title lang="en">Highlights – Puerto Cabello Premier Padel P2</title>
+    <desc lang="en">Watch the highlights of the fourth stop of the season in Venezuela for the Puerto Cabello Premier Padel P2. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/4/iqmgalloe5lthvm6jgma/suzanne-casey-premier-padel-2024-puerto-cabello-p2"/>
+  </programme>
+  <programme channel="redbull.com" start="20241005140928+0000" stop="20241005143529+0000">
+    <title lang="en">Highlights – Qatar Major Premier Padel</title>
+    <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
   </programme>
 </tv>
