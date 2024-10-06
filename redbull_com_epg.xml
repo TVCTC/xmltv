@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-06 02:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-06 03:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241005232253+0000" stop="20241006000041+0000">
-    <title lang="en">Drive Thru Japan</title>
-    <desc lang="en">Surfers Donavon Frankenrieter, Rob Machado, Benji Wheatherley and Shawn Barron search for waves in Japan.	 </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/pmll61syneekstdis0uu/drive-thru-japan-header"/>
-  </programme>
   <programme channel="redbull.com" start="20241006000041+0000" stop="20241006005639+0000">
     <title lang="en">Drive Thru South Africa</title>
     <desc lang="en">Donavon Frankenreiter, Benji Weatherley, Pat O'Connell, Mike Losness and more drive across South Africa.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Enjoy the best onboard moments with our field reporter Paul Bolton, following our Hard Enduro riders.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/16/jh4ufscfarhg5jc1decp/riders-valleys-hard-enduro-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241006131402+0000" stop="20241006133518+0000">
+    <title lang="en">Best of Bolton at Red Bull Erzbergrodeo</title>
+    <desc lang="en">Enjoy the best onboard moments with our field reporter Paul Bolton, following our Hard Enduro riders.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/5/x4iuq3iwmb7wyhldugfa/wade-young-red-bull-erzbergrodeo-2024"/>
   </programme>
 </tv>
