@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-06 01:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-06 02:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241005224632+0000" stop="20241005232253+0000">
-    <title lang="en">Drive Thru Europe</title>
-    <desc lang="en">Follow surfers Kelly Slater, Benji Weatherley, Pat O'Connell and Ry Craike on a surf trip through Europe.	 </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/jea6obwsgjkajgx1vrcv/drive-thru-europe-header"/>
-  </programme>
   <programme channel="redbull.com" start="20241005232253+0000" stop="20241006000041+0000">
     <title lang="en">Drive Thru Japan</title>
     <desc lang="en">Surfers Donavon Frankenrieter, Rob Machado, Benji Wheatherley and Shawn Barron search for waves in Japan.	 </desc>
@@ -154,5 +148,11 @@
     <desc lang="en">14 riders battled head-to-head at Newcastle’s iconic Quayside at the UK's toughest motorcycle event.</desc>
     <category lang="en">Motoring</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/20/ykjscl7ehvihhlgiskya/red-bull-tyne-ride-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241006130051+0000" stop="20241006131402+0000">
+    <title lang="en">Best of Bolton – Valleys Hard Enduro</title>
+    <desc lang="en">Enjoy the best onboard moments with our field reporter Paul Bolton, following our Hard Enduro riders.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/16/jh4ufscfarhg5jc1decp/riders-valleys-hard-enduro-2024"/>
   </programme>
 </tv>
