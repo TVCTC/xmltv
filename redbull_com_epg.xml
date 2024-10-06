@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-06 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-06 05:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241006015114+0000" stop="20241006023053+0000">
-    <title lang="en">Momentum</title>
-    <desc lang="en">Momentum features the first sections of New School surfers Kelly Slater, Rob Machado, Shane Dorian and more.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/22/ow1ixtflpdvwu18kl4qi/shane-dorian"/>
-  </programme>
   <programme channel="redbull.com" start="20241006023053+0000" stop="20241006030621+0000">
     <title lang="en">Momentum II</title>
     <desc lang="en">Enjoy sick sections from the next generation of rising surf talents such as Kelly Slater, Rob Machado and more.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Join field reporter Paul Bolton as he follows Hard Enduro riders fighting for the win in Romania.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/29/pnnirbrhvnlc9h4torsx/jonny-walker-red-bull-romaniacs-fim-hard-enduro-sibiu-romania-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241006143211+0000" stop="20241006145338+0000">
+    <title lang="en">Best of Bolton – Red Bull TKO</title>
+    <desc lang="en">Ride with extreme enduro rider Paul Bolton alongside Hard Enduro heroes fighting for the win at Red Bull TKO.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/29/u1luua7rdcznvkv7mqtc/trystan-hart-ktm-enduro-factory-racing-red-bull-tennessee-knockout-tko-2024"/>
   </programme>
 </tv>
