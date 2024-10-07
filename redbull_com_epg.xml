@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-07 18:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-07 19:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241007154333+0000" stop="20241007162207+0000">
-    <title lang="en">Drive Thru Caribbean</title>
-    <desc lang="en">Surfers Donavon Frankenreiter, Benji Weatherley, Pat O'Conell and Kalani Robb search for waves in the Caribbean.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/ptcj0j8rpvs2pxdfqr6l/drive-thru-caribbean-header"/>
-  </programme>
   <programme channel="redbull.com" start="20241007162207+0000" stop="20241007165827+0000">
     <title lang="en">Drive Thru Europe</title>
     <desc lang="en">Follow surfers Kelly Slater, Benji Weatherley, Pat O'Connell and Ry Craike on a surf trip through Europe.	 </desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
+  </programme>
+  <programme channel="redbull.com" start="20241008055123+0000" stop="20241008060000+0000">
+    <title lang="en">Max Verstappen drift driving challenge</title>
+    <desc lang="en">Oracle Red Bull Racing driver Max Verstappen gets behind the wheel of a drift car with ‘Mad’ Mike Whiddett.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/1/ajtwdf7dbvshygox7vnz/max-verstappen-with-madbul"/>
   </programme>
 </tv>
