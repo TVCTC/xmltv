@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-07 19:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-07 20:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241007162207+0000" stop="20241007165827+0000">
-    <title lang="en">Drive Thru Europe</title>
-    <desc lang="en">Follow surfers Kelly Slater, Benji Weatherley, Pat O'Connell and Ry Craike on a surf trip through Europe.	 </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/jea6obwsgjkajgx1vrcv/drive-thru-europe-header"/>
-  </programme>
-  <programme channel="redbull.com" start="20241007165827+0000" stop="20241007173615+0000">
-    <title lang="en">Drive Thru Japan</title>
-    <desc lang="en">Surfers Donavon Frankenrieter, Rob Machado, Benji Wheatherley and Shawn Barron search for waves in Japan.	 </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/pmll61syneekstdis0uu/drive-thru-japan-header"/>
-  </programme>
   <programme channel="redbull.com" start="20241007173615+0000" stop="20241007183249+0000">
     <title lang="en">Drive Thru South Africa</title>
     <desc lang="en">Donavon Frankenreiter, Benji Weatherley, Pat O'Connell, Mike Losness and more drive across South Africa.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Oracle Red Bull Racing driver Max Verstappen gets behind the wheel of a drift car with ‘Mad’ Mike Whiddett.</desc>
     <category lang="en">Drifting</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/1/ajtwdf7dbvshygox7vnz/max-verstappen-with-madbul"/>
+  </programme>
+  <programme channel="redbull.com" start="20241008060000+0000" stop="20241008062559+0000">
+    <title lang="en">Highlights – Sevilla Premier Padel P2</title>
+    <desc lang="en">Watch the highlights of the sixth stop of the season in Spain from the Premier Padel Andalucia Sevilla P2.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/17/dyjezvxom1vpei5t6upe/fede-chingotto-and-ale-galan-premier-padel-p2-final-in-sevilla"/>
+  </programme>
+  <programme channel="redbull.com" start="20241008062559+0000" stop="20241008065150+0000">
+    <title lang="en">Highlights – Riyadh Premier Padel P1</title>
+    <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
   </programme>
 </tv>
