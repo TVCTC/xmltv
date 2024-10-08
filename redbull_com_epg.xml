@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-08 23:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-09 00:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241008193238+0000" stop="20241008203453+0000">
-    <title lang="en">ANYTIME</title>
-    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
-  </programme>
   <programme channel="redbull.com" start="20241008203453+0000" stop="20241008210023+0000">
     <title lang="en">Jaan Roose: Life on the Line</title>
     <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">See 2023 champions face windy Oslo as Gracie Kramer goes deeper into the sport and Norwegian diving traditions</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/19/umj4o4l6q8suwrgqnrts/molly-carlson-red-bull-cliff-diving-oslo-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241009062748+0000" stop="20241009065814+0000">
+    <title lang="en">Cliff conquest in Northern Ireland</title>
+    <desc lang="en">Nature's beauty takes centre stage as competitors faced off against Causeway's spectacular rugged cliffs.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/8/snzalb0wsmr8aklakp8d/red-bull-cliff-diving-world-series-2024-causeway-coast"/>
   </programme>
 </tv>
