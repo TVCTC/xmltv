@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-10 13:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-10 14:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241010102301+0000" stop="20241010110316+0000">
-    <title lang="en">Momentum</title>
-    <desc lang="en">Momentum features the first sections of New School surfers Kelly Slater, Rob Machado, Shane Dorian and more.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/22/ow1ixtflpdvwu18kl4qi/shane-dorian"/>
-  </programme>
-  <programme channel="redbull.com" start="20241010110316+0000" stop="20241010113844+0000">
-    <title lang="en">Momentum II</title>
-    <desc lang="en">Enjoy sick sections from the next generation of rising surf talents such as Kelly Slater, Rob Machado and more.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/22/tnpsrrfswwiqgoifsgql/shane-dorian-red-bull-cape-fear-2014"/>
-  </programme>
   <programme channel="redbull.com" start="20241010113844+0000" stop="20241010123044+0000">
     <title lang="en">Relive 2024’s record run</title>
     <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">14 riders battled head-to-head at Newcastle’s iconic Quayside at the UK's toughest motorcycle event.</desc>
     <category lang="en">Motoring</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/20/ykjscl7ehvihhlgiskya/red-bull-tyne-ride-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241010152315+0000" stop="20241010162454+0000">
+    <title lang="en">ANYTIME</title>
+    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
+  </programme>
+  <programme channel="redbull.com" start="20241011010000+0000" stop="20241011031536+0000">
+    <title lang="en">Women's competition</title>
+    <desc lang="en">The world’s toughest big mountain freeride mountain bike competition continues to progress the sport.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/6/loai10ynkgbveqbvp26u/virgin-utah-red-bull-rampage-terrain-extreme-mountain-biking-event"/>
   </programme>
 </tv>
