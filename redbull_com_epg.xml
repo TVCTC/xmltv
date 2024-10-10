@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-10 15:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-10 16:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241010123044+0000" stop="20241010125509+0000">
-    <title lang="en">Plus 27</title>
-    <desc lang="en">Jordy Smith shares his journey and the profound impact his homeland has had on his life and surfing career.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/ugzer3h63p5gcvb8qf2m/jordy-smith-surfing"/>
-  </programme>
   <programme channel="redbull.com" start="20241010125509+0000" stop="20241010143152+0000">
     <title lang="en">Born to Fly</title>
     <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Explore the city of Genoa with Tomáš Slavík as Red Bull Cerro Abajo comes to Europe for the first time.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/20/ziwz0lq8z0uyl8i50aoh/tomas-slavik-genoa-red-bull-cerro-abajo-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241011031840+0000" stop="20241011033923+0000">
+    <title lang="en">Crankworx Whistler: Red Bull Joyride highlights</title>
+    <desc lang="en">Relive the crown jewel of Crankworx Whistler as top slopestyle mountain bikers perform mind-boggling tricks.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/13/qqmigeqdj3dixxgdkql9/dawid-godziek-red-bull-joyride-whistler-2024"/>
   </programme>
 </tv>
