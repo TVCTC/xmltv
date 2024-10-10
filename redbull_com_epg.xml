@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-10 20:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-10 21:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241010165137+0000" stop="20241010171650+0000">
-    <title lang="en">Highlights – Acapulco Premier Padel P1</title>
-    <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
-  </programme>
-  <programme channel="redbull.com" start="20241010171650+0000" stop="20241010174321+0000">
-    <title lang="en">Highlights – Asunción Premier Padel P2 </title>
-    <desc lang="en">Watch the highlights of the seventh stop of the season in Paraguay from the Asunción Premier Padel P2.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/yupj6ycdbof7x8jrd3at/beatriz-caldera-premier-padel"/>
-  </programme>
-  <programme channel="redbull.com" start="20241010174321+0000" stop="20241010180956+0000">
-    <title lang="en">Highlights – BNL Italy Major Premier Padel</title>
-    <desc lang="en">Relive the action from the third Major of the Premier Padel Season 2024 as Italy takes the main stage.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/lwozjjuxbuh1lsoad8xb/ale-galan-sevilla-premier-padel-p2-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241010180956+0000" stop="20241010183706+0000">
-    <title lang="en">Highlights – Bordeaux Premier Padel P2</title>
-    <desc lang="en">See the best moments from the action-packed Bordeaux Premier Padel P2 tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/kj8nobdgp207u02uj09c/thomas-leygue-bordeaux-premier-padel-p2-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20241010183706+0000" stop="20241010190314+0000">
     <title lang="en">Highlights – Brussels Premier Padel P2</title>
     <desc lang="en">Watch the highlights of the fifth stop of the season in Belgium for the Brussels Premier Padel P2. </desc>
@@ -101,7 +77,7 @@
     <category lang="en">Motoring</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/20/ykjscl7ehvihhlgiskya/red-bull-tyne-ride-2024"/>
   </programme>
-  <programme channel="redbull.com" start="20241010152315+0000" stop="20241010162454+0000">
+  <programme channel="redbull.com" start="20241010235752+0000" stop="20241011010000+0000">
     <title lang="en">ANYTIME</title>
     <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
     <category lang="en">MTB</category>
@@ -154,5 +130,29 @@
     <desc lang="en">Max Verstappen gets sucked into his simulator and needs to clear different levels to get to the Belgium GP.</desc>
     <category lang="en">F1</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/18/s4egvvivtryvvcz2ngdf/red-bull-racing-road-trips-s2-ep3-max-verstappen"/>
+  </programme>
+  <programme channel="redbull.com" start="20241011060001+0000" stop="20241011065635+0000">
+    <title lang="en">Drive Thru South Africa</title>
+    <desc lang="en">Donavon Frankenreiter, Benji Weatherley, Pat O'Connell, Mike Losness and more drive across South Africa.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/mip3ysqb1xfavfir6ibp/drive-thru-south-africa-header"/>
+  </programme>
+  <programme channel="redbull.com" start="20241011065635+0000" stop="20241011075110+0000">
+    <title lang="en">Ice Waterfalls</title>
+    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/15/n9e71buasfvbbdzzu7di/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
+  </programme>
+  <programme channel="redbull.com" start="20241011075110+0000" stop="20241011083049+0000">
+    <title lang="en">Momentum</title>
+    <desc lang="en">Momentum features the first sections of New School surfers Kelly Slater, Rob Machado, Shane Dorian and more.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/22/ow1ixtflpdvwu18kl4qi/shane-dorian"/>
+  </programme>
+  <programme channel="redbull.com" start="20241011083049+0000" stop="20241011090653+0000">
+    <title lang="en">Momentum II</title>
+    <desc lang="en">Enjoy sick sections from the next generation of rising surf talents such as Kelly Slater, Rob Machado and more.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/22/tnpsrrfswwiqgoifsgql/shane-dorian-red-bull-cape-fear-2014"/>
   </programme>
 </tv>
