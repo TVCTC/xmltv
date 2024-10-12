@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-12 05:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-12 06:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241012022454+0000" stop="20241012030404+0000">
-    <title lang="en">Drive Thru California</title>
-    <desc lang="en">Donavon Frankenreiter, Timmy Curran, Greg Browning and Shawn Barron journey down the coast of California.	 </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/mo3lybqitmyq3xalxj0e/drive-thru-california-header"/>
-  </programme>
-  <programme channel="redbull.com" start="20241012030404+0000" stop="20241012034238+0000">
-    <title lang="en">Drive Thru Caribbean</title>
-    <desc lang="en">Surfers Donavon Frankenreiter, Benji Weatherley, Pat O'Conell and Kalani Robb search for waves in the Caribbean.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/ptcj0j8rpvs2pxdfqr6l/drive-thru-caribbean-header"/>
-  </programme>
   <programme channel="redbull.com" start="20241012034238+0000" stop="20241012041858+0000">
     <title lang="en">Drive Thru Europe</title>
     <desc lang="en">Follow surfers Kelly Slater, Benji Weatherley, Pat O'Connell and Ry Craike on a surf trip through Europe.	 </desc>
@@ -148,5 +136,17 @@
     <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/29/rpfuqolbq2fpzctqjxgu/shires-rob-warner-bike-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20241013004328+0000" stop="20241013020750+0000">
+    <title lang="en">The Engine Inside</title>
+    <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20241013020750+0000" stop="20241013032532+0000">
+    <title lang="en">The Moment</title>
+    <desc lang="en">In the backwoods of Canada, three crews of adventure seekers change the world of cycling.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z6R1FMW55N11/FO-1Z6R1FMW55N11-featureMedia"/>
   </programme>
 </tv>
