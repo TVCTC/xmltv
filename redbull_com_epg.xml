@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-12 20:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-12 21:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
@@ -95,13 +95,13 @@
     <category lang="en">Cycling</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/23/hyyihfqinrqdzghqxlri/esperanto-hero-art"/>
   </programme>
-  <programme channel="redbull.com" start="20241012123207+0000" stop="20241012134020+0000">
+  <programme channel="redbull.com" start="20241013092846+0000" stop="20241013103659+0000">
     <title lang="en">Etnies: Chapters</title>
     <desc lang="en">Three years in the making, this film captures BMX riding in stunning locations shot in 15 countries.</desc>
     <category lang="en">BMX</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1X54UB9T55N11/FO-1X54UB9T55N11-featureMedia"/>
   </programme>
-  <programme channel="redbull.com" start="20241012134020+0000" stop="20241012151358+0000">
+  <programme channel="redbull.com" start="20241013103659+0000" stop="20241013121038+0000">
     <title lang="en">Long Live Chainsaw</title>
     <desc lang="en">From underdog to world champ – this is the mountain bike in memory of legend Stevie 'Chainsaw' Smith.</desc>
     <category lang="en">Bike</category>
@@ -124,5 +124,17 @@
     <desc lang="en">Vali Höll steps up to elite level, after a dominant junior career. How will she fare against the world’s best?</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/7/22/ggyze3qvevmg8oorxr1z/past-present-future-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20241012220532+0000" stop="20241012225309+0000">
+    <title lang="en">Return to Earth</title>
+    <desc lang="en">Focus on the pure enjoyment and immersion riders experience while mountain biking.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/5/16/ntdmfphzq7latorx1yt4/returntoearth_landscape_hero"/>
+  </programme>
+  <programme channel="redbull.com" start="20241012225309+0000" stop="20241012235152+0000">
+    <title lang="en">Reverence</title>
+    <desc lang="en">Delve deep into the psyche of elite mountain bike athletes to uncover how they face and use fear.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/10/16/4f609b22-e375-43b4-ad00-f64dad5d9a3e/reverence_landscape_hero"/>
   </programme>
 </tv>
