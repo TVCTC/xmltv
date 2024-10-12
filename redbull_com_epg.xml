@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-12 08:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-12 09:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241012055321+0000" stop="20241012060000+0000">
-    <title lang="en">Verstappen vs Tsunoda in mega trucks</title>
-    <desc lang="en">Watch F1 drivers Max Verstappen and Yuki Tsunoda go head to head in mega trucks at an iron mine in Austria.</desc>
-    <category lang="en">Offroad</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/23/xvt1xohr2ynbvfk4rmkh/max-verstappen-yuki-tsunoda-mega-trucks"/>
-  </programme>
-  <programme channel="redbull.com" start="20241012060000+0000" stop="20241012062947+0000">
-    <title lang="en">No I in team</title>
-    <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/5/dzfbz2heksvcugo7d5dr/jolanda-neff-uci-xco-world-cup-val-di-sole-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20241012062947+0000" stop="20241012065810+0000">
-    <title lang="en">Apex predators </title>
-    <desc lang="en">In the downhill, Finn Iles struggles to beat his biggest competitor, team-mate Loïc Bruni.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/szk42xiugjm6ltrburtf/finn-iles"/>
-  </programme>
-  <programme channel="redbull.com" start="20241012065810+0000" stop="20241012073036+0000">
-    <title lang="en">Adapt or perish</title>
-    <desc lang="en">A wave of younger, faster competitors force 'old dogs to learn new tricks' to stay in the results sheet. </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/qjq0alzb0bk4pwfkj1os/jackson-goldstone"/>
-  </programme>
   <programme channel="redbull.com" start="20241012073036+0000" stop="20241012075650+0000">
     <title lang="en">Iron sharpens iron</title>
     <desc lang="en">Mathias Flückiger and Nino Schurter confront the bitter rivalry of Swiss MTB cross-country racing.</desc>
@@ -148,5 +124,23 @@
     <desc lang="en">Get a shot of adrenaline as you look back at the very best moments of Red Bull Rampage through the years.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/5/6/dtkxk7cp2yqhdgwne9ou/carson-storch-rampage-2019-virgin-utah"/>
+  </programme>
+  <programme channel="redbull.com" start="20241013055606+0000" stop="20241013060000+0000">
+    <title lang="en">Bullseye helipad plane landing</title>
+    <desc lang="en">Red Bull TV programme</desc>
+    <category lang="en">Air Racing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/zshtagqnjmxwv5aamtce/luke-czepiela"/>
+  </programme>
+  <programme channel="redbull.com" start="20241012090320+0000" stop="20241012093553+0000">
+    <title lang="en">20 Years of Red Bull Valparaíso Cerro Abajo</title>
+    <desc lang="en">Relive 20 years of the largest urban downhill race in the world that began as an idea among friends.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/grv8ijzyrwhtsstkoas3/red-bull-valparaiso-cerro-abajo-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20241012093553+0000" stop="20241012110412+0000">
+    <title lang="en">Blood Road</title>
+    <desc lang="en">Endurance pro Rebecca Rusch rides through Vietnam's dense jungle along the infamous 1,930km Ho Chi Minh Trail.</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/7/8/z6cdzuwxcjajuvqxzgir/bloodroad_landscape_hero"/>
   </programme>
 </tv>
