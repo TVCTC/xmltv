@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-13 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-13 05:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241012235152+0000" stop="20241013004328+0000">
+    <title lang="en">Shires</title>
+    <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/29/rpfuqolbq2fpzctqjxgu/shires-rob-warner-bike-film"/>
+  </programme>
   <programme channel="redbull.com" start="20241013004328+0000" stop="20241013020750+0000">
     <title lang="en">The Engine Inside</title>
     <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
@@ -95,13 +101,13 @@
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/7/22/ggyze3qvevmg8oorxr1z/past-present-future-hero-art"/>
   </programme>
-  <programme channel="redbull.com" start="20241013145159+0000" stop="20241013153936+0000">
+  <programme channel="redbull.com" start="20241012220532+0000" stop="20241012225309+0000">
     <title lang="en">Return to Earth</title>
     <desc lang="en">Focus on the pure enjoyment and immersion riders experience while mountain biking.</desc>
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/5/16/ntdmfphzq7latorx1yt4/returntoearth_landscape_hero"/>
   </programme>
-  <programme channel="redbull.com" start="20241013153936+0000" stop="20241013163819+0000">
+  <programme channel="redbull.com" start="20241012225309+0000" stop="20241012235152+0000">
     <title lang="en">Reverence</title>
     <desc lang="en">Delve deep into the psyche of elite mountain bike athletes to uncover how they face and use fear.</desc>
     <category lang="en">Bike</category>
@@ -148,11 +154,5 @@
     <desc lang="en">Get a shot of adrenaline as you look back at the very best moments of Red Bull Rampage through the years.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/5/6/dtkxk7cp2yqhdgwne9ou/carson-storch-rampage-2019-virgin-utah"/>
-  </programme>
-  <programme channel="redbull.com" start="20241014000113+0000" stop="20241014003101+0000">
-    <title lang="en">No I in team</title>
-    <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/5/dzfbz2heksvcugo7d5dr/jolanda-neff-uci-xco-world-cup-val-di-sole-2022"/>
   </programme>
 </tv>
