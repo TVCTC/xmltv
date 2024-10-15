@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-15 02:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-15 03:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241014233548+0000" stop="20241015000820+0000">
-    <title lang="en">20 Years of Red Bull Valparaíso Cerro Abajo</title>
-    <desc lang="en">Relive 20 years of the largest urban downhill race in the world that began as an idea among friends.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/grv8ijzyrwhtsstkoas3/red-bull-valparaiso-cerro-abajo-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20241015000820+0000" stop="20241015013640+0000">
     <title lang="en">Blood Road</title>
     <desc lang="en">Endurance pro Rebecca Rusch rides through Vietnam's dense jungle along the infamous 1,930km Ho Chi Minh Trail.</desc>
@@ -143,16 +137,22 @@
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/aleq0pywjxtowwjzjynt/mathias-fluckiger"/>
   </programme>
-  <programme channel="redbull.com" start="20241014222917+0000" stop="20241014230258+0000">
+  <programme channel="redbull.com" start="20241015194725+0000" stop="20241015202106+0000">
     <title lang="en">Home run</title>
     <desc lang="en">As Rachel Atherton returns to MTB racing, she works to find a balance while Vali Höll prepares for success.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/dc5vg0kbtvhiw8okcbva/rachel-atherton"/>
   </programme>
-  <programme channel="redbull.com" start="20241014230258+0000" stop="20241014233548+0000">
+  <programme channel="redbull.com" start="20241015202106+0000" stop="20241015205356+0000">
     <title lang="en">Bros before foes</title>
     <desc lang="en">DH riders Loïc Bruni and Loris Vergier have their relationship put to the test as they compete against each.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/flkywrg12h1rmqgunnqr/loic-bruni"/>
+  </programme>
+  <programme channel="redbull.com" start="20241015205356+0000" stop="20241015212628+0000">
+    <title lang="en">20 Years of Red Bull Valparaíso Cerro Abajo</title>
+    <desc lang="en">Relive 20 years of the largest urban downhill race in the world that began as an idea among friends.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/grv8ijzyrwhtsstkoas3/red-bull-valparaiso-cerro-abajo-2023"/>
   </programme>
 </tv>
