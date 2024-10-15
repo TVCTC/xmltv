@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-15 19:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-15 20:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241015140121+0000" stop="20241015151014+0000">
+    <title lang="en">The Old World</title>
+    <desc lang="en">Traverse iconic European locations in a celebration of biking culture that unites MTB and BMX.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual"/>
+  </programme>
+  <programme channel="redbull.com" start="20241015151014+0000" stop="20241015154719+0000">
+    <title lang="en">VISION</title>
+    <desc lang="en">VISION blends the creative worlds of Veronique Sandler in a coming together of art, design and sport.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/11/20/zvs8hszfnrdxdxbar5nr/vision-hero-art"/>
+  </programme>
   <programme channel="redbull.com" start="20241015154719+0000" stop="20241015170559+0000">
     <title lang="en">Highlight Show Rampage 2023</title>
     <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.  </desc>
@@ -131,28 +143,16 @@
     <category lang="en">Cycling</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film"/>
   </programme>
-  <programme channel="redbull.com" start="20241016091441+0000" stop="20241016103222+0000">
+  <programme channel="redbull.com" start="20241015124339+0000" stop="20241015140121+0000">
     <title lang="en">The Moment</title>
     <desc lang="en">In the backwoods of Canada, three crews of adventure seekers change the world of cycling.</desc>
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z6R1FMW55N11/FO-1Z6R1FMW55N11-featureMedia"/>
   </programme>
-  <programme channel="redbull.com" start="20241016103222+0000" stop="20241016114116+0000">
+  <programme channel="redbull.com" start="20241015140121+0000" stop="20241015151014+0000">
     <title lang="en">The Old World</title>
     <desc lang="en">Traverse iconic European locations in a celebration of biking culture that unites MTB and BMX.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual"/>
-  </programme>
-  <programme channel="redbull.com" start="20241015151014+0000" stop="20241015154719+0000">
-    <title lang="en">VISION</title>
-    <desc lang="en">VISION blends the creative worlds of Veronique Sandler in a coming together of art, design and sport.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/11/20/zvs8hszfnrdxdxbar5nr/vision-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20241015154719+0000" stop="20241015170559+0000">
-    <title lang="en">Highlight Show Rampage 2023</title>
-    <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.  </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/kp92a5bvrxlsmsyjrtfz/jaxson-riddle"/>
   </programme>
 </tv>
