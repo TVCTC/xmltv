@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-15 11:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-15 12:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241015070624+0000" stop="20241015080551+0000">
-    <title lang="en">One at a Time</title>
-    <desc lang="en">Follow professional slopestyle rider Brett Rheeder through the ups and downs of a Crankworx contest season.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ju0vdt30ad36f7oel2k4/one-at-a-time-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20241015080551+0000" stop="20241015084121+0000">
-    <title lang="en">Past, Present, Future</title>
-    <desc lang="en">Vali Höll steps up to elite level, after a dominant junior career. How will she fare against the world’s best?</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/7/22/ggyze3qvevmg8oorxr1z/past-present-future-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20241015084121+0000" stop="20241015092858+0000">
     <title lang="en">Return to Earth</title>
     <desc lang="en">Focus on the pure enjoyment and immersion riders experience while mountain biking.</desc>
@@ -143,7 +131,7 @@
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/4/uy6brgtuxhj4xr129iui/long-live-chainsaw-hero-art"/>
   </programme>
-  <programme channel="redbull.com" start="20241015060000+0000" stop="20241015070624+0000">
+  <programme channel="redbull.com" start="20241016030434+0000" stop="20241016041059+0000">
     <title lang="en">North of Nightfall</title>
     <desc lang="en">A group of mountain bikers set out to the most remote region on Earth to pioneer the largest mountain lines.</desc>
     <category lang="en">MTB</category>
@@ -154,5 +142,17 @@
     <desc lang="en">Follow professional slopestyle rider Brett Rheeder through the ups and downs of a Crankworx contest season.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ju0vdt30ad36f7oel2k4/one-at-a-time-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20241015080551+0000" stop="20241015084121+0000">
+    <title lang="en">Past, Present, Future</title>
+    <desc lang="en">Vali Höll steps up to elite level, after a dominant junior career. How will she fare against the world’s best?</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/7/22/ggyze3qvevmg8oorxr1z/past-present-future-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20241016054556+0000" stop="20241016060000+0000">
+    <title lang="en">Virginia</title>
+    <desc lang="en">Enjoy a different side of American skateboarding culture, ripping up the Virginia skate scene with the locals.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/28/ijmidoos7d2qrhrq4ghh/greetings-from-s2-e3-virginia-usa-gilbert-crockett"/>
   </programme>
 </tv>
