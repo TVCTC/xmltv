@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-15 05:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-15 06:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241015013640+0000" stop="20241015021325+0000">
-    <title lang="en">Brandon Semenuk – Steps to the Top </title>
-    <desc lang="en">An inside look at the creative process behind Brandon Semenuk’s Red Bull Rampage winning run in 2021. </desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/3/h3axlc6y2gglk0zhtzqz/brandon-semenuk-steps-to-the-top-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20241015021325+0000" stop="20241015030434+0000">
-    <title lang="en">Esperanto</title>
-    <desc lang="en">Esperanto explores how dreams can be shared through the universal two-wheeled language of cycling.</desc>
-    <category lang="en">Cycling</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/23/hyyihfqinrqdzghqxlri/esperanto-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20241015030434+0000" stop="20241015041248+0000">
     <title lang="en">Etnies: Chapters</title>
     <desc lang="en">Three years in the making, this film captures BMX riding in stunning locations shot in 15 countries.</desc>
@@ -149,10 +137,22 @@
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/grv8ijzyrwhtsstkoas3/red-bull-valparaiso-cerro-abajo-2023"/>
   </programme>
-  <programme channel="redbull.com" start="20241015000820+0000" stop="20241015013640+0000">
+  <programme channel="redbull.com" start="20241015212628+0000" stop="20241015225448+0000">
     <title lang="en">Blood Road</title>
     <desc lang="en">Endurance pro Rebecca Rusch rides through Vietnam's dense jungle along the infamous 1,930km Ho Chi Minh Trail.</desc>
     <category lang="en">Cycling</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/7/8/z6cdzuwxcjajuvqxzgir/bloodroad_landscape_hero"/>
+  </programme>
+  <programme channel="redbull.com" start="20241015225448+0000" stop="20241015233133+0000">
+    <title lang="en">Brandon Semenuk – Steps to the Top </title>
+    <desc lang="en">An inside look at the creative process behind Brandon Semenuk’s Red Bull Rampage winning run in 2021. </desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/3/h3axlc6y2gglk0zhtzqz/brandon-semenuk-steps-to-the-top-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20241015021325+0000" stop="20241015030434+0000">
+    <title lang="en">Esperanto</title>
+    <desc lang="en">Esperanto explores how dreams can be shared through the universal two-wheeled language of cycling.</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/23/hyyihfqinrqdzghqxlri/esperanto-hero-art"/>
   </programme>
 </tv>
