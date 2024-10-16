@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-16 03:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-16 04:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241015233133+0000" stop="20241016002242+0000">
-    <title lang="en">Esperanto</title>
-    <desc lang="en">Esperanto explores how dreams can be shared through the universal two-wheeled language of cycling.</desc>
-    <category lang="en">Cycling</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/23/hyyihfqinrqdzghqxlri/esperanto-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20241016002242+0000" stop="20241016013056+0000">
     <title lang="en">Etnies: Chapters</title>
     <desc lang="en">Three years in the making, this film captures BMX riding in stunning locations shot in 15 countries.</desc>
@@ -143,7 +137,7 @@
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/3/h3axlc6y2gglk0zhtzqz/brandon-semenuk-steps-to-the-top-hero-art"/>
   </programme>
-  <programme channel="redbull.com" start="20241015233133+0000" stop="20241016002242+0000">
+  <programme channel="redbull.com" start="20241016193544+0000" stop="20241016202654+0000">
     <title lang="en">Esperanto</title>
     <desc lang="en">Esperanto explores how dreams can be shared through the universal two-wheeled language of cycling.</desc>
     <category lang="en">Cycling</category>
@@ -154,5 +148,11 @@
     <desc lang="en">Three years in the making, this film captures BMX riding in stunning locations shot in 15 countries.</desc>
     <category lang="en">BMX</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1X54UB9T55N11/FO-1X54UB9T55N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20241016013056+0000" stop="20241016030434+0000">
+    <title lang="en">Long Live Chainsaw</title>
+    <desc lang="en">From underdog to world champ – this is the mountain bike in memory of legend Stevie 'Chainsaw' Smith.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/4/uy6brgtuxhj4xr129iui/long-live-chainsaw-hero-art"/>
   </programme>
 </tv>
