@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-16 16:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-16 17:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241016121820+0000" stop="20241016133701+0000">
+    <title lang="en">Highlight Show Rampage 2023</title>
+    <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.  </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/kp92a5bvrxlsmsyjrtfz/jaxson-riddle"/>
+  </programme>
   <programme channel="redbull.com" start="20241016133701+0000" stop="20241016142100+0000">
     <title lang="en">Red Bull Rampage</title>
     <desc lang="en">Get a shot of adrenaline as you look back at the very best moments of Red Bull Rampage through the years.</desc>
@@ -131,13 +137,13 @@
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z6R1FMW55N11/FO-1Z6R1FMW55N11-featureMedia"/>
   </programme>
-  <programme channel="redbull.com" start="20241017071741+0000" stop="20241017082635+0000">
+  <programme channel="redbull.com" start="20241016103222+0000" stop="20241016114116+0000">
     <title lang="en">The Old World</title>
     <desc lang="en">Traverse iconic European locations in a celebration of biking culture that unites MTB and BMX.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual"/>
   </programme>
-  <programme channel="redbull.com" start="20241017082635+0000" stop="20241017090339+0000">
+  <programme channel="redbull.com" start="20241016114116+0000" stop="20241016121820+0000">
     <title lang="en">VISION</title>
     <desc lang="en">VISION blends the creative worlds of Veronique Sandler in a coming together of art, design and sport.</desc>
     <category lang="en">MTB</category>
@@ -148,11 +154,5 @@
     <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.  </desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/kp92a5bvrxlsmsyjrtfz/jaxson-riddle"/>
-  </programme>
-  <programme channel="redbull.com" start="20241016133701+0000" stop="20241016142100+0000">
-    <title lang="en">Red Bull Rampage</title>
-    <desc lang="en">Get a shot of adrenaline as you look back at the very best moments of Red Bull Rampage through the years.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/5/6/dtkxk7cp2yqhdgwne9ou/carson-storch-rampage-2019-virgin-utah"/>
   </programme>
 </tv>
