@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-17 22:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-17 23:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241017164753+0000" stop="20241017173902+0000">
-    <title lang="en">Esperanto</title>
-    <desc lang="en">Esperanto explores how dreams can be shared through the universal two-wheeled language of cycling.</desc>
-    <category lang="en">Cycling</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/23/hyyihfqinrqdzghqxlri/esperanto-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20241017173902+0000" stop="20241017184716+0000">
-    <title lang="en">Etnies: Chapters</title>
-    <desc lang="en">Three years in the making, this film captures BMX riding in stunning locations shot in 15 countries.</desc>
-    <category lang="en">BMX</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1X54UB9T55N11/FO-1X54UB9T55N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20241017184716+0000" stop="20241017202054+0000">
     <title lang="en">Long Live Chainsaw</title>
     <desc lang="en">From underdog to world champ – this is the mountain bike in memory of legend Stevie 'Chainsaw' Smith.</desc>
@@ -143,16 +131,28 @@
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/grv8ijzyrwhtsstkoas3/red-bull-valparaiso-cerro-abajo-2023"/>
   </programme>
-  <programme channel="redbull.com" start="20241017144249+0000" stop="20241017161108+0000">
+  <programme channel="redbull.com" start="20241018121537+0000" stop="20241018134357+0000">
     <title lang="en">Blood Road</title>
     <desc lang="en">Endurance pro Rebecca Rusch rides through Vietnam's dense jungle along the infamous 1,930km Ho Chi Minh Trail.</desc>
     <category lang="en">Cycling</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/7/8/z6cdzuwxcjajuvqxzgir/bloodroad_landscape_hero"/>
   </programme>
-  <programme channel="redbull.com" start="20241017161108+0000" stop="20241017164753+0000">
+  <programme channel="redbull.com" start="20241018134357+0000" stop="20241018142042+0000">
     <title lang="en">Brandon Semenuk – Steps to the Top </title>
     <desc lang="en">An inside look at the creative process behind Brandon Semenuk’s Red Bull Rampage winning run in 2021. </desc>
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/10/3/h3axlc6y2gglk0zhtzqz/brandon-semenuk-steps-to-the-top-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20241018142042+0000" stop="20241018151151+0000">
+    <title lang="en">Esperanto</title>
+    <desc lang="en">Esperanto explores how dreams can be shared through the universal two-wheeled language of cycling.</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/23/hyyihfqinrqdzghqxlri/esperanto-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20241017173902+0000" stop="20241017184716+0000">
+    <title lang="en">Etnies: Chapters</title>
+    <desc lang="en">Three years in the making, this film captures BMX riding in stunning locations shot in 15 countries.</desc>
+    <category lang="en">BMX</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1X54UB9T55N11/FO-1X54UB9T55N11-featureMedia"/>
   </programme>
 </tv>
