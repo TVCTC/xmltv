@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-17 23:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-18 00:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241017184716+0000" stop="20241017202054+0000">
-    <title lang="en">Long Live Chainsaw</title>
-    <desc lang="en">From underdog to world champ – this is the mountain bike in memory of legend Stevie 'Chainsaw' Smith.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/4/uy6brgtuxhj4xr129iui/long-live-chainsaw-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20241017202054+0000" stop="20241017212719+0000">
-    <title lang="en">North of Nightfall</title>
-    <desc lang="en">A group of mountain bikers set out to the most remote region on Earth to pioneer the largest mountain lines.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YUTPNWXH5N11/fo-1yutpnwxh5n11-featuremedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20241017212719+0000" stop="20241017222646+0000">
-    <title lang="en">One at a Time</title>
-    <desc lang="en">Follow professional slopestyle rider Brett Rheeder through the ups and downs of a Crankworx contest season.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ju0vdt30ad36f7oel2k4/one-at-a-time-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20241017222646+0000" stop="20241017230216+0000">
     <title lang="en">Past, Present, Future</title>
     <desc lang="en">Vali Höll steps up to elite level, after a dominant junior career. How will she fare against the world’s best?</desc>
@@ -149,10 +131,28 @@
     <category lang="en">Cycling</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/23/hyyihfqinrqdzghqxlri/esperanto-hero-art"/>
   </programme>
-  <programme channel="redbull.com" start="20241017173902+0000" stop="20241017184716+0000">
+  <programme channel="redbull.com" start="20241018151151+0000" stop="20241018162005+0000">
     <title lang="en">Etnies: Chapters</title>
     <desc lang="en">Three years in the making, this film captures BMX riding in stunning locations shot in 15 countries.</desc>
     <category lang="en">BMX</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1X54UB9T55N11/FO-1X54UB9T55N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20241018162005+0000" stop="20241018175343+0000">
+    <title lang="en">Long Live Chainsaw</title>
+    <desc lang="en">From underdog to world champ – this is the mountain bike in memory of legend Stevie 'Chainsaw' Smith.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/4/uy6brgtuxhj4xr129iui/long-live-chainsaw-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20241018175343+0000" stop="20241018190008+0000">
+    <title lang="en">North of Nightfall</title>
+    <desc lang="en">A group of mountain bikers set out to the most remote region on Earth to pioneer the largest mountain lines.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YUTPNWXH5N11/fo-1yutpnwxh5n11-featuremedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20241018190008+0000" stop="20241018195935+0000">
+    <title lang="en">One at a Time</title>
+    <desc lang="en">Follow professional slopestyle rider Brett Rheeder through the ups and downs of a Crankworx contest season.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ju0vdt30ad36f7oel2k4/one-at-a-time-hero-art"/>
   </programme>
 </tv>
