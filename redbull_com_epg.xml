@@ -1,29 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-18 10:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-18 11:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241018063704+0000" stop="20241018075544+0000">
-    <title lang="en">Highlight Show Rampage 2023</title>
-    <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.  </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/kp92a5bvrxlsmsyjrtfz/jaxson-riddle"/>
-  </programme>
-  <programme channel="redbull.com" start="20241018075544+0000" stop="20241018083944+0000">
-    <title lang="en">Red Bull Rampage</title>
-    <desc lang="en">Get a shot of adrenaline as you look back at the very best moments of Red Bull Rampage through the years.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/5/6/dtkxk7cp2yqhdgwne9ou/carson-storch-rampage-2019-virgin-utah"/>
-  </programme>
   <programme channel="redbull.com" start="20241018083944+0000" stop="20241018091008+0000">
     <title lang="en">No I in team</title>
     <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/5/dzfbz2heksvcugo7d5dr/jolanda-neff-uci-xco-world-cup-val-di-sole-2022"/>
   </programme>
-  <programme channel="redbull.com" start="20241018053109+0000" stop="20241018060000+0000">
+  <programme channel="redbull.com" start="20241018091008+0000" stop="20241018093831+0000">
     <title lang="en">Apex predators </title>
     <desc lang="en">In the downhill, Finn Iles struggles to beat his biggest competitor, team-mate Loïc Bruni.</desc>
     <category lang="en">MTB</category>
@@ -143,7 +131,7 @@
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/3/c1zjbxauahxsq0vqb09s/the-old-world-visual"/>
   </programme>
-  <programme channel="redbull.com" start="20241018060000+0000" stop="20241018063704+0000">
+  <programme channel="redbull.com" start="20241019030358+0000" stop="20241019034103+0000">
     <title lang="en">VISION</title>
     <desc lang="en">VISION blends the creative worlds of Veronique Sandler in a coming together of art, design and sport.</desc>
     <category lang="en">MTB</category>
@@ -154,5 +142,17 @@
     <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.  </desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/kp92a5bvrxlsmsyjrtfz/jaxson-riddle"/>
+  </programme>
+  <programme channel="redbull.com" start="20241018075544+0000" stop="20241018083944+0000">
+    <title lang="en">Red Bull Rampage</title>
+    <desc lang="en">Get a shot of adrenaline as you look back at the very best moments of Red Bull Rampage through the years.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/5/6/dtkxk7cp2yqhdgwne9ou/carson-storch-rampage-2019-virgin-utah"/>
+  </programme>
+  <programme channel="redbull.com" start="20241019054419+0000" stop="20241019060000+0000">
+    <title lang="en">2017's fan-favourite teams</title>
+    <desc lang="en">As 2017's fan favourites teach us, two-wheels never work, and everyone loves a pop culture referencing racer.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/dho8x52o7xnz6asj4kiy/team-gripen-light-red-bull-soapbox-race-lausanne-2017"/>
   </programme>
 </tv>
