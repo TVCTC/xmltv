@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-20 09:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-20 10:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241020054741+0000" stop="20241020060000+0000">
+    <title lang="en">2019's fan-favourite teams</title>
+    <desc lang="en">A brilliant transformer design, top-notch dancing and a flaming witch all won the crowds' hearts in 2019.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/pfyrh28vnhdghijxsria/bumblee-brawl-red-bull-soapbox-race-london-2019"/>
+  </programme>
+  <programme channel="redbull.com" start="20241020060000+0000" stop="20241020062600+0000">
+    <title lang="en">Highlights – Genova Premier Padel P2</title>
+    <desc lang="en">Relive the action from the Genova Premier Padel P2 as the world's best players battle for the top prize.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/s253hq7fqbonj5la7zqi/beatriz-gonzalez-premier-padel-asuncion-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241020062600+0000" stop="20241020065146+0000">
+    <title lang="en">Highlights – Madrid Premier Padel P1 </title>
+    <desc lang="en">Watch the highlights from Spain as the Madrid Premier Padel P1 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/3/o2t3bgdxiartzlbbwp30/juan-lebron-padel-madrid-2024"/>
+  </programme>
   <programme channel="redbull.com" start="20241020065146+0000" stop="20241020071738+0000">
     <title lang="en">Highlights – Malaga Premier Padel P1</title>
     <desc lang="en">Watch the highlights from Spain as the Malaga Premier Padel P1 took centre stage.</desc>
@@ -136,23 +154,5 @@
     <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
     <category lang="en">Athletics</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241020192322+0000" stop="20241020200858+0000">
-    <title lang="en">How to build the perfect mountain bike team</title>
-    <desc lang="en">Get the inside track from pros on building a downhill team, plus cross-country tips for training and recovery.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/13/csl6c4m4k6xpokqjrzxl/jackson-goldstone-uci-downhill-world-cup-mont-sainte-anne-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20241020200858+0000" stop="20241020210429+0000">
-    <title lang="en">Inside MTB racing: rules and rivals</title>
-    <desc lang="en">Get the MTB dirt right here, from Crans-Montana track controversy to Myriam Nicole vs Tahnée Seagrave.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/4/yrjkssrvog5wlwniozu0/tom-pidcock-uci-xco-world-cup-crans-montana-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241020210429+0000" stop="20241020215654+0000">
-    <title lang="en">MTB legends, UCI Loudenvielle and bike tech trends</title>
-    <desc lang="en">Dive into the legacy of Pauline Ferrand-Prévot, bike tech trends, and the lowdown from UCI Loudenvielle.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/9/rc26dvam7uxevda0ip09/aaron-gwin-uci-mountain-bike-world-cup-loudenvielle-2024"/>
   </programme>
 </tv>
