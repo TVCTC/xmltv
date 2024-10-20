@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-20 03:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-20 04:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241020003838+0000" stop="20241020013103+0000">
-    <title lang="en">MTB legends, UCI Loudenvielle and bike tech trends</title>
-    <desc lang="en">Dive into the legacy of Pauline Ferrand-Prévot, bike tech trends, and the lowdown from UCI Loudenvielle.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/9/rc26dvam7uxevda0ip09/aaron-gwin-uci-mountain-bike-world-cup-loudenvielle-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241020013103+0000" stop="20241020023127+0000">
-    <title lang="en">The MTB World Cup season is back with a bang!</title>
-    <desc lang="en">Review Martin Vidaurre's career, Vali Höll talks team changes and Kate Courtney discusses Paris qualifying.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/17/g63nexzcsm0h0dsj8tha/martin-vidaurre-uci-xco-world-cup-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20241020023127+0000" stop="20241020032602+0000">
     <title lang="en">Ice Waterfalls</title>
     <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Swedish freeskier Jesper Tjäder shares how skateboarding makes him a sharper, more agile ski competitor.</desc>
     <category lang="en">Snowboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/8/26/ezbu0cp08krpa0lh0p0d/dual-focus-s1-e1-jesper-tjader-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20241020124123+0000" stop="20241020131500+0000">
+    <title lang="en">20 Years of Red Bull Valparaíso Cerro Abajo</title>
+    <desc lang="en">Relive 20 years of the largest urban downhill race in the world that began as an idea among friends.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/grv8ijzyrwhtsstkoas3/red-bull-valparaiso-cerro-abajo-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20241020131500+0000" stop="20241020151536+0000">
+    <title lang="en">Red Bull Genova Cerro Abajo – live</title>
+    <desc lang="en">One of the wildest urban downhill courses yet, riders navigate Genova's narrow, twisty streets and staircases.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/12/n4yma3wyrayqwuxv4k8t/pedro-burns-red-bull-valparaiso-cerro-abajo-2024"/>
   </programme>
 </tv>
