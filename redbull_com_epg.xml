@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-23 16:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-23 17:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241023134254+0000" stop="20241023143729+0000">
-    <title lang="en">Ice Waterfalls</title>
-    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/15/n9e71buasfvbbdzzu7di/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
-  </programme>
   <programme channel="redbull.com" start="20241023143729+0000" stop="20241023152929+0000">
     <title lang="en">Relive 2024’s record run</title>
     <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iww612k42herg2tme0kr/marco-fuerst-base-jumping"/>
+  </programme>
+  <programme channel="redbull.com" start="20241024011526+0000" stop="20241024014202+0000">
+    <title lang="en">From freerunning Greek isles to skiing the Streif</title>
+    <desc lang="en">Red Bull athletes do it all, from skiing down the steepest run at night to slacklining during an eclipse.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/pafocedw24uyj8uzbkjm/dominic-di-tommaso-hazal-nehir-istanbul-2021"/>
   </programme>
 </tv>
