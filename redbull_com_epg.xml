@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-24 08:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-24 09:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241024053212+0000" stop="20241024060000+0000">
-    <title lang="en">Jaan Roose: Life on the Line</title>
-    <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
-    <category lang="en">Slacklining</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
-  </programme>
-  <programme channel="redbull.com" start="20241024060000+0000" stop="20241024073642+0000">
-    <title lang="en">Born to Fly</title>
-    <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20241024073642+0000" stop="20241024082217+0000">
     <title lang="en">How to build the perfect mountain bike team</title>
     <desc lang="en">Get the inside track from pros on building a downhill team, plus cross-country tips for training and recovery.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Red Bull athletes do it all, from riding a skatepark under a hot air balloon to F1 drivers racing on water. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/oyfmvrqrchvizwasa9o9/oracle-red-bull-racings-rb7"/>
+  </programme>
+  <programme channel="redbull.com" start="20241024200558+0000" stop="20241024203234+0000">
+    <title lang="en">From F1 soapbox racing to breaking world records</title>
+    <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
+  </programme>
+  <programme channel="redbull.com" start="20241024203234+0000" stop="20241024205834+0000">
+    <title lang="en">From a pinball human to 93kph speed skating</title>
+    <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
   </programme>
 </tv>
