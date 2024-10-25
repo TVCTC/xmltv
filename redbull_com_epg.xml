@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-25 02:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-25 03:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241024215110+0000" stop="20241024221710+0000">
-    <title lang="en">From skateboarding out a plane to 180m wall climb</title>
-    <desc lang="en">Red Bull athletes do it all, from freerunning through an airport to building a skatepark in the forest.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/u2jrgximnynso9wn4vue/andrzej-bargiel"/>
-  </programme>
-  <programme channel="redbull.com" start="20241024221710+0000" stop="20241024230946+0000">
-    <title lang="en">From BASE jumping a cave to a flying mega swing </title>
-    <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iww612k42herg2tme0kr/marco-fuerst-base-jumping"/>
-  </programme>
-  <programme channel="redbull.com" start="20241024230946+0000" stop="20241024233546+0000">
-    <title lang="en">From soapbox madness to skydiving with an FMX bike</title>
-    <desc lang="en">Red Bull athletes do it all, from skydiving with a motocross bike to riding rally cars on frozen lakes. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iltxmuy0dpylwgiezemw/red-bull-dance-your-style-lausanne-final-aceko-performance-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20241024233546+0000" stop="20241025000222+0000">
     <title lang="en">From wingsuits to parachutes</title>
     <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Relive the action from the Genova Premier Padel P2 as the world's best players battle for the top prize.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/s253hq7fqbonj5la7zqi/beatriz-gonzalez-premier-padel-asuncion-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241025125352+0000" stop="20241025132014+0000">
+    <title lang="en">Highlights – Madrid Premier Padel P1 </title>
+    <desc lang="en">Watch the highlights from Spain as the Madrid Premier Padel P1 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/3/o2t3bgdxiartzlbbwp30/juan-lebron-padel-madrid-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241025132014+0000" stop="20241025134531+0000">
+    <title lang="en">Highlights – Malaga Premier Padel P1</title>
+    <desc lang="en">Watch the highlights from Spain as the Malaga Premier Padel P1 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/16/e7a1ua8wknq0q8v13voe/alejandro-galan-malaga-premier-padel-p1"/>
+  </programme>
+  <programme channel="redbull.com" start="20241025134531+0000" stop="20241025141142+0000">
+    <title lang="en">Highlights – Mar del Plata Premier Padel P1</title>
+    <desc lang="en">Watch the highlights of the eighth stop of the season in Argentina from the Premier Padel Mar del Plata P1.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/22/wrcasajexcgkw9ffnrbz/premier-padel-tour-milan-mens-match-2024"/>
   </programme>
 </tv>
