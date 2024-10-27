@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-27 18:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-27 19:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241027153410+0000" stop="20241027161804+0000">
-    <title lang="en">BS!</title>
-    <desc lang="en">BS! captures serious surfing with humour and sarcasm, from Australia's blue tubes to Indonesia's green walls.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/jehtbqrdsypbau1esydr/bs-surf-film"/>
-  </programme>
-  <programme channel="redbull.com" start="20241027161804+0000" stop="20241027171221+0000">
-    <title lang="en">Castles in the Sky</title>
-    <desc lang="en">This is as close to the experience of pioneering new coastlines as you can get without getting on a plane.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/q8wngrrxic3cpsh7sli6/dane-reynolds-haleiwa-2015"/>
-  </programme>
   <programme channel="redbull.com" start="20241027171221+0000" stop="20241027180554+0000">
     <title lang="en">Drop Everything</title>
     <desc lang="en">Matchstick Productions present a light-hearted approach to slope-side action, featuring world-class skiers.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Relive the action from the Genova Premier Padel P2 as the world's best players battle for the top prize.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/s253hq7fqbonj5la7zqi/beatriz-gonzalez-premier-padel-asuncion-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241028074414+0000" stop="20241028081000+0000">
+    <title lang="en">Highlights – Madrid Premier Padel P1 </title>
+    <desc lang="en">Watch the highlights from Spain as the Madrid Premier Padel P1 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/3/o2t3bgdxiartzlbbwp30/juan-lebron-padel-madrid-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241028081000+0000" stop="20241028083553+0000">
+    <title lang="en">Highlights – Malaga Premier Padel P1</title>
+    <desc lang="en">Watch the highlights from Spain as the Malaga Premier Padel P1 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/16/e7a1ua8wknq0q8v13voe/alejandro-galan-malaga-premier-padel-p1"/>
   </programme>
 </tv>
