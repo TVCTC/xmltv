@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-27 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-27 05:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241027022123+0000" stop="20241027030249+0000">
-    <title lang="en">True to This</title>
-    <desc lang="en">Celebrate Volcom's fusion of surf, skate and snowboarding in a cinematic journey of rebellious attitude.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/2/gdzdz7ctatn8hluyhrme/true-to-this"/>
-  </programme>
-  <programme channel="redbull.com" start="20241027030249+0000" stop="20241027035032+0000">
-    <title lang="en">Under Black Flag</title>
-    <desc lang="en">Top Pirate Crew snowboard shots explode into an epic, timeless thrill – Gigi Rüf, Elias Elhardt and more.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/5/yocrvs3oek815aaamhty/under-black-flag-snowboard-film"/>
-  </programme>
   <programme channel="redbull.com" start="20241027035032+0000" stop="20241027044308+0000">
     <title lang="en">Relive 2024’s record run</title>
     <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">After a decade of bitter rivalry, Kelly Slater and Andy Irons come together to surf off their differences.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/j0qjn7adpo4zf4yrs9uh/kelly-slater-queensland-australia-2016"/>
+  </programme>
+  <programme channel="redbull.com" start="20241027153410+0000" stop="20241027161804+0000">
+    <title lang="en">BS!</title>
+    <desc lang="en">BS! captures serious surfing with humour and sarcasm, from Australia's blue tubes to Indonesia's green walls.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/jehtbqrdsypbau1esydr/bs-surf-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20241027161804+0000" stop="20241027171221+0000">
+    <title lang="en">Castles in the Sky</title>
+    <desc lang="en">This is as close to the experience of pioneering new coastlines as you can get without getting on a plane.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/q8wngrrxic3cpsh7sli6/dane-reynolds-haleiwa-2015"/>
   </programme>
 </tv>
