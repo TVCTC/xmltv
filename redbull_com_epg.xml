@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-28 16:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-28 17:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241028132339+0000" stop="20241028141756+0000">
-    <title lang="en">Castles in the Sky</title>
-    <desc lang="en">This is as close to the experience of pioneering new coastlines as you can get without getting on a plane.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/q8wngrrxic3cpsh7sli6/dane-reynolds-haleiwa-2015"/>
-  </programme>
-  <programme channel="redbull.com" start="20241028141756+0000" stop="20241028151129+0000">
-    <title lang="en">Drop Everything</title>
-    <desc lang="en">Matchstick Productions present a light-hearted approach to slope-side action, featuring world-class skiers.</desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1XE8Q8RJ55N11/FO-1XE8Q8RJ55N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20241028151129+0000" stop="20241028153550+0000">
-    <title lang="en">Dynamic Medium</title>
-    <desc lang="en">Watch American freeskier Bobby Brown chase the dynamic medium that is snow around the globe.</desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/11/14/b69304ed-3b41-4fff-bfeb-9d1ae65bb0f3/dynamicmedium_landscape_hero"/>
-  </programme>
   <programme channel="redbull.com" start="20241028153550+0000" stop="20241028163228+0000">
     <title lang="en">Fade to Winter</title>
     <desc lang="en">As warm seasons give way to the cold, the chase for any snow to ski is worth every effort required to find it.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Relive the action from the Genova Premier Padel P2 as the world's best players battle for the top prize.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/s253hq7fqbonj5la7zqi/beatriz-gonzalez-premier-padel-asuncion-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241029053334+0000" stop="20241029060000+0000">
+    <title lang="en">Highlights – Madrid Premier Padel P1 </title>
+    <desc lang="en">Watch the highlights from Spain as the Madrid Premier Padel P1 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/3/o2t3bgdxiartzlbbwp30/juan-lebron-padel-madrid-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241029060000+0000" stop="20241029062600+0000">
+    <title lang="en">Highlights – Puerto Cabello Premier Padel P2</title>
+    <desc lang="en">Watch the highlights of the fourth stop of the season in Venezuela for the Puerto Cabello Premier Padel P2. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/4/iqmgalloe5lthvm6jgma/suzanne-casey-premier-padel-2024-puerto-cabello-p2"/>
+  </programme>
+  <programme channel="redbull.com" start="20241029062600+0000" stop="20241029065237+0000">
+    <title lang="en">Highlights – Qatar Major Premier Padel</title>
+    <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
   </programme>
 </tv>
