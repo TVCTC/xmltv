@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-28 23:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-29 00:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241028204444+0000" stop="20241028213644+0000">
-    <title lang="en">Relive 2024’s record run</title>
-    <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
-    <category lang="en">Running</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/13/ja3b18y4rq9vp7jukejj/wings-for-life-world-run-2024-zadar-croatia"/>
-  </programme>
-  <programme channel="redbull.com" start="20241028213644+0000" stop="20241028222426+0000">
-    <title lang="en">Under Black Flag</title>
-    <desc lang="en">Top Pirate Crew snowboard shots explode into an epic, timeless thrill – Gigi Rüf, Elias Elhardt and more.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/5/yocrvs3oek815aaamhty/under-black-flag-snowboard-film"/>
-  </programme>
-  <programme channel="redbull.com" start="20241028222426+0000" stop="20241028223621+0000">
-    <title lang="en">The Making of Red Bull Symphonic with Metro Boomin</title>
-    <desc lang="en">Metro Boomin reimagines his biggest hits with a full orchestra and special guests at Red Bull Symphonic in LA.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/4/dpmlvljooivqllfltzcs/red-bull-symphonic-metro-boomin"/>
-  </programme>
-  <programme channel="redbull.com" start="20241028223621+0000" stop="20241028230115+0000">
-    <title lang="en">HYROX World Championships highlights – Nice</title>
-    <desc lang="en">Discover what makes HYROX – the indoor fitness competition – a test of strength, endurance and determination.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/14/z7oqxo0xdlr3y4cwhm0s/hyrox-world-championships-2024-competitors"/>
-  </programme>
-  <programme channel="redbull.com" start="20241028230115+0000" stop="20241028232745+0000">
-    <title lang="en">Red Bull Kumite highlights</title>
-    <desc lang="en">16 heroes gathered in NYC to discover the best Street Fighter 6 player on the planet. Welcome to the games.</desc>
-    <category lang="en">Games</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/13/nnargacmzfbacjpuqjhi/menard-winner-red-bull-kumite-2024-brooklyn"/>
-  </programme>
   <programme channel="redbull.com" start="20241028232745+0000" stop="20241029002924+0000">
     <title lang="en">ANYTIME</title>
     <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
@@ -154,5 +124,35 @@
     <desc lang="en">This is as close to the experience of pioneering new coastlines as you can get without getting on a plane.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/q8wngrrxic3cpsh7sli6/dane-reynolds-haleiwa-2015"/>
+  </programme>
+  <programme channel="redbull.com" start="20241029111627+0000" stop="20241029121000+0000">
+    <title lang="en">Drop Everything</title>
+    <desc lang="en">Matchstick Productions present a light-hearted approach to slope-side action, featuring world-class skiers.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1XE8Q8RJ55N11/FO-1XE8Q8RJ55N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20241029121000+0000" stop="20241029123421+0000">
+    <title lang="en">Dynamic Medium</title>
+    <desc lang="en">Watch American freeskier Bobby Brown chase the dynamic medium that is snow around the globe.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/11/14/b69304ed-3b41-4fff-bfeb-9d1ae65bb0f3/dynamicmedium_landscape_hero"/>
+  </programme>
+  <programme channel="redbull.com" start="20241029123421+0000" stop="20241029133059+0000">
+    <title lang="en">Fade to Winter</title>
+    <desc lang="en">As warm seasons give way to the cold, the chase for any snow to ski is worth every effort required to find it.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PYJYTWTH2111/skier"/>
+  </programme>
+  <programme channel="redbull.com" start="20241029133059+0000" stop="20241029141322+0000">
+    <title lang="en">Fleeting Time</title>
+    <desc lang="en">Ben Ferguson and a crew of professional snowboarders document two winters of chasing storms.</desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/21/i3nu64ojjxqwogr2c7g8/fleeting-time-ben-ferguson-snowboarding-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20241029141322+0000" stop="20241029145742+0000">
+    <title lang="en">Innersection: Black</title>
+    <desc lang="en">The 13 sections that form Innersection: Black were each produced by the surfers themselves.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/whmsgcosavnlsydarbad/carlos-munoz"/>
   </programme>
 </tv>
