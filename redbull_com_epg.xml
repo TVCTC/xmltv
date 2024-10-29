@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-29 05:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-29 06:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241029034920+0000" stop="20241029041554+0000">
-    <title lang="en">Highlights – Bordeaux Premier Padel P2</title>
-    <desc lang="en">See the best moments from the action-packed Bordeaux Premier Padel P2 tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/kj8nobdgp207u02uj09c/thomas-leygue-bordeaux-premier-padel-p2-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241029041554+0000" stop="20241029044202+0000">
-    <title lang="en">Highlights – Brussels Premier Padel P2</title>
-    <desc lang="en">Watch the highlights of the fifth stop of the season in Belgium for the Brussels Premier Padel P2. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/zjzvsbcyjhp7htwrzgpu/beatriz-gonzalez-fernandez-doha-2024-padel"/>
-  </programme>
-  <programme channel="redbull.com" start="20241029044202+0000" stop="20241029050734+0000">
-    <title lang="en">Highlights – Finland Premier Padel P2</title>
-    <desc lang="en">See the best moments from the action-packed Finland Premier Padel P2 tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/31/x3zbbzdkmavuhd6yin7o/arturo-coello-malaga-premier-padel-p1"/>
-  </programme>
-  <programme channel="redbull.com" start="20241029050734+0000" stop="20241029053334+0000">
-    <title lang="en">Highlights – Genova Premier Padel P2</title>
-    <desc lang="en">Relive the action from the Genova Premier Padel P2 as the world's best players battle for the top prize.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/s253hq7fqbonj5la7zqi/beatriz-gonzalez-premier-padel-asuncion-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20241029053334+0000" stop="20241029060000+0000">
     <title lang="en">Highlights – Madrid Premier Padel P1 </title>
     <desc lang="en">Watch the highlights from Spain as the Madrid Premier Padel P1 took centre stage. </desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Top Pirate Crew snowboard shots explode into an epic, timeless thrill – Gigi Rüf, Elias Elhardt and more.</desc>
     <category lang="en">Snowboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/5/yocrvs3oek815aaamhty/under-black-flag-snowboard-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20241029192257+0000" stop="20241029194751+0000">
+    <title lang="en">HYROX World Championships highlights – Nice</title>
+    <desc lang="en">Discover what makes HYROX – the indoor fitness competition – a test of strength, endurance and determination.</desc>
+    <category lang="en">Athletics</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/14/z7oqxo0xdlr3y4cwhm0s/hyrox-world-championships-2024-competitors"/>
+  </programme>
+  <programme channel="redbull.com" start="20241029194751+0000" stop="20241029201420+0000">
+    <title lang="en">Red Bull Kumite highlights</title>
+    <desc lang="en">16 heroes gathered in NYC to discover the best Street Fighter 6 player on the planet. Welcome to the games.</desc>
+    <category lang="en">Games</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/13/nnargacmzfbacjpuqjhi/menard-winner-red-bull-kumite-2024-brooklyn"/>
+  </programme>
+  <programme channel="redbull.com" start="20241029201420+0000" stop="20241029211600+0000">
+    <title lang="en">ANYTIME</title>
+    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
+  </programme>
+  <programme channel="redbull.com" start="20241029211600+0000" stop="20241029214206+0000">
+    <title lang="en">Jaan Roose: Life on the Line</title>
+    <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
+    <category lang="en">Slacklining</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
   </programme>
 </tv>
