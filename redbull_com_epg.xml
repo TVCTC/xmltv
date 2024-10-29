@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-29 18:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-29 19:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241029141322+0000" stop="20241029145742+0000">
-    <title lang="en">Innersection: Black</title>
-    <desc lang="en">The 13 sections that form Innersection: Black were each produced by the surfers themselves.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/whmsgcosavnlsydarbad/carlos-munoz"/>
-  </programme>
-  <programme channel="redbull.com" start="20241029145742+0000" stop="20241029152858+0000">
-    <title lang="en">My Name is João Chianca</title>
-    <desc lang="en">Join Brazilian surfing's next big thing as he experiences the highs and lows of life on the Championship Tour.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/29/ld8cuy0ndohap86x4ea4/joao-chianca-saquarema-2024-surfing"/>
-  </programme>
-  <programme channel="redbull.com" start="20241029152858+0000" stop="20241029161520+0000">
-    <title lang="en">Scratching the Surface</title>
-    <desc lang="en">This is the story of Julian Wilson’s rise to becoming a surfing megastar.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/vixrwqd4sylwz7rkgefh/julian-wilson-pipeline-2020"/>
-  </programme>
-  <programme channel="redbull.com" start="20241029161520+0000" stop="20241029170148+0000">
-    <title lang="en">Se7en Signs: A Travelling Film</title>
-    <desc lang="en">This is a film about travelling to find waves... and everything that happens in between.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/22/h7xnny83dapezq5kykwo/se7en-signs-a-travelling-film-header"/>
-  </programme>
-  <programme channel="redbull.com" start="20241029170148+0000" stop="20241029174315+0000">
-    <title lang="en">True to This</title>
-    <desc lang="en">Celebrate Volcom's fusion of surf, skate and snowboarding in a cinematic journey of rebellious attitude.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/2/gdzdz7ctatn8hluyhrme/true-to-this"/>
-  </programme>
   <programme channel="redbull.com" start="20241029174315+0000" stop="20241029183515+0000">
     <title lang="en">Relive 2024’s record run</title>
     <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
@@ -154,5 +124,35 @@
     <desc lang="en">See the Santiago Premier Padel P1 highlights as the season continued in one of padel's most popular countries.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/16/kryxydhbip56obt9samh/federico-chingotto-and-alejandro-galan-premier-padel-p1-in-santiago"/>
+  </programme>
+  <programme channel="redbull.com" start="20241030045712+0000" stop="20241030052311+0000">
+    <title lang="en">Highlights – Sevilla Premier Padel P2</title>
+    <desc lang="en">Watch the highlights of the sixth stop of the season in Spain from the Premier Padel Andalucia Sevilla P2.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/17/dyjezvxom1vpei5t6upe/fede-chingotto-and-ale-galan-premier-padel-p2-final-in-sevilla"/>
+  </programme>
+  <programme channel="redbull.com" start="20241030052311+0000" stop="20241030054902+0000">
+    <title lang="en">Highlights – Riyadh Premier Padel P1</title>
+    <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
+  </programme>
+  <programme channel="redbull.com" start="20241030054902+0000" stop="20241030060000+0000">
+    <title lang="en">2018's best runs</title>
+    <desc lang="en">Italian bagpipes and South Africa's fastest Stone Age soapbox made the cut among 2018's very best runs.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/pm6zgr2tqmnkc2jfehhf/red-bull-soapbox-race-rome-2018"/>
+  </programme>
+  <programme channel="redbull.com" start="20241030060000+0000" stop="20241030064812+0000">
+    <title lang="en">A Fly in the Champagne</title>
+    <desc lang="en">After a decade of bitter rivalry, Kelly Slater and Andy Irons come together to surf off their differences.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/j0qjn7adpo4zf4yrs9uh/kelly-slater-queensland-australia-2016"/>
+  </programme>
+  <programme channel="redbull.com" start="20241030064812+0000" stop="20241030073242+0000">
+    <title lang="en">BS!</title>
+    <desc lang="en">BS! captures serious surfing with humour and sarcasm, from Australia's blue tubes to Indonesia's green walls.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/jehtbqrdsypbau1esydr/bs-surf-film"/>
   </programme>
 </tv>
