@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-30 00:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-10-30 01:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241029214206+0000" stop="20241029231849+0000">
-    <title lang="en">Born to Fly</title>
-    <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241029231849+0000" stop="20241029234401+0000">
-    <title lang="en">Highlights – Acapulco Premier Padel P1</title>
-    <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
-  </programme>
   <programme channel="redbull.com" start="20241029234401+0000" stop="20241030000957+0000">
     <title lang="en">Highlights – Asunción Premier Padel P2 </title>
     <desc lang="en">Watch the highlights of the seventh stop of the season in Paraguay from the Asunción Premier Padel P2.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">The 13 sections that form Innersection: Black were each produced by the surfers themselves.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/whmsgcosavnlsydarbad/carlos-munoz"/>
+  </programme>
+  <programme channel="redbull.com" start="20241030120814+0000" stop="20241030123930+0000">
+    <title lang="en">My Name is João Chianca</title>
+    <desc lang="en">Join Brazilian surfing's next big thing as he experiences the highs and lows of life on the Championship Tour.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/29/ld8cuy0ndohap86x4ea4/joao-chianca-saquarema-2024-surfing"/>
+  </programme>
+  <programme channel="redbull.com" start="20241030123930+0000" stop="20241030132552+0000">
+    <title lang="en">Scratching the Surface</title>
+    <desc lang="en">This is the story of Julian Wilson’s rise to becoming a surfing megastar.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/vixrwqd4sylwz7rkgefh/julian-wilson-pipeline-2020"/>
   </programme>
 </tv>
