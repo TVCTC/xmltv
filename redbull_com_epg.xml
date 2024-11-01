@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-01 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-01 05:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241101011812+0000" stop="20241101020206+0000">
+    <title lang="en">BS!</title>
+    <desc lang="en">BS! captures serious surfing with humour and sarcasm, from Australia's blue tubes to Indonesia's green walls.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/jehtbqrdsypbau1esydr/bs-surf-film"/>
+  </programme>
   <programme channel="redbull.com" start="20241101020206+0000" stop="20241101025623+0000">
     <title lang="en">Castles in the Sky</title>
     <desc lang="en">This is as close to the experience of pioneering new coastlines as you can get without getting on a plane.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">See the best moments from the action-packed Finland Premier Padel P2 tournament.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/31/x3zbbzdkmavuhd6yin7o/arturo-coello-malaga-premier-padel-p1"/>
-  </programme>
-  <programme channel="redbull.com" start="20241101170935+0000" stop="20241101173535+0000">
-    <title lang="en">Highlights – Genova Premier Padel P2</title>
-    <desc lang="en">Relive the action from the Genova Premier Padel P2 as the world's best players battle for the top prize.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/s253hq7fqbonj5la7zqi/beatriz-gonzalez-premier-padel-asuncion-2024"/>
   </programme>
 </tv>
