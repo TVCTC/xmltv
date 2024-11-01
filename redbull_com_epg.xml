@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-01 15:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-01 16:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241101123049+0000" stop="20241101125655+0000">
-    <title lang="en">Jaan Roose: Life on the Line</title>
-    <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
-    <category lang="en">Slacklining</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
-  </programme>
-  <programme channel="redbull.com" start="20241101125655+0000" stop="20241101143338+0000">
-    <title lang="en">Born to Fly</title>
-    <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20241101143338+0000" stop="20241101145851+0000">
     <title lang="en">Highlights – Acapulco Premier Padel P1</title>
     <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Ben Ferguson and a crew of professional snowboarders document two winters of chasing storms.</desc>
     <category lang="en">Snowboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/21/i3nu64ojjxqwogr2c7g8/fleeting-time-ben-ferguson-snowboarding-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20241102030647+0000" stop="20241102035108+0000">
+    <title lang="en">Innersection: Black</title>
+    <desc lang="en">The 13 sections that form Innersection: Black were each produced by the surfers themselves.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/whmsgcosavnlsydarbad/carlos-munoz"/>
+  </programme>
+  <programme channel="redbull.com" start="20241102035108+0000" stop="20241102042224+0000">
+    <title lang="en">My Name is João Chianca</title>
+    <desc lang="en">Join Brazilian surfing's next big thing as he experiences the highs and lows of life on the Championship Tour.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/29/ld8cuy0ndohap86x4ea4/joao-chianca-saquarema-2024-surfing"/>
   </programme>
 </tv>
