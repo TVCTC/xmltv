@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-02 05:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-02 06:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241102035108+0000" stop="20241102042224+0000">
-    <title lang="en">My Name is João Chianca</title>
-    <desc lang="en">Join Brazilian surfing's next big thing as he experiences the highs and lows of life on the Championship Tour.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/29/ld8cuy0ndohap86x4ea4/joao-chianca-saquarema-2024-surfing"/>
-  </programme>
   <programme channel="redbull.com" start="20241102042224+0000" stop="20241102050846+0000">
     <title lang="en">Scratching the Surface</title>
     <desc lang="en">This is the story of Julian Wilson’s rise to becoming a surfing megastar.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Babsi Zangerl and Jacopo Larcher’s two-year big wall climbing quest comes down to one short weather window.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/gfhlivdykyqwj1wobfmq/reel-rock-s9-e3-jacopo-larcher"/>
+  </programme>
+  <programme channel="redbull.com" start="20241102173605+0000" stop="20241102180124+0000">
+    <title lang="en">DNA</title>
+    <desc lang="en">French phenom Seb Bouin tackles what may be the world’s hardest sport climb in the Verdon Gorge.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/qrip1psdzs4nhxdbqhl2/reel-rock-s9-e4-seb-bouin"/>
   </programme>
 </tv>
