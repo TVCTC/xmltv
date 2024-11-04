@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-04 13:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-04 14:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241104103751+0000" stop="20241104105926+0000">
+    <title lang="en">House of the gods part 2</title>
+    <desc lang="en">Anna Taylor must battle the hardest pitch yet to achieve the team's goal of a fully free ascent.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/zx7l8ltgi9gbhq2lwpvg/reel-rock-s9-e7-leo-houlding-anna-taylor-waldo-etherington"/>
+  </programme>
+  <programme channel="redbull.com" start="20241104105926+0000" stop="20241104112033+0000">
+    <title lang="en">Sleeping lion</title>
+    <desc lang="en">Big wall climbing legend Chris Sharma introduces his mega new project in Siurana, Spain: the Sleeping Lion.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/cghmb3stfcolvkju5jbe/reel-rock-s9-e8-chris-sharma"/>
+  </programme>
+  <programme channel="redbull.com" start="20241104112033+0000" stop="20241104114100+0000">
+    <title lang="en">Reel Rock: Alex Honnold in Nevada</title>
+    <desc lang="en">Alex Honnold attempts his latest and most treacherous single-push solo mission in Red Rock Canyon, Nevada.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/q7jztsoil9xcmoa1fqak/reel-rock-s9-e9-alex-honnold"/>
+  </programme>
   <programme channel="redbull.com" start="20241104114100+0000" stop="20241104120026+0000">
     <title lang="en">The hurt part 2</title>
     <desc lang="en">Alex Honnold gears up for the hardest section of his Red Rock Canyon climb so far just in time for nightfall.</desc>
@@ -136,23 +154,5 @@
     <desc lang="en">16 heroes gathered in NYC to discover the best Street Fighter 6 player on the planet. Welcome to the games.</desc>
     <category lang="en">Games</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/13/nnargacmzfbacjpuqjhi/menard-winner-red-bull-kumite-2024-brooklyn"/>
-  </programme>
-  <programme channel="redbull.com" start="20241104225228+0000" stop="20241104235443+0000">
-    <title lang="en">ANYTIME</title>
-    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
-  </programme>
-  <programme channel="redbull.com" start="20241104235443+0000" stop="20241105002050+0000">
-    <title lang="en">Jaan Roose: Life on the Line</title>
-    <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
-    <category lang="en">Slacklining</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
-  </programme>
-  <programme channel="redbull.com" start="20241105002050+0000" stop="20241105015732+0000">
-    <title lang="en">Born to Fly</title>
-    <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
   </programme>
 </tv>
