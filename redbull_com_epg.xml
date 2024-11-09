@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-09 01:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-09 02:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241108184106+0000" stop="20241108190625+0000">
+    <title lang="en">DNA</title>
+    <desc lang="en">French phenom Seb Bouin tackles what may be the world’s hardest sport climb in the Verdon Gorge.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/qrip1psdzs4nhxdbqhl2/reel-rock-s9-e4-seb-bouin"/>
+  </programme>
+  <programme channel="redbull.com" start="20241108190625+0000" stop="20241108193205+0000">
+    <title lang="en">House of the gods part 1</title>
+    <desc lang="en">Leo Houlding, Anna Taylor and Waldo Etherington attempt a new route up Mount Roraima in the Amazonian Jungle.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/gzvvsct474x3bhtajbsu/reel-rock-s9-e6-image"/>
+  </programme>
+  <programme channel="redbull.com" start="20241108193205+0000" stop="20241108195303+0000">
+    <title lang="en">House of the gods part 2</title>
+    <desc lang="en">Anna Taylor must battle the hardest pitch yet to achieve the team's goal of a fully free ascent.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/zx7l8ltgi9gbhq2lwpvg/reel-rock-s9-e7-leo-houlding-anna-taylor-waldo-etherington"/>
+  </programme>
+  <programme channel="redbull.com" start="20241108195303+0000" stop="20241108201410+0000">
+    <title lang="en">Sleeping lion</title>
+    <desc lang="en">Big wall climbing legend Chris Sharma introduces his mega new project in Siurana, Spain: the Sleeping Lion.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/cghmb3stfcolvkju5jbe/reel-rock-s9-e8-chris-sharma"/>
+  </programme>
+  <programme channel="redbull.com" start="20241108201410+0000" stop="20241108203514+0000">
+    <title lang="en">Reel Rock: Alex Honnold in Nevada</title>
+    <desc lang="en">Alex Honnold attempts his latest and most treacherous single-push solo mission in Red Rock Canyon, Nevada.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/q7jztsoil9xcmoa1fqak/reel-rock-s9-e9-alex-honnold"/>
+  </programme>
+  <programme channel="redbull.com" start="20241108203514+0000" stop="20241108205440+0000">
+    <title lang="en">The hurt part 2</title>
+    <desc lang="en">Alex Honnold gears up for the hardest section of his Red Rock Canyon climb so far just in time for nightfall.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/otjzpavrbg5uvl0sagg0/reel-rock-s9-e10-alex-honnold"/>
+  </programme>
+  <programme channel="redbull.com" start="20241108205440+0000" stop="20241108211952+0000">
+    <title lang="en">Highlights – Acapulco Premier Padel P1</title>
+    <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
+  </programme>
+  <programme channel="redbull.com" start="20241108211952+0000" stop="20241108214548+0000">
+    <title lang="en">Highlights – Asunción Premier Padel P2 </title>
+    <desc lang="en">Watch the highlights of the seventh stop of the season in Paraguay from the Asunción Premier Padel P2.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/yupj6ycdbof7x8jrd3at/beatriz-caldera-premier-padel"/>
+  </programme>
+  <programme channel="redbull.com" start="20241108214548+0000" stop="20241108221222+0000">
+    <title lang="en">Highlights – BNL Italy Major Premier Padel</title>
+    <desc lang="en">Relive the action from the third Major of the Premier Padel Season 2024 as Italy takes the main stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/lwozjjuxbuh1lsoad8xb/ale-galan-sevilla-premier-padel-p2-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241108221222+0000" stop="20241108223820+0000">
+    <title lang="en">Highlights – Bordeaux Premier Padel P2</title>
+    <desc lang="en">See the best moments from the action-packed Bordeaux Premier Padel P2 tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/kj8nobdgp207u02uj09c/thomas-leygue-bordeaux-premier-padel-p2-2024"/>
+  </programme>
   <programme channel="redbull.com" start="20241108223820+0000" stop="20241108230429+0000">
     <title lang="en">Highlights – Brussels Premier Padel P2</title>
     <desc lang="en">Watch the highlights of the fifth stop of the season in Belgium for the Brussels Premier Padel P2. </desc>
@@ -94,65 +154,5 @@
     <desc lang="en">Traversing the history as well as the trails, 14 riders uncover the essence of MTB in Crested Butte, Colorado.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/29/cflhnbj4pq90silaroha/lauren-richie-shaun-a-bikers-ballad-mtb"/>
-  </programme>
-  <programme channel="redbull.com" start="20241109065054+0000" stop="20241109075233+0000">
-    <title lang="en">ANYTIME</title>
-    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
-  </programme>
-  <programme channel="redbull.com" start="20241109075233+0000" stop="20241109075744+0000">
-    <title lang="en">Snowboarding destruction in Detroit </title>
-    <desc lang="en">Red Bull Heavy Metal saw Detroit’s Hart Plaza transformed into a street snowboarding arena unlike any other.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/17/zk9l5xjasgczigt2embs/red-bull-heavy-metal"/>
-  </programme>
-  <programme channel="redbull.com" start="20241108235637+0000" stop="20241109002223+0000">
-    <title lang="en">Highlights – Madrid Premier Padel P1 </title>
-    <desc lang="en">Watch the highlights from Spain as the Madrid Premier Padel P1 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/3/o2t3bgdxiartzlbbwp30/juan-lebron-padel-madrid-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241109082406+0000" stop="20241109085009+0000">
-    <title lang="en">Highlights – Paris Major Premier Padel  </title>
-    <desc lang="en">Watch the highlights from France as the Paris Major Premier Padel tournament took centre stage.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/26/crpnypzulblewoclzzgx/alejandro-galan-padel-quarter-finals-valladolid-premier-spain-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241109085009+0000" stop="20241109091603+0000">
-    <title lang="en">Highlights – Rotterdam Premier Padel P1 </title>
-    <desc lang="en">Watch the highlights from the Netherlands as the Rotterdam Premier Padel P1 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/9/qfzitehtwtzleh5nf2h9/beatriz-gonzalez-fernandez-wizink-center-madrid-premier-padel-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241109091603+0000" stop="20241109093037+0000">
-    <title lang="en">Original moves</title>
-    <desc lang="en">B-Boys Phil Wizard and Lee learn the secrets of Menno's creativity before battling in a test of originality.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/21/v9ipsnrio9l9nrsmjhvu/b-boy-lee-netherlands-2024-breaking"/>
-  </programme>
-  <programme channel="redbull.com" start="20241109093037+0000" stop="20241109094123+0000">
-    <title lang="en">Street hitting</title>
-    <desc lang="en">LA-based street hitting legend Flea Rock challenges Phil Wizard to plan a Venice Beach street show – in 24 hours!</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/21/fisdsssuwgmq9zvibn3s/phil-wizard-lil-zoo-sunni-venice-beach-what-it-takes-to-break-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20241109094123+0000" stop="20241109100011+0000">
-    <title lang="en">Victor Montalvo: Breaking the Loop</title>
-    <desc lang="en">Watch US breaker Victor Montalvo prepare and compete on the world stage as breaking makes its Olympic debut.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/12/cqp47vnzeyr8tnpm8dva/b-boy-victor-break-at-red-bull-bc-one-world-final-paris-2023-teaser-shoot"/>
-  </programme>
-  <programme channel="redbull.com" start="20241109100011+0000" stop="20241109102830+0000">
-    <title lang="en">Return of the Lords</title>
-    <desc lang="en">Follow the electrifying 2024 event as the world's best breaking crews battled it out in Seattle, USA.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/2/rnbkzxtmalh2ymnzbvdc/red-bull-lords-of-the-floor-breaking"/>
-  </programme>
-  <programme channel="redbull.com" start="20241109050439+0000" stop="20241109055011+0000">
-    <title lang="en">Lil Zoo: Breaking Chose Me</title>
-    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
   </programme>
 </tv>
