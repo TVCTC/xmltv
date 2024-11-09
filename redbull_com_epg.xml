@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-09 21:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-09 22:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241109191512+0000" stop="20241109195731+0000">
-    <title lang="en">Shigekix shows Ronnie around Tokyo</title>
-    <desc lang="en">B-Boys Shigekix and Ronnie reveal Tokyo's secret: the pursuit of perfection in dance, food and craftsmanship.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/4/figfglupualag3qogrtn/breaking-beyond-s1-e4-shigekix-ronnie-tokyo"/>
-  </programme>
-  <programme channel="redbull.com" start="20241109195731+0000" stop="20241109204037+0000">
-    <title lang="en">Menno and Junior chill in Rotterdam</title>
-    <desc lang="en">B-Boys Menno and Junior explore Rotterdam’s breaking scene, Dutch pioneers' stories and life beyond breaking.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/4/yl83syaubuzydh9bpayb/breaking-beyond-s1-e5-menno-junior-rotterdam"/>
-  </programme>
   <programme channel="redbull.com" start="20241109204037+0000" stop="20241109210437+0000">
     <title lang="en">South African street dance culture</title>
     <desc lang="en">We explore the dance culture in South Africa and take a look at how Red Bull Dance Your Style was established.</desc>
@@ -148,5 +136,11 @@
     <desc lang="en">Antalya’s penultimate stop sets the stage for a fierce title race, with Rhiannan Iffland eyeing her crown.</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/1/hjpaque0ff863x1ddjfn/red-bull-cliff-diving-2024-carlos-gimeno-antalya-turkey"/>
+  </programme>
+  <programme channel="redbull.com" start="20241110105843+0000" stop="20241110124520+0000">
+    <title lang="en">Molly Picklum: What it Takes</title>
+    <desc lang="en">Follow surfer Molly Picklum's tumultuous rookie year at the elite level of surfing on the WSL World Tour.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/30/dw13fejob4kdvm7dlmji/molly-picklum-what-it-takes-cover-art"/>
   </programme>
 </tv>
