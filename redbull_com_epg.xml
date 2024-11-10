@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-10 20:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-10 21:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241110181938+0000" stop="20241110191333+0000">
-    <title lang="en">Diving into history</title>
-    <desc lang="en">Athletes jump from the edge of Boston's Institute of Contemporary Art to celebrate the 100th stop in history </desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/12/h7sjgpotah6okxxqa5ks/gary-hunt-red-bull-cliff-diving-world-series-boston-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20241110191333+0000" stop="20241110200636+0000">
     <title lang="en">Home awaits cliff divers</title>
     <desc lang="en">After Boston's urban landscape, divers headed to the natural cliffs of Italy's picturesque Polignano a Mare.</desc>
@@ -148,5 +142,11 @@
     <desc lang="en">After Boston's urban landscape, divers headed to the natural cliffs of Italy's picturesque Polignano a Mare.</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/fto9ezvkvpj5ik5zqpzo/andrea-barnaba"/>
+  </programme>
+  <programme channel="redbull.com" start="20241110200636+0000" stop="20241110205922+0000">
+    <title lang="en">Nature of power </title>
+    <desc lang="en">Watch thrilling dives along the rugged Causeway Coast offer a fuelled spectacle amid dramatic cliffs.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/29/h05r7solnk1d5sowmvrt/jonathan-paredes-cliff-diving-red-bull-world-series-northern-ireland-2024"/>
   </programme>
 </tv>
