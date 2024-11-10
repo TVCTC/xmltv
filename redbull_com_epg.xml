@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-10 17:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-10 18:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241110152625+0000" stop="20241110160855+0000">
-    <title lang="en">Menno and Junior chill in Rotterdam</title>
-    <desc lang="en">B-Boys Menno and Junior explore Rotterdam’s breaking scene, Dutch pioneers' stories and life beyond breaking.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/4/yl83syaubuzydh9bpayb/breaking-beyond-s1-e5-menno-junior-rotterdam"/>
-  </programme>
-  <programme channel="redbull.com" start="20241110160855+0000" stop="20241110163455+0000">
-    <title lang="en">From F1 desert racing to a skatepark in the sky </title>
-    <desc lang="en">Red Bull athletes do it all, from riding a skatepark under a hot air balloon to F1 drivers racing on water. </desc>
+  <programme channel="redbull.com" start="20241110163455+0000" stop="20241110170131+0000">
+    <title lang="en">From F1 soapbox racing to breaking world records</title>
+    <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
     <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/oyfmvrqrchvizwasa9o9/oracle-red-bull-racings-rb7"/>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
   </programme>
   <programme channel="redbull.com" start="20241110170131+0000" stop="20241110172731+0000">
     <title lang="en">From a pinball human to 93kph speed skating</title>
@@ -137,16 +131,28 @@
     <category lang="en">Dance</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/quukznhnvgdcdeobmfjx/take-the-title-red-bull-dance-your-style-south-africa-s1-e2"/>
   </programme>
-  <programme channel="redbull.com" start="20241111064800+0000" stop="20241111073636+0000">
+  <programme channel="redbull.com" start="20241111064800+0000" stop="20241111071236+0000">
     <title lang="en">The next generation part 1</title>
     <desc lang="en">Red Bull Dance Your Style is back for 2023 – we follow the new journey of the dancers and get to know them.</desc>
     <category lang="en">Dance</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/gzaxqogpctel9ab1je4i/take-the-title-red-bull-dance-your-style-south-africa-s1-e3"/>
+  </programme>
+  <programme channel="redbull.com" start="20241111071236+0000" stop="20241111073636+0000">
+    <title lang="en">The next generation part 2</title>
+    <desc lang="en">We take a deep dive behind the scenes of the National Final and follow the top 16 dancers for the World Final.</desc>
+    <category lang="en">Dance</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/gc3ecxdmat2c1n6kagma/take-the-title-red-bull-dance-your-style-south-africa-s1-e4"/>
   </programme>
   <programme channel="redbull.com" start="20241111073636+0000" stop="20241111080259+0000">
     <title lang="en">The final moments</title>
     <desc lang="en">Red Bull Dance Your Style World Final is finally here after three years in the making – catch the best action.</desc>
     <category lang="en">Dance</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/f6c1zxkntocdyxcdmbcg/take-the-title-red-bull-dance-your-style-south-africa-s1-e5"/>
+  </programme>
+  <programme channel="redbull.com" start="20241110222958+0000" stop="20241110230726+0000">
+    <title lang="en">Hidden Cliffs</title>
+    <desc lang="en">Catalin Preda and David Colturi become the first people to dive into the wadis of Saudi Arabia.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/t1lakw8fqtuk6cwqh6zp/david-colturi-saudi-arabia"/>
   </programme>
 </tv>
