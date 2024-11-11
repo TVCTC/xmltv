@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-11 06:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-11 07:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241111020157+0000" stop="20241111033839+0000">
-    <title lang="en">Born to Fly</title>
-    <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241111033839+0000" stop="20241111040141+0000">
-    <title lang="en">San Francisco</title>
-    <desc lang="en">Filled with iconic spots and endless hills, San Francisco is a legendary skate destination like no other.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/14/zslk6roqzregpycrnxyb/greetings-from-san-francisco"/>
-  </programme>
-  <programme channel="redbull.com" start="20241111040141+0000" stop="20241111045235+0000">
-    <title lang="en">A Biker's Ballad</title>
-    <desc lang="en">Traversing the history as well as the trails, 14 riders uncover the essence of MTB in Crested Butte, Colorado.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/29/cflhnbj4pq90silaroha/lauren-richie-shaun-a-bikers-ballad-mtb"/>
-  </programme>
-  <programme channel="redbull.com" start="20241111045235+0000" stop="20241111055414+0000">
-    <title lang="en">ANYTIME</title>
-    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
-  </programme>
   <programme channel="redbull.com" start="20241111055414+0000" stop="20241111060000+0000">
     <title lang="en">Manuel Lettenbichler's best moments of the season</title>
     <desc lang="en">Mani Lettenbichler defended his FIM Hard Enduro world title after his fifth consecutive victory this season.</desc>
@@ -148,5 +124,29 @@
     <desc lang="en">After her brother’s injury, BMX athlete Saya Sakakibara pushes for success on her road to Paris.</desc>
     <category lang="en">BMX</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/7/erpqldmdfxn0hk0ntagb/saya-sakakibara-macarthur-bmx-track-camden-australia-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20241111161742+0000" stop="20241111170125+0000">
+    <title lang="en">Encouraged: Building the Future</title>
+    <desc lang="en">Join Courage Adams as he returns to Nigeria to fulfil his promise of building Lagos's first skatepark.</desc>
+    <category lang="en">BMX</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/vwwci81eotk8udlrfy1n/lagos-bmx-crew-courage-adams-encouraged"/>
+  </programme>
+  <programme channel="redbull.com" start="20241111170125+0000" stop="20241111183807+0000">
+    <title lang="en">Born to Fly</title>
+    <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
+    <category lang="en">Athletics</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241111183807+0000" stop="20241111190108+0000">
+    <title lang="en">San Francisco</title>
+    <desc lang="en">Filled with iconic spots and endless hills, San Francisco is a legendary skate destination like no other.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/14/zslk6roqzregpycrnxyb/greetings-from-san-francisco"/>
+  </programme>
+  <programme channel="redbull.com" start="20241111190108+0000" stop="20241111201449+0000">
+    <title lang="en">La Liste: Everything or Nothing</title>
+    <desc lang="en">Big mountain skiers Jérémie Heitz and Sam Anthamatten ski the world’s highest peaks in this big adventure.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/10/pztrwnuiipl1vbztin8l/jeremie-heitz-la-liste-everything-or-nothing-freeski"/>
   </programme>
 </tv>
