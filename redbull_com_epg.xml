@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-14 03:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-14 04:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241114010259+0000" stop="20241114015655+0000">
-    <title lang="en">Diving into history</title>
-    <desc lang="en">Athletes jump from the edge of Boston's Institute of Contemporary Art to celebrate the 100th stop in history </desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/12/h7sjgpotah6okxxqa5ks/gary-hunt-red-bull-cliff-diving-world-series-boston-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20241114015655+0000" stop="20241114024958+0000">
-    <title lang="en">Home awaits cliff divers</title>
-    <desc lang="en">After Boston's urban landscape, divers headed to the natural cliffs of Italy's picturesque Polignano a Mare.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/fto9ezvkvpj5ik5zqpzo/andrea-barnaba"/>
-  </programme>
   <programme channel="redbull.com" start="20241114024958+0000" stop="20241114034207+0000">
     <title lang="en">Nature of power </title>
     <desc lang="en">Watch thrilling dives along the rugged Causeway Coast offer a fuelled spectacle amid dramatic cliffs.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">B-Girl Kastet joins B-Boy Neguin in São Paulo to experience the vibrant blend of the Brazilian breaking style.</desc>
     <category lang="en">Sport</category>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
+  </programme>
+  <programme channel="redbull.com" start="20241114163820+0000" stop="20241114172039+0000">
+    <title lang="en">Shigekix shows Ronnie around Tokyo</title>
+    <desc lang="en">B-Boys Shigekix and Ronnie reveal Tokyo's secret: the pursuit of perfection in dance, food and craftsmanship.</desc>
+    <category lang="en">Dance</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/4/figfglupualag3qogrtn/breaking-beyond-s1-e4-shigekix-ronnie-tokyo"/>
+  </programme>
+  <programme channel="redbull.com" start="20241114172039+0000" stop="20241114180345+0000">
+    <title lang="en">Menno and Junior chill in Rotterdam</title>
+    <desc lang="en">B-Boys Menno and Junior explore Rotterdam’s breaking scene, Dutch pioneers' stories and life beyond breaking.</desc>
+    <category lang="en">Dance</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/4/yl83syaubuzydh9bpayb/breaking-beyond-s1-e5-menno-junior-rotterdam"/>
   </programme>
 </tv>
