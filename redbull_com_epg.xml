@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-15 00:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-15 01:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241114220338+0000" stop="20241114225733+0000">
-    <title lang="en">Diving into history</title>
-    <desc lang="en">Athletes jump from the edge of Boston's Institute of Contemporary Art to celebrate the 100th stop in history </desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/12/h7sjgpotah6okxxqa5ks/gary-hunt-red-bull-cliff-diving-world-series-boston-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20241114225733+0000" stop="20241114235037+0000">
-    <title lang="en">Home awaits cliff divers</title>
-    <desc lang="en">After Boston's urban landscape, divers headed to the natural cliffs of Italy's picturesque Polignano a Mare.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/fto9ezvkvpj5ik5zqpzo/andrea-barnaba"/>
-  </programme>
-  <programme channel="redbull.com" start="20241114235037+0000" stop="20241115004246+0000">
-    <title lang="en">Nature of power </title>
-    <desc lang="en">Watch thrilling dives along the rugged Causeway Coast offer a fuelled spectacle amid dramatic cliffs.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/29/h05r7solnk1d5sowmvrt/jonathan-paredes-cliff-diving-red-bull-world-series-northern-ireland-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20241115004246+0000" stop="20241115010522+0000">
     <title lang="en">One With the Water</title>
     <desc lang="en">Rhiannan Iffland dives into Kehu Butler’s coastal home in New Zealand, learning local traditions on the way.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">B-Boys Menno and Junior explore Rotterdam’s breaking scene, Dutch pioneers' stories and life beyond breaking.</desc>
     <category lang="en">Dance</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/4/yl83syaubuzydh9bpayb/breaking-beyond-s1-e5-menno-junior-rotterdam"/>
+  </programme>
+  <programme channel="redbull.com" start="20241115141150+0000" stop="20241115143550+0000">
+    <title lang="en">South African street dance culture</title>
+    <desc lang="en">We explore the dance culture in South Africa and take a look at how Red Bull Dance Your Style was established.</desc>
+    <category lang="en">Dance</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/lh0cv6g86gifj12hudfb/take-the-title-red-bull-dance-your-style-south-africa-s1-e1"/>
+  </programme>
+  <programme channel="redbull.com" start="20241115143550+0000" stop="20241115145950+0000">
+    <title lang="en">Can't stop us</title>
+    <desc lang="en">Look back at Red Bull Dance Your Style 2021 and the cancellation of the World Final due to Covid-19.</desc>
+    <category lang="en">Dance</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/quukznhnvgdcdeobmfjx/take-the-title-red-bull-dance-your-style-south-africa-s1-e2"/>
+  </programme>
+  <programme channel="redbull.com" start="20241115145950+0000" stop="20241115152426+0000">
+    <title lang="en">The next generation part 1</title>
+    <desc lang="en">Red Bull Dance Your Style is back for 2023 – we follow the new journey of the dancers and get to know them.</desc>
+    <category lang="en">Dance</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/gzaxqogpctel9ab1je4i/take-the-title-red-bull-dance-your-style-south-africa-s1-e3"/>
   </programme>
 </tv>
