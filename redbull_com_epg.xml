@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-16 22:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-16 23:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241116194253+0000" stop="20241116201738+0000">
-    <title lang="en">Champion</title>
-    <desc lang="en">Marc remembers his early MotoGP™ times and meets up with the man who was his idol back then: Valentino Rossi.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/bmlu7oqqvseia2kq2djv/marc-marquez-qualification-french-motogp-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20241116201738+0000" stop="20241116205137+0000">
-    <title lang="en">Passion</title>
-    <desc lang="en">Marc recovers from surgery with one goal: to win again. In Austria he meets his former rival, Dani Pedrosa.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/e0zkdjonyk62rusblfme/marc-maruqez-bike-french-motogp-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20241116205137+0000" stop="20241116212717+0000">
-    <title lang="en">Comeback</title>
-    <desc lang="en">It’s time for Marc to recap on a year that's seen him make some of the most difficult decisions of his life.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/emtuoqqfpkjgkdzrawmf/marc-marquez-santi-hernandez-french-motogp-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20241116212717+0000" stop="20241116215452+0000">
-    <title lang="en">ABC of... Surfing</title>
-    <desc lang="en">Discover some facts and figures of surfing, from its origins to the spectacular adrenaline-fuelled present.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1WHE5H8KN5N11/abc-of-surfing"/>
-  </programme>
   <programme channel="redbull.com" start="20241116215452+0000" stop="20241116223554+0000">
     <title lang="en">Chumbo: Made for Big Wave Surfing</title>
     <desc lang="en">Get a glimpse into Lucas Chianca's life as he balances chasing big waves with looking after his family.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Relive the action from the third Major of the Premier Padel Season 2024 as Italy takes the main stage.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/lwozjjuxbuh1lsoad8xb/ale-galan-sevilla-premier-padel-p2-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241117074349+0000" stop="20241117080947+0000">
+    <title lang="en">Highlights – Bordeaux Premier Padel P2</title>
+    <desc lang="en">See the best moments from the action-packed Bordeaux Premier Padel P2 tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/kj8nobdgp207u02uj09c/thomas-leygue-bordeaux-premier-padel-p2-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241117080947+0000" stop="20241117083556+0000">
+    <title lang="en">Highlights – Brussels Premier Padel P2</title>
+    <desc lang="en">Watch the highlights of the fifth stop of the season in Belgium for the Brussels Premier Padel P2. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/zjzvsbcyjhp7htwrzgpu/beatriz-gonzalez-fernandez-doha-2024-padel"/>
+  </programme>
+  <programme channel="redbull.com" start="20241117083556+0000" stop="20241117090203+0000">
+    <title lang="en">Highlights – Finland Premier Padel P2</title>
+    <desc lang="en">See the best moments from the action-packed Finland Premier Padel P2 tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/31/x3zbbzdkmavuhd6yin7o/arturo-coello-malaga-premier-padel-p1"/>
+  </programme>
+  <programme channel="redbull.com" start="20241117090203+0000" stop="20241117092803+0000">
+    <title lang="en">Highlights – Genova Premier Padel P2</title>
+    <desc lang="en">Relive the action from the Genova Premier Padel P2 as the world's best players battle for the top prize.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/s253hq7fqbonj5la7zqi/beatriz-gonzalez-premier-padel-asuncion-2024"/>
   </programme>
 </tv>
