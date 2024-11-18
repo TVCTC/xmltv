@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-18 22:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-18 23:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241118190833+0000" stop="20241118202946+0000">
-    <title lang="en">Against the Odds</title>
-    <desc lang="en">Team OG defied the odds – witness their esports journey to Dota 2 glory at TI8. </desc>
-    <category lang="en">Gaming</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-2175QTR85BH11/fo-2175qtr85bh11-featuremedia"/>
-  </programme>
   <programme channel="redbull.com" start="20241118202946+0000" stop="20241118212222+0000">
     <title lang="en">Relive 2024’s record run</title>
     <desc lang="en">People impacted by spinal cord injury tell their stories as people around the world ran for those who can’t.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Marc recovers from surgery with one goal: to win again. In Austria he meets his former rival, Dani Pedrosa.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/e0zkdjonyk62rusblfme/marc-maruqez-bike-french-motogp-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20241119092925+0000" stop="20241119100505+0000">
+    <title lang="en">Comeback</title>
+    <desc lang="en">It’s time for Marc to recap on a year that's seen him make some of the most difficult decisions of his life.</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/emtuoqqfpkjgkdzrawmf/marc-marquez-santi-hernandez-french-motogp-2023"/>
   </programme>
 </tv>
