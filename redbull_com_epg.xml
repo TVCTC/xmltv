@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-18 21:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-18 22:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241118185119+0000" stop="20241118185840+0000">
-    <title lang="en">Coulthard takes Formula One to Scandinavia</title>
-    <desc lang="en">David Coulthard embarks on a road trip in an Oracle Red Bull Racing F1 car through breathtaking Scandinavia.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/9/pskvexsrgkhi3cassiqs/david-coulthard-scandi-road-trip-denmark-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20241118185840+0000" stop="20241118190833+0000">
-    <title lang="en">Top 5 off-track moments</title>
-    <desc lang="en">Take a look at the top five moments where the Red Bull Racing Formula One team has truly innovated.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/11/20/52395774-faa7-4392-9eea-9963a5719d78/david-coulthard-f1-helipad"/>
-  </programme>
   <programme channel="redbull.com" start="20241118190833+0000" stop="20241118202946+0000">
     <title lang="en">Against the Odds</title>
     <desc lang="en">Team OG defied the odds – witness their esports journey to Dota 2 glory at TI8. </desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Marc’s riding style has earned him admiration from fans, but has also led to conflicts with other riders.</desc>
     <category lang="en">MotoGP</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/pochf82mnxitujxv1ecr/marc-marquez-santi-hernandez-motogp"/>
+  </programme>
+  <programme channel="redbull.com" start="20241119082041+0000" stop="20241119085527+0000">
+    <title lang="en">Champion</title>
+    <desc lang="en">Marc remembers his early MotoGP™ times and meets up with the man who was his idol back then: Valentino Rossi.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/bmlu7oqqvseia2kq2djv/marc-marquez-qualification-french-motogp-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20241119085527+0000" stop="20241119092925+0000">
+    <title lang="en">Passion</title>
+    <desc lang="en">Marc recovers from surgery with one goal: to win again. In Austria he meets his former rival, Dani Pedrosa.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/31/e0zkdjonyk62rusblfme/marc-maruqez-bike-french-motogp-2023"/>
   </programme>
 </tv>
