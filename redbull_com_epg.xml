@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-24 19:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-24 20:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241124175059+0000" stop="20241124183634+0000">
-    <title lang="en">How to build the perfect mountain bike team</title>
-    <desc lang="en">Get the inside track from pros on building a downhill team, plus cross-country tips for training and recovery.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/13/csl6c4m4k6xpokqjrzxl/jackson-goldstone-uci-downhill-world-cup-mont-sainte-anne-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20241124183634+0000" stop="20241124190905+0000">
     <title lang="en">Schnitzel Time 2 – No Return</title>
     <desc lang="en">Riders push the limits of snowboarding in this high-energy ode to the sport's creativity, skill and passion.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">16 heroes gathered in NYC to discover the best Street Fighter 6 player on the planet. Welcome to the games.</desc>
     <category lang="en">Games</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/13/nnargacmzfbacjpuqjhi/menard-winner-red-bull-kumite-2024-brooklyn"/>
+  </programme>
+  <programme channel="redbull.com" start="20241125055618+0000" stop="20241125060000+0000">
+    <title lang="en">Kade Edwards destroys Dyfi Bike Park</title>
+    <desc lang="en">Enjoy the sound of speed as British mountain bike rider Kade Edwards rips up Dyfi Bike Park in Wales. </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/doge7u1jj7vxmsg8m1sq/kade-edwards-dyfi-bike-park"/>
   </programme>
 </tv>
