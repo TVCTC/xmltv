@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-27 12:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-27 13:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241127092706+0000" stop="20241127101242+0000">
-    <title lang="en">How to build the perfect mountain bike team</title>
-    <desc lang="en">Get the inside track from pros on building a downhill team, plus cross-country tips for training and recovery.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/13/csl6c4m4k6xpokqjrzxl/jackson-goldstone-uci-downhill-world-cup-mont-sainte-anne-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20241127101242+0000" stop="20241127104512+0000">
-    <title lang="en">Schnitzel Time 2 – No Return</title>
-    <desc lang="en">Riders push the limits of snowboarding in this high-energy ode to the sport's creativity, skill and passion.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/7/oe93kl5mbvlba9g1s63r/schnitzel-time-2-no-return-header"/>
-  </programme>
   <programme channel="redbull.com" start="20241127104512+0000" stop="20241127105801+0000">
     <title lang="en">About Time with Ben Ferguson</title>
     <desc lang="en">Go inside the mind of snowboarder Ben Ferguson and see his vision for the film Fleeting Time.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">See the best moments from the action-packed Bordeaux Premier Padel P2 tournament.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/kj8nobdgp207u02uj09c/thomas-leygue-bordeaux-premier-padel-p2-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241127221057+0000" stop="20241127223741+0000">
+    <title lang="en">Highlights – Brussels Premier Padel P2</title>
+    <desc lang="en">Watch the highlights of the fifth stop of the season in Belgium for the Brussels Premier Padel P2. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/zjzvsbcyjhp7htwrzgpu/beatriz-gonzalez-fernandez-doha-2024-padel"/>
+  </programme>
+  <programme channel="redbull.com" start="20241127223741+0000" stop="20241127230313+0000">
+    <title lang="en">Highlights – Finland Premier Padel P2</title>
+    <desc lang="en">See the best moments from the action-packed Finland Premier Padel P2 tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/31/x3zbbzdkmavuhd6yin7o/arturo-coello-malaga-premier-padel-p1"/>
   </programme>
 </tv>
