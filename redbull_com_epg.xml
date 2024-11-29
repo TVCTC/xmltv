@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-29 21:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-29 22:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241129194427+0000" stop="20241129201354+0000">
-    <title lang="en">Road to 55</title>
-    <desc lang="en">Experience the 2014 Formula One racing season with Carlos Sainz as he strives to become a top driver.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MSPRR6PS1W11/FO-1MSPRR6PS1W11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20241129201354+0000" stop="20241129212126+0000">
     <title lang="en">Yamnuska: The Ragged Edge </title>
     <desc lang="en">Vikki Weldon and Quentin Roberts explore the enduring legacy of rock climbing on Canada's Mount Yamnuska.</desc>
@@ -148,5 +142,11 @@
     <desc lang="en">Discover what makes HYROX – the indoor fitness competition – a test of strength, endurance and determination.</desc>
     <category lang="en">Athletics</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/14/z7oqxo0xdlr3y4cwhm0s/hyrox-world-championships-2024-competitors"/>
+  </programme>
+  <programme channel="redbull.com" start="20241130110344+0000" stop="20241130112857+0000">
+    <title lang="en">Highlights – Acapulco Premier Padel P1</title>
+    <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
   </programme>
 </tv>
