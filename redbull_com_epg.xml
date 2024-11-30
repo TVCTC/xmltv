@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-30 07:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-11-30 08:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241130044646+0000" stop="20241130060000+0000">
-    <title lang="en">The Land of Giants</title>
-    <desc lang="en">Featuring the world's best skiers, The Land of Giants captures the power and sheer beauty of the mountains. </desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/10/dk8jryraqqiowysuxjvn/the-land-of-giants-eader"/>
-  </programme>
-  <programme channel="redbull.com" start="20241130060000+0000" stop="20241130065135+0000">
-    <title lang="en">Shires</title>
-    <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/29/rpfuqolbq2fpzctqjxgu/shires-rob-warner-bike-film"/>
-  </programme>
-  <programme channel="redbull.com" start="20241130031004+0000" stop="20241130044646+0000">
+  <programme channel="redbull.com" start="20241130065135+0000" stop="20241130082818+0000">
     <title lang="en">Born to Fly</title>
     <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
     <category lang="en">Athletics</category>
@@ -148,5 +136,17 @@
     <desc lang="en">In New Zealand, photographer Matt Dunbar is out to capture high-performance surfing against a rugged backdrop.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMZ4S3PS5N11/FO-1SMZ4S3PS5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20241130164228+0000" stop="20241130165850+0000">
+    <title lang="en">Iceland's undiscovered waves</title>
+    <desc lang="en">The surf scene is nascent in Iceland, but two natives, Heidar Logi and Elli Thor, are working to change that.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/13/axqwd3qmqfz370kr1zv0/chasing-the-shot-iceland"/>
+  </programme>
+  <programme channel="redbull.com" start="20241130165850+0000" stop="20241130170325+0000">
+    <title lang="en">Ireland part 1</title>
+    <desc lang="en">Get a glimpse of the Emerald Isle’s unique surf scene through photographer Mark McInnis’ lens.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMZ729DD5N11/FO-1SMZ729DD5N11-featureMedia"/>
   </programme>
 </tv>
