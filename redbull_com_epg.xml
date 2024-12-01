@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-01 09:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-01 10:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241201063725+0000" stop="20241201070219+0000">
-    <title lang="en">HYROX: The ultimate fitness competition explained</title>
-    <desc lang="en">Discover what makes HYROX – the indoor fitness competition – a test of strength, endurance and determination.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/14/z7oqxo0xdlr3y4cwhm0s/hyrox-world-championships-2024-competitors"/>
-  </programme>
-  <programme channel="redbull.com" start="20241201070219+0000" stop="20241201073310+0000">
-    <title lang="en">Adventure Unscripted</title>
-    <desc lang="en">Red Bull Can You Make It? highlights and expert travel advice helps you prep for your own global adventures.</desc>
-    <category lang="en">Exploration</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/15/edwz3gpfgxwn0gtnvsql/red-bull-can-you-make-it-2024-malmoe-sweden-team-travel-competition"/>
-  </programme>
-  <programme channel="redbull.com" start="20241201073310+0000" stop="20241201075823+0000">
-    <title lang="en">Highlights – Acapulco Premier Padel P1</title>
-    <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
-  </programme>
-  <programme channel="redbull.com" start="20241201075823+0000" stop="20241201082419+0000">
-    <title lang="en">Highlights – Asunción Premier Padel P2 </title>
-    <desc lang="en">Watch the highlights of the seventh stop of the season in Paraguay from the Asunción Premier Padel P2.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/yupj6ycdbof7x8jrd3at/beatriz-caldera-premier-padel"/>
-  </programme>
-  <programme channel="redbull.com" start="20241201082419+0000" stop="20241201085053+0000">
-    <title lang="en">Highlights – BNL Italy Major Premier Padel</title>
-    <desc lang="en">Relive the action from the third Major of the Premier Padel Season 2024 as Italy takes the main stage.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/lwozjjuxbuh1lsoad8xb/ale-galan-sevilla-premier-padel-p2-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20241201085053+0000" stop="20241201091651+0000">
     <title lang="en">Highlights – Bordeaux Premier Padel P2</title>
     <desc lang="en">See the best moments from the action-packed Bordeaux Premier Padel P2 tournament.</desc>
@@ -148,5 +118,35 @@
     <desc lang="en">Get a look at what motivates four of the world's best competitive surfers.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYV8WYW5N11/FO-1YPYV8WYW5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20241201144828+0000" stop="20241201150324+0000">
+    <title lang="en">The arrival</title>
+    <desc lang="en">The surfers arrive in France for the Quiksilver &amp; Roxy Pro.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYVHHVS5N11/FO-1YPYVHHVS5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20241201150324+0000" stop="20241201152540+0000">
+    <title lang="en">The calm before the storm</title>
+    <desc lang="en">As the surfers prepare to travel to their next event in France they reflect on their season so far. </desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYW36N95N11/FO-1YPYW36N95N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20241201152540+0000" stop="20241201155205+0000">
+    <title lang="en">The end game</title>
+    <desc lang="en">Follow Julian Wilson and Jordy Smith as they look to win more than just the prestigious Pipe Masters trophy.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYUXGTN5N11/FO-1YPYUXGTN5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20241201155205+0000" stop="20241201161209+0000">
+    <title lang="en">The final preparation</title>
+    <desc lang="en">As the 2018 season draws to an end, the athletes spend time with family before the final events of the year.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYWPCCH5N11/FO-1YPYWPCCH5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20241201161209+0000" stop="20241201163749+0000">
+    <title lang="en">Women’s world title</title>
+    <desc lang="en">The WSL Championship Tour has made it to Hawaii for the final two events of the season.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YUAWPTD95N11/FO-1YUAWPTD95N11-featureMedia"/>
   </programme>
 </tv>
