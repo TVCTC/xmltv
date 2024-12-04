@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-04 10:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-04 11:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241204074921+0000" stop="20241204080753+0000">
-    <title lang="en">ABC of... Breaking</title>
-    <desc lang="en">Take a journey through breaking to dive into the dopest moves, hip hop culture and how the dance was born.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/11/3/gbc431eliudmmzrzwevu/abc-of-breaking-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20241204080753+0000" stop="20241204094004+0000">
-    <title lang="en">Au Revoir</title>
-    <desc lang="en">The story of wakeboarding champion Raph Derome as he retires from riding in front of crowds and cameras.</desc>
-    <category lang="en">Wakeboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/21/six64tifrqioqukziszs/raph-derome-au-revoir-screenshot-wakeboarding"/>
-  </programme>
   <programme channel="redbull.com" start="20241204094004+0000" stop="20241204100354+0000">
     <title lang="en">Plus 27</title>
     <desc lang="en">Jordy Smith shares his journey and the profound impact his homeland has had on his life and surfing career.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Watch the highlights of the seventh stop of the season in Paraguay from the Asunción Premier Padel P2.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/yupj6ycdbof7x8jrd3at/beatriz-caldera-premier-padel"/>
+  </programme>
+  <programme channel="redbull.com" start="20241204210958+0000" stop="20241204213632+0000">
+    <title lang="en">Highlights – BNL Italy Major Premier Padel</title>
+    <desc lang="en">Relive the action from the third Major of the Premier Padel Season 2024 as Italy takes the main stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/lwozjjuxbuh1lsoad8xb/ale-galan-sevilla-premier-padel-p2-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241204213632+0000" stop="20241204220230+0000">
+    <title lang="en">Highlights – Bordeaux Premier Padel P2</title>
+    <desc lang="en">See the best moments from the action-packed Bordeaux Premier Padel P2 tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/kj8nobdgp207u02uj09c/thomas-leygue-bordeaux-premier-padel-p2-2024"/>
   </programme>
 </tv>
