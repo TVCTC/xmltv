@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-04 20:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-04 21:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241204184538+0000" stop="20241204185734+0000">
-    <title lang="en">The Making of Red Bull Symphonic with Metro Boomin</title>
-    <desc lang="en">Metro Boomin reimagines his biggest hits with a full orchestra and special guests at Red Bull Symphonic in LA.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/4/dpmlvljooivqllfltzcs/red-bull-symphonic-metro-boomin"/>
-  </programme>
-  <programme channel="redbull.com" start="20241204185734+0000" stop="20241204192304+0000">
-    <title lang="en">Jaan Roose: Life on the Line</title>
-    <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
-    <category lang="en">Slacklining</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
-  </programme>
-  <programme channel="redbull.com" start="20241204192304+0000" stop="20241204194758+0000">
-    <title lang="en">HYROX: The ultimate fitness competition explained</title>
-    <desc lang="en">Discover what makes HYROX – the indoor fitness competition – a test of strength, endurance and determination.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/14/z7oqxo0xdlr3y4cwhm0s/hyrox-world-championships-2024-competitors"/>
-  </programme>
   <programme channel="redbull.com" start="20241204194758+0000" stop="20241204201849+0000">
     <title lang="en">Adventure Unscripted</title>
     <desc lang="en">Red Bull Can You Make It? highlights and expert travel advice helps you prep for your own global adventures.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Mick Fanning and Trevor Moran learn that shooting in Norway comes with a unique set of challenges to overcome.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SGXW3QP15N11/FO-1SGXW3QP15N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20241205010553+0000" stop="20241205011133+0000">
+    <title lang="en">Aurora Borealis</title>
+    <desc lang="en">Pro surfer Mick Fanning and photographer Trevor Moran arrive in Norway to surf under the Aurora Borealis.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SGXVF4F55N11/FO-1SGXVF4F55N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20241205021713+0000" stop="20241205023828+0000">
+    <title lang="en">La compétition</title>
+    <desc lang="en">It's time for the athletes to take on the best surfers in the world at the Quiksilver &amp; Roxy Pro France.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYVSRCD5N11/FO-1YPYVSRCD5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20241205023828+0000" stop="20241205025651+0000">
+    <title lang="en">Prologue</title>
+    <desc lang="en">Get a look at what motivates four of the world's best competitive surfers.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYV8WYW5N11/FO-1YPYV8WYW5N11-featureMedia"/>
   </programme>
 </tv>
