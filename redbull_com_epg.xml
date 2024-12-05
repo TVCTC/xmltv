@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-05 11:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-05 12:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241205092708+0000" stop="20241205095710+0000">
-    <title lang="en">Bridge boys</title>
-    <desc lang="en">Tom Randall and Pete Whittaker take on the most absurd crack climb when they end up under a motorway bridge.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/17/oep1nmcdr78erw6rmvqi/reel-rock-s8-e8-tom-randall-pete-whittaker"/>
-  </programme>
-  <programme channel="redbull.com" start="20241205095710+0000" stop="20241205102206+0000">
-    <title lang="en">Flex</title>
-    <desc lang="en">Matty Hong and Margo Hayes challenge themselves by ascending two of the hardest climbs in Colorado, USA. </desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/fsk7akaw85kryjhdatkj/matty-hong-red-bull-dual-ascent-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20241205102206+0000" stop="20241205104445+0000">
-    <title lang="en">Smile and fight</title>
-    <desc lang="en">Can big wall climber Natalia Grossman handle the pressure of defending her IFSC World Cup Champion title?</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/mc7bjmfxmd7ueucvx4qc/reel-rock-s9-e1-natalia-grossman"/>
-  </programme>
   <programme channel="redbull.com" start="20241205104445+0000" stop="20241205110940+0000">
     <title lang="en">Burning the flame part 1</title>
     <desc lang="en">Elite power duo Babsi and Jacopo attempt a coveted free ascent of the Nameless Tower in Pakistan.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Photographer Matt Dunbar and a team of surfers helicopter out to some of New Zealand’s most remote beaches.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMZD2G195N11/FO-1SMZD2G195N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20241205205534+0000" stop="20241205210026+0000">
+    <title lang="en">Fiordland (Part 2)</title>
+    <desc lang="en">In New Zealand, photographer Matt Dunbar is out to capture high-performance surfing against a rugged backdrop.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMZ4S3PS5N11/FO-1SMZ4S3PS5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20241205210026+0000" stop="20241205211648+0000">
+    <title lang="en">Iceland's undiscovered waves</title>
+    <desc lang="en">The surf scene is nascent in Iceland, but two natives, Heidar Logi and Elli Thor, are working to change that.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/13/axqwd3qmqfz370kr1zv0/chasing-the-shot-iceland"/>
+  </programme>
+  <programme channel="redbull.com" start="20241205211648+0000" stop="20241205212122+0000">
+    <title lang="en">Ireland part 1</title>
+    <desc lang="en">Get a glimpse of the Emerald Isle’s unique surf scene through photographer Mark McInnis’ lens.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMZ729DD5N11/FO-1SMZ729DD5N11-featureMedia"/>
   </programme>
 </tv>
