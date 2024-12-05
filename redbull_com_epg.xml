@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-05 06:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-05 07:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241205044649+0000" stop="20241205050521+0000">
-    <title lang="en">ABC of... Breaking</title>
-    <desc lang="en">Take a journey through breaking to dive into the dopest moves, hip hop culture and how the dance was born.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/11/3/gbc431eliudmmzrzwevu/abc-of-breaking-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20241205050521+0000" stop="20241205052911+0000">
-    <title lang="en">Plus 27</title>
-    <desc lang="en">Jordy Smith shares his journey and the profound impact his homeland has had on his life and surfing career.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/1/ugzer3h63p5gcvb8qf2m/jordy-smith-surfing"/>
-  </programme>
-  <programme channel="redbull.com" start="20241205052911+0000" stop="20241205055141+0000">
-    <title lang="en">Morocco</title>
-    <desc lang="en">Ashton Goggans guides you through Morocco to discover why it's one of surfing’s fastest growing hotspots.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/qkw1zzldvoa8eczq26nq/alan-van-gysen-no-contest-s2-e2-morocco"/>
-  </programme>
   <programme channel="redbull.com" start="20241205055141+0000" stop="20241205060000+0000">
     <title lang="en">The wave pools promised</title>
     <desc lang="en">This is a dive into the waters of the promise that wave pools would be a pivotal part of surfing’s future.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Red Bull Can You Make It? highlights and expert travel advice helps you prep for your own global adventures.</desc>
     <category lang="en">Exploration</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/15/edwz3gpfgxwn0gtnvsql/red-bull-can-you-make-it-2024-malmoe-sweden-team-travel-competition"/>
+  </programme>
+  <programme channel="redbull.com" start="20241205163920+0000" stop="20241205170433+0000">
+    <title lang="en">Highlights – Acapulco Premier Padel P1</title>
+    <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
+  </programme>
+  <programme channel="redbull.com" start="20241205170433+0000" stop="20241205173029+0000">
+    <title lang="en">Highlights – Asunción Premier Padel P2 </title>
+    <desc lang="en">Watch the highlights of the seventh stop of the season in Paraguay from the Asunción Premier Padel P2.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/yupj6ycdbof7x8jrd3at/beatriz-caldera-premier-padel"/>
+  </programme>
+  <programme channel="redbull.com" start="20241205173029+0000" stop="20241205175716+0000">
+    <title lang="en">Highlights – Mar del Plata Premier Padel P1</title>
+    <desc lang="en">Watch the highlights of the eighth stop of the season in Argentina from the Premier Padel Mar del Plata P1.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/22/wrcasajexcgkw9ffnrbz/premier-padel-tour-milan-mens-match-2024"/>
   </programme>
 </tv>
