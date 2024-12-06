@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-06 00:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-06 01:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241205214133+0000" stop="20241205220211+0000">
-    <title lang="en">La compétition</title>
-    <desc lang="en">It's time for the athletes to take on the best surfers in the world at the Quiksilver &amp; Roxy Pro France.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYVSRCD5N11/FO-1YPYVSRCD5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20241205220211+0000" stop="20241205222111+0000">
-    <title lang="en">Prologue</title>
-    <desc lang="en">Get a look at what motivates four of the world's best competitive surfers.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYV8WYW5N11/FO-1YPYV8WYW5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20241205222111+0000" stop="20241205224327+0000">
-    <title lang="en">The calm before the storm</title>
-    <desc lang="en">As the surfers prepare to travel to their next event in France they reflect on their season so far. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYW36N95N11/FO-1YPYW36N95N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20241205224327+0000" stop="20241205230952+0000">
-    <title lang="en">The end game</title>
-    <desc lang="en">Follow Julian Wilson and Jordy Smith as they look to win more than just the prestigious Pipe Masters trophy.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYUXGTN5N11/FO-1YPYUXGTN5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20241205230952+0000" stop="20241205232957+0000">
-    <title lang="en">The final preparation</title>
-    <desc lang="en">As the 2018 season draws to an end, the athletes spend time with family before the final events of the year.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYWPCCH5N11/FO-1YPYWPCCH5N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20241205232957+0000" stop="20241205235537+0000">
     <title lang="en">Women’s world title</title>
     <desc lang="en">The WSL Championship Tour has made it to Hawaii for the final two events of the season.</desc>
@@ -154,5 +124,35 @@
     <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/29/rpfuqolbq2fpzctqjxgu/shires-rob-warner-bike-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20241206091911+0000" stop="20241206105553+0000">
+    <title lang="en">Born to Fly</title>
+    <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
+    <category lang="en">Athletics</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241206105553+0000" stop="20241206115809+0000">
+    <title lang="en">ANYTIME</title>
+    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
+  </programme>
+  <programme channel="redbull.com" start="20241206115809+0000" stop="20241206121004+0000">
+    <title lang="en">The Making of Red Bull Symphonic with Metro Boomin</title>
+    <desc lang="en">Metro Boomin reimagines his biggest hits with a full orchestra and special guests at Red Bull Symphonic in LA.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/4/dpmlvljooivqllfltzcs/red-bull-symphonic-metro-boomin"/>
+  </programme>
+  <programme channel="redbull.com" start="20241206121004+0000" stop="20241206123535+0000">
+    <title lang="en">Jaan Roose: Life on the Line</title>
+    <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
+    <category lang="en">Slacklining</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
+  </programme>
+  <programme channel="redbull.com" start="20241206123535+0000" stop="20241206130028+0000">
+    <title lang="en">HYROX: The ultimate fitness competition explained</title>
+    <desc lang="en">Discover what makes HYROX – the indoor fitness competition – a test of strength, endurance and determination.</desc>
+    <category lang="en">Athletics</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/14/z7oqxo0xdlr3y4cwhm0s/hyrox-world-championships-2024-competitors"/>
   </programme>
 </tv>
