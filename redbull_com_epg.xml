@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-06 14:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-06 15:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241206105553+0000" stop="20241206115809+0000">
+    <title lang="en">ANYTIME</title>
+    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
+  </programme>
+  <programme channel="redbull.com" start="20241206115809+0000" stop="20241206121004+0000">
+    <title lang="en">The Making of Red Bull Symphonic with Metro Boomin</title>
+    <desc lang="en">Metro Boomin reimagines his biggest hits with a full orchestra and special guests at Red Bull Symphonic in LA.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/4/dpmlvljooivqllfltzcs/red-bull-symphonic-metro-boomin"/>
+  </programme>
+  <programme channel="redbull.com" start="20241206121004+0000" stop="20241206123535+0000">
+    <title lang="en">Jaan Roose: Life on the Line</title>
+    <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
+    <category lang="en">Slacklining</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
+  </programme>
   <programme channel="redbull.com" start="20241206123535+0000" stop="20241206130028+0000">
     <title lang="en">HYROX: The ultimate fitness competition explained</title>
     <desc lang="en">Discover what makes HYROX – the indoor fitness competition – a test of strength, endurance and determination.</desc>
@@ -136,23 +154,5 @@
     <desc lang="en">With some local help, photographer Mark McInnis and his surfers hunt surf spots well off the beaten path.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMZ985WD5N11/FO-1SMZ985WD5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20241206193657+0000" stop="20241206194211+0000">
-    <title lang="en">Lighting the spirit</title>
-    <desc lang="en">Photographer Michael Clark and Red Bull Athlete Rafa Ortiz test the new Elinchrom Lightpack to its limits.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SQF4RCPN5N11/FO-1SQF4RCPN5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20241206194211+0000" stop="20241206194745+0000">
-    <title lang="en">New challenges</title>
-    <desc lang="en">Mick Fanning and Trevor Moran learn that shooting in Norway comes with a unique set of challenges to overcome.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SGXW3QP15N11/FO-1SGXW3QP15N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20241206184053+0000" stop="20241206184634+0000">
-    <title lang="en">Aurora Borealis</title>
-    <desc lang="en">Pro surfer Mick Fanning and photographer Trevor Moran arrive in Norway to surf under the Aurora Borealis.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SGXVF4F55N11/FO-1SGXVF4F55N11-featureMedia"/>
   </programme>
 </tv>
