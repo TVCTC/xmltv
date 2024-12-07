@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-07 22:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-07 23:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241207192548+0000" stop="20241207223036+0000">
+    <title lang="en">ANYTIME</title>
+    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
+  </programme>
   <programme channel="redbull.com" start="20241207223036+0000" stop="20241207225606+0000">
     <title lang="en">Jaan Roose: Life on the Line</title>
     <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">Sasha DiGiulian creates new routes in a Grecian area not typically travelled to by the climbing community.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/t4umwtpenffenr1pyuqw/no-days-off-s1-e1-sasha-digiulian-climbing-greece"/>
-  </programme>
-  <programme channel="redbull.com" start="20241208041146+0000" stop="20241208042552+0000">
-    <title lang="en">Dominican Republic</title>
-    <desc lang="en">Sasha explores the climbing scene in the Dominican Republic and connects with local athletes.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/ejjezuydxo0beoi644jt/no-days-off-s1-e2-sasha-digiulian-climbing-dominican-republic"/>
   </programme>
 </tv>
