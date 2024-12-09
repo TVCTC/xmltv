@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-09 15:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-09 16:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241209104014+0000" stop="20241209120831+0000">
+    <title lang="en">Layers</title>
+    <desc lang="en">Discover and celebrate the unique people, places, personalities and layers behind what we call snowboarding.</desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/a24wabmgl2h2stzq5tyk/snowboard-movie-layers"/>
+  </programme>
+  <programme channel="redbull.com" start="20241209120831+0000" stop="20241209131830+0000">
+    <title lang="en">The Art of Flight</title>
+    <desc lang="en">Travis Rice and Curt Morgan's follow-up to That's It, That's All raises the bar of snowboarding – again.</desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/20/iefwspsjh6yofkime813/fo-1maax2syh2111-featuremedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20241209131830+0000" stop="20241209142045+0000">
+    <title lang="en">ANYTIME</title>
+    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
+  </programme>
   <programme channel="redbull.com" start="20241209142045+0000" stop="20241209155727+0000">
     <title lang="en">Born to Fly</title>
     <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
@@ -136,23 +154,5 @@
     <desc lang="en">Can big wall climber Natalia Grossman handle the pressure of defending her IFSC World Cup Champion title?</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/30/mc7bjmfxmd7ueucvx4qc/reel-rock-s9-e1-natalia-grossman"/>
-  </programme>
-  <programme channel="redbull.com" start="20241209211128+0000" stop="20241209211732+0000">
-    <title lang="en">Helveticlimb</title>
-    <desc lang="en">Pro climber Alex Megos is out to master three 9a routes (aka seriously tough climbs) in just six days.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1TEWRU3D55N11/FO-1TEWRU3D55N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20241209211732+0000" stop="20241209213203+0000">
-    <title lang="en">Greece</title>
-    <desc lang="en">Sasha DiGiulian creates new routes in a Grecian area not typically travelled to by the climbing community.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/t4umwtpenffenr1pyuqw/no-days-off-s1-e1-sasha-digiulian-climbing-greece"/>
-  </programme>
-  <programme channel="redbull.com" start="20241209213203+0000" stop="20241209214609+0000">
-    <title lang="en">Dominican Republic</title>
-    <desc lang="en">Sasha explores the climbing scene in the Dominican Republic and connects with local athletes.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/ejjezuydxo0beoi644jt/no-days-off-s1-e2-sasha-digiulian-climbing-dominican-republic"/>
   </programme>
 </tv>
