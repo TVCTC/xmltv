@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-10 00:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-10 01:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241209223912+0000" stop="20241209225941+0000">
-    <title lang="en">A line across the sky part 2</title>
-    <desc lang="en">The two most capable rock climbers in the world continue their trek across the Fitz Roy Traverse in Patagonia.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1N53N8VRD1W11/FO-1N53N8VRD1W11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20241209225941+0000" stop="20241209232030+0000">
-    <title lang="en">Showdown at Horseshoe Hell</title>
-    <desc lang="en">Part competition and part rock festival, the 24 Hours of Horseshoe Hell is climbing's craziest competition.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SF2C3QC95N11/FO-1SF2C3QC95N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20241209232030+0000" stop="20241209234104+0000">
-    <title lang="en">High and mighty part 1</title>
-    <desc lang="en">Highball bouldering fuses difficult moves and dire consequences. But for the sport's elite, that's the draw.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1N53R3C951W11/FO-1N53R3C951W11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20241209234104+0000" stop="20241210000159+0000">
     <title lang="en">High and mighty part 2</title>
     <desc lang="en">One of the strongest climbers on earth must overcome his fear of heights in order to make bouldering history.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
     <category lang="en">Slacklining</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
+  </programme>
+  <programme channel="redbull.com" start="20241210124449+0000" stop="20241210132829+0000">
+    <title lang="en">Flying on Water</title>
+    <desc lang="en">America's Cup champ Jimmy Spithill and a crew of foiling pros sail an experimental craft across the Atlantic.</desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1S9YS3D3S5N11/FO-1S9YS3D3S5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20241210132829+0000" stop="20241210133720+0000">
+    <title lang="en">The 37th America's Cup battle begins </title>
+    <desc lang="en">The 37th America’s Cup kicks off with thrilling prelims as top teams race for an early edge on the water.</desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/27/ihgjj8ng4w06yaicikss/alinghi-red-bull-racing-lunarossa-barcelona-prelliminary-regatta-37th-americas-cup-saling"/>
+  </programme>
+  <programme channel="redbull.com" start="20241210133720+0000" stop="20241210134747+0000">
+    <title lang="en">Sailing for a perfect start in Barcelona </title>
+    <desc lang="en">Lighter winds fuel intense pre-start battles in the America’s Cup Preliminary Regatta in Barcelona.</desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/27/ieuuqvmvzde3y7gvz3w8/alinghi-red-bull-racing-boatone-ineos-britannia-barcelona-sailing-prelininary-regatta-37th-americas-cup"/>
   </programme>
 </tv>
