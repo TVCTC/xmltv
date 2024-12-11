@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-11 21:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-11 22:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241211194542+0000" stop="20241211201131+0000">
-    <title lang="en">Highlights – Acapulco Premier Padel P1</title>
-    <desc lang="en">Watch the highlights of the third stop of the season in Mexico for the Acapulco Premier Padel P1. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/oekuz4wagnkyluxiudax/claudia-jensen-jessica-castello-premier-padel-acapulco"/>
-  </programme>
-  <programme channel="redbull.com" start="20241211201131+0000" stop="20241211203740+0000">
-    <title lang="en">Highlights – Brussels Premier Padel P2</title>
-    <desc lang="en">Watch the highlights of the fifth stop of the season in Belgium for the Brussels Premier Padel P2. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/zjzvsbcyjhp7htwrzgpu/beatriz-gonzalez-fernandez-doha-2024-padel"/>
-  </programme>
   <programme channel="redbull.com" start="20241211203740+0000" stop="20241211210335+0000">
     <title lang="en">Highlights – Asunción Premier Padel P2 </title>
     <desc lang="en">Watch the highlights of the seventh stop of the season in Paraguay from the Asunción Premier Padel P2.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Fierce competition awaits in the Louis Vuitton Cup semi-finals, with teams just one win away from the final.</desc>
     <category lang="en">Sailing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/23/polutahgxaqr4awgtenx/alinghi-red-bull-racing-in-barcelona-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241212083645+0000" stop="20241212084637+0000">
+    <title lang="en">Future sailing stars take on Youth America’s Cup</title>
+    <desc lang="en">Unicredit Youth America’s Cup 2024 brings 12 foiling prodigy teams to Barcelona, battling in fast AC40 boats. </desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/8/sh8kurzdmdzyht9guek7/alinghi-red-bull-racing-youth-team-barcelona-unicredit-youth-americas-cup"/>
+  </programme>
+  <programme channel="redbull.com" start="20241212084637+0000" stop="20241212085652+0000">
+    <title lang="en">Racing action from the Challenger Series Finale</title>
+    <desc lang="en">INEOS Britannia and Luna Rossa Prada Pirelli clash in the Louis Vuitton Challenger Series Finale. </desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/8/kdpva7qqcw6bp7en7a6f/ineos-britannia-luna-rossa-prada-pirelli-louis-vuitton-challenger-series-finale-2024"/>
   </programme>
 </tv>
