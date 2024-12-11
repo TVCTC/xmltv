@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-11 11:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-11 12:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241211081213+0000" stop="20241211094856+0000">
-    <title lang="en">Born to Fly</title>
-    <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241211094856+0000" stop="20241211101426+0000">
-    <title lang="en">Jaan Roose: Life on the Line</title>
-    <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
-    <category lang="en">Slacklining</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
-  </programme>
   <programme channel="redbull.com" start="20241211101426+0000" stop="20241211105806+0000">
     <title lang="en">Flying on Water</title>
     <desc lang="en">America's Cup champ Jimmy Spithill and a crew of foiling pros sail an experimental craft across the Atlantic.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Sasha learns from other elite athletes in Malibu, California, as she trains for her next big wall challenge.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/tybiekpyxpb6bluswdlg/no-days-off-s1-e3-sasha-digiulian-climbing-malibu-usa"/>
+  </programme>
+  <programme channel="redbull.com" start="20241211154217+0000" stop="20241211155241+0000">
+    <title lang="en">Maine, USA</title>
+    <desc lang="en">Sasha navigates Maine’s climbing landscape and learns more about humanity’s impact on the environment.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/af1q1jsc1bmxhnlmooez/no-days-off-s1-e4-sasha-digiulian-climbing-maine-usa"/>
+  </programme>
+  <programme channel="redbull.com" start="20241211155241+0000" stop="20241211160324+0000">
+    <title lang="en">Hood River, USA</title>
+    <desc lang="en">Sasha teaches climbing basics and tries her hand at kiteboarding in Hood River, Oregon.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/oube39kvrqtgmohzollg/no-days-off-s1-e5-sasha-digiulian-climbing-hood-river-usa"/>
   </programme>
 </tv>
