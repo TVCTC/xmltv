@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-12 16:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-12 17:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241212144018+0000" stop="20241212150236+0000">
-    <title lang="en">Operation Moffat</title>
-    <desc lang="en">Claire Carter is a climber and writer. Here she follows in the footsteps of her groundbreaking idol.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1N542VBXH1W11/FO-1N542VBXH1W11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20241212150236+0000" stop="20241212153054+0000">
-    <title lang="en">Return of the Lords</title>
-    <desc lang="en">Follow the electrifying 2024 event as the world's best breaking crews battled it out in Seattle, USA.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/2/rnbkzxtmalh2ymnzbvdc/red-bull-lords-of-the-floor-breaking"/>
-  </programme>
   <programme channel="redbull.com" start="20241212153054+0000" stop="20241212155646+0000">
     <title lang="en">Highlights – Riyadh Premier Padel P1</title>
     <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Five sailing challengers compete against Emirates Team New Zealand for the world's oldest sports trophy.</desc>
     <category lang="en">Sailing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/11/xhwnft6ip6vazlpokmco/alinghi-red-bull-racing-boat-barcelona-louis-vuitton-37th-americas-cup"/>
+  </programme>
+  <programme channel="redbull.com" start="20241213050957+0000" stop="20241213051928+0000">
+    <title lang="en">Dramatic stage wrap-up decides team elimination</title>
+    <desc lang="en">The Double Round Robin stage wraps up with dramatic sailing races as the last team faces elimination.</desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/13/zgyixi7bre7z57tob78e/alinghi-red-bull-racing-americas-cup-2024-barcelona"/>
+  </programme>
+  <programme channel="redbull.com" start="20241213051928+0000" stop="20241213052943+0000">
+    <title lang="en">Racing action from the Challenger Series Finale</title>
+    <desc lang="en">INEOS Britannia and Luna Rossa Prada Pirelli clash in the Louis Vuitton Challenger Series Finale. </desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/8/kdpva7qqcw6bp7en7a6f/ineos-britannia-luna-rossa-prada-pirelli-louis-vuitton-challenger-series-finale-2024"/>
   </programme>
 </tv>
