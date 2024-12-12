@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-12 23:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-13 00:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241212205324+0000" stop="20241212215530+0000">
-    <title lang="en">Days of My Youth</title>
-    <desc lang="en">Matchstick Productions' two-year project follows top skiers around the world chasing what they love: snow.</desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MH22H1TW1W11/FO-1MH22H1TW1W11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20241212215530+0000" stop="20241212232347+0000">
-    <title lang="en">Layers</title>
-    <desc lang="en">Discover and celebrate the unique people, places, personalities and layers behind what we call snowboarding.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/a24wabmgl2h2stzq5tyk/snowboard-movie-layers"/>
-  </programme>
   <programme channel="redbull.com" start="20241212232347+0000" stop="20241213003346+0000">
     <title lang="en">The Art of Flight</title>
     <desc lang="en">Travis Rice and Curt Morgan's follow-up to That's It, That's All raises the bar of snowboarding – again.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">The world's oldest global sports competition still running kicks off in Barcelona for the 37th America’s Cup.</desc>
     <category lang="en">Sailing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/pvsxq8ivimgdi5xvgvnj/alinghi-red-bull-racing-boats-barcelona-louis-vuitton-cup-semi-finals-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241213071921+0000" stop="20241213072955+0000">
+    <title lang="en">Crowning the 37th America's Cup winner</title>
+    <desc lang="en">The 37th America’s Cup finale unfolds as INEOS Britannia and Emirates Team New Zealand sail for the crown.</desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/chjdfzjvebhznqhl9rdn/alinghi-red-bull-racing-barcelona-louis-vuitton-cup-sailboat-racing-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241213072955+0000" stop="20241213074902+0000">
+    <title lang="en">This is Beth</title>
+    <desc lang="en">An intimate look beneath the success of legendary climber Beth Rodden, diving into her struggles and transformation.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/kysfw3fryc93bqptemxk/reel-rock-s8-e7-beth-rodden"/>
   </programme>
 </tv>
