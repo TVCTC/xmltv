@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-13 16:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-13 17:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241213144727+0000" stop="20241213151322+0000">
-    <title lang="en">Highlights – Asunción Premier Padel P2 </title>
-    <desc lang="en">Watch the highlights of the seventh stop of the season in Paraguay from the Asunción Premier Padel P2.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/yupj6ycdbof7x8jrd3at/beatriz-caldera-premier-padel"/>
-  </programme>
-  <programme channel="redbull.com" start="20241213151322+0000" stop="20241213153956+0000">
-    <title lang="en">Highlights – Santiago Premier Padel P1</title>
-    <desc lang="en">See the Santiago Premier Padel P1 highlights as the season continued in one of padel's most popular countries.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/16/kryxydhbip56obt9samh/federico-chingotto-and-alejandro-galan-premier-padel-p1-in-santiago"/>
-  </programme>
   <programme channel="redbull.com" start="20241213153956+0000" stop="20241213160554+0000">
     <title lang="en">Highlights – BNL Italy Major Premier Padel</title>
     <desc lang="en">Relive the action from the third Major of the Premier Padel Season 2024 as Italy takes the main stage.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">INEOS Britannia and Luna Rossa Prada Pirelli clash in the Louis Vuitton Challenger Series Finale. </desc>
     <category lang="en">Sailing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/8/kdpva7qqcw6bp7en7a6f/ineos-britannia-luna-rossa-prada-pirelli-louis-vuitton-challenger-series-finale-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241214035927+0000" stop="20241214040924+0000">
+    <title lang="en">INEOS vs Luna Rossa race for a spot in the final </title>
+    <desc lang="en">Luna Rossa Prada Pirelli attempts a comeback after an incident for a spot in the 37th America's Cup final. </desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/8/xdresxsttckufndydh11/luna-rossa-prada-pirelli-vs-ineos-37th-americas-cup-final"/>
+  </programme>
+  <programme channel="redbull.com" start="20241214040924+0000" stop="20241214041918+0000">
+    <title lang="en">The first-ever Women's America's Cup</title>
+    <desc lang="en">For the first time, female sailors compete in their own category for the Women's America's Cup.</desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/yansanwt0wxckpfg08pr/red-bull-alinghi-racing-boat-in-barcelona-women-americas-cup-2024"/>
   </programme>
 </tv>
