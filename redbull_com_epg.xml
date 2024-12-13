@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-13 20:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-13 21:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241213163110+0000" stop="20241213165733+0000">
-    <title lang="en">Highlights – Madrid Premier Padel P1 </title>
-    <desc lang="en">Watch the highlights from Spain as the Madrid Premier Padel P1 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/3/o2t3bgdxiartzlbbwp30/juan-lebron-padel-madrid-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241213165733+0000" stop="20241213172337+0000">
-    <title lang="en">Highlights – Valladolid Premier Padel P2 </title>
-    <desc lang="en">Watch the highlights from Spain as the Valladolid Premier Padel P2 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/16/c0onhmvcicfouh3h4arm/ale-galan-madrid-premier-padel-final-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241213172337+0000" stop="20241213175005+0000">
-    <title lang="en">Highlights – NEWGIZA Premier Padel P2 </title>
-    <desc lang="en">Watch the highlights from Egypt as the NEWGIZA Premier Padel P2 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/21/cnoblz9mbuosjfhqnoct/alejandro-galan-greenweez-paris-major-roland-garros-stadium-paris-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241213175005+0000" stop="20241213185207+0000">
-    <title lang="en">Anna Gasser – The Spark Within</title>
-    <desc lang="en">Follow snowboard superstar Anna Gasser over a decade to see how she changed the snowboarding landscape.  </desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/27/zibxutlsts5kinnlrsms/anna-gasser-the-spark-within-snowboarding"/>
-  </programme>
   <programme channel="redbull.com" start="20241213185207+0000" stop="20241213195413+0000">
     <title lang="en">Days of My Youth</title>
     <desc lang="en">Matchstick Productions' two-year project follows top skiers around the world chasing what they love: snow.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">The 37th America’s Cup finale unfolds as INEOS Britannia and Emirates Team New Zealand sail for the crown.</desc>
     <category lang="en">Sailing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/chjdfzjvebhznqhl9rdn/alinghi-red-bull-racing-barcelona-louis-vuitton-cup-sailboat-racing-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241214043915+0000" stop="20241214045859+0000">
+    <title lang="en">This is Beth</title>
+    <desc lang="en">An intimate look beneath the success of legendary climber Beth Rodden, diving into her struggles and transformation.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/kysfw3fryc93bqptemxk/reel-rock-s8-e7-beth-rodden"/>
+  </programme>
+  <programme channel="redbull.com" start="20241214045859+0000" stop="20241214052824+0000">
+    <title lang="en">Bridge boys</title>
+    <desc lang="en">Tom Randall and Pete Whittaker take on the most absurd crack climb when they end up under a motorway bridge.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/17/oep1nmcdr78erw6rmvqi/reel-rock-s8-e8-tom-randall-pete-whittaker"/>
+  </programme>
+  <programme channel="redbull.com" start="20241214052824+0000" stop="20241214055320+0000">
+    <title lang="en">Flex</title>
+    <desc lang="en">Matty Hong and Margo Hayes challenge themselves by ascending two of the hardest climbs in Colorado, USA. </desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/fsk7akaw85kryjhdatkj/matty-hong-red-bull-dual-ascent-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20241214055320+0000" stop="20241214060000+0000">
+    <title lang="en">Helveticlimb</title>
+    <desc lang="en">Pro climber Alex Megos is out to master three 9a routes (aka seriously tough climbs) in just six days.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1TEWRU3D55N11/FO-1TEWRU3D55N11-featureMedia"/>
   </programme>
 </tv>
