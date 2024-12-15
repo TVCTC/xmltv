@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-15 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-15 05:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241215003936+0000" stop="20241215010515+0000">
-    <title lang="en">The Next Centimeter </title>
-    <desc lang="en">Discover what it takes for pole vaulter Armand ‘Mondo’ Duplantis to raise the bar – one centimetre at a time.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/27/r97odp9y4wmzprlmc2zd/the-next-centimeter-armand-duplantis"/>
-  </programme>
-  <programme channel="redbull.com" start="20241215010515+0000" stop="20241215013116+0000">
-    <title lang="en">Portland, USA</title>
-    <desc lang="en">The influence of past winners is evident as a new generation of homemade flying machines takes to the skies.</desc>
-    <category lang="en">Red Bull Flugtag</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1NPQ21XCS2111/FO-1NPQ21XCS2111-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20241215013116+0000" stop="20241215015746+0000">
-    <title lang="en">Oslo, Norway</title>
-    <desc lang="en">Local flavours rule the day, as teams dress up homemade flying machines in honour of food, festivals and more.</desc>
-    <category lang="en">Red Bull Flugtag</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1NPQ4G1J52111/FO-1NPQ4G1J52111-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20241215015746+0000" stop="20241215022402+0000">
-    <title lang="en">Varna, Bulgaria</title>
-    <desc lang="en">A crowd of 20,000 welcomes teams of amateur aviators who will attempt to fly on the coast of the Black Sea.</desc>
-    <category lang="en">Red Bull Flugtag</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJBFUKH2111/FO-1RFJBFUKH2111-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20241215022402+0000" stop="20241215031029+0000">
     <title lang="en">(Un)credited</title>
     <desc lang="en">Dive deep into the origins of Afro Dance in Nigeria and how it has shaped a global mainstream culture.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">The 37th America’s Cup kicks off with thrilling prelims as top teams race for an early edge on the water.</desc>
     <category lang="en">Sailing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/27/ihgjj8ng4w06yaicikss/alinghi-red-bull-racing-lunarossa-barcelona-prelliminary-regatta-37th-americas-cup-saling"/>
+  </programme>
+  <programme channel="redbull.com" start="20241215120528+0000" stop="20241215121519+0000">
+    <title lang="en">Sailing for a perfect start in Barcelona </title>
+    <desc lang="en">Lighter winds fuel intense pre-start battles in the America’s Cup Preliminary Regatta in Barcelona.</desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/27/ieuuqvmvzde3y7gvz3w8/alinghi-red-bull-racing-boatone-ineos-britannia-barcelona-sailing-prelininary-regatta-37th-americas-cup"/>
+  </programme>
+  <programme channel="redbull.com" start="20241215121519+0000" stop="20241215122519+0000">
+    <title lang="en">Final day frenzy at Barcelona Preliminary Regatta</title>
+    <desc lang="en">The final day of Barcelona's Preliminary Regatta sees intense matchups ahead of the Louis Vuitton Cup.</desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/27/tsv3qdzrwahvvsdk86dk/alinghi-red-bull-racing-sailing-barcelona-preliminary-regatta-37th-americas-cup"/>
+  </programme>
+  <programme channel="redbull.com" start="20241215122519+0000" stop="20241215123508+0000">
+    <title lang="en">Semi-final dreams on the line </title>
+    <desc lang="en">The fight for the last semi-final spot in the Louis Vuitton Cup heats up in the sailing competition.</desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/11/xzconoc8cpvehd6scxdz/alinghi-red-bull-racing-boat-winning-barcelona-race-37th-americas-cup"/>
+  </programme>
+  <programme channel="redbull.com" start="20241215123508+0000" stop="20241215124440+0000">
+    <title lang="en">Double Round Robin showdown</title>
+    <desc lang="en">Five sailing challengers compete against Emirates Team New Zealand for the world's oldest sports trophy.</desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/11/xhwnft6ip6vazlpokmco/alinghi-red-bull-racing-boat-barcelona-louis-vuitton-37th-americas-cup"/>
   </programme>
 </tv>
