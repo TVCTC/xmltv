@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-15 12:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-15 13:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241215104629+0000" stop="20241215111257+0000">
-    <title lang="en">Highlights – NEWGIZA Premier Padel P2 </title>
-    <desc lang="en">Watch the highlights from Egypt as the NEWGIZA Premier Padel P2 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/21/cnoblz9mbuosjfhqnoct/alejandro-galan-greenweez-paris-major-roland-garros-stadium-paris-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20241215111257+0000" stop="20241215115637+0000">
     <title lang="en">Flying on Water</title>
     <desc lang="en">America's Cup champ Jimmy Spithill and a crew of foiling pros sail an experimental craft across the Atlantic.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
     <category lang="en">Offroad</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/9/22/uizpbk9kquu6ustdsgnf/toby-price-ridin-shotgun-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20241215211644+0000" stop="20241215214224+0000">
+    <title lang="en">The Next Centimeter </title>
+    <desc lang="en">Discover what it takes for pole vaulter Armand ‘Mondo’ Duplantis to raise the bar – one centimetre at a time.</desc>
+    <category lang="en">Athletics</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/27/r97odp9y4wmzprlmc2zd/the-next-centimeter-armand-duplantis"/>
   </programme>
 </tv>
