@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-16 22:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-16 23:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241216194352+0000" stop="20241216201007+0000">
+    <title lang="en">Varna, Bulgaria</title>
+    <desc lang="en">A crowd of 20,000 welcomes teams of amateur aviators who will attempt to fly on the coast of the Black Sea.</desc>
+    <category lang="en">Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFJBFUKH2111/FO-1RFJBFUKH2111-featureMedia"/>
+  </programme>
   <programme channel="redbull.com" start="20241216201007+0000" stop="20241216205634+0000">
     <title lang="en">(Un)credited</title>
     <desc lang="en">Dive deep into the origins of Afro Dance in Nigeria and how it has shaped a global mainstream culture.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">The final day of Barcelona's Preliminary Regatta sees intense matchups ahead of the Louis Vuitton Cup.</desc>
     <category lang="en">Sailing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/27/tsv3qdzrwahvvsdk86dk/alinghi-red-bull-racing-sailing-barcelona-preliminary-regatta-37th-americas-cup"/>
-  </programme>
-  <programme channel="redbull.com" start="20241217061951+0000" stop="20241217062939+0000">
-    <title lang="en">Semi-final dreams on the line </title>
-    <desc lang="en">The fight for the last semi-final spot in the Louis Vuitton Cup heats up in the sailing competition.</desc>
-    <category lang="en">Sailing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/11/xzconoc8cpvehd6scxdz/alinghi-red-bull-racing-boat-winning-barcelona-race-37th-americas-cup"/>
   </programme>
 </tv>
