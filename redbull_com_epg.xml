@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-19 13:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-19 14:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241219105243+0000" stop="20241219113910+0000">
-    <title lang="en">(Un)credited</title>
-    <desc lang="en">Dive deep into the origins of Afro Dance in Nigeria and how it has shaped a global mainstream culture.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/4/scufziiaglussi1stxen/un-credited-nigeria-afro-dance"/>
-  </programme>
-  <programme channel="redbull.com" start="20241219113910+0000" stop="20241219123309+0000">
-    <title lang="en">Ice Waterfalls</title>
-    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/bh9so7d3iaak0a1eajmc/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
-  </programme>
   <programme channel="redbull.com" start="20241219123309+0000" stop="20241219125937+0000">
     <title lang="en">Highlights – Riyadh Premier Padel P1</title>
     <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">The Double Round Robin stage wraps up with dramatic sailing races as the last team faces elimination.</desc>
     <category lang="en">Sailing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/13/zgyixi7bre7z57tob78e/alinghi-red-bull-racing-americas-cup-2024-barcelona"/>
+  </programme>
+  <programme channel="redbull.com" start="20241219220243+0000" stop="20241219221243+0000">
+    <title lang="en">Alinghi Red Bull Racing's bid to reach the final </title>
+    <desc lang="en">INEOS Britannia faces Alinghi Red Bull Racing in the semi-finals, racing to five points to reach the final. </desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/23/matffna0wtzmjqc7fbb3/alinghi-red-bull-racing-sailboat-jeddah-cristina-gutierrez-carlos-sainz"/>
+  </programme>
+  <programme channel="redbull.com" start="20241219221243+0000" stop="20241219222243+0000">
+    <title lang="en">Luna Rossa and American Magic: Revenge on the line</title>
+    <desc lang="en">American Magic takes on Luna Rossa in the semi-finals, with five points deciding the finalist.</desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/23/zifdleexhrqp3fz4zoar/alinghi-red-bull-racing-sailing-boats-racing-in-jeddah-cristina-gutierrez-carlos-sainz"/>
   </programme>
 </tv>
