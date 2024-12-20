@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-20 11:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-20 12:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241220074426+0000" stop="20241220083053+0000">
-    <title lang="en">(Un)credited</title>
-    <desc lang="en">Dive deep into the origins of Afro Dance in Nigeria and how it has shaped a global mainstream culture.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/4/scufziiaglussi1stxen/un-credited-nigeria-afro-dance"/>
-  </programme>
-  <programme channel="redbull.com" start="20241220083053+0000" stop="20241220092452+0000">
-    <title lang="en">Ice Waterfalls</title>
-    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/bh9so7d3iaak0a1eajmc/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
-  </programme>
-  <programme channel="redbull.com" start="20241220092452+0000" stop="20241220095119+0000">
-    <title lang="en">Highlights – Riyadh Premier Padel P1</title>
-    <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
-  </programme>
   <programme channel="redbull.com" start="20241220095119+0000" stop="20241220101721+0000">
     <title lang="en">Highlights – Qatar Major Premier Padel</title>
     <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">The final day of Barcelona's Preliminary Regatta sees intense matchups ahead of the Louis Vuitton Cup.</desc>
     <category lang="en">Sailing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/27/tsv3qdzrwahvvsdk86dk/alinghi-red-bull-racing-sailing-barcelona-preliminary-regatta-37th-americas-cup"/>
+  </programme>
+  <programme channel="redbull.com" start="20241220185309+0000" stop="20241220190334+0000">
+    <title lang="en">Semi-final dreams on the line </title>
+    <desc lang="en">The fight for the last semi-final spot in the Louis Vuitton Cup heats up in the sailing competition.</desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/11/xzconoc8cpvehd6scxdz/alinghi-red-bull-racing-boat-winning-barcelona-race-37th-americas-cup"/>
+  </programme>
+  <programme channel="redbull.com" start="20241220190334+0000" stop="20241220191230+0000">
+    <title lang="en">Double Round Robin showdown</title>
+    <desc lang="en">Five sailing challengers compete against Emirates Team New Zealand for the world's oldest sports trophy.</desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/11/xhwnft6ip6vazlpokmco/alinghi-red-bull-racing-boat-barcelona-louis-vuitton-37th-americas-cup"/>
+  </programme>
+  <programme channel="redbull.com" start="20241220191230+0000" stop="20241220192202+0000">
+    <title lang="en">Dramatic stage wrap-up decides team elimination</title>
+    <desc lang="en">The Double Round Robin stage wraps up with dramatic sailing races as the last team faces elimination.</desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/13/zgyixi7bre7z57tob78e/alinghi-red-bull-racing-americas-cup-2024-barcelona"/>
   </programme>
 </tv>
