@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-21 16:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-21 17:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241221141756+0000" stop="20241221145622+0000">
-    <title lang="en">Abstract</title>
-    <desc lang="en">Faction's fourth feature film exhibits pure creativity through a series of high-octane freeski sequences.</desc>
-    <category lang="en">Freeskiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/w0jtddciypplcsz0ntjr/abstract-skiing-film"/>
-  </programme>
   <programme channel="redbull.com" start="20241221145622+0000" stop="20241221155824+0000">
     <title lang="en">Anna Gasser – The Spark Within</title>
     <desc lang="en">Follow snowboard superstar Anna Gasser over a decade to see how she changed the snowboarding landscape.  </desc>
@@ -154,5 +148,11 @@
     <desc lang="en">The 'Honey Badger' in Oz – Red Bull Racing send driver Daniel Ricciardo to Melbourne's Albert Park circuit.</desc>
     <category lang="en">F1</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/23/atpdt6qxwzx6yudyeb6y/red-bull-racing-road-trips-s3-e1-daniel-ricciardo"/>
+  </programme>
+  <programme channel="redbull.com" start="20241222060000+0000" stop="20241222063946+0000">
+    <title lang="en">Motivation, sacrifice and life-altering decisions</title>
+    <desc lang="en">Meet exceptional people who've made life-altering decisions to race Dakar, making sacrifices for a dream.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/vurtuxazlmskherfpx5p/toby-price-sam-sunderland-dakar-rally-2024"/>
   </programme>
 </tv>
