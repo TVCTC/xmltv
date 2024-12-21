@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-21 02:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-21 03:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241220233054+0000" stop="20241220235625+0000">
+    <title lang="en">Jaan Roose: Life on the Line</title>
+    <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
+    <category lang="en">Slacklining</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
+  </programme>
+  <programme channel="redbull.com" start="20241220235625+0000" stop="20241221002245+0000">
+    <title lang="en">ABC of... Rally Raid</title>
+    <desc lang="en">Find out what it takes to compete in one of the most arduous races on the planet.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1U2MR3Y4W5N11/FO-1U2MR3Y4W5N11-featureMedia"/>
+  </programme>
   <programme channel="redbull.com" start="20241221002245+0000" stop="20241221005610+0000">
     <title lang="en">Hope</title>
     <desc lang="en">After a devastating injury, Marc Márquez's biggest challenge is to be what he once was, so he moves to Madrid.</desc>
@@ -83,7 +95,7 @@
     <category lang="en">Athletics</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
   </programme>
-  <programme channel="redbull.com" start="20241221083857+0000" stop="20241221090428+0000">
+  <programme channel="redbull.com" start="20241220233054+0000" stop="20241220235625+0000">
     <title lang="en">Jaan Roose: Life on the Line</title>
     <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
     <category lang="en">Slacklining</category>
@@ -142,17 +154,5 @@
     <desc lang="en">Round 2 of the Abu Dhabi Desert Challenge offers challenging sand dunes and baking heat in remote UAE deserts.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/cjglt0voraiqyycemrmx/rokas-baciuska-abu-dhabi-desert-challenge-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241221141756+0000" stop="20241221145622+0000">
-    <title lang="en">Abstract</title>
-    <desc lang="en">Faction's fourth feature film exhibits pure creativity through a series of high-octane freeski sequences.</desc>
-    <category lang="en">Freeskiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/w0jtddciypplcsz0ntjr/abstract-skiing-film"/>
-  </programme>
-  <programme channel="redbull.com" start="20241221145622+0000" stop="20241221155824+0000">
-    <title lang="en">Anna Gasser – The Spark Within</title>
-    <desc lang="en">Follow snowboard superstar Anna Gasser over a decade to see how she changed the snowboarding landscape.  </desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/27/zibxutlsts5kinnlrsms/anna-gasser-the-spark-within-snowboarding"/>
   </programme>
 </tv>
