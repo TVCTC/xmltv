@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-22 19:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-22 20:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241222165124+0000" stop="20241222171724+0000">
+    <title lang="en">From skydiving with skis to flying into a volcano</title>
+    <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/jdlnqxz4nve0e3be9jf1/dario-costa-wingsuit-flying-through-catalca-tunnels-in-turkey"/>
+  </programme>
+  <programme channel="redbull.com" start="20241222171724+0000" stop="20241222174400+0000">
+    <title lang="en">From a paper plane contest to diving off ruins </title>
+    <desc lang="en">Red Bull athletes do it all, from diving off ancient ruins to acing a paper plane competition.  </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/5/orl9mdkwzi4y5qrhjbri/red-bull-racing-swamp-buggy-max-verstappen-2022"/>
+  </programme>
   <programme channel="redbull.com" start="20241222174400+0000" stop="20241222181000+0000">
     <title lang="en">From skateboarding out a plane to 180m wall climb</title>
     <desc lang="en">Red Bull athletes do it all, from freerunning through an airport to building a skatepark in the forest.</desc>
@@ -142,17 +154,5 @@
     <desc lang="en">Round 2 of the Abu Dhabi Desert Challenge offers challenging sand dunes and baking heat in remote UAE deserts.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/cjglt0voraiqyycemrmx/rokas-baciuska-abu-dhabi-desert-challenge-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241223075217+0000" stop="20241223083043+0000">
-    <title lang="en">Abstract</title>
-    <desc lang="en">Faction's fourth feature film exhibits pure creativity through a series of high-octane freeski sequences.</desc>
-    <category lang="en">Freeskiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/w0jtddciypplcsz0ntjr/abstract-skiing-film"/>
-  </programme>
-  <programme channel="redbull.com" start="20241223083043+0000" stop="20241223093245+0000">
-    <title lang="en">Anna Gasser – The Spark Within</title>
-    <desc lang="en">Follow snowboard superstar Anna Gasser over a decade to see how she changed the snowboarding landscape.  </desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/27/zibxutlsts5kinnlrsms/anna-gasser-the-spark-within-snowboarding"/>
   </programme>
 </tv>
