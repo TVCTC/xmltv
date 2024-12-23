@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-23 11:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-23 12:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241223083043+0000" stop="20241223093245+0000">
+    <title lang="en">Anna Gasser – The Spark Within</title>
+    <desc lang="en">Follow snowboard superstar Anna Gasser over a decade to see how she changed the snowboarding landscape.  </desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/27/zibxutlsts5kinnlrsms/anna-gasser-the-spark-within-snowboarding"/>
+  </programme>
   <programme channel="redbull.com" start="20241223093245+0000" stop="20241223101908+0000">
     <title lang="en">Anton Palzer: Breaking the Cycle</title>
     <desc lang="en">From the powder to the pavement – Anton Palzer believes he has what it takes to switch from ski mountaineer to road cyclist.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">Meet exceptional people who've made life-altering decisions to race Dakar, making sacrifices for a dream.</desc>
     <category lang="en">Rally Raid</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/vurtuxazlmskherfpx5p/toby-price-sam-sunderland-dakar-rally-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241224002936+0000" stop="20241224010223+0000">
-    <title lang="en">Great battles: Carlos Sainz vs Nasser Al-Attiyah</title>
-    <desc lang="en">Nasser Al-Attiyah and Carlos Sainz join us to share a unique insight into their friendship and rivalry.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/8/swbs8jyrfslg7qtkrqr5/nasser-al-attiyah-and-carlos-sainz-in-the-dust-s1-e2"/>
   </programme>
 </tv>
