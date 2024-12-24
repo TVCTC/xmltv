@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-24 21:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-24 22:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241224165205+0000" stop="20241224171236+0000">
-    <title lang="en">Redemption at Nazaré</title>
-    <desc lang="en">The Big Wave World Tour tow surfing event is on at Nazaré – Kai Lenny‘s last chance to get a win this winter.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/20/voo2o4bp2nnzgjtyb0vh/life-of-kai-ep5-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20241224171236+0000" stop="20241224181451+0000">
-    <title lang="en">ANYTIME</title>
-    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
-  </programme>
-  <programme channel="redbull.com" start="20241224181451+0000" stop="20241224195134+0000">
-    <title lang="en">Born to Fly</title>
-    <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20241224195134+0000" stop="20241224201704+0000">
     <title lang="en">Jaan Roose: Life on the Line</title>
     <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Red Bull athletes do it all, from freerunning through an airport to building a skatepark in the forest.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/u2jrgximnynso9wn4vue/andrzej-bargiel"/>
+  </programme>
+  <programme channel="redbull.com" start="20241225083712+0000" stop="20241225090312+0000">
+    <title lang="en">From BASE jumping a cave to a flying mega swing </title>
+    <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iww612k42herg2tme0kr/marco-fuerst-base-jumping"/>
+  </programme>
+  <programme channel="redbull.com" start="20241225090312+0000" stop="20241225092912+0000">
+    <title lang="en">From freerunning Greek isles to skiing the Streif</title>
+    <desc lang="en">Red Bull athletes do it all, from skiing down the steepest run at night to slacklining during an eclipse.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/pafocedw24uyj8uzbkjm/dominic-di-tommaso-hazal-nehir-istanbul-2021"/>
+  </programme>
+  <programme channel="redbull.com" start="20241225092912+0000" stop="20241225095548+0000">
+    <title lang="en">From soapbox madness to skydiving with an FMX bike</title>
+    <desc lang="en">Red Bull athletes do it all, from skydiving with a motocross bike to riding rally cars on frozen lakes. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iltxmuy0dpylwgiezemw/red-bull-dance-your-style-lausanne-final-aceko-performance-2024"/>
   </programme>
 </tv>
