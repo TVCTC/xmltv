@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-24 12:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-24 13:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241224104928+0000" stop="20241224111528+0000">
-    <title lang="en">From skateboarding out a plane to 180m wall climb</title>
-    <desc lang="en">Red Bull athletes do it all, from freerunning through an airport to building a skatepark in the forest.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/u2jrgximnynso9wn4vue/andrzej-bargiel"/>
-  </programme>
-  <programme channel="redbull.com" start="20241224111528+0000" stop="20241224114204+0000">
-    <title lang="en">From BASE jumping a cave to a flying mega swing </title>
-    <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iww612k42herg2tme0kr/marco-fuerst-base-jumping"/>
-  </programme>
   <programme channel="redbull.com" start="20241224114204+0000" stop="20241224120804+0000">
     <title lang="en">From freerunning Greek isles to skiing the Streif</title>
     <desc lang="en">Red Bull athletes do it all, from skiing down the steepest run at night to slacklining during an eclipse.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Faction's fourth feature film exhibits pure creativity through a series of high-octane freeski sequences.</desc>
     <category lang="en">Freeskiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/w0jtddciypplcsz0ntjr/abstract-skiing-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20241225020858+0000" stop="20241225031100+0000">
+    <title lang="en">Anna Gasser – The Spark Within</title>
+    <desc lang="en">Follow snowboard superstar Anna Gasser over a decade to see how she changed the snowboarding landscape.  </desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/27/zibxutlsts5kinnlrsms/anna-gasser-the-spark-within-snowboarding"/>
+  </programme>
+  <programme channel="redbull.com" start="20241225031100+0000" stop="20241225035724+0000">
+    <title lang="en">Anton Palzer: Breaking the Cycle</title>
+    <desc lang="en">From the powder to the pavement – Anton Palzer believes he has what it takes to switch from ski mountaineer to road cyclist.</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/18/ilb6dz1m80ddz0pfsryq/anton-palzer-breaking-the-cycle-hero-art"/>
   </programme>
 </tv>
