@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-25 14:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-25 15:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241225102203+0000" stop="20241225115736+0000">
+    <title lang="en">For the Dream</title>
+    <desc lang="en">Ex-pro surfer Ben Gravy sets out on his dream to become the first person to surf in all 50 US states.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/25/oczwecazd6w2w9figilo/for-the-dream-ben-gravy"/>
+  </programme>
+  <programme channel="redbull.com" start="20241225115736+0000" stop="20241225125210+0000">
+    <title lang="en">Ice Waterfalls</title>
+    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/bh9so7d3iaak0a1eajmc/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
+  </programme>
   <programme channel="redbull.com" start="20241225125210+0000" stop="20241225131806+0000">
     <title lang="en">Rescue</title>
     <desc lang="en">Kai Lenny kicks off the big wave season at Jaws and faces the risks that come with his pursuit of progression.</desc>
@@ -142,17 +154,5 @@
     <desc lang="en">Red Bull athletes do it all, from riding a skatepark under a hot air balloon to F1 drivers racing on water. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/oyfmvrqrchvizwasa9o9/oracle-red-bull-racings-rb7"/>
-  </programme>
-  <programme channel="redbull.com" start="20241226033736+0000" stop="20241226040336+0000">
-    <title lang="en">From F1 soapbox racing to breaking world records</title>
-    <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
-  </programme>
-  <programme channel="redbull.com" start="20241226040336+0000" stop="20241226042936+0000">
-    <title lang="en">From a pinball human to 93kph speed skating</title>
-    <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
   </programme>
 </tv>
