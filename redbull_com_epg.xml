@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-26 10:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-26 11:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241226074451+0000" stop="20241226092024+0000">
-    <title lang="en">For the Dream</title>
-    <desc lang="en">Ex-pro surfer Ben Gravy sets out on his dream to become the first person to surf in all 50 US states.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/25/oczwecazd6w2w9figilo/for-the-dream-ben-gravy"/>
-  </programme>
   <programme channel="redbull.com" start="20241226092024+0000" stop="20241226101422+0000">
     <title lang="en">Ice Waterfalls</title>
     <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
+  </programme>
+  <programme channel="redbull.com" start="20241227004910+0000" stop="20241227011510+0000">
+    <title lang="en">From a pinball human to 93kph speed skating</title>
+    <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
   </programme>
 </tv>
