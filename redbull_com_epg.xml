@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-27 15:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-27 16:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241227142914+0000" stop="20241227150222+0000">
-    <title lang="en">How not to get lost in the desert </title>
-    <desc lang="en">Finding your way from point A to point B in the desert becomes a huge challenge for Dakar competitors.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/15/ks4hzgzmwya0yzi05qym/in-the-dust-s1-e6-image"/>
-  </programme>
-  <programme channel="redbull.com" start="20241227150222+0000" stop="20241227152939+0000">
-    <title lang="en">The unsung heroes oiling the wheels of the Dakar</title>
-    <desc lang="en">Meet people who are integral in moving 3,000 people across the challenging terrains of the Dakar Rally.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/17/dnrjyrdowk7xetlpe1dn/unsung-heroes"/>
-  </programme>
   <programme channel="redbull.com" start="20241227152939+0000" stop="20241227160229+0000">
     <title lang="en">Generations: the Dakar's ageless pursuit</title>
     <desc lang="en">Two competitors who represent the diverse spectrum of Dakar determination: Laia Sanz and Mitch Guthrie Jr.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Kai Lenny competes in the Gigantes de Nazaré contest before jetting home to catch a great day at Peahi (Jaws).</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/20/husfaluk9lhnslcavdsb/life-of-kai-ep4-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20241228052749+0000" stop="20241228054820+0000">
+    <title lang="en">Redemption at Nazaré</title>
+    <desc lang="en">The Big Wave World Tour tow surfing event is on at Nazaré – Kai Lenny‘s last chance to get a win this winter.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/20/voo2o4bp2nnzgjtyb0vh/life-of-kai-ep5-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20241228054820+0000" stop="20241228060000+0000">
+    <title lang="en">Final day frenzy at Barcelona Preliminary Regatta</title>
+    <desc lang="en">The final day of Barcelona's Preliminary Regatta sees intense matchups ahead of the Louis Vuitton Cup.</desc>
+    <category lang="en">Sailing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/27/tsv3qdzrwahvvsdk86dk/alinghi-red-bull-racing-sailing-barcelona-preliminary-regatta-37th-americas-cup"/>
   </programme>
 </tv>
