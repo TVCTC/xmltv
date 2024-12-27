@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-27 20:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-27 21:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241227132036+0000" stop="20241227135918+0000">
+    <title lang="en">Could your average Joe take on 9,000km?</title>
+    <desc lang="en">We explore the physical and mental stamina required for the brutal 9,000km journey of the Dakar Rally.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/11/fqs8hdrjozdfvcipyvg4/seth-quintero-dania-akeel-in-the-dust-dakar"/>
+  </programme>
+  <programme channel="redbull.com" start="20241227135918+0000" stop="20241227142914+0000">
+    <title lang="en">Marathon stage: surviving 48 hours in the desert</title>
+    <desc lang="en">Uncover the brutal 48-hour solo marathon stage through the story of first-time Dakar competitor Tobias Ebster.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/15/ffvak9e66acpuxoa8ai7/in-the-dust-episode-5-image"/>
+  </programme>
+  <programme channel="redbull.com" start="20241227142914+0000" stop="20241227150222+0000">
+    <title lang="en">How not to get lost in the desert </title>
+    <desc lang="en">Finding your way from point A to point B in the desert becomes a huge challenge for Dakar competitors.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/15/ks4hzgzmwya0yzi05qym/in-the-dust-s1-e6-image"/>
+  </programme>
+  <programme channel="redbull.com" start="20241227150222+0000" stop="20241227152939+0000">
+    <title lang="en">The unsung heroes oiling the wheels of the Dakar</title>
+    <desc lang="en">Meet people who are integral in moving 3,000 people across the challenging terrains of the Dakar Rally.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/17/dnrjyrdowk7xetlpe1dn/unsung-heroes"/>
+  </programme>
+  <programme channel="redbull.com" start="20241227152939+0000" stop="20241227160229+0000">
+    <title lang="en">Generations: the Dakar's ageless pursuit</title>
+    <desc lang="en">Two competitors who represent the diverse spectrum of Dakar determination: Laia Sanz and Mitch Guthrie Jr.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/19/lliewzgssl7ijv2z1gxk/laia-sanz-mitch-guthrie-jr"/>
+  </programme>
+  <programme channel="redbull.com" start="20241227160229+0000" stop="20241227165440+0000">
+    <title lang="en">Abu Dhabi Desert Challenge 2024 highlights</title>
+    <desc lang="en">Round 2 of the Abu Dhabi Desert Challenge offers challenging sand dunes and baking heat in remote UAE deserts.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/cjglt0voraiqyycemrmx/rokas-baciuska-abu-dhabi-desert-challenge-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241227165440+0000" stop="20241227173306+0000">
+    <title lang="en">Abstract</title>
+    <desc lang="en">Faction's fourth feature film exhibits pure creativity through a series of high-octane freeski sequences.</desc>
+    <category lang="en">Freeskiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/w0jtddciypplcsz0ntjr/abstract-skiing-film"/>
+  </programme>
   <programme channel="redbull.com" start="20241227173306+0000" stop="20241227183508+0000">
     <title lang="en">Anna Gasser – The Spark Within</title>
     <desc lang="en">Follow snowboard superstar Anna Gasser over a decade to see how she changed the snowboarding landscape.  </desc>
@@ -112,47 +154,5 @@
     <desc lang="en">Kai Lenny competes in the WSL Big Wave World Tour event at his home break of Peahi (Jaws) in Maui.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/20/a4pfsr4rfkq0loezbtzz/life-of-kai-ep2-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20241228045130+0000" stop="20241228050648+0000">
-    <title lang="en">The legend of Nazaré</title>
-    <desc lang="en">Kai Lenny travels to Nazaré in Portugal to train with Brazilian big wave charger Lucas 'Chumbo' Chianca.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/27/i5b75acdduwyr8jze4fl/life-of-kai-ep3-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20241228050648+0000" stop="20241228052749+0000">
-    <title lang="en">Slaying Gigantes</title>
-    <desc lang="en">Kai Lenny competes in the Gigantes de Nazaré contest before jetting home to catch a great day at Peahi (Jaws).</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/20/husfaluk9lhnslcavdsb/life-of-kai-ep4-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20241228052749+0000" stop="20241228054820+0000">
-    <title lang="en">Redemption at Nazaré</title>
-    <desc lang="en">The Big Wave World Tour tow surfing event is on at Nazaré – Kai Lenny‘s last chance to get a win this winter.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/20/voo2o4bp2nnzgjtyb0vh/life-of-kai-ep5-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20241228054820+0000" stop="20241228060000+0000">
-    <title lang="en">Final day frenzy at Barcelona Preliminary Regatta</title>
-    <desc lang="en">The final day of Barcelona's Preliminary Regatta sees intense matchups ahead of the Louis Vuitton Cup.</desc>
-    <category lang="en">Sailing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/27/tsv3qdzrwahvvsdk86dk/alinghi-red-bull-racing-sailing-barcelona-preliminary-regatta-37th-americas-cup"/>
-  </programme>
-  <programme channel="redbull.com" start="20241228060000+0000" stop="20241228071340+0000">
-    <title lang="en">La Liste: Everything or Nothing</title>
-    <desc lang="en">Big mountain skiers Jérémie Heitz and Sam Anthamatten ski the world’s highest peaks in this big adventure.</desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/10/pztrwnuiipl1vbztin8l/jeremie-heitz-la-liste-everything-or-nothing-freeski"/>
-  </programme>
-  <programme channel="redbull.com" start="20241228071340+0000" stop="20241228074016+0000">
-    <title lang="en">BACKYARD by Nadine Wallner </title>
-    <desc lang="en">Freeskier Nadine Wallner does what no one's done before: conquers five mountain faces at Arlberg in one day. </desc>
-    <category lang="en">Freeskiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/d1yap4ipqnixcfvukl7y/backyard-by-nadine-wallner"/>
-  </programme>
-  <programme channel="redbull.com" start="20241228074016+0000" stop="20241228080807+0000">
-    <title lang="en">Relive the highlights from Red Bull Unrailistic 2024</title>
-    <desc lang="en">The world's best skiers returned to Åre to tackle the unique course inspired by X-Games legend Jesper Tjäder.</desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/mglavhdms9iqh31iq1ij/johanne-killi-red-bull-unrailistic-2024"/>
   </programme>
 </tv>
