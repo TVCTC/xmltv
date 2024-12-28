@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-28 08:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-28 09:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241228045130+0000" stop="20241228050648+0000">
-    <title lang="en">The legend of Nazaré</title>
-    <desc lang="en">Kai Lenny travels to Nazaré in Portugal to train with Brazilian big wave charger Lucas 'Chumbo' Chianca.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/27/i5b75acdduwyr8jze4fl/life-of-kai-ep3-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20241228050648+0000" stop="20241228052749+0000">
-    <title lang="en">Slaying Gigantes</title>
-    <desc lang="en">Kai Lenny competes in the Gigantes de Nazaré contest before jetting home to catch a great day at Peahi (Jaws).</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/20/husfaluk9lhnslcavdsb/life-of-kai-ep4-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20241228052749+0000" stop="20241228054820+0000">
-    <title lang="en">Redemption at Nazaré</title>
-    <desc lang="en">The Big Wave World Tour tow surfing event is on at Nazaré – Kai Lenny‘s last chance to get a win this winter.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/20/voo2o4bp2nnzgjtyb0vh/life-of-kai-ep5-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20241228054820+0000" stop="20241228060000+0000">
-    <title lang="en">Final day frenzy at Barcelona Preliminary Regatta</title>
-    <desc lang="en">The final day of Barcelona's Preliminary Regatta sees intense matchups ahead of the Louis Vuitton Cup.</desc>
-    <category lang="en">Sailing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/27/tsv3qdzrwahvvsdk86dk/alinghi-red-bull-racing-sailing-barcelona-preliminary-regatta-37th-americas-cup"/>
-  </programme>
   <programme channel="redbull.com" start="20241228060000+0000" stop="20241228071340+0000">
     <title lang="en">La Liste: Everything or Nothing</title>
     <desc lang="en">Big mountain skiers Jérémie Heitz and Sam Anthamatten ski the world’s highest peaks in this big adventure.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Kai Lenny kicks off the big wave season at Jaws and faces the risks that come with his pursuit of progression.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/20/bqyp131muyvs1nj7wedh/kai-lenny-jaws-surfing"/>
+  </programme>
+  <programme channel="redbull.com" start="20241228184748+0000" stop="20241228194223+0000">
+    <title lang="en">Ice Waterfalls</title>
+    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/bh9so7d3iaak0a1eajmc/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
+  </programme>
+  <programme channel="redbull.com" start="20241228194223+0000" stop="20241228202653+0000">
+    <title lang="en">Gabon Uncharted: Sending Ivindo Falls </title>
+    <desc lang="en">Adrian Mattern and the Send crew tackle colossal waterfalls in Gabon, using drones to explore hidden channels.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/15/woft5qu0fsvk076qiph6/adrian-mattern-dane-jackson-kayaking-rapids-ivindo-river-gabon-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241228202653+0000" stop="20241228220128+0000">
+    <title lang="en">London, England</title>
+    <desc lang="en">59 intrepid teams race gravity-powered vehicles down a tricky course at Alexandra Palace in London.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/y2wmxqggij1ljnzpu00g/red-bull-soap-box-race-london-alexandra-palace-battersea-rollers-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241228220128+0000" stop="20241228222806+0000">
+    <title lang="en">Red Bull Erzbergrodeo recap</title>
+    <desc lang="en">Red Bull KTM Factory Racing’s Manuel Lettenbichler put on a masterclass, claiming a comfortable win.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/5/crlmyzqq56ywhcax4s4j/manuel-lettenbichler-red-bull-erzbergrodeo-2024"/>
   </programme>
 </tv>
