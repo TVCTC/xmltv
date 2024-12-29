@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-29 02:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-29 03:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241229014328+0000" stop="20241229021441+0000">
-    <title lang="en">In the Wings</title>
-    <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20241229021441+0000" stop="20241229024244+0000">
-    <title lang="en">Jorge Prado: Under the Lights</title>
-    <desc lang="en">MXGP Champion Jorge Prado takes on a new challenge: racing Supercross in America.</desc>
-    <category lang="en">Supercross</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/wq51wy0twj7lamjjfa2u/jorge-prado"/>
-  </programme>
   <programme channel="redbull.com" start="20241229024244+0000" stop="20241229025529+0000">
     <title lang="en">World’s fastest filming drone chases Max Verstappen</title>
     <desc lang="en">Fast laps like you've never seen before – take flight with a drone that matches F1 car speeds of 300kph-plus. </desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Adrian Mattern and the Send crew tackle colossal waterfalls in Gabon, using drones to explore hidden channels.</desc>
     <category lang="en">Kayaking</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/15/woft5qu0fsvk076qiph6/adrian-mattern-dane-jackson-kayaking-rapids-ivindo-river-gabon-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241229172235+0000" stop="20241229185710+0000">
+    <title lang="en">London, England</title>
+    <desc lang="en">59 intrepid teams race gravity-powered vehicles down a tricky course at Alexandra Palace in London.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/y2wmxqggij1ljnzpu00g/red-bull-soap-box-race-london-alexandra-palace-battersea-rollers-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241229185710+0000" stop="20241229192347+0000">
+    <title lang="en">Red Bull Erzbergrodeo recap</title>
+    <desc lang="en">Red Bull KTM Factory Racing’s Manuel Lettenbichler put on a masterclass, claiming a comfortable win.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/5/crlmyzqq56ywhcax4s4j/manuel-lettenbichler-red-bull-erzbergrodeo-2024"/>
   </programme>
 </tv>
