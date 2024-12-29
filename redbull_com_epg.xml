@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-29 17:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-29 18:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241229133021+0000" stop="20241229142317+0000">
+    <title lang="en">Season finale in Sydney</title>
+    <desc lang="en">The season wraps up in Sydney, Australia, where the men’s and women’s champions will be crowned.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/19/a6baiduzxovwmd1slpx4/rhiannan-iffland-cliff-diving-sydney-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241229142317+0000" stop="20241229151659+0000">
+    <title lang="en">Castles in the Sky</title>
+    <desc lang="en">This is as close to the experience of pioneering new coastlines as you can get without getting on a plane.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/q8wngrrxic3cpsh7sli6/dane-reynolds-haleiwa-2015"/>
+  </programme>
+  <programme channel="redbull.com" start="20241229151659+0000" stop="20241229154330+0000">
+    <title lang="en">Rescue</title>
+    <desc lang="en">Kai Lenny kicks off the big wave season at Jaws and faces the risks that come with his pursuit of progression.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/20/bqyp131muyvs1nj7wedh/kai-lenny-jaws-surfing"/>
+  </programme>
   <programme channel="redbull.com" start="20241229154330+0000" stop="20241229163805+0000">
     <title lang="en">Ice Waterfalls</title>
     <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
@@ -136,23 +154,5 @@
     <desc lang="en">Relive the crown jewel of Crankworx Whistler as top slopestyle mountain bikers perform mind-boggling tricks.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/13/qqmigeqdj3dixxgdkql9/dawid-godziek-red-bull-joyride-whistler-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241230051209+0000" stop="20241230055515+0000">
-    <title lang="en">Encouraged: Building the Future</title>
-    <desc lang="en">Join Courage Adams as he returns to Nigeria to fulfil his promise of building Lagos's first skatepark.</desc>
-    <category lang="en">BMX</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/vwwci81eotk8udlrfy1n/lagos-bmx-crew-courage-adams-encouraged"/>
-  </programme>
-  <programme channel="redbull.com" start="20241230055515+0000" stop="20241230060000+0000">
-    <title lang="en"> I Jumped From Space </title>
-    <desc lang="en">Red Bull TV programme</desc>
-    <category lang="en">BASE Jumping</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/numkn5vmseryilk3f4bh/felix-baumgartner-action"/>
-  </programme>
-  <programme channel="redbull.com" start="20241230060000+0000" stop="20241230062437+0000">
-    <title lang="en">Making History: The Women of Freeride</title>
-    <desc lang="en">Follow elite female riders breaking boundaries at Red Bull Rampage in a push for equality.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/11/qh9cbeixciujxg1oqcmt/robin-goomes-trick-red-bull-rampage-utah"/>
   </programme>
 </tv>
