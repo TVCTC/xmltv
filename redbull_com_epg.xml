@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-29 09:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-29 10:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241229075354+0000" stop="20241229081437+0000">
-    <title lang="en">Crankworx Whistler: Red Bull Joyride highlights</title>
-    <desc lang="en">Relive the crown jewel of Crankworx Whistler as top slopestyle mountain bikers perform mind-boggling tricks.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/13/qqmigeqdj3dixxgdkql9/dawid-godziek-red-bull-joyride-whistler-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20241229081437+0000" stop="20241229085744+0000">
     <title lang="en">Encouraged: Building the Future</title>
     <desc lang="en">Join Courage Adams as he returns to Nigeria to fulfil his promise of building Lagos's first skatepark.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
     <category lang="en">Breaking</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
+  </programme>
+  <programme channel="redbull.com" start="20241230010231+0000" stop="20241230011741+0000">
+    <title lang="en">Original moves</title>
+    <desc lang="en">B-Boys Phil Wizard and Lee learn the secrets of Menno's creativity before battling in a test of originality.</desc>
+    <category lang="en">Breaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/21/v9ipsnrio9l9nrsmjhvu/b-boy-lee-netherlands-2024-breaking"/>
   </programme>
 </tv>
