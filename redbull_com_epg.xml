@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-29 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-29 05:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241229024244+0000" stop="20241229025529+0000">
-    <title lang="en">World’s fastest filming drone chases Max Verstappen</title>
-    <desc lang="en">Fast laps like you've never seen before – take flight with a drone that matches F1 car speeds of 300kph-plus. </desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/27/jl21wctlres0vwirgcur/oracle-red-bull-racing-launch-2024-filming-drone-chases-max-verstappen"/>
-  </programme>
-  <programme channel="redbull.com" start="20241229025529+0000" stop="20241229032117+0000">
-    <title lang="en">Highlights – Kuwait Premier Padel P1 </title>
-    <desc lang="en">Watch the highlights from the UAE as the Kuwait Premier Padel P1 took centre stage.  </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/aaqrr0hpfnf6kuxzojpb/beatriz-gonzalez-dubai-premier-padel-p1-semi-finals-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20241229032117+0000" stop="20241229040649+0000">
     <title lang="en">Lil Zoo: Breaking Chose Me</title>
     <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Red Bull KTM Factory Racing’s Manuel Lettenbichler put on a masterclass, claiming a comfortable win.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/5/crlmyzqq56ywhcax4s4j/manuel-lettenbichler-red-bull-erzbergrodeo-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241229192347+0000" stop="20241229204527+0000">
+    <title lang="en">T1 Rose Together </title>
+    <desc lang="en">Follow legendary Korean esports team's emotional journey from LoL World Finals loss to triumphant victory. </desc>
+    <category lang="en">Esports</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/20/db3839m1fjooap9ailsp/t1-oner-lol-esports"/>
+  </programme>
+  <programme channel="redbull.com" start="20241229204527+0000" stop="20241229222436+0000">
+    <title lang="en">Valley Uprising</title>
+    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art"/>
   </programme>
 </tv>
