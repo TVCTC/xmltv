@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-30 00:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-30 01:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241229192347+0000" stop="20241229204527+0000">
+    <title lang="en">T1 Rose Together </title>
+    <desc lang="en">Follow legendary Korean esports team's emotional journey from LoL World Finals loss to triumphant victory. </desc>
+    <category lang="en">Esports</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/20/db3839m1fjooap9ailsp/t1-oner-lol-esports"/>
+  </programme>
+  <programme channel="redbull.com" start="20241229204527+0000" stop="20241229222436+0000">
+    <title lang="en">Valley Uprising</title>
+    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20241229222436+0000" stop="20241229223157+0000">
+    <title lang="en">David Coulthard takes Formula One to Scandinavia</title>
+    <desc lang="en">David Coulthard embarks on a road trip in an Oracle Red Bull Racing F1 car through breathtaking Scandinavia.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/9/pskvexsrgkhi3cassiqs/david-coulthard-scandi-road-trip-denmark-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20241229223157+0000" stop="20241229223909+0000">
+    <title lang="en">Formula One drivers race as Australian surf lifesavers</title>
+    <desc lang="en">Max Verstappen, Sergio Pérez, Daniel Ricciardo and Yuki Tsunoda race Can-Am Commanders in Melbourne.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/26/etwkgwg3yejpuljcvcqz/max-verstappen-and-sergio-perez-unserious-race-melbourne"/>
+  </programme>
   <programme channel="redbull.com" start="20241229223909+0000" stop="20241229231023+0000">
     <title lang="en">In the Wings</title>
     <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
@@ -130,29 +154,5 @@
     <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
     <category lang="en">Athletics</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241230093926+0000" stop="20241230100457+0000">
-    <title lang="en">Jaan Roose: Life on the Line</title>
-    <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
-    <category lang="en">Slacklining</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
-  </programme>
-  <programme channel="redbull.com" start="20241230100457+0000" stop="20241230103237+0000">
-    <title lang="en">Red Bull Dual Ascent – highlights</title>
-    <desc lang="en">World-class climbers in 10 teams battled to be the fastest up the wall during a head-to-head 180m-high ascent.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/6/b4j4cc9iaxi5glbwj4ho/jessica-pilz-climbing-180m-route-verzasca-dam-red-bull-dual-ascent-switzerland-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241230103237+0000" stop="20241230112533+0000">
-    <title lang="en">Season finale in Sydney</title>
-    <desc lang="en">The season wraps up in Sydney, Australia, where the men’s and women’s champions will be crowned.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/19/a6baiduzxovwmd1slpx4/rhiannan-iffland-cliff-diving-sydney-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20241230112533+0000" stop="20241230121915+0000">
-    <title lang="en">Castles in the Sky</title>
-    <desc lang="en">This is as close to the experience of pioneering new coastlines as you can get without getting on a plane.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/q8wngrrxic3cpsh7sli6/dane-reynolds-haleiwa-2015"/>
   </programme>
 </tv>
