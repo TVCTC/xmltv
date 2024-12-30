@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-30 03:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2024-12-30 04:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241230001659+0000" stop="20241230010231+0000">
-    <title lang="en">Lil Zoo: Breaking Chose Me</title>
-    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
-  </programme>
-  <programme channel="redbull.com" start="20241230010231+0000" stop="20241230011741+0000">
-    <title lang="en">Original moves</title>
-    <desc lang="en">B-Boys Phil Wizard and Lee learn the secrets of Menno's creativity before battling in a test of originality.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/21/v9ipsnrio9l9nrsmjhvu/b-boy-lee-netherlands-2024-breaking"/>
-  </programme>
-  <programme channel="redbull.com" start="20241230011741+0000" stop="20241230014141+0000">
-    <title lang="en">South African street dance culture</title>
-    <desc lang="en">Explore the dance culture in South Africa and take a look at how Red Bull Dance Your Style was established.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/lh0cv6g86gifj12hudfb/take-the-title-red-bull-dance-your-style-south-africa-s1-e1"/>
-  </programme>
   <programme channel="redbull.com" start="20241230014141+0000" stop="20241230020932+0000">
     <title lang="en">Relive the highlights from Red Bull Unrailistic 2024</title>
     <desc lang="en">The world's best skiers returned to Åre to tackle the unique course inspired by X-Games legend Jesper Tjäder.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">59 intrepid teams race gravity-powered vehicles down a tricky course at Alexandra Palace in London.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/y2wmxqggij1ljnzpu00g/red-bull-soap-box-race-london-alexandra-palace-battersea-rollers-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241230155926+0000" stop="20241230162603+0000">
+    <title lang="en">Red Bull Erzbergrodeo recap</title>
+    <desc lang="en">Red Bull KTM Factory Racing’s Manuel Lettenbichler put on a masterclass, claiming a comfortable win.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/5/crlmyzqq56ywhcax4s4j/manuel-lettenbichler-red-bull-erzbergrodeo-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20241230162603+0000" stop="20241230174743+0000">
+    <title lang="en">T1 Rose Together </title>
+    <desc lang="en">Follow legendary Korean esports team's emotional journey from LoL World Finals loss to triumphant victory. </desc>
+    <category lang="en">Esports</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/20/db3839m1fjooap9ailsp/t1-oner-lol-esports"/>
+  </programme>
+  <programme channel="redbull.com" start="20241230174743+0000" stop="20241230192652+0000">
+    <title lang="en">Valley Uprising</title>
+    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art"/>
   </programme>
 </tv>
