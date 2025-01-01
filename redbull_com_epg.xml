@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-01 23:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-02 00:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250101201327+0000" stop="20250101211506+0000">
-    <title lang="en">ANYTIME</title>
-    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
-  </programme>
-  <programme channel="redbull.com" start="20250101211506+0000" stop="20250101213549+0000">
-    <title lang="en">Crankworx Whistler: Red Bull Joyride highlights</title>
-    <desc lang="en">Relive the crown jewel of Crankworx Whistler as top slopestyle mountain bikers perform mind-boggling tricks.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/13/qqmigeqdj3dixxgdkql9/dawid-godziek-red-bull-joyride-whistler-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20250101213549+0000" stop="20250101221856+0000">
     <title lang="en">Encouraged: Building the Future</title>
     <desc lang="en">Join Courage Adams as he returns to Nigeria to fulfil his promise of building Lagos's first skatepark.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Explore the dance culture in South Africa and take a look at how Red Bull Dance Your Style was established.</desc>
     <category lang="en">Dance</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/lh0cv6g86gifj12hudfb/take-the-title-red-bull-dance-your-style-south-africa-s1-e1"/>
+  </programme>
+  <programme channel="redbull.com" start="20250102123718+0000" stop="20250102135059+0000">
+    <title lang="en">La Liste: Everything or Nothing</title>
+    <desc lang="en">Big mountain skiers Jérémie Heitz and Sam Anthamatten ski the world’s highest peaks in this big adventure.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/10/pztrwnuiipl1vbztin8l/jeremie-heitz-la-liste-everything-or-nothing-freeski"/>
+  </programme>
+  <programme channel="redbull.com" start="20250102135059+0000" stop="20250102141735+0000">
+    <title lang="en">BACKYARD by Nadine Wallner </title>
+    <desc lang="en">Freeskier Nadine Wallner does what no one's done before: conquers five mountain faces at Arlberg in one day. </desc>
+    <category lang="en">Freeskiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/d1yap4ipqnixcfvukl7y/backyard-by-nadine-wallner"/>
   </programme>
 </tv>
