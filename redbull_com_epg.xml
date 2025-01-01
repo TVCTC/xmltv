@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-01 16:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-01 17:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250101112751+0000" stop="20250101130701+0000">
+    <title lang="en">Valley Uprising</title>
+    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250101130701+0000" stop="20250101131422+0000">
+    <title lang="en">David Coulthard takes Formula One to Scandinavia</title>
+    <desc lang="en">David Coulthard embarks on a road trip in an Oracle Red Bull Racing F1 car through breathtaking Scandinavia.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/9/pskvexsrgkhi3cassiqs/david-coulthard-scandi-road-trip-denmark-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250101131422+0000" stop="20250101134535+0000">
+    <title lang="en">In the Wings</title>
+    <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250101134535+0000" stop="20250101141338+0000">
+    <title lang="en">Jorge Prado: Under the Lights</title>
+    <desc lang="en">MXGP Champion Jorge Prado takes on a new challenge: racing Supercross in America.</desc>
+    <category lang="en">Supercross</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/21/wq51wy0twj7lamjjfa2u/jorge-prado"/>
+  </programme>
+  <programme channel="redbull.com" start="20250101141338+0000" stop="20250101142623+0000">
+    <title lang="en">World’s fastest filming drone chases Max Verstappen</title>
+    <desc lang="en">Fast laps like you've never seen before – take flight with a drone that matches F1 car speeds of 300kph-plus. </desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/27/jl21wctlres0vwirgcur/oracle-red-bull-racing-launch-2024-filming-drone-chases-max-verstappen"/>
+  </programme>
+  <programme channel="redbull.com" start="20250101142623+0000" stop="20250101145212+0000">
+    <title lang="en">Highlights – Kuwait Premier Padel P1 </title>
+    <desc lang="en">Watch the highlights from the UAE as the Kuwait Premier Padel P1 took centre stage.  </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/aaqrr0hpfnf6kuxzojpb/beatriz-gonzalez-dubai-premier-padel-p1-semi-finals-2024"/>
+  </programme>
   <programme channel="redbull.com" start="20250101145212+0000" stop="20250101153744+0000">
     <title lang="en">Lil Zoo: Breaking Chose Me</title>
     <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
@@ -118,41 +154,5 @@
     <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
     <category lang="en">Athletics</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250102015822+0000" stop="20250102022353+0000">
-    <title lang="en">Jaan Roose: Life on the Line</title>
-    <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
-    <category lang="en">Slacklining</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
-  </programme>
-  <programme channel="redbull.com" start="20250102022353+0000" stop="20250102025133+0000">
-    <title lang="en">Red Bull Dual Ascent – highlights</title>
-    <desc lang="en">World-class climbers in 10 teams battled to be the fastest up the wall during a head-to-head 180m-high ascent.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/6/b4j4cc9iaxi5glbwj4ho/jessica-pilz-climbing-180m-route-verzasca-dam-red-bull-dual-ascent-switzerland-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250102025133+0000" stop="20250102034429+0000">
-    <title lang="en">Season finale in Sydney</title>
-    <desc lang="en">The season wraps up in Sydney, Australia, where the men’s and women’s champions will be crowned.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/19/a6baiduzxovwmd1slpx4/rhiannan-iffland-cliff-diving-sydney-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250102034429+0000" stop="20250102043811+0000">
-    <title lang="en">Castles in the Sky</title>
-    <desc lang="en">This is as close to the experience of pioneering new coastlines as you can get without getting on a plane.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/q8wngrrxic3cpsh7sli6/dane-reynolds-haleiwa-2015"/>
-  </programme>
-  <programme channel="redbull.com" start="20250102043811+0000" stop="20250102050442+0000">
-    <title lang="en">Rescue</title>
-    <desc lang="en">Kai Lenny kicks off the big wave season at Jaws and faces the risks that come with his pursuit of progression.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/20/bqyp131muyvs1nj7wedh/kai-lenny-jaws-surfing"/>
-  </programme>
-  <programme channel="redbull.com" start="20250102050442+0000" stop="20250102060000+0000">
-    <title lang="en">Ice Waterfalls</title>
-    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/bh9so7d3iaak0a1eajmc/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
   </programme>
 </tv>
