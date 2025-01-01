@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-01 12:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-01 13:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250101093935+0000" stop="20250101100612+0000">
-    <title lang="en">Red Bull Erzbergrodeo recap</title>
-    <desc lang="en">Red Bull KTM Factory Racing’s Manuel Lettenbichler put on a masterclass, claiming a comfortable win.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/5/crlmyzqq56ywhcax4s4j/manuel-lettenbichler-red-bull-erzbergrodeo-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20250101100612+0000" stop="20250101112751+0000">
     <title lang="en">T1 Rose Together </title>
     <desc lang="en">Follow legendary Korean esports team's emotional journey from LoL World Finals loss to triumphant victory. </desc>
@@ -154,5 +148,11 @@
     <desc lang="en">This is the most fun race on water! Who will reach the end and who will end up making a splash?</desc>
     <category lang="en">Cycling</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/3/bvnxtudtln7j7ucjckdi/red-bull-stalen-ros-2024-the-hague-netherlands-lauwe-knaks"/>
+  </programme>
+  <programme channel="redbull.com" start="20250101233004+0000" stop="20250102002140+0000">
+    <title lang="en">Shires</title>
+    <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/29/rpfuqolbq2fpzctqjxgu/shires-rob-warner-bike-film"/>
   </programme>
 </tv>
