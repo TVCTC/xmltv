@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-01 03:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-01 04:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20241231235020+0000" stop="20250101003326+0000">
-    <title lang="en">Encouraged: Building the Future</title>
-    <desc lang="en">Join Courage Adams as he returns to Nigeria to fulfil his promise of building Lagos's first skatepark.</desc>
-    <category lang="en">BMX</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/vwwci81eotk8udlrfy1n/lagos-bmx-crew-courage-adams-encouraged"/>
-  </programme>
-  <programme channel="redbull.com" start="20250101003326+0000" stop="20250101005840+0000">
-    <title lang="en">Making History: The Women of Freeride</title>
-    <desc lang="en">Follow elite female riders breaking boundaries at Red Bull Rampage in a push for equality.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/11/qh9cbeixciujxg1oqcmt/robin-goomes-trick-red-bull-rampage-utah"/>
-  </programme>
-  <programme channel="redbull.com" start="20250101005840+0000" stop="20250101012828+0000">
-    <title lang="en">No I in team</title>
-    <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/28/t6bj0dyy8yfyft0anqpb/jolanda-neff-uci-xco-world-cup-val-di-sole-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20250101012828+0000" stop="20250101014435+0000">
-    <title lang="en">Red Bull Stalen Ros highlights</title>
-    <desc lang="en">This is the most fun race on water! Who will reach the end and who will end up making a splash?</desc>
-    <category lang="en">Cycling</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/3/bvnxtudtln7j7ucjckdi/red-bull-stalen-ros-2024-the-hague-netherlands-lauwe-knaks"/>
-  </programme>
-  <programme channel="redbull.com" start="20250101014435+0000" stop="20250101023611+0000">
-    <title lang="en">Shires</title>
-    <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/29/rpfuqolbq2fpzctqjxgu/shires-rob-warner-bike-film"/>
-  </programme>
   <programme channel="redbull.com" start="20250101023611+0000" stop="20250101041253+0000">
     <title lang="en">Born to Fly</title>
     <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
@@ -154,5 +124,35 @@
     <desc lang="en">Big mountain skiers Jérémie Heitz and Sam Anthamatten ski the world’s highest peaks in this big adventure.</desc>
     <category lang="en">Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/10/pztrwnuiipl1vbztin8l/jeremie-heitz-la-liste-everything-or-nothing-freeski"/>
+  </programme>
+  <programme channel="redbull.com" start="20250101173034+0000" stop="20250101175710+0000">
+    <title lang="en">BACKYARD by Nadine Wallner </title>
+    <desc lang="en">Freeskier Nadine Wallner does what no one's done before: conquers five mountain faces at Arlberg in one day. </desc>
+    <category lang="en">Freeskiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/d1yap4ipqnixcfvukl7y/backyard-by-nadine-wallner"/>
+  </programme>
+  <programme channel="redbull.com" start="20250101175710+0000" stop="20250101182501+0000">
+    <title lang="en">Relive the highlights from Red Bull Unrailistic 2024</title>
+    <desc lang="en">The world's best skiers returned to Åre to tackle the unique course inspired by X-Games legend Jesper Tjäder.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/mglavhdms9iqh31iq1ij/johanne-killi-red-bull-unrailistic-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250101182501+0000" stop="20250101185807+0000">
+    <title lang="en">Schnitzel Time 2 – No Return</title>
+    <desc lang="en">Riders push the limits of snowboarding in this high-energy ode to the sport's creativity, skill and passion.</desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/7/oe93kl5mbvlba9g1s63r/schnitzel-time-2-no-return-header"/>
+  </programme>
+  <programme channel="redbull.com" start="20250101185807+0000" stop="20250101190618+0000">
+    <title lang="en">World’s longest-ever ski jump</title>
+    <desc lang="en">Ryōyū Kobayashi and his team went to Iceland, intent on creating a jump big enough to smash world records.</desc>
+    <category lang="en">Ski Jumping</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/10/s3hcevdzamxlv4pyuezz/red-bull-athletes-ryoyu-kobayashi-ski-jumping-in-akureyri-iceland-event"/>
+  </programme>
+  <programme channel="redbull.com" start="20250101190618+0000" stop="20250101192112+0000">
+    <title lang="en">Evan Mock – NYC skater blending style and stardom </title>
+    <desc lang="en">Evan Mock's unique blend of skate style and NYC's A-list charm redefines cool with effortless flair. </desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/ot0g5dfqzoheygg9bmpq/madars-apse-evan-mock-skate-tales-new-york"/>
   </programme>
 </tv>
