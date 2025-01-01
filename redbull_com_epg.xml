@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-01 02:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-01 03:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20241231235020+0000" stop="20250101003326+0000">
+    <title lang="en">Encouraged: Building the Future</title>
+    <desc lang="en">Join Courage Adams as he returns to Nigeria to fulfil his promise of building Lagos's first skatepark.</desc>
+    <category lang="en">BMX</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/vwwci81eotk8udlrfy1n/lagos-bmx-crew-courage-adams-encouraged"/>
+  </programme>
   <programme channel="redbull.com" start="20250101003326+0000" stop="20250101005840+0000">
     <title lang="en">Making History: The Women of Freeride</title>
     <desc lang="en">Follow elite female riders breaking boundaries at Red Bull Rampage in a push for equality.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">Big mountain skiers Jérémie Heitz and Sam Anthamatten ski the world’s highest peaks in this big adventure.</desc>
     <category lang="en">Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/10/pztrwnuiipl1vbztin8l/jeremie-heitz-la-liste-everything-or-nothing-freeski"/>
-  </programme>
-  <programme channel="redbull.com" start="20250101173034+0000" stop="20250101175710+0000">
-    <title lang="en">BACKYARD by Nadine Wallner </title>
-    <desc lang="en">Freeskier Nadine Wallner does what no one's done before: conquers five mountain faces at Arlberg in one day. </desc>
-    <category lang="en">Freeskiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/d1yap4ipqnixcfvukl7y/backyard-by-nadine-wallner"/>
   </programme>
 </tv>
