@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-02 06:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-02 07:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250102043811+0000" stop="20250102050442+0000">
-    <title lang="en">Rescue</title>
-    <desc lang="en">Kai Lenny kicks off the big wave season at Jaws and faces the risks that come with his pursuit of progression.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/20/bqyp131muyvs1nj7wedh/kai-lenny-jaws-surfing"/>
-  </programme>
   <programme channel="redbull.com" start="20250102050442+0000" stop="20250102060000+0000">
     <title lang="en">Ice Waterfalls</title>
     <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/28/t6bj0dyy8yfyft0anqpb/jolanda-neff-uci-xco-world-cup-val-di-sole-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20250102190152+0000" stop="20250102191759+0000">
+    <title lang="en">Red Bull Stalen Ros highlights</title>
+    <desc lang="en">This is the most fun race on water! Who will reach the end and who will end up making a splash?</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/3/bvnxtudtln7j7ucjckdi/red-bull-stalen-ros-2024-the-hague-netherlands-lauwe-knaks"/>
   </programme>
 </tv>
