@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-03 06:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-03 07:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250103023106+0000" stop="20250103040541+0000">
-    <title lang="en">London, England</title>
-    <desc lang="en">59 intrepid teams race gravity-powered vehicles down a tricky course at Alexandra Palace in London.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/y2wmxqggij1ljnzpu00g/red-bull-soap-box-race-london-alexandra-palace-battersea-rollers-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250103040541+0000" stop="20250103043218+0000">
-    <title lang="en">Red Bull Erzbergrodeo recap</title>
-    <desc lang="en">Red Bull KTM Factory Racing’s Manuel Lettenbichler put on a masterclass, claiming a comfortable win.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/5/crlmyzqq56ywhcax4s4j/manuel-lettenbichler-red-bull-erzbergrodeo-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250103043218+0000" stop="20250103055321+0000">
-    <title lang="en">T1 Rose Together </title>
-    <desc lang="en">Follow legendary Korean esports team's emotional journey from LoL World Finals loss to triumphant victory. </desc>
-    <category lang="en">Esports</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/20/db3839m1fjooap9ailsp/t1-oner-lol-esports"/>
-  </programme>
   <programme channel="redbull.com" start="20250103055321+0000" stop="20250103060000+0000">
     <title lang="en">Kriss Kyle swaps BMX for MTB</title>
     <desc lang="en">The wild woods of Wales bear witness to the bike-handling maestro, Kriss Kyle, in a classic British winter.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Follow elite female riders breaking boundaries at Red Bull Rampage in a push for equality.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/11/qh9cbeixciujxg1oqcmt/robin-goomes-trick-red-bull-rampage-utah"/>
+  </programme>
+  <programme channel="redbull.com" start="20250103154420+0000" stop="20250103161408+0000">
+    <title lang="en">No I in team</title>
+    <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/28/t6bj0dyy8yfyft0anqpb/jolanda-neff-uci-xco-world-cup-val-di-sole-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20250103161408+0000" stop="20250103163015+0000">
+    <title lang="en">Red Bull Stalen Ros highlights</title>
+    <desc lang="en">This is the most fun race on water! Who will reach the end and who will end up making a splash?</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/3/bvnxtudtln7j7ucjckdi/red-bull-stalen-ros-2024-the-hague-netherlands-lauwe-knaks"/>
+  </programme>
+  <programme channel="redbull.com" start="20250103163015+0000" stop="20250103172151+0000">
+    <title lang="en">Shires</title>
+    <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/29/rpfuqolbq2fpzctqjxgu/shires-rob-warner-bike-film"/>
   </programme>
 </tv>
