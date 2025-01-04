@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-04 02:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-04 03:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250103172151+0000" stop="20250103185833+0000">
+    <title lang="en">Born to Fly</title>
+    <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
+    <category lang="en">Athletics</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250103185833+0000" stop="20250103192404+0000">
+    <title lang="en">Jaan Roose: Life on the Line</title>
+    <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
+    <category lang="en">Slacklining</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
+  </programme>
+  <programme channel="redbull.com" start="20250103192404+0000" stop="20250103195144+0000">
+    <title lang="en">Red Bull Dual Ascent – highlights</title>
+    <desc lang="en">World-class climbers in 10 teams battled to be the fastest up the wall during a head-to-head 180m-high ascent.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/6/b4j4cc9iaxi5glbwj4ho/jessica-pilz-climbing-180m-route-verzasca-dam-red-bull-dual-ascent-switzerland-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250103195144+0000" stop="20250103204440+0000">
+    <title lang="en">Season finale in Sydney</title>
+    <desc lang="en">The season wraps up in Sydney, Australia, where the men’s and women’s champions will be crowned.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/19/a6baiduzxovwmd1slpx4/rhiannan-iffland-cliff-diving-sydney-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250103204440+0000" stop="20250103213821+0000">
+    <title lang="en">Castles in the Sky</title>
+    <desc lang="en">This is as close to the experience of pioneering new coastlines as you can get without getting on a plane.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/q8wngrrxic3cpsh7sli6/dane-reynolds-haleiwa-2015"/>
+  </programme>
+  <programme channel="redbull.com" start="20250103213821+0000" stop="20250103220453+0000">
+    <title lang="en">Rescue</title>
+    <desc lang="en">Kai Lenny kicks off the big wave season at Jaws and faces the risks that come with his pursuit of progression.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/20/bqyp131muyvs1nj7wedh/kai-lenny-jaws-surfing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250103220453+0000" stop="20250103225851+0000">
+    <title lang="en">Ice Waterfalls</title>
+    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/bh9so7d3iaak0a1eajmc/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
+  </programme>
+  <programme channel="redbull.com" start="20250103225851+0000" stop="20250103234322+0000">
+    <title lang="en">Gabon Uncharted: Sending Ivindo Falls </title>
+    <desc lang="en">Adrian Mattern and the Send crew tackle colossal waterfalls in Gabon, using drones to explore hidden channels.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/15/woft5qu0fsvk076qiph6/adrian-mattern-dane-jackson-kayaking-rapids-ivindo-river-gabon-2024"/>
+  </programme>
   <programme channel="redbull.com" start="20250103234322+0000" stop="20250104011756+0000">
     <title lang="en">London, England</title>
     <desc lang="en">59 intrepid teams race gravity-powered vehicles down a tricky course at Alexandra Palace in London.</desc>
@@ -59,13 +107,13 @@
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
   </programme>
-  <programme channel="redbull.com" start="20250104070139+0000" stop="20250104072745+0000">
+  <programme channel="redbull.com" start="20250103185833+0000" stop="20250103192404+0000">
     <title lang="en">Jaan Roose: Life on the Line</title>
     <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
     <category lang="en">Slacklining</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
   </programme>
-  <programme channel="redbull.com" start="20250104072745+0000" stop="20250104090428+0000">
+  <programme channel="redbull.com" start="20250103172151+0000" stop="20250103185833+0000">
     <title lang="en">Born to Fly</title>
     <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
     <category lang="en">Athletics</category>
@@ -106,53 +154,5 @@
     <desc lang="en">Brette Harrington climbs the Chinese Puzzle Wall, completing a route begun by her late partner, Marc-André.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/tnhr1misd9vpkxouefvo/brette-harrington-chinese-puzzle-wall"/>
-  </programme>
-  <programme channel="redbull.com" start="20250104111329+0000" stop="20250104112933+0000">
-    <title lang="en">Charles at large</title>
-    <desc lang="en">Barefoot boulderer Charles Albert conquers his hardest route – L'Ombre du Voyageur in Switzerland. </desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/fvcfk1syjigfz9vh2aam/barefoot-boulderer-charles-albert-climbing-l-ombre-du-voyageur"/>
-  </programme>
-  <programme channel="redbull.com" start="20250104112933+0000" stop="20250104120140+0000">
-    <title lang="en">Dropping Molly</title>
-    <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
-    <category lang="en">Bouldering</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/hzbjjsd9kg5knno3grxo/molly-mitchell-bouldering"/>
-  </programme>
-  <programme channel="redbull.com" start="20250104120140+0000" stop="20250104133736+0000">
-    <title lang="en">Dirtbag: The Legend of Fred Beckey</title>
-    <desc lang="en">Uncover the legacy of American mountaineer Fred Beckey, whose name's spoken in hushed tones around campfires. </desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/slqfddh4a4wqew1umo1x/dirtbag-mountaineer-fred-beckey"/>
-  </programme>
-  <programme channel="redbull.com" start="20250104133736+0000" stop="20250104145620+0000">
-    <title lang="en">Livestream</title>
-    <desc lang="en">10 mixed teams made up of 20 of the world’s best climbers battle it out on 180m-long artificial routes. </desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/8/wxemsiaxy3x9yoazeh3a/petra-klingler-red-bull-dual-ascent-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250104145620+0000" stop="20250104155528+0000">
-    <title lang="en">Kai Jones' Falling into Place</title>
-    <desc lang="en">After a cliff fall shattered his legs, Kai Jones faces a harrowing rescue, surgery and fight for survival. </desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/3/fpygpc97o9gaiq8edsvn/falling-into-place-kai-jones-ski-film"/>
-  </programme>
-  <programme channel="redbull.com" start="20250104155528+0000" stop="20250104164807+0000">
-    <title lang="en">Snowboarding highlights</title>
-    <desc lang="en">Thirty of the world’s top street snowboarders converge on the Minnesota State Capitol Building.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/26/qeqrokrg5t2aqzmooyi2/grace-warner-red-bull-heavy-metal-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250104164807+0000" stop="20250104180147+0000">
-    <title lang="en">La Liste: Everything or Nothing</title>
-    <desc lang="en">Big mountain skiers Jérémie Heitz and Sam Anthamatten ski the world’s highest peaks in this big adventure.</desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/10/pztrwnuiipl1vbztin8l/jeremie-heitz-la-liste-everything-or-nothing-freeski"/>
-  </programme>
-  <programme channel="redbull.com" start="20250104180147+0000" stop="20250104182823+0000">
-    <title lang="en">BACKYARD by Nadine Wallner </title>
-    <desc lang="en">Freeskier Nadine Wallner does what no one's done before: conquers five mountain faces at Arlberg in one day. </desc>
-    <category lang="en">Freeskiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/d1yap4ipqnixcfvukl7y/backyard-by-nadine-wallner"/>
   </programme>
 </tv>
