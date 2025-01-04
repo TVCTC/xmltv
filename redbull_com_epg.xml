@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-04 06:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-04 07:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250104030613+0000" stop="20250104044523+0000">
-    <title lang="en">Valley Uprising</title>
-    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250104044523+0000" stop="20250104045244+0000">
-    <title lang="en">David Coulthard takes Formula One to Scandinavia</title>
-    <desc lang="en">David Coulthard embarks on a road trip in an Oracle Red Bull Racing F1 car through breathtaking Scandinavia.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/9/pskvexsrgkhi3cassiqs/david-coulthard-scandi-road-trip-denmark-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20250104045244+0000" stop="20250104045956+0000">
     <title lang="en">Formula One drivers race as Australian surf lifesavers</title>
     <desc lang="en">Max Verstappen, Sergio Pérez, Daniel Ricciardo and Yuki Tsunoda race Can-Am Commanders in Melbourne.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Going from two to four wheels, off-road legend Toby Price is on his way to the world's hardest rally: Dakar. </desc>
     <category lang="en">Rally Raid</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/cxbt1gf4k78gdna0zpqw/toby-price-red-bull-ktm-factory-racing-saudi-arabia-dakar-rally-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250104194920+0000" stop="20250104202830+0000">
+    <title lang="en">Motivation, sacrifice and life-altering decisions</title>
+    <desc lang="en">Meet exceptional people who've made life-altering decisions to race Dakar, making sacrifices for a dream.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/vurtuxazlmskherfpx5p/toby-price-sam-sunderland-dakar-rally-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250104202830+0000" stop="20250104210154+0000">
+    <title lang="en">Great battles: Carlos Sainz vs Nasser Al-Attiyah</title>
+    <desc lang="en">Nasser Al-Attiyah and Carlos Sainz join us to share a unique insight into their friendship and rivalry.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/8/swbs8jyrfslg7qtkrqr5/nasser-al-attiyah-and-carlos-sainz-in-the-dust-s1-e2"/>
   </programme>
 </tv>
