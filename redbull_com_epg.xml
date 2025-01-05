@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-05 06:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-05 07:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250105035236+0000" stop="20250105041843+0000">
+    <title lang="en">Jaan Roose: Life on the Line</title>
+    <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
+    <category lang="en">Slacklining</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
+  </programme>
   <programme channel="redbull.com" start="20250105041843+0000" stop="20250105055525+0000">
     <title lang="en">Born to Fly</title>
     <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">Uncover the brutal 48-hour solo marathon stage through the story of first-time Dakar competitor Tobias Ebster.</desc>
     <category lang="en">Rally Raid</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/15/ffvak9e66acpuxoa8ai7/in-the-dust-episode-5-image"/>
-  </programme>
-  <programme channel="redbull.com" start="20250105193218+0000" stop="20250105200527+0000">
-    <title lang="en">How not to get lost in the desert </title>
-    <desc lang="en">Finding your way from point A to point B in the desert becomes a huge challenge for Dakar competitors.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/15/ks4hzgzmwya0yzi05qym/in-the-dust-s1-e6-image"/>
   </programme>
 </tv>
