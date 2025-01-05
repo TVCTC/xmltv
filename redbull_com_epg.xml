@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-05 03:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-05 04:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250105010248+0000" stop="20250105022427+0000">
-    <title lang="en">T1 Rose Together </title>
-    <desc lang="en">Follow legendary Korean esports team's emotional journey from LoL World Finals loss to triumphant victory. </desc>
-    <category lang="en">Esports</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/20/db3839m1fjooap9ailsp/t1-oner-lol-esports"/>
-  </programme>
-  <programme channel="redbull.com" start="20250105022427+0000" stop="20250105025021+0000">
-    <title lang="en">Red Bull Kumite highlights</title>
-    <desc lang="en">16 heroes gathered in NYC to discover the best Street Fighter 6 player on the planet. Welcome to the games.</desc>
-    <category lang="en">Games</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/13/nnargacmzfbacjpuqjhi/menard-winner-red-bull-kumite-2024-brooklyn"/>
-  </programme>
   <programme channel="redbull.com" start="20250105025021+0000" stop="20250105035236+0000">
     <title lang="en">ANYTIME</title>
     <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Nasser Al-Attiyah and Carlos Sainz join us to share a unique insight into their friendship and rivalry.</desc>
     <category lang="en">Rally Raid</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/8/swbs8jyrfslg7qtkrqr5/nasser-al-attiyah-and-carlos-sainz-in-the-dust-s1-e2"/>
+  </programme>
+  <programme channel="redbull.com" start="20250105175726+0000" stop="20250105182341+0000">
+    <title lang="en">Could you race the Dakar with your brother?</title>
+    <desc lang="en">Kevin and Luciano Benavides are on rival teams (KTM and Husqvarna). Do team orders overrule family ties?</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/8/jxvhgxz9xbi4rtmrwt78/benavides-brothers-in-the-dust-s1-e3"/>
+  </programme>
+  <programme channel="redbull.com" start="20250105182341+0000" stop="20250105190222+0000">
+    <title lang="en">Could your average Joe take on 9,000km?</title>
+    <desc lang="en">We explore the physical and mental stamina required for the brutal 9,000km journey of the Dakar Rally.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/11/fqs8hdrjozdfvcipyvg4/seth-quintero-dania-akeel-in-the-dust-dakar"/>
   </programme>
 </tv>
