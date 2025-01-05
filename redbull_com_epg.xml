@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-05 00:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-05 01:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250104223646+0000" stop="20250104230955+0000">
-    <title lang="en">How not to get lost in the desert </title>
-    <desc lang="en">Finding your way from point A to point B in the desert becomes a huge challenge for Dakar competitors.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/15/ks4hzgzmwya0yzi05qym/in-the-dust-s1-e6-image"/>
-  </programme>
-  <programme channel="redbull.com" start="20250104230955+0000" stop="20250104233711+0000">
-    <title lang="en">The unsung heroes oiling the wheels of the Dakar</title>
-    <desc lang="en">Meet people who are integral in moving 3,000 people across the challenging terrains of the Dakar Rally.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/17/dnrjyrdowk7xetlpe1dn/unsung-heroes"/>
-  </programme>
   <programme channel="redbull.com" start="20250104233711+0000" stop="20250105001001+0000">
     <title lang="en">Generations: the Dakar's ageless pursuit</title>
     <desc lang="en">Two competitors who represent the diverse spectrum of Dakar determination: Laia Sanz and Mitch Guthrie Jr.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">The world's best skiers returned to Åre to tackle the unique course inspired by X-Games legend Jesper Tjäder.</desc>
     <category lang="en">Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/26/mglavhdms9iqh31iq1ij/johanne-killi-red-bull-unrailistic-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250105155146+0000" stop="20250105162453+0000">
+    <title lang="en">Schnitzel Time 2 – No Return</title>
+    <desc lang="en">Riders push the limits of snowboarding in this high-energy ode to the sport's creativity, skill and passion.</desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/7/oe93kl5mbvlba9g1s63r/schnitzel-time-2-no-return-header"/>
+  </programme>
+  <programme channel="redbull.com" start="20250105162453+0000" stop="20250105164452+0000">
+    <title lang="en">Price to Dakar </title>
+    <desc lang="en">Going from two to four wheels, off-road legend Toby Price is on his way to the world's hardest rally: Dakar. </desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/cxbt1gf4k78gdna0zpqw/toby-price-red-bull-ktm-factory-racing-saudi-arabia-dakar-rally-2024"/>
   </programme>
 </tv>
