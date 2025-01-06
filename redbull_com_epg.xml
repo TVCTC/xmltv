@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-06 21:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-06 22:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250106180821+0000" stop="20250106190107+0000">
-    <title lang="en">Abu Dhabi Desert Challenge 2024 highlights</title>
-    <desc lang="en">Round 2 of the Abu Dhabi Desert Challenge offers challenging sand dunes and baking heat in remote UAE deserts.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/cjglt0voraiqyycemrmx/rokas-baciuska-abu-dhabi-desert-challenge-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250106190107+0000" stop="20250106202247+0000">
-    <title lang="en">T1 Rose Together </title>
-    <desc lang="en">Follow legendary Korean esports team's emotional journey from LoL World Finals loss to triumphant victory. </desc>
-    <category lang="en">Esports</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/20/db3839m1fjooap9ailsp/t1-oner-lol-esports"/>
-  </programme>
-  <programme channel="redbull.com" start="20250106202247+0000" stop="20250106204840+0000">
-    <title lang="en">Red Bull Kumite highlights</title>
-    <desc lang="en">16 heroes gathered in NYC to discover the best Street Fighter 6 player on the planet. Welcome to the games.</desc>
-    <category lang="en">Games</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/13/nnargacmzfbacjpuqjhi/menard-winner-red-bull-kumite-2024-brooklyn"/>
-  </programme>
   <programme channel="redbull.com" start="20250106204840+0000" stop="20250106215055+0000">
     <title lang="en">ANYTIME</title>
     <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Meet exceptional people who've made life-altering decisions to race Dakar, making sacrifices for a dream.</desc>
     <category lang="en">Rally Raid</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/vurtuxazlmskherfpx5p/toby-price-sam-sunderland-dakar-rally-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250107120318+0000" stop="20250107123641+0000">
+    <title lang="en">Great battles: Carlos Sainz vs Nasser Al-Attiyah</title>
+    <desc lang="en">Nasser Al-Attiyah and Carlos Sainz join us to share a unique insight into their friendship and rivalry.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/8/swbs8jyrfslg7qtkrqr5/nasser-al-attiyah-and-carlos-sainz-in-the-dust-s1-e2"/>
+  </programme>
+  <programme channel="redbull.com" start="20250107123641+0000" stop="20250107130256+0000">
+    <title lang="en">Could you race the Dakar with your brother?</title>
+    <desc lang="en">Kevin and Luciano Benavides are on rival teams (KTM and Husqvarna). Do team orders overrule family ties?</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/8/jxvhgxz9xbi4rtmrwt78/benavides-brothers-in-the-dust-s1-e3"/>
+  </programme>
+  <programme channel="redbull.com" start="20250107130256+0000" stop="20250107134137+0000">
+    <title lang="en">Could your average Joe take on 9,000km?</title>
+    <desc lang="en">We explore the physical and mental stamina required for the brutal 9,000km journey of the Dakar Rally.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/11/fqs8hdrjozdfvcipyvg4/seth-quintero-dania-akeel-in-the-dust-dakar"/>
   </programme>
 </tv>
