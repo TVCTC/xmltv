@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-08 15:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-08 16:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250108113523+0000" stop="20250108120814+0000">
-    <title lang="en">Generations: the Dakar's ageless pursuit</title>
-    <desc lang="en">Two competitors who represent the diverse spectrum of Dakar determination: Laia Sanz and Mitch Guthrie Jr.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/19/lliewzgssl7ijv2z1gxk/laia-sanz-mitch-guthrie-jr"/>
-  </programme>
   <programme channel="redbull.com" start="20250108120814+0000" stop="20250108130100+0000">
     <title lang="en">Abu Dhabi Desert Challenge 2024 highlights</title>
     <desc lang="en">Round 2 of the Abu Dhabi Desert Challenge offers challenging sand dunes and baking heat in remote UAE deserts.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Nasser Al-Attiyah and Carlos Sainz join us to share a unique insight into their friendship and rivalry.</desc>
     <category lang="en">Rally Raid</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/8/swbs8jyrfslg7qtkrqr5/nasser-al-attiyah-and-carlos-sainz-in-the-dust-s1-e2"/>
+  </programme>
+  <programme channel="redbull.com" start="20250109053321+0000" stop="20250109060000+0000">
+    <title lang="en">Could you race the Dakar with your brother?</title>
+    <desc lang="en">Kevin and Luciano Benavides are on rival teams (KTM and Husqvarna). Do team orders overrule family ties?</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/8/jxvhgxz9xbi4rtmrwt78/benavides-brothers-in-the-dust-s1-e3"/>
   </programme>
 </tv>
