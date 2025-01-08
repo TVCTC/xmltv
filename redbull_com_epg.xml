@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-08 13:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-08 14:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250108103458+0000" stop="20250108110807+0000">
-    <title lang="en">How not to get lost in the desert </title>
-    <desc lang="en">Finding your way from point A to point B in the desert becomes a huge challenge for Dakar competitors.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/15/ks4hzgzmwya0yzi05qym/in-the-dust-s1-e6-image"/>
-  </programme>
-  <programme channel="redbull.com" start="20250108110807+0000" stop="20250108113523+0000">
-    <title lang="en">The unsung heroes oiling the wheels of the Dakar</title>
-    <desc lang="en">Meet people who are integral in moving 3,000 people across the challenging terrains of the Dakar Rally.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/17/dnrjyrdowk7xetlpe1dn/unsung-heroes"/>
-  </programme>
   <programme channel="redbull.com" start="20250108113523+0000" stop="20250108120814+0000">
     <title lang="en">Generations: the Dakar's ageless pursuit</title>
     <desc lang="en">Two competitors who represent the diverse spectrum of Dakar determination: Laia Sanz and Mitch Guthrie Jr.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Going from two to four wheels, off-road legend Toby Price is on his way to the world's hardest rally: Dakar. </desc>
     <category lang="en">Rally Raid</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/cxbt1gf4k78gdna0zpqw/toby-price-red-bull-ktm-factory-racing-saudi-arabia-dakar-rally-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250109042122+0000" stop="20250109050033+0000">
+    <title lang="en">Motivation, sacrifice and life-altering decisions</title>
+    <desc lang="en">Meet exceptional people who've made life-altering decisions to race Dakar, making sacrifices for a dream.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/vurtuxazlmskherfpx5p/toby-price-sam-sunderland-dakar-rally-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250109050033+0000" stop="20250109053321+0000">
+    <title lang="en">Great battles: Carlos Sainz vs Nasser Al-Attiyah</title>
+    <desc lang="en">Nasser Al-Attiyah and Carlos Sainz join us to share a unique insight into their friendship and rivalry.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/8/swbs8jyrfslg7qtkrqr5/nasser-al-attiyah-and-carlos-sainz-in-the-dust-s1-e2"/>
   </programme>
 </tv>
