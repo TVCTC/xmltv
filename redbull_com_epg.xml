@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-08 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-08 05:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250108002725+0000" stop="20250108020321+0000">
+    <title lang="en">Dirtbag: The Legend of Fred Beckey</title>
+    <desc lang="en">Uncover the legacy of American mountaineer Fred Beckey, whose name's spoken in hushed tones around campfires. </desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/slqfddh4a4wqew1umo1x/dirtbag-mountaineer-fred-beckey"/>
+  </programme>
   <programme channel="redbull.com" start="20250108020321+0000" stop="20250108032205+0000">
     <title lang="en">Livestream</title>
     <desc lang="en">10 mixed teams made up of 20 of the world’s best climbers battle it out on 180m-long artificial routes. </desc>
@@ -148,11 +154,5 @@
     <desc lang="en">Blind adventure athlete and author Erik Weihenmayer ascends a massive rock face deep in the Sierra Nevada.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/mhjtsqjvnivnsdlsrqop/erik-weihenmayer-rock-climbing"/>
-  </programme>
-  <programme channel="redbull.com" start="20250108183108+0000" stop="20250108185538+0000">
-    <title lang="en">With my heart</title>
-    <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
   </programme>
 </tv>
