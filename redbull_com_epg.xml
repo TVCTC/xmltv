@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-10 13:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-10 14:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250110114715+0000" stop="20250110121145+0000">
-    <title lang="en">With my heart</title>
-    <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
-  </programme>
-  <programme channel="redbull.com" start="20250110121145+0000" stop="20250110124235+0000">
-    <title lang="en">Black Pearl </title>
-    <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/g2b9nw1mf0wxn5fumqfd/chris-sharma-climbs-black-pearl-mallorca"/>
-  </programme>
   <programme channel="redbull.com" start="20250110124235+0000" stop="20250110130138+0000">
     <title lang="en">The puzzle</title>
     <desc lang="en">Brette Harrington climbs the Chinese Puzzle Wall, completing a route begun by her late partner, Marc-André.</desc>
@@ -149,10 +137,22 @@
     <category lang="en">Games</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/13/nnargacmzfbacjpuqjhi/menard-winner-red-bull-kumite-2024-brooklyn"/>
   </programme>
-  <programme channel="redbull.com" start="20250110091554+0000" stop="20250110105237+0000">
+  <programme channel="redbull.com" start="20250111042302+0000" stop="20250111060000+0000">
     <title lang="en">Born to Fly</title>
     <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
     <category lang="en">Athletics</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250111060000+0000" stop="20250111070139+0000">
+    <title lang="en">ANYTIME</title>
+    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
+  </programme>
+  <programme channel="redbull.com" start="20250111070139+0000" stop="20250111072745+0000">
+    <title lang="en">Jaan Roose: Life on the Line</title>
+    <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
+    <category lang="en">Slacklining</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
   </programme>
 </tv>
