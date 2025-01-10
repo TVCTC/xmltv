@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-10 08:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-10 09:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250110050656+0000" stop="20250110060000+0000">
-    <title lang="en">Abu Dhabi Desert Challenge 2024 highlights</title>
-    <desc lang="en">Round 2 of the Abu Dhabi Desert Challenge offers challenging sand dunes and baking heat in remote UAE deserts.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/cjglt0voraiqyycemrmx/rokas-baciuska-abu-dhabi-desert-challenge-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20250110060000+0000" stop="20250110072139+0000">
     <title lang="en">T1 Rose Together </title>
     <desc lang="en">Follow legendary Korean esports team's emotional journey from LoL World Finals loss to triumphant victory. </desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Kevin and Luciano Benavides are on rival teams (KTM and Husqvarna). Do team orders overrule family ties?</desc>
     <category lang="en">Rally Raid</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/8/jxvhgxz9xbi4rtmrwt78/benavides-brothers-in-the-dust-s1-e3"/>
+  </programme>
+  <programme channel="redbull.com" start="20250110230013+0000" stop="20250110233855+0000">
+    <title lang="en">Could your average Joe take on 9,000km?</title>
+    <desc lang="en">We explore the physical and mental stamina required for the brutal 9,000km journey of the Dakar Rally.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/11/fqs8hdrjozdfvcipyvg4/seth-quintero-dania-akeel-in-the-dust-dakar"/>
   </programme>
 </tv>
