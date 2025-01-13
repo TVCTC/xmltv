@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-13 23:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-14 00:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250113202931+0000" stop="20250113213924+0000">
-    <title lang="en">Legend Has It</title>
-    <desc lang="en">Three whole decades of Teton Gravity Research capturing extraordinary ski and snowboard moments.</desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/20/kzt1k9frjcgtfokployt/legend-has-it-ski-film"/>
-  </programme>
-  <programme channel="redbull.com" start="20250113213924+0000" stop="20250113224103+0000">
-    <title lang="en">ANYTIME</title>
-    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
-  </programme>
   <programme channel="redbull.com" start="20250113224103+0000" stop="20250113230709+0000">
     <title lang="en">Jaan Roose: Life on the Line</title>
     <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Faction's fourth feature film exhibits pure creativity through a series of high-octane freeski sequences.</desc>
     <category lang="en">Freeskiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/w0jtddciypplcsz0ntjr/abstract-skiing-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20250114111823+0000" stop="20250114121948+0000">
+    <title lang="en">Anna Gasser – The Spark Within</title>
+    <desc lang="en">Follow snowboard superstar Anna Gasser over a decade to see how she changed the snowboarding landscape.  </desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/27/zibxutlsts5kinnlrsms/anna-gasser-the-spark-within-snowboarding"/>
+  </programme>
+  <programme channel="redbull.com" start="20250114121948+0000" stop="20250114125330+0000">
+    <title lang="en">Flying Between Giants</title>
+    <desc lang="en">Paraglider pilots Tom de Dorlodot and Horacio Llorens flew past four of Pakistan's peaks in just one day.</desc>
+    <category lang="en">Paragliding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/10/rdqy0acz8hiwoqgk0916/flying-between-giants-tom-de-dorlodot"/>
   </programme>
 </tv>
