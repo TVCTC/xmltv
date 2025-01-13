@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-13 19:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-13 20:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250113162258+0000" stop="20250113173248+0000">
+    <title lang="en">Anywhere from Here</title>
+    <desc lang="en">Just 11-years-old and already a freestyle ski phenomenon. Meet the extraordinary Walker Woodring.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/jjm6hlgjvjhygfx8dr09/logan-pehota-british-columbia-anywhere-from-here-ski-film"/>
+  </programme>
   <programme channel="redbull.com" start="20250113173248+0000" stop="20250113190105+0000">
     <title lang="en">Layers</title>
     <desc lang="en">Discover and celebrate the unique people, places, personalities and layers behind what we call snowboarding.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/cps0jjbpnepwe6qtmphb/leticia-bufoni-california-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20250114071836+0000" stop="20250114084650+0000">
-    <title lang="en">Memories of CS:GO – The Early Years</title>
-    <desc lang="en">Reminiscing on CS:GO's golden age while embracing Counter-Strike 2, featuring interviews from key players.</desc>
-    <category lang="en">Games</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/19/efzz0bh2o44nwyy2qnni/memories-of-cs-go-the-early-years-header"/>
   </programme>
 </tv>
