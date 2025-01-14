@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-14 10:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-14 11:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250114065236+0000" stop="20250114071836+0000">
-    <title lang="en">From wingsuits to parachutes</title>
-    <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/cps0jjbpnepwe6qtmphb/leticia-bufoni-california-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20250114071836+0000" stop="20250114084650+0000">
-    <title lang="en">Memories of CS:GO – The Early Years</title>
-    <desc lang="en">Reminiscing on CS:GO's golden age while embracing Counter-Strike 2, featuring interviews from key players.</desc>
-    <category lang="en">Games</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/19/efzz0bh2o44nwyy2qnni/memories-of-cs-go-the-early-years-header"/>
-  </programme>
-  <programme channel="redbull.com" start="20250114084650+0000" stop="20250114094125+0000">
-    <title lang="en">Ice Waterfalls</title>
-    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/bh9so7d3iaak0a1eajmc/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
-  </programme>
   <programme channel="redbull.com" start="20250114094125+0000" stop="20250114103957+0000">
     <title lang="en">Kai Jones' Falling into Place</title>
     <desc lang="en">After a cliff fall shattered his legs, Kai Jones faces a harrowing rescue, surgery and fight for survival. </desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Red Bull athletes do it all, from riding a skatepark under a hot air balloon to F1 drivers racing on water. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/oyfmvrqrchvizwasa9o9/oracle-red-bull-racings-rb7"/>
+  </programme>
+  <programme channel="redbull.com" start="20250115003452+0000" stop="20250115010052+0000">
+    <title lang="en">From F1 soapbox racing to breaking world records</title>
+    <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
+  </programme>
+  <programme channel="redbull.com" start="20250115010052+0000" stop="20250115012728+0000">
+    <title lang="en">From a pinball human to 93kph speed skating</title>
+    <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
+  </programme>
+  <programme channel="redbull.com" start="20250115012728+0000" stop="20250115015328+0000">
+    <title lang="en">From skydiving with skis to flying into a volcano</title>
+    <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/jdlnqxz4nve0e3be9jf1/dario-costa-wingsuit-flying-through-catalca-tunnels-in-turkey"/>
   </programme>
 </tv>
