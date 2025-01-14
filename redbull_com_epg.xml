@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-14 14:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-14 15:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250114125330+0000" stop="20250114130000+0000">
-    <title lang="en">Verstappen hits Palermo</title>
-    <desc lang="en">On his way to the Italian GP at Monza, Max Verstappen discovers the sites of the Sicilian capital of Palermo.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/11/11/mzvcjsuv1hpgepq1pnnh/red-bull-racing-road-trips-ep5-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250114130000+0000" stop="20250114140036+0000">
     <title lang="en">Unleashing the future: Jürgen Klopp joins Red Bull</title>
     <desc lang="en">Jürgen Klopp is Red Bull's new Head of Global Soccer. Hear about his plans for the future in this press round.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Red Bull athletes do it all, from skiing down the steepest run at night to slacklining during an eclipse.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/pafocedw24uyj8uzbkjm/dominic-di-tommaso-hazal-nehir-istanbul-2021"/>
+  </programme>
+  <programme channel="redbull.com" start="20250115033804+0000" stop="20250115040440+0000">
+    <title lang="en">From soapbox madness to skydiving with an FMX bike</title>
+    <desc lang="en">Red Bull athletes do it all, from skydiving with a motocross bike to riding rally cars on frozen lakes. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iltxmuy0dpylwgiezemw/red-bull-dance-your-style-lausanne-final-aceko-performance-2024"/>
   </programme>
 </tv>
