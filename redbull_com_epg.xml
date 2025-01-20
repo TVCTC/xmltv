@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-20 16:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-20 17:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250120121617+0000" stop="20250120131052+0000">
+    <title lang="en">Ice Waterfalls</title>
+    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/bh9so7d3iaak0a1eajmc/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
+  </programme>
+  <programme channel="redbull.com" start="20250120131052+0000" stop="20250120141000+0000">
+    <title lang="en">Kai Jones' Falling into Place</title>
+    <desc lang="en">After a cliff fall shattered his legs, Kai Jones faces a harrowing rescue, surgery and fight for survival. </desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/3/fpygpc97o9gaiq8edsvn/falling-into-place-kai-jones-ski-film"/>
+  </programme>
   <programme channel="redbull.com" start="20250120141000+0000" stop="20250120150211+0000">
     <title lang="en">Abu Dhabi Desert Challenge 2024 highlights</title>
     <desc lang="en">Round 2 of the Abu Dhabi Desert Challenge offers challenging sand dunes and baking heat in remote UAE deserts.</desc>
@@ -136,17 +148,5 @@
     <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
     <category lang="en">Athletics</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250121002252+0000" stop="20250121003946+0000">
-    <title lang="en">Yeah buddy – part 1</title>
-    <desc lang="en">Aussie climbing prodigy Angie Scarth-Johnson and Hazel Findlay explore Mallorca’s deep-water soloing routes.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/11/cax0dq8vgzmltqx8y9yi/angie-scarth-johnson-rock-climbing"/>
-  </programme>
-  <programme channel="redbull.com" start="20250121003946+0000" stop="20250121005653+0000">
-    <title lang="en">Yeah buddy – part 2</title>
-    <desc lang="en">Angie Scarth-Johnson faces the mental challenge of climbing comp Psicobloc, overcoming fears of deep waters.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/kqtu1mxtrklmmykzxgni/angie-scarth-johnson-free-climbing"/>
   </programme>
 </tv>
