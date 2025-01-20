@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-20 03:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-20 04:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250120013629+0000" stop="20250120015706+0000">
-    <title lang="en">Soundscape</title>
-    <desc lang="en">Blind adventure athlete and author Erik Weihenmayer ascends a massive rock face deep in the Sierra Nevada.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/mhjtsqjvnivnsdlsrqop/erik-weihenmayer-rock-climbing"/>
-  </programme>
-  <programme channel="redbull.com" start="20250120015706+0000" stop="20250120022136+0000">
-    <title lang="en">With my heart</title>
-    <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
-  </programme>
-  <programme channel="redbull.com" start="20250120022136+0000" stop="20250120023504+0000">
-    <title lang="en">2017's fan-favourite teams</title>
-    <desc lang="en">As 2017's fan favourites teach us, two-wheels never work, and everyone loves a pop culture referencing racer.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/dho8x52o7xnz6asj4kiy/team-gripen-light-red-bull-soapbox-race-lausanne-2017"/>
-  </programme>
   <programme channel="redbull.com" start="20250120023504+0000" stop="20250120031330+0000">
     <title lang="en">Abstract</title>
     <desc lang="en">Faction's fourth feature film exhibits pure creativity through a series of high-octane freeski sequences.</desc>
@@ -148,5 +130,23 @@
     <desc lang="en">Pro surfer Mick Fanning and photographer Trevor Moran arrive in Norway to surf under the Aurora Borealis.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SGXVF4F55N11/FO-1SGXVF4F55N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250120160829+0000" stop="20250120161541+0000">
+    <title lang="en">Chile (Part 1)</title>
+    <desc lang="en">Photographer Mark McInnis hunts waves in South America with Hank Gaskell, Noah Wegrich and Cam Richards.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMYTA5FS5N11/FO-1SMYTA5FS5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250120161541+0000" stop="20250120162331+0000">
+    <title lang="en">Chile (Part 2)</title>
+    <desc lang="en">The journey to South America’s best surf spots keeps paying off with barrel after barrel.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMZ76AFH5N11/FO-1SMZ76AFH5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250120162331+0000" stop="20250120162810+0000">
+    <title lang="en">Fiordland (Part 1)</title>
+    <desc lang="en">Photographer Matt Dunbar and a team of surfers helicopter out to some of New Zealand’s most remote beaches.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMZD2G195N11/FO-1SMZD2G195N11-featureMedia"/>
   </programme>
 </tv>
