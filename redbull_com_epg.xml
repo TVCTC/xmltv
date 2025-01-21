@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-21 06:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-21 07:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250121034605+0000" stop="20250121041205+0000">
-    <title lang="en">From F1 soapbox racing to breaking world records</title>
-    <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
-  </programme>
-  <programme channel="redbull.com" start="20250121041205+0000" stop="20250121043841+0000">
-    <title lang="en">From a pinball human to 93kph speed skating</title>
-    <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
-  </programme>
   <programme channel="redbull.com" start="20250121043841+0000" stop="20250121050441+0000">
     <title lang="en">From skydiving with skis to flying into a volcano</title>
     <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
@@ -148,5 +136,17 @@
     <desc lang="en">Photographer Michael Clark and Red Bull Athlete Rafa Ortiz test the new Elinchrom Lightpack to its limits.</desc>
     <category lang="en">Kayaking</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SQF4RCPN5N11/FO-1SQF4RCPN5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250121140055+0000" stop="20250121140615+0000">
+    <title lang="en">New challenges</title>
+    <desc lang="en">Mick Fanning and Trevor Moran learn that shooting in Norway comes with a unique set of challenges to overcome.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SGXW3QP15N11/FO-1SGXW3QP15N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250121123845+0000" stop="20250121124350+0000">
+    <title lang="en">Aurora Borealis</title>
+    <desc lang="en">Pro surfer Mick Fanning and photographer Trevor Moran arrive in Norway to surf under the Aurora Borealis.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SGXVF4F55N11/FO-1SGXVF4F55N11-featureMedia"/>
   </programme>
 </tv>
