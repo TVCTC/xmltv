@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-23 19:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-23 20:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250123135330+0000" stop="20250123153013+0000">
+    <title lang="en">Born to Fly</title>
+    <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
+    <category lang="en">Athletics</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250123153013+0000" stop="20250123154707+0000">
+    <title lang="en">Yeah buddy – part 1</title>
+    <desc lang="en">Aussie climbing prodigy Angie Scarth-Johnson and Hazel Findlay explore Mallorca’s deep-water soloing routes.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/11/cax0dq8vgzmltqx8y9yi/angie-scarth-johnson-rock-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250123154707+0000" stop="20250123160414+0000">
+    <title lang="en">Yeah buddy – part 2</title>
+    <desc lang="en">Angie Scarth-Johnson faces the mental challenge of climbing comp Psicobloc, overcoming fears of deep waters.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/kqtu1mxtrklmmykzxgni/angie-scarth-johnson-free-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250123160414+0000" stop="20250123162451+0000">
+    <title lang="en">Soundscape</title>
+    <desc lang="en">Blind adventure athlete and author Erik Weihenmayer ascends a massive rock face deep in the Sierra Nevada.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/mhjtsqjvnivnsdlsrqop/erik-weihenmayer-rock-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250123162451+0000" stop="20250123164921+0000">
+    <title lang="en">With my heart</title>
+    <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
+  </programme>
+  <programme channel="redbull.com" start="20250123164921+0000" stop="20250123172011+0000">
+    <title lang="en">Black Pearl </title>
+    <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/g2b9nw1mf0wxn5fumqfd/chris-sharma-climbs-black-pearl-mallorca"/>
+  </programme>
+  <programme channel="redbull.com" start="20250123172011+0000" stop="20250123173914+0000">
+    <title lang="en">The puzzle</title>
+    <desc lang="en">Brette Harrington climbs the Chinese Puzzle Wall, completing a route begun by her late partner, Marc-André.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/tnhr1misd9vpkxouefvo/brette-harrington-chinese-puzzle-wall"/>
+  </programme>
   <programme channel="redbull.com" start="20250123173914+0000" stop="20250123175518+0000">
     <title lang="en">Charles at large</title>
     <desc lang="en">Barefoot boulderer Charles Albert conquers his hardest route – L'Ombre du Voyageur in Switzerland. </desc>
@@ -112,41 +154,5 @@
     <desc lang="en">Meet exceptional people who've made life-altering decisions to race Dakar, making sacrifices for a dream.</desc>
     <category lang="en">Rally Raid</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/vurtuxazlmskherfpx5p/toby-price-sam-sunderland-dakar-rally-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250124040923+0000" stop="20250124041428+0000">
-    <title lang="en">Aurora Borealis</title>
-    <desc lang="en">Pro surfer Mick Fanning and photographer Trevor Moran arrive in Norway to surf under the Aurora Borealis.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SGXVF4F55N11/FO-1SGXVF4F55N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250124043555+0000" stop="20250124044307+0000">
-    <title lang="en">Chile (Part 1)</title>
-    <desc lang="en">Photographer Mark McInnis hunts waves in South America with Hank Gaskell, Noah Wegrich and Cam Richards.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMYTA5FS5N11/FO-1SMYTA5FS5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250124044307+0000" stop="20250124045057+0000">
-    <title lang="en">Chile (Part 2)</title>
-    <desc lang="en">The journey to South America’s best surf spots keeps paying off with barrel after barrel.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMZ76AFH5N11/FO-1SMZ76AFH5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250124045057+0000" stop="20250124045536+0000">
-    <title lang="en">Fiordland (Part 1)</title>
-    <desc lang="en">Photographer Matt Dunbar and a team of surfers helicopter out to some of New Zealand’s most remote beaches.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMZD2G195N11/FO-1SMZD2G195N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250124045536+0000" stop="20250124050028+0000">
-    <title lang="en">Fiordland (Part 2)</title>
-    <desc lang="en">In New Zealand, photographer Matt Dunbar is out to capture high-performance surfing against a rugged backdrop.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SMZ4S3PS5N11/FO-1SMZ4S3PS5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250124050028+0000" stop="20250124051650+0000">
-    <title lang="en">Iceland's undiscovered waves</title>
-    <desc lang="en">The surf scene is nascent in Iceland, but two natives, Heidar Logi and Elli Thor, are working to change that.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/13/axqwd3qmqfz370kr1zv0/chasing-the-shot-iceland"/>
   </programme>
 </tv>
