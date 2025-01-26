@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-26 21:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-26 22:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250126184122+0000" stop="20250126190557+0000">
-    <title lang="en">No Contest: Julian Wilson hits Fiji</title>
-    <desc lang="en">Julian Wilson heads to Fiji: 330 islands, 500 islets, thousands of villages and the friendliest culture. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/p9l5hgc6b5cyef1bvetp/no-contest-off-tour-s1-e2-fiji-julian-wilson"/>
-  </programme>
-  <programme channel="redbull.com" start="20250126190557+0000" stop="20250126193424+0000">
-    <title lang="en">Mateus Herdy explores Florianópolis</title>
-    <desc lang="en">Mateus Herdy takes us the entire 600km stretch of Santa Catarina to meet the crew in Florianópolis. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/11/hipgjhihjjw95rrn2azh/no-contest-off-tour-s1-e5-mateus-herdy-floripa"/>
-  </programme>
   <programme channel="redbull.com" start="20250126193424+0000" stop="20250126200338+0000">
     <title lang="en">Steph and Leo explore Italy</title>
     <desc lang="en">Leo Fioravanti and Roby D’Amico take Ashton and Steph Gilmore on a Mediterranean strike from Rome to Sardinia.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iww612k42herg2tme0kr/marco-fuerst-base-jumping"/>
+  </programme>
+  <programme channel="redbull.com" start="20250127054948+0000" stop="20250127060000+0000">
+    <title lang="en">Women of freeride part 2 – raising the bar</title>
+    <desc lang="en">Explore the paths of pioneering women freeriders as they push for inclusion at Red Bull Rampage.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/7/slmrnpxolvvead5ryehv/robin-goomes-celebrates-speed-style-win-crankworx-rotorua-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250127060000+0000" stop="20250127062600+0000">
+    <title lang="en">From freerunning Greek isles to skiing the Streif</title>
+    <desc lang="en">Red Bull athletes do it all, from skiing down the steepest run at night to slacklining during an eclipse.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/pafocedw24uyj8uzbkjm/dominic-di-tommaso-hazal-nehir-istanbul-2021"/>
   </programme>
 </tv>
