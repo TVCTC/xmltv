@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-27 12:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-27 13:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250127074451+0000" stop="20250127084630+0000">
+    <title lang="en">ANYTIME</title>
+    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
+  </programme>
   <programme channel="redbull.com" start="20250127084630+0000" stop="20250127091237+0000">
     <title lang="en">Jaan Roose: Life on the Line</title>
     <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">Barefoot boulderer Charles Albert conquers his hardest route – L'Ombre du Voyageur in Switzerland. </desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/fvcfk1syjigfz9vh2aam/barefoot-boulderer-charles-albert-climbing-l-ombre-du-voyageur"/>
-  </programme>
-  <programme channel="redbull.com" start="20250127233717+0000" stop="20250128000924+0000">
-    <title lang="en">Dropping Molly</title>
-    <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
-    <category lang="en">Bouldering</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/hzbjjsd9kg5knno3grxo/molly-mitchell-bouldering"/>
   </programme>
 </tv>
