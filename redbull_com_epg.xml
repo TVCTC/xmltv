@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-29 11:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-29 12:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250129075343+0000" stop="20250129092024+0000">
-    <title lang="en">Wild Waters</title>
-    <desc lang="en">From Olympic pools to wild rivers, see the life of Nouria Newman, the most gifted kayaker of her generation.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/5/tvpok5sak42eawdsqznl/wild-waters-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250129092024+0000" stop="20250129094636+0000">
-    <title lang="en">Leon Glatzer surfs Costa Rica</title>
-    <desc lang="en">Leon Glatzer unpacks the incredible history of Pavones and explores its thriving roots surf scene. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/11/keco6olelsxc7210nuv1/no-contest-off-tour-s1-e4-leon-glatzer"/>
-  </programme>
   <programme channel="redbull.com" start="20250129094636+0000" stop="20250129101111+0000">
     <title lang="en">No Contest: Julian Wilson hits Fiji</title>
     <desc lang="en">Julian Wilson heads to Fiji: 330 islands, 500 islets, thousands of villages and the friendliest culture. </desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iww612k42herg2tme0kr/marco-fuerst-base-jumping"/>
+  </programme>
+  <programme channel="redbull.com" start="20250129202101+0000" stop="20250129204701+0000">
+    <title lang="en">From freerunning Greek isles to skiing the Streif</title>
+    <desc lang="en">Red Bull athletes do it all, from skiing down the steepest run at night to slacklining during an eclipse.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/pafocedw24uyj8uzbkjm/dominic-di-tommaso-hazal-nehir-istanbul-2021"/>
+  </programme>
+  <programme channel="redbull.com" start="20250129204701+0000" stop="20250129211337+0000">
+    <title lang="en">From soapbox madness to skydiving with an FMX bike</title>
+    <desc lang="en">Red Bull athletes do it all, from skydiving with a motocross bike to riding rally cars on frozen lakes. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iltxmuy0dpylwgiezemw/red-bull-dance-your-style-lausanne-final-aceko-performance-2024"/>
   </programme>
 </tv>
