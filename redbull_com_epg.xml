@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-30 07:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-30 08:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250130043218+0000" stop="20250130060000+0000">
-    <title lang="en">Wild Waters</title>
-    <desc lang="en">From Olympic pools to wild rivers, see the life of Nouria Newman, the most gifted kayaker of her generation.</desc>
-    <category lang="en">Kayaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/5/tvpok5sak42eawdsqznl/wild-waters-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250130060000+0000" stop="20250130062611+0000">
-    <title lang="en">Leon Glatzer surfs Costa Rica</title>
-    <desc lang="en">Leon Glatzer unpacks the incredible history of Pavones and explores its thriving roots surf scene. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/11/keco6olelsxc7210nuv1/no-contest-off-tour-s1-e4-leon-glatzer"/>
-  </programme>
-  <programme channel="redbull.com" start="20250130062611+0000" stop="20250130065047+0000">
-    <title lang="en">No Contest: Julian Wilson hits Fiji</title>
-    <desc lang="en">Julian Wilson heads to Fiji: 330 islands, 500 islets, thousands of villages and the friendliest culture. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/p9l5hgc6b5cyef1bvetp/no-contest-off-tour-s1-e2-fiji-julian-wilson"/>
-  </programme>
   <programme channel="redbull.com" start="20250130065047+0000" stop="20250130071913+0000">
     <title lang="en">Mateus Herdy explores Florianópolis</title>
     <desc lang="en">Mateus Herdy takes us the entire 600km stretch of Santa Catarina to meet the crew in Florianópolis. </desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Red Bull athletes do it all, from diving off ancient ruins to acing a paper plane competition.  </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/5/orl9mdkwzi4y5qrhjbri/red-bull-racing-swamp-buggy-max-verstappen-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20250130164202+0000" stop="20250130170838+0000">
+    <title lang="en">From skateboarding out a plane to 180m wall climb</title>
+    <desc lang="en">Red Bull athletes do it all, from freerunning through an airport to building a skatepark in the forest.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/u2jrgximnynso9wn4vue/andrzej-bargiel"/>
+  </programme>
+  <programme channel="redbull.com" start="20250130170838+0000" stop="20250130173438+0000">
+    <title lang="en">From BASE jumping a cave to a flying mega swing </title>
+    <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iww612k42herg2tme0kr/marco-fuerst-base-jumping"/>
+  </programme>
+  <programme channel="redbull.com" start="20250130173438+0000" stop="20250130180038+0000">
+    <title lang="en">From freerunning Greek isles to skiing the Streif</title>
+    <desc lang="en">Red Bull athletes do it all, from skiing down the steepest run at night to slacklining during an eclipse.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/pafocedw24uyj8uzbkjm/dominic-di-tommaso-hazal-nehir-istanbul-2021"/>
   </programme>
 </tv>
