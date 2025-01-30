@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-30 00:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-01-30 01:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250129213937+0000" stop="20250129220553+0000">
+    <title lang="en">The Next Centimeter </title>
+    <desc lang="en">Discover what it takes for pole vaulter Armand ‘Mondo’ Duplantis to raise the bar – one centimetre at a time.</desc>
+    <category lang="en">Athletics</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/27/r97odp9y4wmzprlmc2zd/the-next-centimeter-armand-duplantis"/>
+  </programme>
   <programme channel="redbull.com" start="20250129220553+0000" stop="20250129230732+0000">
     <title lang="en">ANYTIME</title>
     <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">Brette Harrington climbs the Chinese Puzzle Wall, completing a route begun by her late partner, Marc-André.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/tnhr1misd9vpkxouefvo/brette-harrington-chinese-puzzle-wall"/>
-  </programme>
-  <programme channel="redbull.com" start="20250130134314+0000" stop="20250130135919+0000">
-    <title lang="en">Charles at large</title>
-    <desc lang="en">Barefoot boulderer Charles Albert conquers his hardest route – L'Ombre du Voyageur in Switzerland. </desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/fvcfk1syjigfz9vh2aam/barefoot-boulderer-charles-albert-climbing-l-ombre-du-voyageur"/>
   </programme>
 </tv>
