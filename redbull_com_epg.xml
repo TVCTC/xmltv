@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-02 15:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-02 16:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250202135014+0000" stop="20250202140805+0000">
-    <title lang="en">A state of mind</title>
-    <desc lang="en">Ford's Raptor T1+ is pitted against other top vehicles in the T1+ category at the gruelling Rallye du Maroc.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/sjotirgkb85brljl6pwy/rally-du-maroc-2024-carlos-sainz-lucas-cruz-morocco-raptor-t1"/>
-  </programme>
-  <programme channel="redbull.com" start="20250202140805+0000" stop="20250202141745+0000">
-    <title lang="en">Building a beast</title>
-    <desc lang="en">Discover the process to build the ultimate Raptor, from CAD designs to making its first tracks in the wild.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/hsjgbqx31jbrpatkgbmp/ford-raptor-t1-dakar-racer-goodwood-house"/>
-  </programme>
-  <programme channel="redbull.com" start="20250202141745+0000" stop="20250202142857+0000">
-    <title lang="en">Into the dunes</title>
-    <desc lang="en">The Ford Performance team pushes the Raptor T1+ and its driver to their limits to prepare for the Dakar Rally.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/m7oypgrzn147fanq0enh/mitch-guthrie-jr-ford-raptor-t1-dakar-testing-merzouga-morocco"/>
-  </programme>
-  <programme channel="redbull.com" start="20250202142857+0000" stop="20250202144232+0000">
-    <title lang="en">Into the wild</title>
-    <desc lang="en">Join Dakar Rally legend Carlos Sainz Snr behind the wheel of Ford Performance's Raptor T1+.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/a9hvxqkwwlwrlu0hua1e/carlos-sainz-rallye-du-maroc-zagora-2024-ford-raptor-t1"/>
-  </programme>
   <programme channel="redbull.com" start="20250202144232+0000" stop="20250202154104+0000">
     <title lang="en">Kai Jones' Falling into Place</title>
     <desc lang="en">After a cliff fall shattered his legs, Kai Jones faces a harrowing rescue, surgery and fight for survival. </desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Brette Harrington climbs the Chinese Puzzle Wall, completing a route begun by her late partner, Marc-André.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/tnhr1misd9vpkxouefvo/brette-harrington-chinese-puzzle-wall"/>
+  </programme>
+  <programme channel="redbull.com" start="20250203054201+0000" stop="20250203060000+0000">
+    <title lang="en">Charles at large</title>
+    <desc lang="en">Barefoot boulderer Charles Albert conquers his hardest route – L'Ombre du Voyageur in Switzerland. </desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/fvcfk1syjigfz9vh2aam/barefoot-boulderer-charles-albert-climbing-l-ombre-du-voyageur"/>
+  </programme>
+  <programme channel="redbull.com" start="20250203060000+0000" stop="20250203062600+0000">
+    <title lang="en">From F1 soapbox racing to breaking world records</title>
+    <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
+  </programme>
+  <programme channel="redbull.com" start="20250203062600+0000" stop="20250203065236+0000">
+    <title lang="en">From a pinball human to 93kph speed skating</title>
+    <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
+  </programme>
+  <programme channel="redbull.com" start="20250203065236+0000" stop="20250203071836+0000">
+    <title lang="en">From skydiving with skis to flying into a volcano</title>
+    <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/jdlnqxz4nve0e3be9jf1/dario-costa-wingsuit-flying-through-catalca-tunnels-in-turkey"/>
   </programme>
 </tv>
