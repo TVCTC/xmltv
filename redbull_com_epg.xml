@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-04 03:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-04 04:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250204014757+0000" stop="20250204020700+0000">
-    <title lang="en">The puzzle</title>
-    <desc lang="en">Brette Harrington climbs the Chinese Puzzle Wall, completing a route begun by her late partner, Marc-André.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/tnhr1misd9vpkxouefvo/brette-harrington-chinese-puzzle-wall"/>
-  </programme>
-  <programme channel="redbull.com" start="20250204020700+0000" stop="20250204022304+0000">
-    <title lang="en">Charles at large</title>
-    <desc lang="en">Barefoot boulderer Charles Albert conquers his hardest route – L'Ombre du Voyageur in Switzerland. </desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/fvcfk1syjigfz9vh2aam/barefoot-boulderer-charles-albert-climbing-l-ombre-du-voyageur"/>
-  </programme>
   <programme channel="redbull.com" start="20250204022304+0000" stop="20250204025511+0000">
     <title lang="en">Dropping Molly</title>
     <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Paraglider pilots Tom de Dorlodot and Horacio Llorens flew past four of Pakistan's peaks in just one day.</desc>
     <category lang="en">Paragliding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/10/rdqy0acz8hiwoqgk0916/flying-between-giants-tom-de-dorlodot"/>
+  </programme>
+  <programme channel="redbull.com" start="20250204151844+0000" stop="20250204154433+0000">
+    <title lang="en">The end game</title>
+    <desc lang="en">Follow Julian Wilson and Jordy Smith as they look to win more than just the prestigious Pipe Masters trophy.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYUXGTN5N11/FO-1YPYUXGTN5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250204154433+0000" stop="20250204160437+0000">
+    <title lang="en">The final preparation</title>
+    <desc lang="en">As the 2018 season draws to an end, the athletes spend time with family before the final events of the year.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYWPCCH5N11/FO-1YPYWPCCH5N11-featureMedia"/>
   </programme>
 </tv>
