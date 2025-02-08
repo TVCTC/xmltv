@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-08 01:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-08 02:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250207234409+0000" stop="20250208004548+0000">
-    <title lang="en">ANYTIME</title>
-    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
-  </programme>
-  <programme channel="redbull.com" start="20250208004548+0000" stop="20250208004950+0000">
-    <title lang="en">Don’t Look Down with Kriss Kyle</title>
-    <desc lang="en">See how Kriss Kyle’s daring idea ballooned into the ultimate test of BMX skill. </desc>
-    <category lang="en">BMX</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/12/gfc5surociyddotljcaz/kriss-kyle-dont-look-down-malmesbury-uk-december-2022"/>
-  </programme>
   <programme channel="redbull.com" start="20250208004950+0000" stop="20250208011640+0000">
     <title lang="en">Iron sharpens iron</title>
     <desc lang="en">Mathias Flückiger and Nino Schurter confront the bitter rivalry of Swiss MTB cross-country racing.</desc>
@@ -148,5 +136,11 @@
     <desc lang="en">The world’s toughest big mountain freeride mountain bike competition continues to progress the sport.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/6/e17teogsyqplxfgqkpnq/carson-storch-red-bull-rampage-virgin-utah-2019"/>
+  </programme>
+  <programme channel="redbull.com" start="20250209003017+0000" stop="20250209005417+0000">
+    <title lang="en">Kenya</title>
+    <desc lang="en">Former World Cup racer Rob Warner heads to Kenya with freeride pro Matt Jones to ride Mount Kenya.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/11/13/2b70c73c-80d5-4604-8f2f-2c2e15d63d14/rob-warner-wild-rides-kenya"/>
   </programme>
 </tv>
