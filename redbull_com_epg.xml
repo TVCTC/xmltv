@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-08 02:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-08 03:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250208004950+0000" stop="20250208011640+0000">
-    <title lang="en">Iron sharpens iron</title>
-    <desc lang="en">Mathias Flückiger and Nino Schurter confront the bitter rivalry of Swiss MTB cross-country racing.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/28/w6t2uqey84ktcvxqzzyi/mathias-fluckiger"/>
-  </programme>
-  <programme channel="redbull.com" start="20250208011640+0000" stop="20250208015020+0000">
-    <title lang="en">Home run</title>
-    <desc lang="en">As Rachel Atherton returns to MTB racing, she works to find a balance while Vali Höll prepares for success.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/28/llxjqlpypbclwcm0bhcp/rachel-atherton"/>
-  </programme>
   <programme channel="redbull.com" start="20250208015020+0000" stop="20250208024903+0000">
     <title lang="en">Reverence</title>
     <desc lang="en">Delve deep into the psyche of elite mountain bike athletes to uncover how they face and use fear.</desc>
@@ -142,5 +130,17 @@
     <desc lang="en">Former World Cup racer Rob Warner heads to Kenya with freeride pro Matt Jones to ride Mount Kenya.</desc>
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/11/13/2b70c73c-80d5-4604-8f2f-2c2e15d63d14/rob-warner-wild-rides-kenya"/>
+  </programme>
+  <programme channel="redbull.com" start="20250209005417+0000" stop="20250209011801+0000">
+    <title lang="en">Lesotho</title>
+    <desc lang="en">Mountain bikers Rob Warner and Matt Jones, head to Lesotho to experience a very different kind of racing.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/11/11/e81a9ac5-f6ec-47ac-b058-c89f9f64d733/rob-warners-wild-rides-ep-2-lesotho"/>
+  </programme>
+  <programme channel="redbull.com" start="20250209011801+0000" stop="20250209014231+0000">
+    <title lang="en">Ecuador</title>
+    <desc lang="en">Rob Warner travels to Ecuador with rising mountain biking star Finn Iles to take on the Cotopaxi in the Andes.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/11/11/5cd26644-3a2f-4016-9abc-b51018cda283/rob-warners-wild-rides-ep-3-ecuador"/>
   </programme>
 </tv>
