@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-08 15:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-08 16:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250208134557+0000" stop="20250208141938+0000">
-    <title lang="en">Home run</title>
-    <desc lang="en">As Rachel Atherton returns to MTB racing, she works to find a balance while Vali Höll prepares for success.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/28/llxjqlpypbclwcm0bhcp/rachel-atherton"/>
-  </programme>
-  <programme channel="redbull.com" start="20250208141938+0000" stop="20250208145228+0000">
-    <title lang="en">Bros before foes</title>
-    <desc lang="en">DH riders Loïc Bruni and Loris Vergier have their relationship put to the test as they compete against each.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/28/ywlsgbayikoud6wzj9nq/loic-bruni"/>
-  </programme>
   <programme channel="redbull.com" start="20250208145228+0000" stop="20250208161108+0000">
     <title lang="en">Highlight Show Rampage 2023</title>
     <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.  </desc>
@@ -101,19 +89,19 @@
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/28/t6bj0dyy8yfyft0anqpb/jolanda-neff-uci-xco-world-cup-val-di-sole-2022"/>
   </programme>
-  <programme channel="redbull.com" start="20250208121855+0000" stop="20250208124717+0000">
+  <programme channel="redbull.com" start="20250209041105+0000" stop="20250209043927+0000">
     <title lang="en">Apex predators </title>
     <desc lang="en">In the downhill, Finn Iles struggles to beat his biggest competitor, team-mate Loïc Bruni.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/28/fcfd2iersmg83popnw13/finn-iles"/>
   </programme>
-  <programme channel="redbull.com" start="20250208124717+0000" stop="20250208131943+0000">
+  <programme channel="redbull.com" start="20250209043927+0000" stop="20250209051117+0000">
     <title lang="en">Adapt or perish</title>
     <desc lang="en">A wave of younger, faster competitors force 'old dogs to learn new tricks' to stay in the results sheet. </desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/28/rcoembcwdgp9cpvx6ihx/jackson-goldstone"/>
   </programme>
-  <programme channel="redbull.com" start="20250208131943+0000" stop="20250208134557+0000">
+  <programme channel="redbull.com" start="20250209051117+0000" stop="20250209053807+0000">
     <title lang="en">Iron sharpens iron</title>
     <desc lang="en">Mathias Flückiger and Nino Schurter confront the bitter rivalry of Swiss MTB cross-country racing.</desc>
     <category lang="en">MTB</category>
@@ -154,5 +142,17 @@
     <desc lang="en">Join Dakar Rally legend Carlos Sainz Snr behind the wheel of Ford Performance's Raptor T1+.</desc>
     <category lang="en">Rally Raid</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/a9hvxqkwwlwrlu0hua1e/carlos-sainz-rallye-du-maroc-zagora-2024-ford-raptor-t1"/>
+  </programme>
+  <programme channel="redbull.com" start="20250209072331+0000" stop="20250209074025+0000">
+    <title lang="en">Yeah buddy – part 1</title>
+    <desc lang="en">Aussie climbing prodigy Angie Scarth-Johnson and Hazel Findlay explore Mallorca’s deep-water soloing routes.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/11/cax0dq8vgzmltqx8y9yi/angie-scarth-johnson-rock-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250209074025+0000" stop="20250209075732+0000">
+    <title lang="en">Yeah buddy – part 2</title>
+    <desc lang="en">Angie Scarth-Johnson faces the mental challenge of climbing comp Psicobloc, overcoming fears of deep waters.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/kqtu1mxtrklmmykzxgni/angie-scarth-johnson-free-climbing"/>
   </programme>
 </tv>
