@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-09 04:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-09 05:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250209025458+0000" stop="20250209034041+0000">
-    <title lang="en">Gamble</title>
-    <desc lang="en">Raw speed, a heavy-hitting soundtrack and virgin locations – mountain bike riders show off their skills.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/14/ggqslasji66wmogb3snz/gamble-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250209034041+0000" stop="20250209041105+0000">
     <title lang="en">No I in team</title>
     <desc lang="en">A devastating mistake by the Trek Factory Racing support crew threatens to derail Evie Richards’s comeback.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">The world’s biggest sand bike race brings together some 2,700 riders to race in extreme conditions. </desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/29/uik3g4tubybrzx8tyx9z/enduropale-2024-motocross-race-start-in-france-featuring-camille-chapeliere"/>
+  </programme>
+  <programme channel="redbull.com" start="20250209163036+0000" stop="20250209165636+0000">
+    <title lang="en">From a paper plane contest to diving off ruins </title>
+    <desc lang="en">Red Bull athletes do it all, from diving off ancient ruins to acing a paper plane competition.  </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/5/orl9mdkwzi4y5qrhjbri/red-bull-racing-swamp-buggy-max-verstappen-2022"/>
   </programme>
 </tv>
