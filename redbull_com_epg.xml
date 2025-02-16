@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-16 05:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-16 06:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250216033711+0000" stop="20250216042259+0000">
-    <title lang="en">Anton Palzer: Breaking the Cycle</title>
-    <desc lang="en">From the powder to the pavement – Anton Palzer believes he has what it takes to switch from ski mountaineer to road cyclist.</desc>
-    <category lang="en">Cycling</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/18/ilb6dz1m80ddz0pfsryq/anton-palzer-breaking-the-cycle-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250216042259+0000" stop="20250216045641+0000">
     <title lang="en">Flying Between Giants</title>
     <desc lang="en">Paraglider pilots Tom de Dorlodot and Horacio Llorens flew past four of Pakistan's peaks in just one day.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/jdlnqxz4nve0e3be9jf1/dario-costa-wingsuit-flying-through-catalca-tunnels-in-turkey"/>
+  </programme>
+  <programme channel="redbull.com" start="20250216123053+0000" stop="20250216125653+0000">
+    <title lang="en">From a paper plane contest to diving off ruins </title>
+    <desc lang="en">Red Bull athletes do it all, from diving off ancient ruins to acing a paper plane competition.  </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/5/orl9mdkwzi4y5qrhjbri/red-bull-racing-swamp-buggy-max-verstappen-2022"/>
   </programme>
 </tv>
