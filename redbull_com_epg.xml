@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-16 20:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-16 21:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250216195449+0000" stop="20250216201349+0000">
-    <title lang="en">Rio Pro 2019</title>
-    <desc lang="en">Join host Ashton Goggins as he takes you on a whistle-stop tour of the city ahead of the Rio Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZSYT1U7W5N11/FO-1ZSYT1U7W5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250216201349+0000" stop="20250216203311+0000">
-    <title lang="en">Surfing at J-Bay 2019</title>
-    <desc lang="en">At J-Bay, South Africa, visiting and local pros feast on several days' worth of flawless walls.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-211PMGQENBH11/FO-211PMGQENBH11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250216203311+0000" stop="20250216205015+0000">
-    <title lang="en">Surf Ranch Pro 2019</title>
-    <desc lang="en">Journey to San Clemente, one of the top surf locations, before the upcoming competition in Lemoore.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/10/02/021d9559-28d3-4d66-8c31-97534dc0163e/nocontest_s04e08_hero_landscape"/>
-  </programme>
   <programme channel="redbull.com" start="20250216205015+0000" stop="20250216210834+0000">
     <title lang="en">European leg 2019</title>
     <desc lang="en">The World Championship Tour reaches Europe, with stops in Hossegor, France and Peniche, Portugal.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Relive an epic XXL wave and go BTS to check out Kai Lenny’s state-of-the-art surf equipment testing.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/26/dzyh4rgp7zvusqeuf8dh/kai-lenny-jaws-hawaii"/>
+  </programme>
+  <programme channel="redbull.com" start="20250217055556+0000" stop="20250217060000+0000">
+    <title lang="en">Pedro Burns</title>
+    <desc lang="en">Pedro Burns goes for a ride across three wildly different Chilean terrains.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/6/qhqd0u4fodjrjczivvvd/mtb-raw-s2e14"/>
+  </programme>
+  <programme channel="redbull.com" start="20250217060000+0000" stop="20250217062600+0000">
+    <title lang="en">From F1 soapbox racing to breaking world records</title>
+    <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
+  </programme>
+  <programme channel="redbull.com" start="20250217062600+0000" stop="20250217065200+0000">
+    <title lang="en">From a pinball human to 93kph speed skating</title>
+    <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
   </programme>
 </tv>
