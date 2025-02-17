@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-17 20:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-17 21:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250217175341+0000" stop="20250217181841+0000">
-    <title lang="en">Surfing San Francisco</title>
-    <desc lang="en">Dive into the fray and get to meet one of surfing’s most hardcore communities.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/dghbrw5pjopeieu0komh/jamie-obrien-no-contest-s2-e1-san-francisco"/>
-  </programme>
-  <programme channel="redbull.com" start="20250217181841+0000" stop="20250217184311+0000">
-    <title lang="en">South Africa</title>
-    <desc lang="en">Let Ashton Goggans be your tour guide along South Africa’s wave-rich coastline from Durban to Cape Town.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/zzvtv9xuihj5vehbuyk4/crew-no-contest-s2-e4-south-africa"/>
-  </programme>
-  <programme channel="redbull.com" start="20250217184311+0000" stop="20250217190747+0000">
-    <title lang="en">Tahiti</title>
-    <desc lang="en">Michel Bourez and Kauli Vaast take you on a tour of beautiful islands of Tahiti. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/uywqkknj6cylyanrdz1n/kauli-vaast-no-contest-s2-e3-tahiti"/>
-  </programme>
-  <programme channel="redbull.com" start="20250217190747+0000" stop="20250217203604+0000">
-    <title lang="en">Layers</title>
-    <desc lang="en">Discover and celebrate the unique people, places, personalities and layers behind what we call snowboarding.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/a24wabmgl2h2stzq5tyk/snowboard-movie-layers"/>
-  </programme>
   <programme channel="redbull.com" start="20250217203604+0000" stop="20250217212151+0000">
     <title lang="en">Anton Palzer: Breaking the Cycle</title>
     <desc lang="en">From the powder to the pavement – Anton Palzer believes he has what it takes to switch from ski mountaineer to road cyclist.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Discover the process to build the ultimate Raptor, from CAD designs to making its first tracks in the wild.</desc>
     <category lang="en">Rally Raid</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/hsjgbqx31jbrpatkgbmp/ford-raptor-t1-dakar-racer-goodwood-house"/>
+  </programme>
+  <programme channel="redbull.com" start="20250218065844+0000" stop="20250218070956+0000">
+    <title lang="en">Into the dunes</title>
+    <desc lang="en">The Ford Performance team pushes the Raptor T1+ and its driver to their limits to prepare for the Dakar Rally.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/m7oypgrzn147fanq0enh/mitch-guthrie-jr-ford-raptor-t1-dakar-testing-merzouga-morocco"/>
+  </programme>
+  <programme channel="redbull.com" start="20250218070956+0000" stop="20250218072331+0000">
+    <title lang="en">Into the wild</title>
+    <desc lang="en">Join Dakar Rally legend Carlos Sainz Snr behind the wheel of Ford Performance's Raptor T1+.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/a9hvxqkwwlwrlu0hua1e/carlos-sainz-rallye-du-maroc-zagora-2024-ford-raptor-t1"/>
+  </programme>
+  <programme channel="redbull.com" start="20250218072331+0000" stop="20250218081542+0000">
+    <title lang="en">Abu Dhabi Desert Challenge 2024 highlights</title>
+    <desc lang="en">Round 2 of the Abu Dhabi Desert Challenge offers challenging sand dunes and baking heat in remote UAE deserts.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/cjglt0voraiqyycemrmx/rokas-baciuska-abu-dhabi-desert-challenge-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250218081542+0000" stop="20250218085528+0000">
+    <title lang="en">Motivation, sacrifice and life-altering decisions</title>
+    <desc lang="en">Meet exceptional people who've made life-altering decisions to race Dakar, making sacrifices for a dream.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/vurtuxazlmskherfpx5p/toby-price-sam-sunderland-dakar-rally-2024"/>
   </programme>
 </tv>
