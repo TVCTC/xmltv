@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-18 10:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-18 11:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250218081542+0000" stop="20250218085528+0000">
+    <title lang="en">Motivation, sacrifice and life-altering decisions</title>
+    <desc lang="en">Meet exceptional people who've made life-altering decisions to race Dakar, making sacrifices for a dream.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/vurtuxazlmskherfpx5p/toby-price-sam-sunderland-dakar-rally-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250218085528+0000" stop="20250218092816+0000">
+    <title lang="en">Great battles: Carlos Sainz vs Nasser Al-Attiyah</title>
+    <desc lang="en">Nasser Al-Attiyah and Carlos Sainz join us to share a unique insight into their friendship and rivalry.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/8/swbs8jyrfslg7qtkrqr5/nasser-al-attiyah-and-carlos-sainz-in-the-dust-s1-e2"/>
+  </programme>
+  <programme channel="redbull.com" start="20250218092816+0000" stop="20250218095430+0000">
+    <title lang="en">Could you race the Dakar with your brother?</title>
+    <desc lang="en">Kevin and Luciano Benavides are on rival teams (KTM and Husqvarna). Do team orders overrule family ties?</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/8/jxvhgxz9xbi4rtmrwt78/benavides-brothers-in-the-dust-s1-e3"/>
+  </programme>
   <programme channel="redbull.com" start="20250218095430+0000" stop="20250218103348+0000">
     <title lang="en">Could your average Joe take on 9,000km?</title>
     <desc lang="en">We explore the physical and mental stamina required for the brutal 9,000km journey of the Dakar Rally.</desc>
@@ -130,23 +148,5 @@
     <desc lang="en">Motorcycle rider Ryan Sipes examines the state of motocross and supercross racing through a cinematic lens.</desc>
     <category lang="en">Motocross</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/12/9/mytnjtcuoyj3tr9f2w3t/moto-maverick-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250218123623+0000" stop="20250218132919+0000">
-    <title lang="en">Abu Dhabi Desert Challenge</title>
-    <desc lang="en">The biggest names in motorsport return to tackle the heat and terrain of the punishing sand dunes in the UAE.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/1/u4d3w7rjroclfe2thixe/sam-sunderland-morocco"/>
-  </programme>
-  <programme channel="redbull.com" start="20250218210159+0000" stop="20250218213659+0000">
-    <title lang="en">Gutiérrez's and Quintero's 2022 Dakar triumphs</title>
-    <desc lang="en">Go behind the scenes with Cristina Gutiérrez and Seth Quintero during two weeks in the Saudi Arabian desert.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/2/23/pxwes2ywkttrjxyzr8iw/dakar-rally-2022-cristina-gutierrez"/>
-  </programme>
-  <programme channel="redbull.com" start="20250218213659+0000" stop="20250218220259+0000">
-    <title lang="en">From BASE jumping a cave to a flying mega swing </title>
-    <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iww612k42herg2tme0kr/marco-fuerst-base-jumping"/>
   </programme>
 </tv>
