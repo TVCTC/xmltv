@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-19 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-19 05:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250219012228+0000" stop="20250219015516+0000">
-    <title lang="en">Great battles: Carlos Sainz vs Nasser Al-Attiyah</title>
-    <desc lang="en">Nasser Al-Attiyah and Carlos Sainz join us to share a unique insight into their friendship and rivalry.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/8/swbs8jyrfslg7qtkrqr5/nasser-al-attiyah-and-carlos-sainz-in-the-dust-s1-e2"/>
-  </programme>
-  <programme channel="redbull.com" start="20250219015516+0000" stop="20250219022130+0000">
-    <title lang="en">Could you race the Dakar with your brother?</title>
-    <desc lang="en">Kevin and Luciano Benavides are on rival teams (KTM and Husqvarna). Do team orders overrule family ties?</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/8/jxvhgxz9xbi4rtmrwt78/benavides-brothers-in-the-dust-s1-e3"/>
-  </programme>
-  <programme channel="redbull.com" start="20250219022130+0000" stop="20250219030048+0000">
-    <title lang="en">Could your average Joe take on 9,000km?</title>
-    <desc lang="en">We explore the physical and mental stamina required for the brutal 9,000km journey of the Dakar Rally.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/11/fqs8hdrjozdfvcipyvg4/seth-quintero-dania-akeel-in-the-dust-dakar"/>
-  </programme>
-  <programme channel="redbull.com" start="20250219030048+0000" stop="20250219033008+0000">
-    <title lang="en">Marathon stage: surviving 48 hours in the desert</title>
-    <desc lang="en">Uncover the brutal 48-hour solo marathon stage through the story of first-time Dakar competitor Tobias Ebster.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/15/ffvak9e66acpuxoa8ai7/in-the-dust-episode-5-image"/>
-  </programme>
   <programme channel="redbull.com" start="20250219033008+0000" stop="20250219040316+0000">
     <title lang="en">How not to get lost in the desert </title>
     <desc lang="en">Finding your way from point A to point B in the desert becomes a huge challenge for Dakar competitors.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Let Ashton Goggans be your tour guide along South Africa’s wave-rich coastline from Durban to Cape Town.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/zzvtv9xuihj5vehbuyk4/crew-no-contest-s2-e4-south-africa"/>
+  </programme>
+  <programme channel="redbull.com" start="20250219125759+0000" stop="20250219132235+0000">
+    <title lang="en">Tahiti</title>
+    <desc lang="en">Michel Bourez and Kauli Vaast take you on a tour of beautiful islands of Tahiti. </desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/uywqkknj6cylyanrdz1n/kauli-vaast-no-contest-s2-e3-tahiti"/>
+  </programme>
+  <programme channel="redbull.com" start="20250219132235+0000" stop="20250219145052+0000">
+    <title lang="en">Layers</title>
+    <desc lang="en">Discover and celebrate the unique people, places, personalities and layers behind what we call snowboarding.</desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/15/a24wabmgl2h2stzq5tyk/snowboard-movie-layers"/>
+  </programme>
+  <programme channel="redbull.com" start="20250219145052+0000" stop="20250219153716+0000">
+    <title lang="en">Anton Palzer: Breaking the Cycle</title>
+    <desc lang="en">From the powder to the pavement – Anton Palzer believes he has what it takes to switch from ski mountaineer to road cyclist.</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/18/ilb6dz1m80ddz0pfsryq/anton-palzer-breaking-the-cycle-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250219153716+0000" stop="20250219163855+0000">
+    <title lang="en">ANYTIME</title>
+    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
   </programme>
 </tv>
