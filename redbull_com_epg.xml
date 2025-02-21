@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-21 21:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-21 22:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250221195456+0000" stop="20250221200831+0000">
-    <title lang="en">Into the wild</title>
-    <desc lang="en">Join Dakar Rally legend Carlos Sainz Snr behind the wheel of Ford Performance's Raptor T1+.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/a9hvxqkwwlwrlu0hua1e/carlos-sainz-rallye-du-maroc-zagora-2024-ford-raptor-t1"/>
-  </programme>
-  <programme channel="redbull.com" start="20250221200831+0000" stop="20250221203423+0000">
-    <title lang="en">Highlights – Riyadh Premier Padel P1</title>
-    <desc lang="en">Enjoy highlights of the first Premier Padel stop of the season in Saudi Arabia's capital, the Riyadh Season P1.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/5/untactj31sornadzht7m/premier-padel-qatar-lebron-galan"/>
-  </programme>
   <programme channel="redbull.com" start="20250221203423+0000" stop="20250221210025+0000">
     <title lang="en">Highlights – Qatar Major Premier Padel</title>
     <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Red Bull Soapbox Race 2024 Hyderabad unleashed a wave of chaos as teams navigated the obstacle-filled track. </desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/t3kuzavdigax1e7a0esc/red-bull-soapbox-race-hyderabad-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250222094657+0000" stop="20250222103105+0000">
+    <title lang="en">Melbourne, Australia </title>
+    <desc lang="en">High-speed antics in Melbourne, Australia, as wildly creative teams test their homemade racers, down under. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/bxbgdlyih7jfsmf1jdww/red-bull-billy-cart-race-melbourne-postal-express-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20250222103105+0000" stop="20250222111455+0000">
+    <title lang="en">Oslo, Norway </title>
+    <desc lang="en">Norway's Red Bull Soapbox Race 2023 showcases wild designs, steep hills and daring drivers. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/re3dhykwrk0ujdrafule/red-bull-soapbox-race-oslo-norway-2023"/>
   </programme>
 </tv>
