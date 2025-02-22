@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-22 14:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-22 15:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250222132542+0000" stop="20250222140929+0000">
-    <title lang="en">Toulouse, France</title>
-    <desc lang="en">To win or To(ulouse)? That is the question that will be answered today in this gravity-powered race!</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/zpafu4se3ambjjhqy1wb/team-2-red-bull-soapbox-race-2022"/>
-  </programme>
   <programme channel="redbull.com" start="20250222140929+0000" stop="20250222153854+0000">
     <title lang="en">Madrid, Spain</title>
     <desc lang="en">A churros-powered descent is taking place in the steep road of Madrid! Who will come out on top?</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">With racing on four continents, 2019's races showcased some ultra-fast runs, but who won these wacky races?</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/29/vwth8dt8gdm0yqnjdl4h/red-bull-soapbox-race-london-2019"/>
+  </programme>
+  <programme channel="redbull.com" start="20250222224549+0000" stop="20250222225512+0000">
+    <title lang="en">2018's best runs</title>
+    <desc lang="en">Italian bagpipes and South Africa's fastest Stone Age soapbox made the cut among 2018's very best runs.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/pm6zgr2tqmnkc2jfehhf/red-bull-soapbox-race-rome-2018"/>
   </programme>
 </tv>
