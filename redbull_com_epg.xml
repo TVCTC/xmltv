@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-22 10:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-22 11:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250222072756+0000" stop="20250222090231+0000">
-    <title lang="en">London, England</title>
-    <desc lang="en">59 intrepid teams race gravity-powered vehicles down a tricky course at Alexandra Palace in London.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/y2wmxqggij1ljnzpu00g/red-bull-soap-box-race-london-alexandra-palace-battersea-rollers-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250222090231+0000" stop="20250222094657+0000">
-    <title lang="en">Hyderabad, India</title>
-    <desc lang="en">Red Bull Soapbox Race 2024 Hyderabad unleashed a wave of chaos as teams navigated the obstacle-filled track. </desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/t3kuzavdigax1e7a0esc/red-bull-soapbox-race-hyderabad-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20250222094657+0000" stop="20250222103105+0000">
     <title lang="en">Melbourne, Australia </title>
     <desc lang="en">High-speed antics in Melbourne, Australia, as wildly creative teams test their homemade racers, down under. </desc>
@@ -154,5 +142,17 @@
     <desc lang="en">First aid kits at the ready because 2017's crash-reel includes some Hollywood-worthy spills that surely stung.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/gpx15dhtbpikytdsek76/red-bull-soapbox-race-2017-aarhus-denmark"/>
+  </programme>
+  <programme channel="redbull.com" start="20250222210408+0000" stop="20250222211534+0000">
+    <title lang="en">2016's best crashes and smashes</title>
+    <desc lang="en">The steepest hill ever in Ireland and the aptly named Death Roller made sure 2016 delivered epic crashes.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/wmucukxnbl5l0qybfff5/crash-red-bull-soapbox-cork-ireland-2016"/>
+  </programme>
+  <programme channel="redbull.com" start="20250222211534+0000" stop="20250222212755+0000">
+    <title lang="en">2019's top car designs </title>
+    <desc lang="en">A genius reversing caravan, a bang-on tribute to Mr Bean and one very wobbly piñata took home 2019's gold stars for soapbox design. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/thodfmm8cfz4zazzt5mk/red-bull-soapbox-race-2019-helsinki-finland"/>
   </programme>
 </tv>
