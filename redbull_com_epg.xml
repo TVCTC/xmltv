@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-22 19:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-22 20:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250222140929+0000" stop="20250222153854+0000">
-    <title lang="en">Madrid, Spain</title>
-    <desc lang="en">A churros-powered descent is taking place in the steep road of Madrid! Who will come out on top?</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/xifrq4b6kfis2z2uzxkm/sardinatti-team-red-bull-soapbox-race-madrid-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20250222153854+0000" stop="20250222162236+0000">
-    <title lang="en">Spa, Belgium</title>
-    <desc lang="en">Fearless teams race through obstacles in their engineless machines, but who will win in Spa?</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/do7fajz6prkpoagayfnq/red-bull-soapbox-race-brussels-2022"/>
-  </programme>
   <programme channel="redbull.com" start="20250222162236+0000" stop="20250222170625+0000">
     <title lang="en">San Marino, Italy</title>
     <desc lang="en">The race with no engine and many obstacles will test the participants in San Marino, Italy. </desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Italian bagpipes and South Africa's fastest Stone Age soapbox made the cut among 2018's very best runs.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/pm6zgr2tqmnkc2jfehhf/red-bull-soapbox-race-rome-2018"/>
+  </programme>
+  <programme channel="redbull.com" start="20250222225512+0000" stop="20250222230532+0000">
+    <title lang="en">2017's best runs</title>
+    <desc lang="en">Every year the racers get faster. In 2017 the gadgets included the fastest musical drum set in history.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/gswa9r6s338cugpekony/red-bull-soapbox-valkenburg-netherlands-2017"/>
+  </programme>
+  <programme channel="redbull.com" start="20250222230532+0000" stop="20250222231405+0000">
+    <title lang="en">2016's best runs</title>
+    <desc lang="en">Fearless was very much the watch word during 2016's events, as these flat out and crash-filled runs show.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/vu4vua1txiqg4n7zujwh/house-of-horrors-red-bull-soapbox-race-cork-2016"/>
   </programme>
 </tv>
