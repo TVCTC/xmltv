@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-23 00:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-23 01:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250222224549+0000" stop="20250222225512+0000">
-    <title lang="en">2018's best runs</title>
-    <desc lang="en">Italian bagpipes and South Africa's fastest Stone Age soapbox made the cut among 2018's very best runs.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/pm6zgr2tqmnkc2jfehhf/red-bull-soapbox-race-rome-2018"/>
-  </programme>
-  <programme channel="redbull.com" start="20250222225512+0000" stop="20250222230532+0000">
-    <title lang="en">2017's best runs</title>
-    <desc lang="en">Every year the racers get faster. In 2017 the gadgets included the fastest musical drum set in history.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/gswa9r6s338cugpekony/red-bull-soapbox-valkenburg-netherlands-2017"/>
-  </programme>
-  <programme channel="redbull.com" start="20250222230532+0000" stop="20250222231405+0000">
-    <title lang="en">2016's best runs</title>
-    <desc lang="en">Fearless was very much the watch word during 2016's events, as these flat out and crash-filled runs show.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/vu4vua1txiqg4n7zujwh/house-of-horrors-red-bull-soapbox-race-cork-2016"/>
-  </programme>
-  <programme channel="redbull.com" start="20250222231405+0000" stop="20250222232205+0000">
-    <title lang="en">2014's best runs</title>
-    <desc lang="en">Which teams pushed the fear to one side and smashed the speed limits in 2014? Hit play and find out.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/vipmfhqzdhan0i0hxnbh/team-pulaster-red-bull-soapbox-race-turin-2014"/>
-  </programme>
   <programme channel="redbull.com" start="20250222232205+0000" stop="20250223000621+0000">
     <title lang="en">Dallas, Texas, USA</title>
     <desc lang="en">Red Bull Soapbox Race returned to Dallas, Texas, for the first time since 2012 and boy did the race deliver.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">This is one of the most difficult tracks in Soapbox Race history, requiring durability and manoeuvrability.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGV72ES2111/FO-1PQGV72ES2111-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250223142128+0000" stop="20250223150407+0000">
+    <title lang="en">Barcelona, Spain</title>
+    <desc lang="en">Drivers and soapbox cars alike are tested by a lengthy course full of sweeping turns and mid-track obstacles.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGU8CB52111/FO-1PQGU8CB52111-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250223150407+0000" stop="20250223154656+0000">
+    <title lang="en">Cincinnati, USA</title>
+    <desc lang="en">Determined soapbox racers unveil their zany creations and face off against Cincinnati’s winding race course. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGQNVV92111/FO-1PQGQNVV92111-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250223154656+0000" stop="20250223162947+0000">
+    <title lang="en">London, England</title>
+    <desc lang="en">Courageous racers take London by storm as they steer their homemade soapbox cars through a perilous course.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGRVYB52111/FO-1PQGRVYB52111-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250223162947+0000" stop="20250223171201+0000">
+    <title lang="en">Montreal, Canada</title>
+    <desc lang="en">It's chaos in Canada as hairbrained homebrewed racecars blast through a turbulent track in downtown Montreal. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGR9TDS2111/FO-1PQGR9TDS2111-featureMedia"/>
   </programme>
 </tv>
