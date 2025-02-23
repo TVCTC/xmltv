@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-23 12:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-23 13:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250223081159+0000" stop="20250223085655+0000">
-    <title lang="en">Santiago, Chile</title>
-    <desc lang="en">Teams of intrepid soapbox racers test their skills in Santiago, Chile, on a steep and treacherous course.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SERBKFRS5N11/FO-1SERBKFRS5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250223085655+0000" stop="20250223094145+0000">
-    <title lang="en">Best of Red Bull Soapbox Race</title>
-    <desc lang="en">Look back on 20 years of the Red Bull Soapbox Race with a collection of best moments from the crazy contest.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SKM4EF4W5N11/FO-1SKM4EF4W5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250223094145+0000" stop="20250223104852+0000">
-    <title lang="en">Cork, Ireland</title>
-    <desc lang="en">Creative and crazy competitors from the British Isles converge on Cork, Ireland for the Red Bull Soapbox Race.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SEQPSY8D5N11/FO-1SEQPSY8D5N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250223104852+0000" stop="20250223111433+0000">
     <title lang="en">Louisville, USA</title>
     <desc lang="en">Forty teams try to avoid dropping into the Ohio River by piloting inventive homemade flying machines.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Norway's Red Bull Soapbox Race 2023 showcases wild designs, steep hills and daring drivers. </desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/re3dhykwrk0ujdrafule/red-bull-soapbox-race-oslo-norway-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250224012810+0000" stop="20250224015446+0000">
+    <title lang="en">From soapbox madness to skydiving with an FMX bike</title>
+    <desc lang="en">Red Bull athletes do it all, from skydiving with a motocross bike to riding rally cars on frozen lakes. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iltxmuy0dpylwgiezemw/red-bull-dance-your-style-lausanne-final-aceko-performance-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250224015446+0000" stop="20250224022046+0000">
+    <title lang="en">From F1 soapbox racing to breaking world records</title>
+    <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
+  </programme>
+  <programme channel="redbull.com" start="20250224022046+0000" stop="20250224023132+0000">
+    <title lang="en">F1 drivers race soapboxes in Montreal</title>
+    <desc lang="en">F1 drivers Max Verstappen and Sergio Pérez race soapbox karts against Yuki Tsunoda and Daniel Ricciardo.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/10/avtdqzs2gjnds6lnbhgf/max-verstappen-daniel-ricciardo-f1-soapbox-race-montreal-2024"/>
   </programme>
 </tv>
