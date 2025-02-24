@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-24 19:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-24 20:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250224163216+0000" stop="20250224165806+0000">
+    <title lang="en">Highlights – Mexico Major Premier Padel</title>
+    <desc lang="en">Watch the highlights from the Mexico Major Premier Padel tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/28/nky4np6vzilxmm8f5sfb/miguel-yanguas-serving-during-newgiza-premier-padel-p2-final-in-egypt-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250224165806+0000" stop="20250224172443+0000">
+    <title lang="en">Highlights – Milano Premier Padel P1</title>
+    <desc lang="en">Watch the highlights from the Milano Premier Padel P1 tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/4/yjt2fbkjsa0dfz9ykmfk/juan-lebron-gnp-mexico-premier-padel-acapulco-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250224172443+0000" stop="20250224181721+0000">
+    <title lang="en">Highlights – Premier Padel 2024 Finals Barcelona  </title>
+    <desc lang="en">The epic 25-stop Premier Padel 2024 season concluded in Barcelona. Watch the highlights from the grand finale. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/27/ei0xtnjcmzgmhqwbqa2r/premier-padel-finals-barcelona-2024-award-ceremony-celebration"/>
+  </programme>
   <programme channel="redbull.com" start="20250224181721+0000" stop="20250224185959+0000">
     <title lang="en">Chasing Winter</title>
     <desc lang="en">Pro snowboarder Mark McMorris and friends prepare for the upcoming high-stakes competition season.</desc>
@@ -136,23 +154,5 @@
     <desc lang="en">Red Bull athletes do it all, from skydiving with a motocross bike to riding rally cars on frozen lakes. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iltxmuy0dpylwgiezemw/red-bull-dance-your-style-lausanne-final-aceko-performance-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250225065200+0000" stop="20250225071836+0000">
-    <title lang="en">From wingsuits to parachutes</title>
-    <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/cps0jjbpnepwe6qtmphb/leticia-bufoni-california-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20250225071836+0000" stop="20250225074949+0000">
-    <title lang="en">In the Wings</title>
-    <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250225074949+0000" stop="20250225080740+0000">
-    <title lang="en">A state of mind</title>
-    <desc lang="en">Ford's Raptor T1+ is pitted against other top vehicles in the T1+ category at the gruelling Rallye du Maroc.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/sjotirgkb85brljl6pwy/rally-du-maroc-2024-carlos-sainz-lucas-cruz-morocco-raptor-t1"/>
   </programme>
 </tv>
