@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-24 02:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-24 03:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250223201239+0000" stop="20250223205709+0000">
-    <title lang="en">Bern, Switzerland </title>
-    <desc lang="en">Witness the thrills of the 2023 Red Bull Soapbox Race in Switzerland – wild designs, speed and epic crashes! </desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/ofjybu0leyxatjxa3qut/red-bull-soapbox-race-bern-2023-team-moonshiners"/>
-  </programme>
-  <programme channel="redbull.com" start="20250223205709+0000" stop="20250223214112+0000">
-    <title lang="en">Amman, Jordan </title>
-    <desc lang="en">Catch the Red Bull Soapbox Race in Jordan as creative teams speed through Amman’s hills with bold designs.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/uf6p1xnnsq5hvg5jrjpr/red-bull-soapbox-race-2023-amman-jordan"/>
-  </programme>
   <programme channel="redbull.com" start="20250223214112+0000" stop="20250223231546+0000">
     <title lang="en">London, England</title>
     <desc lang="en">59 intrepid teams race gravity-powered vehicles down a tricky course at Alexandra Palace in London.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
     <category lang="en">F1</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250224102701+0000" stop="20250224104452+0000">
+    <title lang="en">A state of mind</title>
+    <desc lang="en">Ford's Raptor T1+ is pitted against other top vehicles in the T1+ category at the gruelling Rallye du Maroc.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/sjotirgkb85brljl6pwy/rally-du-maroc-2024-carlos-sainz-lucas-cruz-morocco-raptor-t1"/>
+  </programme>
+  <programme channel="redbull.com" start="20250224104452+0000" stop="20250224105432+0000">
+    <title lang="en">Building a beast</title>
+    <desc lang="en">Discover the process to build the ultimate Raptor, from CAD designs to making its first tracks in the wild.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/hsjgbqx31jbrpatkgbmp/ford-raptor-t1-dakar-racer-goodwood-house"/>
   </programme>
 </tv>
