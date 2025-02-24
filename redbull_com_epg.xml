@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-24 21:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-24 22:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250224172443+0000" stop="20250224181721+0000">
-    <title lang="en">Highlights – Premier Padel 2024 Finals Barcelona  </title>
-    <desc lang="en">The epic 25-stop Premier Padel 2024 season concluded in Barcelona. Watch the highlights from the grand finale. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/27/ei0xtnjcmzgmhqwbqa2r/premier-padel-finals-barcelona-2024-award-ceremony-celebration"/>
-  </programme>
-  <programme channel="redbull.com" start="20250224181721+0000" stop="20250224185959+0000">
-    <title lang="en">Chasing Winter</title>
-    <desc lang="en">Pro snowboarder Mark McMorris and friends prepare for the upcoming high-stakes competition season.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/12/9/pixcjr3dud0dskr2atng/chasing-winter-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250224185959+0000" stop="20250224200201+0000">
     <title lang="en">Anna Gasser – The Spark Within</title>
     <desc lang="en">Follow snowboard superstar Anna Gasser over a decade to see how she changed the snowboarding landscape.  </desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
     <category lang="en">F1</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250225074949+0000" stop="20250225080740+0000">
+    <title lang="en">A state of mind</title>
+    <desc lang="en">Ford's Raptor T1+ is pitted against other top vehicles in the T1+ category at the gruelling Rallye du Maroc.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/sjotirgkb85brljl6pwy/rally-du-maroc-2024-carlos-sainz-lucas-cruz-morocco-raptor-t1"/>
+  </programme>
+  <programme channel="redbull.com" start="20250225080740+0000" stop="20250225081720+0000">
+    <title lang="en">Building a beast</title>
+    <desc lang="en">Discover the process to build the ultimate Raptor, from CAD designs to making its first tracks in the wild.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/hsjgbqx31jbrpatkgbmp/ford-raptor-t1-dakar-racer-goodwood-house"/>
   </programme>
 </tv>
