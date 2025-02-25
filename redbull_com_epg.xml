@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-25 06:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-25 07:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250225034804+0000" stop="20250225041404+0000">
-    <title lang="en">From a pinball human to 93kph speed skating</title>
-    <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
-  </programme>
-  <programme channel="redbull.com" start="20250225041404+0000" stop="20250225044004+0000">
-    <title lang="en">From skydiving with skis to flying into a volcano</title>
-    <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/jdlnqxz4nve0e3be9jf1/dario-costa-wingsuit-flying-through-catalca-tunnels-in-turkey"/>
-  </programme>
   <programme channel="redbull.com" start="20250225044004+0000" stop="20250225050640+0000">
     <title lang="en">From a paper plane contest to diving off ruins </title>
     <desc lang="en">Red Bull athletes do it all, from diving off ancient ruins to acing a paper plane competition.  </desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Watch the highlights from the UAE as the Kuwait Premier Padel P1 took centre stage.  </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/aaqrr0hpfnf6kuxzojpb/beatriz-gonzalez-dubai-premier-padel-p1-semi-finals-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250225135504+0000" stop="20250225142054+0000">
+    <title lang="en">Highlights – Mexico Major Premier Padel</title>
+    <desc lang="en">Watch the highlights from the Mexico Major Premier Padel tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/28/nky4np6vzilxmm8f5sfb/miguel-yanguas-serving-during-newgiza-premier-padel-p2-final-in-egypt-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250225142054+0000" stop="20250225144731+0000">
+    <title lang="en">Highlights – Milano Premier Padel P1</title>
+    <desc lang="en">Watch the highlights from the Milano Premier Padel P1 tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/4/yjt2fbkjsa0dfz9ykmfk/juan-lebron-gnp-mexico-premier-padel-acapulco-2024"/>
   </programme>
 </tv>
