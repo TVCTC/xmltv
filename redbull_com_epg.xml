@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-26 17:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-26 18:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250226154003+0000" stop="20250226164142+0000">
-    <title lang="en">ANYTIME</title>
-    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
-  </programme>
   <programme channel="redbull.com" start="20250226164142+0000" stop="20250226170749+0000">
     <title lang="en">Jaan Roose: Life on the Line</title>
     <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Join Dakar Rally legend Carlos Sainz Snr behind the wheel of Ford Performance's Raptor T1+.</desc>
     <category lang="en">Rally Raid</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/a9hvxqkwwlwrlu0hua1e/carlos-sainz-rallye-du-maroc-zagora-2024-ford-raptor-t1"/>
+  </programme>
+  <programme channel="redbull.com" start="20250227031724+0000" stop="20250227034514+0000">
+    <title lang="en">Mateus Herdy explores Florianópolis</title>
+    <desc lang="en">Mateus Herdy takes us the entire 600km stretch of Santa Catarina to meet the crew in Florianópolis. </desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/11/hipgjhihjjw95rrn2azh/no-contest-off-tour-s1-e5-mateus-herdy-floripa"/>
   </programme>
 </tv>
