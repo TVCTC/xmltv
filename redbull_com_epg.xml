@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-26 07:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-26 08:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250226044806+0000" stop="20250226051406+0000">
-    <title lang="en">From wingsuits to parachutes</title>
-    <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/cps0jjbpnepwe6qtmphb/leticia-bufoni-california-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20250226051406+0000" stop="20250226054555+0000">
-    <title lang="en">In the Wings</title>
-    <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250226054555+0000" stop="20250226060000+0000">
-    <title lang="en">Into the wild</title>
-    <desc lang="en">Join Dakar Rally legend Carlos Sainz Snr behind the wheel of Ford Performance's Raptor T1+.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/a9hvxqkwwlwrlu0hua1e/carlos-sainz-rallye-du-maroc-zagora-2024-ford-raptor-t1"/>
-  </programme>
-  <programme channel="redbull.com" start="20250226060000+0000" stop="20250226062913+0000">
-    <title lang="en">Steph and Leo explore Italy</title>
-    <desc lang="en">Leo Fioravanti and Roby D’Amico take Ashton and Steph Gilmore on a Mediterranean strike from Rome to Sardinia.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/21/yoflridhfomdry7ezhrg/no-contest-off-tour-s1-e3-italy"/>
-  </programme>
   <programme channel="redbull.com" start="20250226062913+0000" stop="20250226065654+0000">
     <title lang="en">No Contest: Surfing New York</title>
     <desc lang="en">No Contest hits New York with Balaram Stack and Kolohe Andino to check out the radical surfing scene. </desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Aussie climbing prodigy Angie Scarth-Johnson and Hazel Findlay explore Mallorca’s deep-water soloing routes.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/11/cax0dq8vgzmltqx8y9yi/angie-scarth-johnson-rock-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250226190125+0000" stop="20250226191832+0000">
+    <title lang="en">Yeah buddy – part 2</title>
+    <desc lang="en">Angie Scarth-Johnson faces the mental challenge of climbing comp Psicobloc, overcoming fears of deep waters.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/kqtu1mxtrklmmykzxgni/angie-scarth-johnson-free-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250226191832+0000" stop="20250226193909+0000">
+    <title lang="en">Soundscape</title>
+    <desc lang="en">Blind adventure athlete and author Erik Weihenmayer ascends a massive rock face deep in the Sierra Nevada.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/mhjtsqjvnivnsdlsrqop/erik-weihenmayer-rock-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250226193909+0000" stop="20250226200339+0000">
+    <title lang="en">With my heart</title>
+    <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
+  </programme>
+  <programme channel="redbull.com" start="20250226200339+0000" stop="20250226203430+0000">
+    <title lang="en">Black Pearl </title>
+    <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/g2b9nw1mf0wxn5fumqfd/chris-sharma-climbs-black-pearl-mallorca"/>
   </programme>
 </tv>
