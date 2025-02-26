@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-26 00:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-26 01:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250225224943+0000" stop="20250225231413+0000">
-    <title lang="en">With my heart</title>
-    <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
-  </programme>
-  <programme channel="redbull.com" start="20250225231413+0000" stop="20250225234504+0000">
-    <title lang="en">Black Pearl </title>
-    <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/g2b9nw1mf0wxn5fumqfd/chris-sharma-climbs-black-pearl-mallorca"/>
-  </programme>
   <programme channel="redbull.com" start="20250225234504+0000" stop="20250226000406+0000">
     <title lang="en">The puzzle</title>
     <desc lang="en">Brette Harrington climbs the Chinese Puzzle Wall, completing a route begun by her late partner, Marc-André.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Watch the highlights from France as the Paris Major Premier Padel tournament took centre stage.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/26/crpnypzulblewoclzzgx/alejandro-galan-padel-quarter-finals-valladolid-premier-spain-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250226092614+0000" stop="20250226095242+0000">
+    <title lang="en">Highlights – NEWGIZA Premier Padel P2 </title>
+    <desc lang="en">Watch the highlights from Egypt as the NEWGIZA Premier Padel P2 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/21/cnoblz9mbuosjfhqnoct/alejandro-galan-greenweez-paris-major-roland-garros-stadium-paris-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250226095242+0000" stop="20250226101842+0000">
+    <title lang="en">Highlights – Dubai Premier Padel P1 </title>
+    <desc lang="en">Watch the highlights from Spain as the Dubai Premier Padel P1 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/6/svkj6x5q1cwnjw62prqp/miguel-yanguas-franco-stupaczuk-newgiza-premier-padel-p2-2024"/>
   </programme>
 </tv>
