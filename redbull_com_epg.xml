@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-28 09:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-28 10:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250228064238+0000" stop="20250228074440+0000">
-    <title lang="en">Anna Gasser – The Spark Within</title>
-    <desc lang="en">Follow snowboard superstar Anna Gasser over a decade to see how she changed the snowboarding landscape.  </desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/27/zibxutlsts5kinnlrsms/anna-gasser-the-spark-within-snowboarding"/>
-  </programme>
-  <programme channel="redbull.com" start="20250228074440+0000" stop="20250228082230+0000">
-    <title lang="en">Abstract</title>
-    <desc lang="en">Faction's fourth feature film exhibits pure creativity through a series of high-octane freeski sequences.</desc>
-    <category lang="en">Freeskiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/w0jtddciypplcsz0ntjr/abstract-skiing-film"/>
-  </programme>
   <programme channel="redbull.com" start="20250228082230+0000" stop="20250228091028+0000">
     <title lang="en">La Liste</title>
     <desc lang="en">Over the course two seasons, young phenom Jérémie Heitz tries to ski 15 of the steepest peaks in the Alps.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
     <category lang="en">F1</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250228200510+0000" stop="20250228202302+0000">
+    <title lang="en">A state of mind</title>
+    <desc lang="en">Ford's Raptor T1+ is pitted against other top vehicles in the T1+ category at the gruelling Rallye du Maroc.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/sjotirgkb85brljl6pwy/rally-du-maroc-2024-carlos-sainz-lucas-cruz-morocco-raptor-t1"/>
+  </programme>
+  <programme channel="redbull.com" start="20250228202302+0000" stop="20250228203637+0000">
+    <title lang="en">Into the wild</title>
+    <desc lang="en">Join Dakar Rally legend Carlos Sainz Snr behind the wheel of Ford Performance's Raptor T1+.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/a9hvxqkwwlwrlu0hua1e/carlos-sainz-rallye-du-maroc-zagora-2024-ford-raptor-t1"/>
   </programme>
 </tv>
