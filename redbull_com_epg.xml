@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-28 15:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-02-28 16:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250228133404+0000" stop="20250228140455+0000">
-    <title lang="en">Black Pearl </title>
-    <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/g2b9nw1mf0wxn5fumqfd/chris-sharma-climbs-black-pearl-mallorca"/>
-  </programme>
-  <programme channel="redbull.com" start="20250228140455+0000" stop="20250228142357+0000">
-    <title lang="en">The puzzle</title>
-    <desc lang="en">Brette Harrington climbs the Chinese Puzzle Wall, completing a route begun by her late partner, Marc-André.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/tnhr1misd9vpkxouefvo/brette-harrington-chinese-puzzle-wall"/>
-  </programme>
-  <programme channel="redbull.com" start="20250228142357+0000" stop="20250228144001+0000">
-    <title lang="en">Charles at large</title>
-    <desc lang="en">Barefoot boulderer Charles Albert conquers his hardest route – L'Ombre du Voyageur in Switzerland. </desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/fvcfk1syjigfz9vh2aam/barefoot-boulderer-charles-albert-climbing-l-ombre-du-voyageur"/>
-  </programme>
   <programme channel="redbull.com" start="20250228144001+0000" stop="20250228151209+0000">
     <title lang="en">Dropping Molly</title>
     <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Watch the highlights from Spain as the Valladolid Premier Padel P2 took centre stage. </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/16/c0onhmvcicfouh3h4arm/ale-galan-madrid-premier-padel-final-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250301000439+0000" stop="20250301003042+0000">
+    <title lang="en">Highlights – Paris Major Premier Padel  </title>
+    <desc lang="en">Watch the highlights from France as the Paris Major Premier Padel tournament took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/26/crpnypzulblewoclzzgx/alejandro-galan-padel-quarter-finals-valladolid-premier-spain-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250301003042+0000" stop="20250301005710+0000">
+    <title lang="en">Highlights – NEWGIZA Premier Padel P2 </title>
+    <desc lang="en">Watch the highlights from Egypt as the NEWGIZA Premier Padel P2 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/21/cnoblz9mbuosjfhqnoct/alejandro-galan-greenweez-paris-major-roland-garros-stadium-paris-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250301005710+0000" stop="20250301012310+0000">
+    <title lang="en">Highlights – Dubai Premier Padel P1 </title>
+    <desc lang="en">Watch the highlights from Spain as the Dubai Premier Padel P1 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/6/svkj6x5q1cwnjw62prqp/miguel-yanguas-franco-stupaczuk-newgiza-premier-padel-p2-2024"/>
   </programme>
 </tv>
