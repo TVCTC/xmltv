@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-02 05:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-02 06:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250302015743+0000" stop="20250302030713+0000">
-    <title lang="en">The Old World</title>
-    <desc lang="en">Traverse iconic European locations in a celebration of biking culture that unites MTB and BMX.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/27/n4v6kk1h6vslpk5ukmdq/the-old-world-visual"/>
-  </programme>
-  <programme channel="redbull.com" start="20250302030713+0000" stop="20250302035328+0000">
-    <title lang="en">Saya Sakakibara: Ride to Redemption</title>
-    <desc lang="en">After her brother’s injury, BMX athlete Saya Sakakibara pushes for success on her road to Paris.</desc>
-    <category lang="en">BMX</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/7/erpqldmdfxn0hk0ntagb/saya-sakakibara-macarthur-bmx-track-camden-australia-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250302035328+0000" stop="20250302041858+0000">
-    <title lang="en">Jaan Roose: Life on the Line</title>
-    <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
-    <category lang="en">Slacklining</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
-  </programme>
-  <programme channel="redbull.com" start="20250302041858+0000" stop="20250302044107+0000">
-    <title lang="en">Crossing Tasmania</title>
-    <desc lang="en">MTB rider Payson McElveen attempts to cross Australia’s least populated state: the island of Tasmania.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/17/qur2mizj4fmcxx63hrns/crossing-tasmania-payson-mcelveen"/>
-  </programme>
   <programme channel="redbull.com" start="20250302044107+0000" stop="20250302054246+0000">
     <title lang="en">ANYTIME</title>
     <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
     <category lang="en">F1</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250302135050+0000" stop="20250302152428+0000">
+    <title lang="en">Long Live Chainsaw</title>
+    <desc lang="en">From underdog to world champ – this is the mountain bike film in memory of legend Stevie 'Chainsaw' Smith.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/fkbih2ovu1ojsaktswwl/long-live-chainsaw-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250302152428+0000" stop="20250302162235+0000">
+    <title lang="en">Reverence</title>
+    <desc lang="en">Delve deep into the psyche of elite mountain bike athletes to uncover how they face and use fear.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/10/16/4f609b22-e375-43b4-ad00-f64dad5d9a3e/reverence_landscape_hero"/>
+  </programme>
+  <programme channel="redbull.com" start="20250302162235+0000" stop="20250302174657+0000">
+    <title lang="en">The Engine Inside</title>
+    <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20250302174657+0000" stop="20250302181500+0000">
+    <title lang="en">Chasing the Inca II</title>
+    <desc lang="en">Take a journey into the Peruvian Andes with a group of pro mountain bikers searching for a lost Incan trail. </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/23/myixpofpdbj5buaerqdd/chasing-the-inca-2-header-image"/>
   </programme>
 </tv>
