@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-02 03:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-02 04:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250302003958+0000" stop="20250302015743+0000">
-    <title lang="en">The Moment</title>
-    <desc lang="en">In the backwoods of Canada, three crews of adventure seekers change the world of cycling.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z6R1FMW55N11/FO-1Z6R1FMW55N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250302015743+0000" stop="20250302030713+0000">
     <title lang="en">The Old World</title>
     <desc lang="en">Traverse iconic European locations in a celebration of biking culture that unites MTB and BMX.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/cps0jjbpnepwe6qtmphb/leticia-bufoni-california-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20250302131900+0000" stop="20250302135050+0000">
+    <title lang="en">In the Wings</title>
+    <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
   </programme>
 </tv>
