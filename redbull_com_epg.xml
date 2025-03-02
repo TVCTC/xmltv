@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-02 07:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-02 08:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250302054246+0000" stop="20250302060000+0000">
-    <title lang="en">Daily recap 2 – Manuel Lettenbichler leads Xross Hard Enduro Rally</title>
-    <desc lang="en">Stay up to date with the latest from the Xross Hard Enduro Rally as Manuel Lettenbichler takes an early lead.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/19/waueqh95j23cchuiyezh/manuel-lettenbichler-xross-serbia-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250302060000+0000" stop="20250302061654+0000">
-    <title lang="en">Yeah buddy – part 1</title>
-    <desc lang="en">Aussie climbing prodigy Angie Scarth-Johnson and Hazel Findlay explore Mallorca’s deep-water soloing routes.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/11/cax0dq8vgzmltqx8y9yi/angie-scarth-johnson-rock-climbing"/>
-  </programme>
-  <programme channel="redbull.com" start="20250302061654+0000" stop="20250302063401+0000">
-    <title lang="en">Yeah buddy – part 2</title>
-    <desc lang="en">Angie Scarth-Johnson faces the mental challenge of climbing comp Psicobloc, overcoming fears of deep waters.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/kqtu1mxtrklmmykzxgni/angie-scarth-johnson-free-climbing"/>
-  </programme>
-  <programme channel="redbull.com" start="20250302063401+0000" stop="20250302065438+0000">
-    <title lang="en">Soundscape</title>
-    <desc lang="en">Blind adventure athlete and author Erik Weihenmayer ascends a massive rock face deep in the Sierra Nevada.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/mhjtsqjvnivnsdlsrqop/erik-weihenmayer-rock-climbing"/>
-  </programme>
   <programme channel="redbull.com" start="20250302065438+0000" stop="20250302071908+0000">
     <title lang="en">With my heart</title>
     <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
@@ -154,5 +130,23 @@
     <desc lang="en">MTB riders fly down steep, narrow streets, navigating ancient buildings in an insane urban downhill race.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/11/lcnebvzmxk70xdwgafxm/tomas-slavik-red-bull-valparaiso-cerro-abajo-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250302201536+0000" stop="20250302211502+0000">
+    <title lang="en">One at a Time</title>
+    <desc lang="en">Follow professional slopestyle rider Brett Rheeder through the ups and downs of a Crankworx contest season.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ju0vdt30ad36f7oel2k4/one-at-a-time-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250302211502+0000" stop="20250302220638+0000">
+    <title lang="en">Shires</title>
+    <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/29/rpfuqolbq2fpzctqjxgu/shires-rob-warner-bike-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20250302220638+0000" stop="20250302224945+0000">
+    <title lang="en">Encouraged: Building the Future</title>
+    <desc lang="en">Join Courage Adams as he returns to Nigeria to fulfil his promise of building Lagos's first skatepark.</desc>
+    <category lang="en">BMX</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/vwwci81eotk8udlrfy1n/lagos-bmx-crew-courage-adams-encouraged"/>
   </programme>
 </tv>
