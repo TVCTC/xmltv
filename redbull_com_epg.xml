@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-03 01:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-03 02:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250302181500+0000" stop="20250302201536+0000">
+    <title lang="en">Red Bull Valparaíso Cerro Abajo: Livestream</title>
+    <desc lang="en">MTB riders fly down steep, narrow streets, navigating ancient buildings in an insane urban downhill race.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/11/lcnebvzmxk70xdwgafxm/tomas-slavik-red-bull-valparaiso-cerro-abajo-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250302201536+0000" stop="20250302211502+0000">
+    <title lang="en">One at a Time</title>
+    <desc lang="en">Follow professional slopestyle rider Brett Rheeder through the ups and downs of a Crankworx contest season.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ju0vdt30ad36f7oel2k4/one-at-a-time-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250302211502+0000" stop="20250302220638+0000">
+    <title lang="en">Shires</title>
+    <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/29/rpfuqolbq2fpzctqjxgu/shires-rob-warner-bike-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20250302220638+0000" stop="20250302224945+0000">
+    <title lang="en">Encouraged: Building the Future</title>
+    <desc lang="en">Join Courage Adams as he returns to Nigeria to fulfil his promise of building Lagos's first skatepark.</desc>
+    <category lang="en">BMX</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/vwwci81eotk8udlrfy1n/lagos-bmx-crew-courage-adams-encouraged"/>
+  </programme>
   <programme channel="redbull.com" start="20250302233722+0000" stop="20250303005507+0000">
     <title lang="en">The Moment</title>
     <desc lang="en">In the backwoods of Canada, three crews of adventure seekers change the world of cycling.</desc>
@@ -124,29 +148,5 @@
     <desc lang="en">Delve deep into the psyche of elite mountain bike athletes to uncover how they face and use fear.</desc>
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/10/16/4f609b22-e375-43b4-ad00-f64dad5d9a3e/reverence_landscape_hero"/>
-  </programme>
-  <programme channel="redbull.com" start="20250303132522+0000" stop="20250303135208+0000">
-    <title lang="en">Chasing the Inca II</title>
-    <desc lang="en">Take a journey into the Peruvian Andes with a group of pro mountain bikers searching for a lost Incan trail. </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/23/myixpofpdbj5buaerqdd/chasing-the-inca-2-header-image"/>
-  </programme>
-  <programme channel="redbull.com" start="20250302220638+0000" stop="20250302224945+0000">
-    <title lang="en">Encouraged: Building the Future</title>
-    <desc lang="en">Join Courage Adams as he returns to Nigeria to fulfil his promise of building Lagos's first skatepark.</desc>
-    <category lang="en">BMX</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/vwwci81eotk8udlrfy1n/lagos-bmx-crew-courage-adams-encouraged"/>
-  </programme>
-  <programme channel="redbull.com" start="20250303152251+0000" stop="20250303162218+0000">
-    <title lang="en">One at a Time</title>
-    <desc lang="en">Follow professional slopestyle rider Brett Rheeder through the ups and downs of a Crankworx contest season.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ju0vdt30ad36f7oel2k4/one-at-a-time-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250303162218+0000" stop="20250303171354+0000">
-    <title lang="en">Shires</title>
-    <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/29/rpfuqolbq2fpzctqjxgu/shires-rob-warner-bike-film"/>
   </programme>
 </tv>
