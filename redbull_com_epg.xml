@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-03 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-03 05:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250303023007+0000" stop="20250303031658+0000">
-    <title lang="en">Saya Sakakibara: Ride to Redemption</title>
-    <desc lang="en">After her brother’s injury, BMX athlete Saya Sakakibara pushes for success on her road to Paris.</desc>
-    <category lang="en">BMX</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/7/erpqldmdfxn0hk0ntagb/saya-sakakibara-macarthur-bmx-track-camden-australia-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20250303031658+0000" stop="20250303041838+0000">
     <title lang="en">ANYTIME</title>
     <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
@@ -143,10 +137,16 @@
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z6R1FMW55N11/FO-1Z6R1FMW55N11-featureMedia"/>
   </programme>
-  <programme channel="redbull.com" start="20250303005507+0000" stop="20250303020437+0000">
+  <programme channel="redbull.com" start="20250303195602+0000" stop="20250303210456+0000">
     <title lang="en">The Old World</title>
     <desc lang="en">Traverse iconic European locations in a celebration of biking culture that unites MTB and BMX.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/27/n4v6kk1h6vslpk5ukmdq/the-old-world-visual"/>
+  </programme>
+  <programme channel="redbull.com" start="20250303210456+0000" stop="20250303213026+0000">
+    <title lang="en">Jaan Roose: Life on the Line</title>
+    <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
+    <category lang="en">Slacklining</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
   </programme>
 </tv>
