@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-04 23:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-05 00:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250304213941+0000" stop="20250304220411+0000">
-    <title lang="en">With my heart</title>
-    <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
-  </programme>
-  <programme channel="redbull.com" start="20250304220411+0000" stop="20250304223502+0000">
-    <title lang="en">Black Pearl </title>
-    <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/g2b9nw1mf0wxn5fumqfd/chris-sharma-climbs-black-pearl-mallorca"/>
-  </programme>
-  <programme channel="redbull.com" start="20250304223502+0000" stop="20250304225441+0000">
-    <title lang="en">The puzzle</title>
-    <desc lang="en">Brette Harrington climbs the Chinese Puzzle Wall, completing a route begun by her late partner, Marc-André.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/tnhr1misd9vpkxouefvo/brette-harrington-chinese-puzzle-wall"/>
-  </programme>
   <programme channel="redbull.com" start="20250304225441+0000" stop="20250304232612+0000">
     <title lang="en">Dropping Molly</title>
     <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/29/rpfuqolbq2fpzctqjxgu/shires-rob-warner-bike-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20250305104457+0000" stop="20250305120920+0000">
+    <title lang="en">The Engine Inside</title>
+    <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20250305120920+0000" stop="20250305132705+0000">
+    <title lang="en">The Moment</title>
+    <desc lang="en">In the backwoods of Canada, three crews of adventure seekers change the world of cycling.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z6R1FMW55N11/FO-1Z6R1FMW55N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250305132705+0000" stop="20250305143635+0000">
+    <title lang="en">The Old World</title>
+    <desc lang="en">Traverse iconic European locations in a celebration of biking culture that unites MTB and BMX.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/27/n4v6kk1h6vslpk5ukmdq/the-old-world-visual"/>
   </programme>
 </tv>
