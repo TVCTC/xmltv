@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-04 10:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-04 11:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250304075025+0000" stop="20250304092403+0000">
-    <title lang="en">Long Live Chainsaw</title>
-    <desc lang="en">From underdog to world champ – this is the mountain bike film in memory of legend Stevie 'Chainsaw' Smith.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/fkbih2ovu1ojsaktswwl/long-live-chainsaw-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250304092403+0000" stop="20250304102210+0000">
     <title lang="en">Reverence</title>
     <desc lang="en">Delve deep into the psyche of elite mountain bike athletes to uncover how they face and use fear.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Red Bull athletes do it all, from freerunning through an airport to building a skatepark in the forest.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/u2jrgximnynso9wn4vue/andrzej-bargiel"/>
+  </programme>
+  <programme channel="redbull.com" start="20250305020324+0000" stop="20250305022924+0000">
+    <title lang="en">From BASE jumping a cave to a flying mega swing </title>
+    <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iww612k42herg2tme0kr/marco-fuerst-base-jumping"/>
   </programme>
 </tv>
