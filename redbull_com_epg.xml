@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-07 13:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-07 14:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250307065100+0000" stop="20250307071536+0000">
+    <title lang="en">Downhill highlights – Loudenvielle</title>
+    <desc lang="en">Watch the downhill highlights from the ninth stop of the 2024 World Cup season from Loudenvielle, France.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/10/vjef8enqxzqvd4agel9v/loic-bruni-uci-dh-world-cup-loudenvielle-peyragudes-france-downhill-mountain-biking-competition"/>
+  </programme>
+  <programme channel="redbull.com" start="20250307071536+0000" stop="20250307075843+0000">
+    <title lang="en">Encouraged: Building the Future</title>
+    <desc lang="en">Join Courage Adams as he returns to Nigeria to fulfil his promise of building Lagos's first skatepark.</desc>
+    <category lang="en">BMX</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/vwwci81eotk8udlrfy1n/lagos-bmx-crew-courage-adams-encouraged"/>
+  </programme>
+  <programme channel="redbull.com" start="20250307075843+0000" stop="20250307085809+0000">
+    <title lang="en">One at a Time</title>
+    <desc lang="en">Follow professional slopestyle rider Brett Rheeder through the ups and downs of a Crankworx contest season.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ju0vdt30ad36f7oel2k4/one-at-a-time-hero-art"/>
+  </programme>
   <programme channel="redbull.com" start="20250307085809+0000" stop="20250307101555+0000">
     <title lang="en">The Moment</title>
     <desc lang="en">In the backwoods of Canada, three crews of adventure seekers change the world of cycling.</desc>
@@ -136,23 +154,5 @@
     <desc lang="en">Join Madars Apse for the best bits of his first season exploring skateboarding’s wilder shores.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/9/zuyqwvp1oy8hate4dslg/madars-apse-handstand-skate-tales"/>
-  </programme>
-  <programme channel="redbull.com" start="20250307193034+0000" stop="20250307200223+0000">
-    <title lang="en">In the Wings</title>
-    <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250307200223+0000" stop="20250307202659+0000">
-    <title lang="en">Downhill highlights – Fort William</title>
-    <desc lang="en">See the pack tame the UCI MTB World Cup's longest track and catch up on the downhill highlights from the Fort William stop in Scotland</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/7/ir09igmkl0srre77lixi/loic-bruni-uci-dh-world-cup-in-fort-william-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250307202659+0000" stop="20250307220038+0000">
-    <title lang="en">Long Live Chainsaw</title>
-    <desc lang="en">From underdog to world champ – this is the mountain bike film in memory of legend Stevie 'Chainsaw' Smith.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/fkbih2ovu1ojsaktswwl/long-live-chainsaw-hero-art"/>
   </programme>
 </tv>
