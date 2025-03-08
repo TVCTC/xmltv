@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-08 04:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-08 05:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250308012901+0000" stop="20250308015511+0000">
-    <title lang="en">Chasing the Inca II</title>
-    <desc lang="en">Take a journey into the Peruvian Andes with a group of pro mountain bikers searching for a lost Incan trail. </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/23/myixpofpdbj5buaerqdd/chasing-the-inca-2-header-image"/>
-  </programme>
-  <programme channel="redbull.com" start="20250308015511+0000" stop="20250308020725+0000">
-    <title lang="en">Top 3 runs – Wales</title>
-    <desc lang="en">Enjoy the top three runs from Vélez, Kerr and Dunne at the world's hardest mountain bike race.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/3/nnvbawq0ldxqdv45hbvv/juanfer-velez-bernard-kerr-ronan-dunne"/>
-  </programme>
-  <programme channel="redbull.com" start="20250308020725+0000" stop="20250308021500+0000">
-    <title lang="en">Harriet Burbidge-Smith – Australian style</title>
-    <desc lang="en">Enjoy the stripped-back action as Harriet Burbidge-Smith puts it down at Maydena Bike Park, Tasmania.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/12/gcrqinxlygohlvqlere8/mtb-raw-s3-e1-harriet-burbidge-smith"/>
-  </programme>
   <programme channel="redbull.com" start="20250308021500+0000" stop="20250308041536+0000">
     <title lang="en">Crankworx: Downhill – Rotorua</title>
     <desc lang="en">The downhill race for 2025 takes place on a brand-new bespoke course on Mount Ngongotaha at Skyline Rotorua.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
+  </programme>
+  <programme channel="redbull.com" start="20250308151713+0000" stop="20250308154804+0000">
+    <title lang="en">Black Pearl </title>
+    <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/g2b9nw1mf0wxn5fumqfd/chris-sharma-climbs-black-pearl-mallorca"/>
+  </programme>
+  <programme channel="redbull.com" start="20250308154804+0000" stop="20250308160211+0000">
+    <title lang="en">Aloha Mr Lenny</title>
+    <desc lang="en">Growing up among the world’s best watermen shaped him, but Kai Lenny is now taking it to the next level.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/ksreoyihznto3qm3xg2i/life-of-kai-ep1-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250308160211+0000" stop="20250308162212+0000">
+    <title lang="en">Showdown at Peahi</title>
+    <desc lang="en">Kai Lenny competes in the WSL Big Wave World Tour event at his home break of Peahi (Jaws) in Maui.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/20/a4pfsr4rfkq0loezbtzz/life-of-kai-ep2-art"/>
   </programme>
 </tv>
