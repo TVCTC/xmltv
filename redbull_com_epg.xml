@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-09 06:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-09 07:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250309030000+0000" stop="20250309043036+0000">
+    <title lang="en">Crankworx: Dual Slalom – Rotorua</title>
+    <desc lang="en">Pairs of MTB riders battle it out on a course featuring jumps, berms, rhythm sections and grass turns.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/27/ocix989xzuz14qvqnkf0/martha-gill-crankworx-rotorua"/>
+  </programme>
+  <programme channel="redbull.com" start="20250309043036+0000" stop="20250309045436+0000">
+    <title lang="en">DH and XCO highlights – Mont-Sainte-Anne</title>
+    <desc lang="en">Watch the cross-country and downhill highlights from Mont-Sainte-Anne to wrap up the 2024 World Cup season.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/9/bgntv1bug6uzbabtfbzp/vlad-dascalu-racing-uci-xco-world-cup-mont-sainte-anne-2023"/>
+  </programme>
   <programme channel="redbull.com" start="20250309045436+0000" stop="20250309045936+0000">
     <title lang="en">Kriss Kyle swaps BMX for MTB</title>
     <desc lang="en">The wild woods of Wales bear witness to the bike-handling maestro, Kriss Kyle, in a classic British winter.</desc>
@@ -136,17 +148,5 @@
     <desc lang="en">Growing up among the world’s best watermen shaped him, but Kai Lenny is now taking it to the next level.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/ksreoyihznto3qm3xg2i/life-of-kai-ep1-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250309164821+0000" stop="20250309170746+0000">
-    <title lang="en">Showdown at Peahi</title>
-    <desc lang="en">Kai Lenny competes in the WSL Big Wave World Tour event at his home break of Peahi (Jaws) in Maui.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/20/a4pfsr4rfkq0loezbtzz/life-of-kai-ep2-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250309170746+0000" stop="20250309172304+0000">
-    <title lang="en">The legend of Nazaré</title>
-    <desc lang="en">Kai Lenny travels to Nazaré in Portugal to train with Brazilian big wave charger Lucas 'Chumbo' Chianca.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/27/i5b75acdduwyr8jze4fl/life-of-kai-ep3-art"/>
   </programme>
 </tv>
