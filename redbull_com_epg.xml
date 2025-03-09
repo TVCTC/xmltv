@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-09 01:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-09 02:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250308233502+0000" stop="20250308235902+0000">
-    <title lang="en">Downhill highlights – Loudenvielle</title>
-    <desc lang="en">Watch the downhill highlights from the ninth stop of the 2024 World Cup season from Loudenvielle, France.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/10/vjef8enqxzqvd4agel9v/loic-bruni-uci-dh-world-cup-loudenvielle-peyragudes-france-downhill-mountain-biking-competition"/>
-  </programme>
-  <programme channel="redbull.com" start="20250308235902+0000" stop="20250309002003+0000">
-    <title lang="en">Split Lane: Today's Parks 10 Year Anniversary</title>
-    <desc lang="en">The untold story of Today’s Parks: how visionaries transform snow and bike courses with innovative designs.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/17/ty2q54ejtimyzlidtydf/gracey-hemstreet-seb-toots-mtb-snowboarding"/>
-  </programme>
-  <programme channel="redbull.com" start="20250309002003+0000" stop="20250309004556+0000">
-    <title lang="en">The Streif – Fabio Wibmer</title>
-    <desc lang="en">Experience Fabio Wibmer's breathtaking MTB ride down the iconic Streif downhill ski course in Austria.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/15/uik6hbze5irm0vss0r5q/the-streif-fabio-wibmer-header"/>
-  </programme>
   <programme channel="redbull.com" start="20250309004556+0000" stop="20250309020437+0000">
     <title lang="en">Highlight Show Rampage 2023</title>
     <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.  </desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Brette Harrington climbs the Chinese Puzzle Wall, completing a route begun by her late partner, Marc-André.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/tnhr1misd9vpkxouefvo/brette-harrington-chinese-puzzle-wall"/>
+  </programme>
+  <programme channel="redbull.com" start="20250309125841+0000" stop="20250309131521+0000">
+    <title lang="en">Charles at large</title>
+    <desc lang="en">Barefoot boulderer Charles Albert conquers his hardest route – L'Ombre du Voyageur in Switzerland. </desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/fvcfk1syjigfz9vh2aam/barefoot-boulderer-charles-albert-climbing-l-ombre-du-voyageur"/>
+  </programme>
+  <programme channel="redbull.com" start="20250309131521+0000" stop="20250309134728+0000">
+    <title lang="en">Dropping Molly</title>
+    <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
+    <category lang="en">Bouldering</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/hzbjjsd9kg5knno3grxo/molly-mitchell-bouldering"/>
+  </programme>
+  <programme channel="redbull.com" start="20250309134728+0000" stop="20250309145643+0000">
+    <title lang="en">Anywhere from Here</title>
+    <desc lang="en">Just 11-years-old and already a freestyle ski phenomenon. Meet the extraordinary Walker Woodring.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/jjm6hlgjvjhygfx8dr09/logan-pehota-british-columbia-anywhere-from-here-ski-film"/>
   </programme>
 </tv>
