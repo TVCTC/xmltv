@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-10 23:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-11 00:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250310213904+0000" stop="20250310220544+0000">
-    <title lang="en">Highlights – Valladolid Premier Padel P2 </title>
-    <desc lang="en">Watch the highlights from Spain as the Valladolid Premier Padel P2 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/16/c0onhmvcicfouh3h4arm/ale-galan-madrid-premier-padel-final-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250310220544+0000" stop="20250310223146+0000">
-    <title lang="en">Highlights – Qatar Major Premier Padel</title>
-    <desc lang="en">Enjoy highlights of the second Premier Padel stop of the season in Doha, the Qatar Major.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/tiytxpnt4a5ubuzg3tv5/premier-padel"/>
-  </programme>
   <programme channel="redbull.com" start="20250310223146+0000" stop="20250310230336+0000">
     <title lang="en">In the Wings</title>
     <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">At mid-season, Kai Lenny heads to Alaska for surf and snow heli sessions with snowboarding icon Travis Rice.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/wxp62uhg4quf1zywjznp/kai-lenny-alaska-life-of-kai-s3-e4"/>
+  </programme>
+  <programme channel="redbull.com" start="20250311091201+0000" stop="20250311102506+0000">
+    <title lang="en">La Liste: Everything or Nothing</title>
+    <desc lang="en">Big mountain skiers Jérémie Heitz and Sam Anthamatten ski the world’s highest peaks in this big adventure.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/10/pztrwnuiipl1vbztin8l/jeremie-heitz-la-liste-everything-or-nothing-freeski"/>
+  </programme>
+  <programme channel="redbull.com" start="20250311102506+0000" stop="20250311103949+0000">
+    <title lang="en">Aloha Mr Lenny</title>
+    <desc lang="en">Growing up among the world’s best watermen shaped him, but Kai Lenny is now taking it to the next level.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/ksreoyihznto3qm3xg2i/life-of-kai-ep1-art"/>
   </programme>
 </tv>
