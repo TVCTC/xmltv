@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-11 05:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-11 06:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250311032600+0000" stop="20250311042739+0000">
-    <title lang="en">ANYTIME</title>
-    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
-  </programme>
-  <programme channel="redbull.com" start="20250311042739+0000" stop="20250311043450+0000">
-    <title lang="en">Dawid Godziek and friends explore La Poma</title>
-    <desc lang="en">It's every rider's dream to live in a spot that's rideable all year long. In La Poma, that dream is a reality.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/10/lbirhksheycmhosdddez/old-world-bts-exposed-la-poma"/>
-  </programme>
-  <programme channel="redbull.com" start="20250311043450+0000" stop="20250311045220+0000">
-    <title lang="en">Yeah buddy – part 1</title>
-    <desc lang="en">Aussie climbing prodigy Angie Scarth-Johnson and Hazel Findlay explore Mallorca’s deep-water soloing routes.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/11/cax0dq8vgzmltqx8y9yi/angie-scarth-johnson-rock-climbing"/>
-  </programme>
   <programme channel="redbull.com" start="20250311045220+0000" stop="20250311050927+0000">
     <title lang="en">Yeah buddy – part 2</title>
     <desc lang="en">Angie Scarth-Johnson faces the mental challenge of climbing comp Psicobloc, overcoming fears of deep waters.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Matt Jones, Jackson Goldstone and Ronan Dunne take us down the course for Red Bull Hardline Australia 2025.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/13/a4htsueawfug5hzymp6h/ronan-dunne-red-bull-hardline-practice-maydena-bike-park-tasmania-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250311155150+0000" stop="20250311161310+0000">
+    <title lang="en">Best DH runs since 2012</title>
+    <desc lang="en">Take a look back at the greatest downhill runs from past events that are still mind-blowing years later.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/7/piijcwxasqribwbea8l8/best-dhi-runs-since-2012-rbtv-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250311161310+0000" stop="20250311163903+0000">
+    <title lang="en">The Streif – Fabio Wibmer</title>
+    <desc lang="en">Experience Fabio Wibmer's breathtaking MTB ride down the iconic Streif downhill ski course in Austria.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/15/uik6hbze5irm0vss0r5q/the-streif-fabio-wibmer-header"/>
+  </programme>
+  <programme channel="redbull.com" start="20250311163903+0000" stop="20250311165116+0000">
+    <title lang="en">Top 3 runs – Wales</title>
+    <desc lang="en">Enjoy the top three runs from Vélez, Kerr and Dunne at the world's hardest mountain bike race.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/3/nnvbawq0ldxqdv45hbvv/juanfer-velez-bernard-kerr-ronan-dunne"/>
   </programme>
 </tv>
