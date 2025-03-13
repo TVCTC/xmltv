@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-13 14:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-13 15:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250313123522+0000" stop="20250313130122+0000">
-    <title lang="en">From F1 soapbox racing to breaking world records</title>
-    <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
-  </programme>
-  <programme channel="redbull.com" start="20250313130122+0000" stop="20250313132722+0000">
-    <title lang="en">From a pinball human to 93kph speed skating</title>
-    <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
-  </programme>
-  <programme channel="redbull.com" start="20250313132722+0000" stop="20250313135358+0000">
-    <title lang="en">From skydiving with skis to flying into a volcano</title>
-    <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/jdlnqxz4nve0e3be9jf1/dario-costa-wingsuit-flying-through-catalca-tunnels-in-turkey"/>
-  </programme>
   <programme channel="redbull.com" start="20250313135358+0000" stop="20250313141958+0000">
     <title lang="en">From a paper plane contest to diving off ruins </title>
     <desc lang="en">Red Bull athletes do it all, from diving off ancient ruins to acing a paper plane competition.  </desc>
@@ -154,5 +136,23 @@
     <desc lang="en">The world's top freeskiers and snowboarders met in Schilthorn, Switzerland to do what they do best.</desc>
     <category lang="en">Snowboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/26/aeumktz3xzutibee155e/nico-vuignier-swatch-nines-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250314014024+0000" stop="20250314015352+0000">
+    <title lang="en">Subjects: Caity Simmers</title>
+    <desc lang="en">The pride of Oceanside, California, shows us the streets that raised one of the top surfers in the world.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/4/to130faut2ovr70trka6/in-plain-sight-s2-e4-caity-simmers"/>
+  </programme>
+  <programme channel="redbull.com" start="20250314015352+0000" stop="20250314020835+0000">
+    <title lang="en">Aloha Mr Lenny</title>
+    <desc lang="en">Growing up among the world’s best watermen shaped him, but Kai Lenny is now taking it to the next level.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/ksreoyihznto3qm3xg2i/life-of-kai-ep1-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250314020835+0000" stop="20250314022800+0000">
+    <title lang="en">Showdown at Peahi</title>
+    <desc lang="en">Kai Lenny competes in the WSL Big Wave World Tour event at his home break of Peahi (Jaws) in Maui.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/20/a4pfsr4rfkq0loezbtzz/life-of-kai-ep2-art"/>
   </programme>
 </tv>
