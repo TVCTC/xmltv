@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-15 16:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-15 17:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250315142441+0000" stop="20250315150826+0000">
-    <title lang="en">Innersection: Black</title>
-    <desc lang="en">The 13 sections that form Innersection: Black were each produced by the surfers themselves.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/whmsgcosavnlsydarbad/carlos-munoz"/>
-  </programme>
-  <programme channel="redbull.com" start="20250315150826+0000" stop="20250315155537+0000">
-    <title lang="en">Good Times</title>
-    <desc lang="en">Watch the Momentum Crew – the established surfing hierarchy –dominate competition and freesurfing. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/22/hvnohlsmvhwqwogn0roc/shane-dorian-maui"/>
-  </programme>
   <programme channel="redbull.com" start="20250315155537+0000" stop="20250315165752+0000">
     <title lang="en">ANYTIME</title>
     <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Nothing less than infinity and beyond was enough for 2016's top design wizards... or at least the finish line.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/1/biq8mly48ypufjcb0pgn/toy-story-team-red-bull-soapbox-rce-santiago-chile-2016"/>
+  </programme>
+  <programme channel="redbull.com" start="20250315155537+0000" stop="20250315165752+0000">
+    <title lang="en">ANYTIME</title>
+    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
+  </programme>
+  <programme channel="redbull.com" start="20250316070139+0000" stop="20250316070446+0000">
+    <title lang="en">Kade Edwards destroys Dyfi Bike Park</title>
+    <desc lang="en">Enjoy the sound of speed as British mountain bike rider Kade Edwards rips up Dyfi Bike Park in Wales. </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/doge7u1jj7vxmsg8m1sq/kade-edwards-dyfi-bike-park"/>
   </programme>
 </tv>
