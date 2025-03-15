@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-15 01:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-15 02:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250314234025+0000" stop="20250315000126+0000">
-    <title lang="en">Slaying Gigantes</title>
-    <desc lang="en">Kai Lenny competes in the Gigantes de Nazaré contest before jetting home to catch a great day at Peahi (Jaws).</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/20/husfaluk9lhnslcavdsb/life-of-kai-ep4-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250315000126+0000" stop="20250315002157+0000">
-    <title lang="en">Redemption at Nazaré</title>
-    <desc lang="en">The Big Wave World Tour tow surfing event is on at Nazaré – Kai Lenny‘s last chance to get a win this winter.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/20/voo2o4bp2nnzgjtyb0vh/life-of-kai-ep5-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250315002157+0000" stop="20250315004809+0000">
-    <title lang="en">Leon Glatzer surfs Costa Rica</title>
-    <desc lang="en">Leon Glatzer unpacks the incredible history of Pavones and explores its thriving roots surf scene. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/11/keco6olelsxc7210nuv1/no-contest-off-tour-s1-e4-leon-glatzer"/>
-  </programme>
   <programme channel="redbull.com" start="20250315004809+0000" stop="20250315011244+0000">
     <title lang="en">No Contest: Julian Wilson hits Fiji</title>
     <desc lang="en">Julian Wilson heads to Fiji: 330 islands, 500 islets, thousands of villages and the friendliest culture. </desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Strap in for the ride of your life as we follow surfer Justine Dupont through a ground-breaking big wave season.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/3/29/i4k8i7pteppumtyjozw1/a-la-folie-justine-dupont-surf"/>
+  </programme>
+  <programme channel="redbull.com" start="20250315101111+0000" stop="20250315102351+0000">
+    <title lang="en">Gold Coast 2018</title>
+    <desc lang="en">Get to know Australia's Gold Coast and the surfers who are there to catch some sick waves.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1V6R6M2YS5N11/FO-1V6R6M2YS5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250315102351+0000" stop="20250315103516+0000">
+    <title lang="en">Bells Beach 2018</title>
+    <desc lang="en">Australian surfing luminaries weigh in on Mick Fanning's legacy and size up some spots in Victoria.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1V9BZW9EH5N11/FO-1V9BZW9EH5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250315103516+0000" stop="20250315104814+0000">
+    <title lang="en">Margaret River 2018</title>
+    <desc lang="en">Get the lowdown on Margaret River, as the WSL Championship Tour 2018 reaches its final Aussie leg.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1VDDRFNKH5N11/FO-1VDDRFNKH5N11-featureMedia"/>
   </programme>
 </tv>
