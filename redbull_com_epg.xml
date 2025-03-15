@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-15 21:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-15 22:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250315155537+0000" stop="20250315165752+0000">
-    <title lang="en">ANYTIME</title>
-    <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/14/vb7q8ajcyskx3pctagyx/anytime-freeride-mtb"/>
-  </programme>
-  <programme channel="redbull.com" start="20250315165752+0000" stop="20250315190103+0000">
-    <title lang="en">Red Bull Valparaíso Cerro Abajo: Livestream</title>
-    <desc lang="en">MTB riders fly down steep, narrow streets, navigating ancient buildings in an insane urban downhill race.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/11/lcnebvzmxk70xdwgafxm/tomas-slavik-red-bull-valparaiso-cerro-abajo-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20250315190103+0000" stop="20250315201249+0000">
     <title lang="en">Stranger than Fiction</title>
     <desc lang="en">Scandal erupts as news leaks that high-performance surfing movies are all just smoke and mirrors.</desc>
@@ -143,7 +131,7 @@
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/1/biq8mly48ypufjcb0pgn/toy-story-team-red-bull-soapbox-rce-santiago-chile-2016"/>
   </programme>
-  <programme channel="redbull.com" start="20250315155537+0000" stop="20250315165752+0000">
+  <programme channel="redbull.com" start="20250316060000+0000" stop="20250316070139+0000">
     <title lang="en">ANYTIME</title>
     <desc lang="en">Follow a new generation of mountain bikers conquering extreme terrain in ANYTIME.</desc>
     <category lang="en">MTB</category>
@@ -154,5 +142,17 @@
     <desc lang="en">Enjoy the sound of speed as British mountain bike rider Kade Edwards rips up Dyfi Bike Park in Wales. </desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/doge7u1jj7vxmsg8m1sq/kade-edwards-dyfi-bike-park"/>
+  </programme>
+  <programme channel="redbull.com" start="20250316070446+0000" stop="20250316073052+0000">
+    <title lang="en">Jaan Roose: Life on the Line</title>
+    <desc lang="en">Slackliner Jaan Roose reflects on life as he plans a world record tightrope walk across the Strait of Messina.</desc>
+    <category lang="en">Slacklining</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/26/qdtoeib0qxavvnyzrmf5/jaan-roose-messina-crossing-slacklining"/>
+  </programme>
+  <programme channel="redbull.com" start="20250316073052+0000" stop="20250316090734+0000">
+    <title lang="en">Born to Fly</title>
+    <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
+    <category lang="en">Athletics</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/8/odweqz4hjqbizul4arqu/armand-duplantis-red-bull-athlete-pole-vaulting-mondo-classic-uppsala-2024"/>
   </programme>
 </tv>
