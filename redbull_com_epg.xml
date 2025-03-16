@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-16 17:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-16 18:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250316142804+0000" stop="20250316152040+0000">
-    <title lang="en">Greatest moments – Finland</title>
-    <desc lang="en">Take a look back at some of the greatest moments and most dramatic incidents from Rally Finland's history.</desc>
-    <category lang="en">WRC</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/8/4/ulwsjo420ut11y8wgsw4/wrc-event-highlight-finland-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250316152040+0000" stop="20250316154700+0000">
-    <title lang="en">Rallye du Maroc highlights</title>
-    <desc lang="en">Rallye du Maroc tests new Dakar features, from dunes to dirt tracks, just before the Dakar Rally.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gzi1jik9e9dve9dip6sv/rallye-du-maroc-2024-seth-quintero-dennis-zenz-morocco"/>
-  </programme>
-  <programme channel="redbull.com" start="20250316154700+0000" stop="20250316161326+0000">
-    <title lang="en">Kazakhstan recap</title>
-    <desc lang="en">Watch highlights of the 2,500km rally that crossed sand dunes and hugged the coastline of the Caspian Sea.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZV5TNUWS5N11/FO-1ZV5TNUWS5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250316161326+0000" stop="20250316164011+0000">
-    <title lang="en">Sunday highlights – Central Europe</title>
-    <desc lang="en">Watch highlights from Sunday's stage of the FIA World Rally Championship's new rally in the heart of Europe.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/28/zl8flrx5n5cbpufzr30a/ott-tanak-fia-wrc-rallye-monte-carlo-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20250316164011+0000" stop="20250316170631+0000">
     <title lang="en">Sunday highlights – Croatia</title>
     <desc lang="en">Watch highlights from Sunday's stage on a course that's a mix of surfaces – rough, sooth and asphalt.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Upsets as Daniel Sanders takes the lead while Carlos Sainz, Nasser Al-Attiyah and Sébastien Loeb lose ground. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/3/zjw29vkwgzcmczhcgh0u/dakar-rally-2023-stage-3-sebastien-loeb-fabian-lurquin"/>
+  </programme>
+  <programme channel="redbull.com" start="20250317023134+0000" stop="20250317030248+0000">
+    <title lang="en">In the Wings</title>
+    <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250317030248+0000" stop="20250317031942+0000">
+    <title lang="en">Yeah buddy – part 1</title>
+    <desc lang="en">Aussie climbing prodigy Angie Scarth-Johnson and Hazel Findlay explore Mallorca’s deep-water soloing routes.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/11/cax0dq8vgzmltqx8y9yi/angie-scarth-johnson-rock-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250317031942+0000" stop="20250317033649+0000">
+    <title lang="en">Yeah buddy – part 2</title>
+    <desc lang="en">Angie Scarth-Johnson faces the mental challenge of climbing comp Psicobloc, overcoming fears of deep waters.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/kqtu1mxtrklmmykzxgni/angie-scarth-johnson-free-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250317033649+0000" stop="20250317035802+0000">
+    <title lang="en">Soundscape</title>
+    <desc lang="en">Blind adventure athlete and author Erik Weihenmayer ascends a massive rock face deep in the Sierra Nevada.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/mhjtsqjvnivnsdlsrqop/erik-weihenmayer-rock-climbing"/>
   </programme>
 </tv>
