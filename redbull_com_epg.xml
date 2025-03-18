@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-18 14:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-18 15:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250318121116+0000" stop="20250318130509+0000">
-    <title lang="en">Modern Collective</title>
-    <desc lang="en">A vogue group of rogues frame the future of surfing in this wild, progressive and provocative film. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SJKGRZ7S5N11/FO-1SJKGRZ7S5N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250318130509+0000" stop="20250318135701+0000">
     <title lang="en">Focus</title>
     <desc lang="en">Taylor Steele's high action surf movie defines the cutting edge of performance surfing in the mid-90s.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Get to know Australia's Gold Coast and the surfers who are there to catch some sick waves.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1V6R6M2YS5N11/FO-1V6R6M2YS5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250319011741+0000" stop="20250319012906+0000">
+    <title lang="en">Bells Beach 2018</title>
+    <desc lang="en">Australian surfing luminaries weigh in on Mick Fanning's legacy and size up some spots in Victoria.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1V9BZW9EH5N11/FO-1V9BZW9EH5N11-featureMedia"/>
   </programme>
 </tv>
