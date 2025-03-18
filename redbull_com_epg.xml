@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-18 12:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-18 13:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250318095139+0000" stop="20250318110324+0000">
-    <title lang="en">Stranger than Fiction</title>
-    <desc lang="en">Scandal erupts as news leaks that high-performance surfing movies are all just smoke and mirrors.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/f5icevyc2k643g1vqjdz/dane-reynolds-oahu-hawaii-2015"/>
-  </programme>
   <programme channel="redbull.com" start="20250318110324+0000" stop="20250318121116+0000">
     <title lang="en">The Wave I Ride</title>
     <desc lang="en">Paige Alms is leading the charge in women's big wave surfing, and she's doing it for all the right reasons..</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Get a glimpse into Lucas Chianca's life as he balances chasing big waves with looking after his family.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/9/wlapw5hodyuia7ry8ksp/lucas-chianca-chumbo-made-for-big-wave-surfing-header"/>
+  </programme>
+  <programme channel="redbull.com" start="20250319003128+0000" stop="20250319010425+0000">
+    <title lang="en">à la folie</title>
+    <desc lang="en">Strap in for the ride of your life as we follow surfer Justine Dupont through a ground-breaking big wave season.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/3/29/i4k8i7pteppumtyjozw1/a-la-folie-justine-dupont-surf"/>
   </programme>
 </tv>
