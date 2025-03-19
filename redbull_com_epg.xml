@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-19 22:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-19 23:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250319194751+0000" stop="20250319200156+0000">
-    <title lang="en">Brazil's waves 2018</title>
-    <desc lang="en">Catch up with the world's best surfers as they make the most of their time in Saquarema, Brazil.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1VQ351JT95N11/FO-1VQ351JT95N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250319200156+0000" stop="20250319201247+0000">
-    <title lang="en">Bali's surf 2018</title>
-    <desc lang="en">Lee Wilson takes us on a tour through his day as he heads out on the waves in Bali, Indonesia. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1VW9GUJC95N11/FO-1VW9GUJC95N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250319201247+0000" stop="20250319202622+0000">
-    <title lang="en">Jeffreys Bay 2018</title>
-    <desc lang="en">Big names in surfing share the thrill of riding the spectacular waves at Jeffreys Bay, South Africa.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1WAYF4WR55N11/FO-1WAYF4WR55N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250319202622+0000" stop="20250319214845+0000">
     <title lang="en">Bella Vita</title>
     <desc lang="en">The waves of the Italian coast call surfer Chris Del Moro on a pilgrimage back to his ancestral homeland.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/cps0jjbpnepwe6qtmphb/leticia-bufoni-california-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20250320141044+0000" stop="20250320144234+0000">
+    <title lang="en">In the Wings</title>
+    <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250320144234+0000" stop="20250320145928+0000">
+    <title lang="en">Yeah buddy – part 1</title>
+    <desc lang="en">Aussie climbing prodigy Angie Scarth-Johnson and Hazel Findlay explore Mallorca’s deep-water soloing routes.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/11/cax0dq8vgzmltqx8y9yi/angie-scarth-johnson-rock-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250320145928+0000" stop="20250320151635+0000">
+    <title lang="en">Yeah buddy – part 2</title>
+    <desc lang="en">Angie Scarth-Johnson faces the mental challenge of climbing comp Psicobloc, overcoming fears of deep waters.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/kqtu1mxtrklmmykzxgni/angie-scarth-johnson-free-climbing"/>
   </programme>
 </tv>
