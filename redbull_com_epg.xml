@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-19 09:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-19 10:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250319071145+0000" stop="20250319081937+0000">
-    <title lang="en">The Wave I Ride</title>
-    <desc lang="en">Paige Alms is leading the charge in women's big wave surfing, and she's doing it for all the right reasons..</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1S2V4EB7S1W11/FO-1S2V4EB7S1W11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250319081937+0000" stop="20250319091330+0000">
     <title lang="en">Modern Collective</title>
     <desc lang="en">A vogue group of rogues frame the future of surfing in this wild, progressive and provocative film. </desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Get to know Australia's Gold Coast and the surfers who are there to catch some sick waves.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1V6R6M2YS5N11/FO-1V6R6M2YS5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250319192327+0000" stop="20250319193452+0000">
+    <title lang="en">Bells Beach 2018</title>
+    <desc lang="en">Australian surfing luminaries weigh in on Mick Fanning's legacy and size up some spots in Victoria.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1V9BZW9EH5N11/FO-1V9BZW9EH5N11-featureMedia"/>
   </programme>
 </tv>
