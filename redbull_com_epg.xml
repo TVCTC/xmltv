@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-20 22:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-20 23:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250320200920+0000" stop="20250320213143+0000">
-    <title lang="en">Bella Vita</title>
-    <desc lang="en">The waves of the Italian coast call surfer Chris Del Moro on a pilgrimage back to his ancestral homeland.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1NSYER48D2111/FO-1NSYER48D2111-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250320213143+0000" stop="20250320230715+0000">
     <title lang="en">For the Dream</title>
     <desc lang="en">Ex-pro surfer Ben Gravy sets out on his dream to become the first person to surf in all 50 US states.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Barefoot boulderer Charles Albert conquers his hardest route – L'Ombre du Voyageur in Switzerland. </desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/fvcfk1syjigfz9vh2aam/barefoot-boulderer-charles-albert-climbing-l-ombre-du-voyageur"/>
+  </programme>
+  <programme channel="redbull.com" start="20250321120043+0000" stop="20250321123214+0000">
+    <title lang="en">Dropping Molly</title>
+    <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
+    <category lang="en">Bouldering</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/hzbjjsd9kg5knno3grxo/molly-mitchell-bouldering"/>
   </programme>
 </tv>
