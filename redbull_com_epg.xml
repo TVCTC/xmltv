@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-21 00:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-21 01:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250320213143+0000" stop="20250320230715+0000">
-    <title lang="en">For the Dream</title>
-    <desc lang="en">Ex-pro surfer Ben Gravy sets out on his dream to become the first person to surf in all 50 US states.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/25/oczwecazd6w2w9figilo/for-the-dream-ben-gravy"/>
-  </programme>
-  <programme channel="redbull.com" start="20250320230715+0000" stop="20250320235100+0000">
-    <title lang="en">Innersection: Black</title>
-    <desc lang="en">The 13 sections that form Innersection: Black were each produced by the surfers themselves.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/whmsgcosavnlsydarbad/carlos-munoz"/>
-  </programme>
   <programme channel="redbull.com" start="20250320235100+0000" stop="20250321003811+0000">
     <title lang="en">Good Times</title>
     <desc lang="en">Watch the Momentum Crew – the established surfing hierarchy –dominate competition and freesurfing. </desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
     <category lang="en">Bouldering</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/hzbjjsd9kg5knno3grxo/molly-mitchell-bouldering"/>
+  </programme>
+  <programme channel="redbull.com" start="20250321123214+0000" stop="20250321131315+0000">
+    <title lang="en">Chumbo: Made for Big Wave Surfing</title>
+    <desc lang="en">Get a glimpse into Lucas Chianca's life as he balances chasing big waves with looking after his family.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/9/wlapw5hodyuia7ry8ksp/lucas-chianca-chumbo-made-for-big-wave-surfing-header"/>
+  </programme>
+  <programme channel="redbull.com" start="20250321131315+0000" stop="20250321134612+0000">
+    <title lang="en">à la folie</title>
+    <desc lang="en">Strap in for the ride of your life as we follow surfer Justine Dupont through a ground-breaking big wave season.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/3/29/i4k8i7pteppumtyjozw1/a-la-folie-justine-dupont-surf"/>
   </programme>
 </tv>
