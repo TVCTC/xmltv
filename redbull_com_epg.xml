@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-21 15:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-21 16:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250321105409+0000" stop="20250321112500+0000">
+    <title lang="en">Black Pearl </title>
+    <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/g2b9nw1mf0wxn5fumqfd/chris-sharma-climbs-black-pearl-mallorca"/>
+  </programme>
+  <programme channel="redbull.com" start="20250321112500+0000" stop="20250321114403+0000">
+    <title lang="en">The puzzle</title>
+    <desc lang="en">Brette Harrington climbs the Chinese Puzzle Wall, completing a route begun by her late partner, Marc-André.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/tnhr1misd9vpkxouefvo/brette-harrington-chinese-puzzle-wall"/>
+  </programme>
+  <programme channel="redbull.com" start="20250321114403+0000" stop="20250321120043+0000">
+    <title lang="en">Charles at large</title>
+    <desc lang="en">Barefoot boulderer Charles Albert conquers his hardest route – L'Ombre du Voyageur in Switzerland. </desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/fvcfk1syjigfz9vh2aam/barefoot-boulderer-charles-albert-climbing-l-ombre-du-voyageur"/>
+  </programme>
+  <programme channel="redbull.com" start="20250321120043+0000" stop="20250321123214+0000">
+    <title lang="en">Dropping Molly</title>
+    <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
+    <category lang="en">Bouldering</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/hzbjjsd9kg5knno3grxo/molly-mitchell-bouldering"/>
+  </programme>
+  <programme channel="redbull.com" start="20250321123214+0000" stop="20250321131315+0000">
+    <title lang="en">Chumbo: Made for Big Wave Surfing</title>
+    <desc lang="en">Get a glimpse into Lucas Chianca's life as he balances chasing big waves with looking after his family.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/9/wlapw5hodyuia7ry8ksp/lucas-chianca-chumbo-made-for-big-wave-surfing-header"/>
+  </programme>
+  <programme channel="redbull.com" start="20250321131315+0000" stop="20250321134612+0000">
+    <title lang="en">à la folie</title>
+    <desc lang="en">Strap in for the ride of your life as we follow surfer Justine Dupont through a ground-breaking big wave season.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/3/29/i4k8i7pteppumtyjozw1/a-la-folie-justine-dupont-surf"/>
+  </programme>
   <programme channel="redbull.com" start="20250321134612+0000" stop="20250321135853+0000">
     <title lang="en">Gold Coast 2018</title>
     <desc lang="en">Get to know Australia's Gold Coast and the surfers who are there to catch some sick waves.</desc>
@@ -118,41 +154,5 @@
     <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
-  </programme>
-  <programme channel="redbull.com" start="20250322033305+0000" stop="20250322035905+0000">
-    <title lang="en">From a pinball human to 93kph speed skating</title>
-    <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
-  </programme>
-  <programme channel="redbull.com" start="20250322035905+0000" stop="20250322042541+0000">
-    <title lang="en">From skydiving with skis to flying into a volcano</title>
-    <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/jdlnqxz4nve0e3be9jf1/dario-costa-wingsuit-flying-through-catalca-tunnels-in-turkey"/>
-  </programme>
-  <programme channel="redbull.com" start="20250322042541+0000" stop="20250322045141+0000">
-    <title lang="en">From a paper plane contest to diving off ruins </title>
-    <desc lang="en">Red Bull athletes do it all, from diving off ancient ruins to acing a paper plane competition.  </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/5/orl9mdkwzi4y5qrhjbri/red-bull-racing-swamp-buggy-max-verstappen-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20250322045141+0000" stop="20250322051741+0000">
-    <title lang="en">From skateboarding out a plane to 180m wall climb</title>
-    <desc lang="en">Red Bull athletes do it all, from freerunning through an airport to building a skatepark in the forest.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/u2jrgximnynso9wn4vue/andrzej-bargiel"/>
-  </programme>
-  <programme channel="redbull.com" start="20250322051741+0000" stop="20250322054417+0000">
-    <title lang="en">From BASE jumping a cave to a flying mega swing </title>
-    <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iww612k42herg2tme0kr/marco-fuerst-base-jumping"/>
-  </programme>
-  <programme channel="redbull.com" start="20250322054417+0000" stop="20250322060000+0000">
-    <title lang="en">Downhill finals – Lenzerheide</title>
-    <desc lang="en">Here’s what went down on the hillside of Lenzerheide for the third DH of 2022.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/15/y8pagvjm8pnegccnaydd/uci-world-cup-lenzerheide-dh-2022-myriam-nicole"/>
   </programme>
 </tv>
