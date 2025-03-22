@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-22 23:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-23 00:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250322204447+0000" stop="20250322211103+0000">
-    <title lang="en">Women’s world title</title>
-    <desc lang="en">The WSL Championship Tour has made it to Hawaii for the final two events of the season.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YUAWPTD95N11/FO-1YUAWPTD95N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250322211103+0000" stop="20250322213652+0000">
-    <title lang="en">The end game</title>
-    <desc lang="en">Follow Julian Wilson and Jordy Smith as they look to win more than just the prestigious Pipe Masters trophy.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYUXGTN5N11/FO-1YPYUXGTN5N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250322213652+0000" stop="20250322215813+0000">
     <title lang="en">Friday the 17th</title>
     <desc lang="en">Some of the world's best surfers attempt acting in a 1950s-style horror film – all while surfing at elite level.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Nasser Al-Attiyah digs deep in a tough Dakar Rally to take the lead and it's all change in the bike class. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/5/z5tfm7xggajwhyjucu0s/nasser-al-attiyah-dakar-rally-stage-2-finish"/>
+  </programme>
+  <programme channel="redbull.com" start="20250323073518+0000" stop="20250323074331+0000">
+    <title lang="en">Stage 6: A legend drops out of Dakar</title>
+    <desc lang="en">Nasser Al-Attiyah takes another stage win over nearly 1,000km of dunes and dust, but Peterhansel crashes out. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/6/irnm5etnguiiafmmgih2/stephane-peterhansel-dakar-rally-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250323074331+0000" stop="20250323075214+0000">
+    <title lang="en">Stage 7: Blazing a new trail</title>
+    <desc lang="en">Nasser Al-Attiyah proved why he’s a four-time champion, acing a stiff test of navigation skills.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/7/ap5inhdrsjlbeh2pqjw2/nasser-al-attiyah-matthieu-baumel-dakar-rally-2023-stage-6"/>
   </programme>
 </tv>
