@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-23 12:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-23 13:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250323094939+0000" stop="20250323101619+0000">
-    <title lang="en">ASO Andalucía Rally</title>
-    <desc lang="en">After an extremely enjoyable debut in 2020, the Andalucía Rally is back on the calendar for 2021.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/5/6/tnubnblferzzs4vzpsfo/cross-country-rallies-world-cup-s2021-e1-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250323101619+0000" stop="20250323104257+0000">
-    <title lang="en">BP Ultimate Rally-Raid</title>
-    <desc lang="en">BP Ultimate Rally-Raid racers tackle a 1,000km course over five days across Portugal's diverse Alentejo region.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/14/j9hgefrempdgrguyxv3p/seth-quintero-bp-rally-raid-badajoz-spain-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20250323104257+0000" stop="20250323121939+0000">
     <title lang="en">Born to Fly</title>
     <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">After a taxing special stage, Toby Price is just three seconds off the lead, and Loeb heads a Prodrive 1-2-3. </desc>
     <category lang="en">Rally Raid</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/1/10/y10jylw4kgkegqyhgnkz/toby-price-wheelie-dakar-rally-2023-stage-6"/>
+  </programme>
+  <programme channel="redbull.com" start="20250323175246+0000" stop="20250323181846+0000">
+    <title lang="en">Colin McRae: 25 years a champion</title>
+    <desc lang="en">Colin McRae became an idol for an entire generation of drivers when he won his world title 25 years ago.</desc>
+    <category lang="en">WRC</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/11/23/nlkrorbxufnzrrnwdvt1/colin-mcrae-25-years-a-champion-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250323181846+0000" stop="20250323184043+0000">
+    <title lang="en">Dakar Daily pre-show</title>
+    <desc lang="en">See daily Dakar highlights and go behind the scenes with teams, drivers and rally legends.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/1/5/pauntzzt2zokpqstiloc/dakar-daily-pre-show"/>
   </programme>
 </tv>
