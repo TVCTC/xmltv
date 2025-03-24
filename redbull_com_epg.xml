@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-24 18:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-24 19:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250324163812+0000" stop="20250324170404+0000">
-    <title lang="en">Highlights – Malaga Premier Padel P1</title>
-    <desc lang="en">Watch the highlights from Spain as the Malaga Premier Padel P1 took centre stage.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/16/e7a1ua8wknq0q8v13voe/alejandro-galan-malaga-premier-padel-p1"/>
-  </programme>
-  <programme channel="redbull.com" start="20250324170404+0000" stop="20250324172950+0000">
-    <title lang="en">Highlights – Madrid Premier Padel P1 </title>
-    <desc lang="en">Watch the highlights from Spain as the Madrid Premier Padel P1 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/3/o2t3bgdxiartzlbbwp30/juan-lebron-padel-madrid-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20250324172950+0000" stop="20250324175539+0000">
     <title lang="en">Highlights – Kuwait Premier Padel P1 </title>
     <desc lang="en">Watch the highlights from the UAE as the Kuwait Premier Padel P1 took centre stage.  </desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Ryōyū Kobayashi and his team went to Iceland, intent on creating a jump big enough to smash world records.</desc>
     <category lang="en">Ski Jumping</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/10/s3hcevdzamxlv4pyuezz/red-bull-athletes-ryoyu-kobayashi-ski-jumping-in-akureyri-iceland-event"/>
+  </programme>
+  <programme channel="redbull.com" start="20250325043316+0000" stop="20250325050605+0000">
+    <title lang="en">Australia Tour</title>
+    <desc lang="en">The skateboard demo tour hits Melbourne, Brisbane, Gold Coast and Sydney with Jamie Foy, TJ Rogers and more.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/12/c1cuulekhr76jf4t3pgr/jamie-foy-red-bull-drop-in-tour-2023-australia-skateboarding"/>
+  </programme>
+  <programme channel="redbull.com" start="20250325050605+0000" stop="20250325055035+0000">
+    <title lang="en">Hallowed Ground </title>
+    <desc lang="en">Follow Hurley team riders through their usual skating haunts to get their views of skateboarding.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/c6j7zgvojn8pkeidswke/steve-alba-skateboarding-2013"/>
   </programme>
 </tv>
