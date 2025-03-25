@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-25 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-25 05:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250325015150+0000" stop="20250325022130+0000">
-    <title lang="en">Mr. Plant</title>
-    <desc lang="en">Snowboarder and New Hampshire backwoodsman Pat Moore travels the world with the Volcom family and friends.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/2/w9nefpoqklq9mzl7xyid/pat-moore-snowboarding"/>
-  </programme>
   <programme channel="redbull.com" start="20250325022130+0000" stop="20250325030002+0000">
     <title lang="en">Cake</title>
     <desc lang="en">Part of the Layers documentary project, Cake is dedicated to showcasing the current level of fun progression.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Some of the world's best surfers attempt acting in a 1950s-style horror film – all while surfing at elite level.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/vk6dopvlkgnzkwhilrqm/friday-the-17th-surf-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20250325121039+0000" stop="20250325141351+0000">
+    <title lang="en">Red Bull Valparaíso Cerro Abajo: Livestream</title>
+    <desc lang="en">MTB riders fly down steep, narrow streets, navigating ancient buildings in an insane urban downhill race.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/11/lcnebvzmxk70xdwgafxm/tomas-slavik-red-bull-valparaiso-cerro-abajo-2024"/>
   </programme>
 </tv>
