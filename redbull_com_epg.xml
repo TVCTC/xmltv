@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-25 13:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-25 14:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250325094036+0000" stop="20250325095607+0000">
+    <title lang="en">The arrival</title>
+    <desc lang="en">The surfers arrive in France for the Quiksilver &amp; Roxy Pro.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYVHHVS5N11/FO-1YPYVHHVS5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250325095607+0000" stop="20250325101645+0000">
+    <title lang="en">La compétition</title>
+    <desc lang="en">It's time for the athletes to take on the best surfers in the world at the Quiksilver &amp; Roxy Pro France.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYVSRCD5N11/FO-1YPYVSRCD5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250325101645+0000" stop="20250325103632+0000">
+    <title lang="en">Down to the wire</title>
+    <desc lang="en">Lakey Peterson and Carissa Moore regroup at home while the pressure is on for Jordy Smith and Julian Wilson.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYWAK715N11/FO-1YPYWAK715N11-featureMedia"/>
+  </programme>
   <programme channel="redbull.com" start="20250325103632+0000" stop="20250325105636+0000">
     <title lang="en">The final preparation</title>
     <desc lang="en">As the 2018 season draws to an end, the athletes spend time with family before the final events of the year.</desc>
@@ -136,23 +154,5 @@
     <desc lang="en">In his 23rd season, Travis takes on the breathtaking 3,700ft vertical drop of the Velvet Castle in BC, Canada.</desc>
     <category lang="en">Snowboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/6/ckn86ackhujmc0zmsjqu/travis-rice-old-dog-snowboarding"/>
-  </programme>
-  <programme channel="redbull.com" start="20250325220713+0000" stop="20250325223501+0000">
-    <title lang="en">Swatch Nines highlights</title>
-    <desc lang="en">Watch top freeskiers and snowboarders in action on one of the most innovative park set-ups ever built.</desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/6/vssywkepvy6xjt6yzicf/alex-hackel-swatch-nines-2024-snowboard"/>
-  </programme>
-  <programme channel="redbull.com" start="20250325223501+0000" stop="20250325230137+0000">
-    <title lang="en">BACKYARD by Nadine Wallner </title>
-    <desc lang="en">Freeskier Nadine Wallner does what no one's done before: conquers five mountain faces at Arlberg in one day. </desc>
-    <category lang="en">Freeskiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/d1yap4ipqnixcfvukl7y/backyard-by-nadine-wallner"/>
-  </programme>
-  <programme channel="redbull.com" start="20250325230137+0000" stop="20250325233117+0000">
-    <title lang="en">Mr. Plant</title>
-    <desc lang="en">Snowboarder and New Hampshire backwoodsman Pat Moore travels the world with the Volcom family and friends.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/2/w9nefpoqklq9mzl7xyid/pat-moore-snowboarding"/>
   </programme>
 </tv>
