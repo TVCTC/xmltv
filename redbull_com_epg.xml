@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-26 08:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-26 09:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250326065111+0000" stop="20250326071454+0000">
-    <title lang="en">The calm before the storm</title>
-    <desc lang="en">As the surfers prepare to travel to their next event in France they reflect on their season so far. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYW36N95N11/FO-1YPYW36N95N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250326071454+0000" stop="20250326073026+0000">
-    <title lang="en">The arrival</title>
-    <desc lang="en">The surfers arrive in France for the Quiksilver &amp; Roxy Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYVHHVS5N11/FO-1YPYVHHVS5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250326073026+0000" stop="20250326075104+0000">
-    <title lang="en">La compétition</title>
-    <desc lang="en">It's time for the athletes to take on the best surfers in the world at the Quiksilver &amp; Roxy Pro France.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYVSRCD5N11/FO-1YPYVSRCD5N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250326075104+0000" stop="20250326081050+0000">
     <title lang="en">Down to the wire</title>
     <desc lang="en">Lakey Peterson and Carissa Moore regroup at home while the pressure is on for Jordy Smith and Julian Wilson.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iww612k42herg2tme0kr/marco-fuerst-base-jumping"/>
+  </programme>
+  <programme channel="redbull.com" start="20250326174922+0000" stop="20250326181522+0000">
+    <title lang="en">From freerunning Greek isles to skiing the Streif</title>
+    <desc lang="en">Red Bull athletes do it all, from skiing down the steepest run at night to slacklining during an eclipse.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/pafocedw24uyj8uzbkjm/dominic-di-tommaso-hazal-nehir-istanbul-2021"/>
+  </programme>
+  <programme channel="redbull.com" start="20250326181522+0000" stop="20250326184158+0000">
+    <title lang="en">From soapbox madness to skydiving with an FMX bike</title>
+    <desc lang="en">Red Bull athletes do it all, from skydiving with a motocross bike to riding rally cars on frozen lakes. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iltxmuy0dpylwgiezemw/red-bull-dance-your-style-lausanne-final-aceko-performance-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250326184158+0000" stop="20250326190758+0000">
+    <title lang="en">From wingsuits to parachutes</title>
+    <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/cps0jjbpnepwe6qtmphb/leticia-bufoni-california-2022"/>
   </programme>
 </tv>
