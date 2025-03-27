@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-27 07:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-27 08:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250327045107+0000" stop="20250327051053+0000">
+    <title lang="en">Down to the wire</title>
+    <desc lang="en">Lakey Peterson and Carissa Moore regroup at home while the pressure is on for Jordy Smith and Julian Wilson.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYWAK715N11/FO-1YPYWAK715N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250327051053+0000" stop="20250327053058+0000">
+    <title lang="en">The final preparation</title>
+    <desc lang="en">As the 2018 season draws to an end, the athletes spend time with family before the final events of the year.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYWPCCH5N11/FO-1YPYWPCCH5N11-featureMedia"/>
+  </programme>
   <programme channel="redbull.com" start="20250327053058+0000" stop="20250327055638+0000">
     <title lang="en">Women’s world title</title>
     <desc lang="en">The WSL Championship Tour has made it to Hawaii for the final two events of the season.</desc>
@@ -142,17 +154,5 @@
     <desc lang="en">Red Bull athletes do it all, from skydiving with a motocross bike to riding rally cars on frozen lakes. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iltxmuy0dpylwgiezemw/red-bull-dance-your-style-lausanne-final-aceko-performance-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250327154411+0000" stop="20250327161047+0000">
-    <title lang="en">From wingsuits to parachutes</title>
-    <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/cps0jjbpnepwe6qtmphb/leticia-bufoni-california-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20250327161047+0000" stop="20250327181400+0000">
-    <title lang="en">Red Bull Valparaíso Cerro Abajo: Livestream</title>
-    <desc lang="en">MTB riders fly down steep, narrow streets, navigating ancient buildings in an insane urban downhill race.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/11/lcnebvzmxk70xdwgafxm/tomas-slavik-red-bull-valparaiso-cerro-abajo-2024"/>
   </programme>
 </tv>
