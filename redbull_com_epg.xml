@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-27 18:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-27 19:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250327145211+0000" stop="20250327151811+0000">
-    <title lang="en">From freerunning Greek isles to skiing the Streif</title>
-    <desc lang="en">Red Bull athletes do it all, from skiing down the steepest run at night to slacklining during an eclipse.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/pafocedw24uyj8uzbkjm/dominic-di-tommaso-hazal-nehir-istanbul-2021"/>
-  </programme>
-  <programme channel="redbull.com" start="20250327151811+0000" stop="20250327154411+0000">
-    <title lang="en">From soapbox madness to skydiving with an FMX bike</title>
-    <desc lang="en">Red Bull athletes do it all, from skydiving with a motocross bike to riding rally cars on frozen lakes. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iltxmuy0dpylwgiezemw/red-bull-dance-your-style-lausanne-final-aceko-performance-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250327154411+0000" stop="20250327161047+0000">
-    <title lang="en">From wingsuits to parachutes</title>
-    <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/cps0jjbpnepwe6qtmphb/leticia-bufoni-california-2022"/>
-  </programme>
   <programme channel="redbull.com" start="20250327161047+0000" stop="20250327181400+0000">
     <title lang="en">Red Bull Valparaíso Cerro Abajo: Livestream</title>
     <desc lang="en">MTB riders fly down steep, narrow streets, navigating ancient buildings in an insane urban downhill race.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Follow Julian Wilson and Jordy Smith as they look to win more than just the prestigious Pipe Masters trophy.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYUXGTN5N11/FO-1YPYUXGTN5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250328032704+0000" stop="20250328034901+0000">
+    <title lang="en">Friday the 17th</title>
+    <desc lang="en">Some of the world's best surfers attempt acting in a 1950s-style horror film – all while surfing at elite level.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/vk6dopvlkgnzkwhilrqm/friday-the-17th-surf-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20250328034901+0000" stop="20250328041505+0000">
+    <title lang="en">Highlights – Valladolid Premier Padel P2 </title>
+    <desc lang="en">Watch the highlights from Spain as the Valladolid Premier Padel P2 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/16/c0onhmvcicfouh3h4arm/ale-galan-madrid-premier-padel-final-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250328041505+0000" stop="20250328044105+0000">
+    <title lang="en">Highlights – Dubai Premier Padel P1 </title>
+    <desc lang="en">Watch the highlights from Spain as the Dubai Premier Padel P1 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/6/svkj6x5q1cwnjw62prqp/miguel-yanguas-franco-stupaczuk-newgiza-premier-padel-p2-2024"/>
   </programme>
 </tv>
