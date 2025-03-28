@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-28 19:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-28 20:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250328165402+0000" stop="20250328170250+0000">
+    <title lang="en">World’s longest-ever ski jump</title>
+    <desc lang="en">Ryōyū Kobayashi and his team went to Iceland, intent on creating a jump big enough to smash world records.</desc>
+    <category lang="en">Ski Jumping</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/10/s3hcevdzamxlv4pyuezz/red-bull-athletes-ryoyu-kobayashi-ski-jumping-in-akureyri-iceland-event"/>
+  </programme>
   <programme channel="redbull.com" start="20250328170250+0000" stop="20250328183932+0000">
     <title lang="en">Born to Fly</title>
     <desc lang="en">Map the extraordinary rise of Mondo Duplantis from backyard dreamer to global pole vault sensation.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">Watch the highlights from the UAE as the Kuwait Premier Padel P1 took centre stage.  </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/aaqrr0hpfnf6kuxzojpb/beatriz-gonzalez-dubai-premier-padel-p1-semi-finals-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250329032551+0000" stop="20250329035225+0000">
-    <title lang="en">Highlights – BNL Italy Major Premier Padel</title>
-    <desc lang="en">Relive the action from the third Major of the Premier Padel Season 2024 as Italy takes the main stage.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/lwozjjuxbuh1lsoad8xb/ale-galan-sevilla-premier-padel-p2-2024"/>
   </programme>
 </tv>
