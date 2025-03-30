@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-30 00:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-30 01:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250329204500+0000" stop="20250329224536+0000">
-    <title lang="en">Red Bull Guanajuato Cerro Abajo: Livestream</title>
-    <desc lang="en">The world's most epic urban downhill MTB race hits beautiful Guanajuato, Mexico, a UNESCO World Heritage Site.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/11/ojxu4fzhhv5uqjqvkvid/pedro-burns-red-bull-guanajuato-cerro-abajo-mexico-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20250329224536+0000" stop="20250329225627+0000">
     <title lang="en">DH finals – Vallnord</title>
     <desc lang="en">Watch the finals run of this year’s fifth downhill stop in Vallnord, Andorra, from this rider’s point of view.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Angie Scarth-Johnson faces the mental challenge of climbing comp Psicobloc, overcoming fears of deep waters.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/kqtu1mxtrklmmykzxgni/angie-scarth-johnson-free-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250330095517+0000" stop="20250330101630+0000">
+    <title lang="en">Soundscape</title>
+    <desc lang="en">Blind adventure athlete and author Erik Weihenmayer ascends a massive rock face deep in the Sierra Nevada.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/mhjtsqjvnivnsdlsrqop/erik-weihenmayer-rock-climbing"/>
   </programme>
 </tv>
