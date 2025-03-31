@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-31 03:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-31 04:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250330233014+0000" stop="20250330235614+0000">
-    <title lang="en">From wingsuits to parachutes</title>
-    <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/cps0jjbpnepwe6qtmphb/leticia-bufoni-california-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20250330235614+0000" stop="20250331002803+0000">
-    <title lang="en">In the Wings</title>
-    <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20250331002803+0000" stop="20250331012003+0000">
     <title lang="en">Brad Binder: Becoming 33</title>
     <desc lang="en">Brad Binder has earned his shot at MotoGP™ glory – see him take on the monumental challenge.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Top Pirate Crew snowboard shots explode into an epic, timeless thrill – Gigi Rüf, Elias Elhardt and more.</desc>
     <category lang="en">Snowboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/5/yocrvs3oek815aaamhty/under-black-flag-snowboard-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20250331020643+0000" stop="20250331024321+0000">
+    <title lang="en">Veeco: A Volcom filmmaking documentary</title>
+    <desc lang="en">Discover untold stories behind Volcom's groundbreaking films, from inception to adrenaline-fuelled execution.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/2/dn81xqv9yyodwpj6rwpn/veeco-volcom-filmmaking-documentary"/>
+  </programme>
+  <programme channel="redbull.com" start="20250331041149+0000" stop="20250331051400+0000">
+    <title lang="en">The Show</title>
+    <desc lang="en">Check out the best surfing of the mid-90s and skits featuring Shane Dorian, Taylor Knox and Rob Machado.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/bthlxpit5py2pyfcarxs/shane-dorian-red-bull-cape-fear-2014"/>
   </programme>
 </tv>
