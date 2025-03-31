@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-31 06:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-31 07:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250331024321+0000" stop="20250331032406+0000">
-    <title lang="en">True to This</title>
-    <desc lang="en">Celebrate Volcom's fusion of surf, skate and snowboarding in a cinematic journey of rebellious attitude.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/2/gdzdz7ctatn8hluyhrme/true-to-this"/>
-  </programme>
-  <programme channel="redbull.com" start="20250331032406+0000" stop="20250331041149+0000">
-    <title lang="en">Under Black Flag</title>
-    <desc lang="en">Top Pirate Crew snowboard shots explode into an epic, timeless thrill – Gigi Rüf, Elias Elhardt and more.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/5/yocrvs3oek815aaamhty/under-black-flag-snowboard-film"/>
-  </programme>
   <programme channel="redbull.com" start="20250331041149+0000" stop="20250331051400+0000">
     <title lang="en">The Show</title>
     <desc lang="en">Check out the best surfing of the mid-90s and skits featuring Shane Dorian, Taylor Knox and Rob Machado.</desc>
@@ -107,7 +95,7 @@
     <category lang="en">Freeskiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/1/28/c6ydtwp3uc1ux1a4vo5z/snowmads-a-foreign-native-hero-art"/>
   </programme>
-  <programme channel="redbull.com" start="20250331024321+0000" stop="20250331032406+0000">
+  <programme channel="redbull.com" start="20250331113003+0000" stop="20250331121049+0000">
     <title lang="en">True to This</title>
     <desc lang="en">Celebrate Volcom's fusion of surf, skate and snowboarding in a cinematic journey of rebellious attitude.</desc>
     <category lang="en">Surfing</category>
@@ -119,7 +107,7 @@
     <category lang="en">Snowboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/5/yocrvs3oek815aaamhty/under-black-flag-snowboard-film"/>
   </programme>
-  <programme channel="redbull.com" start="20250331020643+0000" stop="20250331024321+0000">
+  <programme channel="redbull.com" start="20250331125831+0000" stop="20250331133545+0000">
     <title lang="en">Veeco: A Volcom filmmaking documentary</title>
     <desc lang="en">Discover untold stories behind Volcom's groundbreaking films, from inception to adrenaline-fuelled execution.</desc>
     <category lang="en">Sport</category>
@@ -154,5 +142,17 @@
     <desc lang="en">Red Bull athletes do it all, from riding a skatepark under a hot air balloon to F1 drivers racing on water. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/oyfmvrqrchvizwasa9o9/oracle-red-bull-racings-rb7"/>
+  </programme>
+  <programme channel="redbull.com" start="20250331163242+0000" stop="20250331165842+0000">
+    <title lang="en">From F1 soapbox racing to breaking world records</title>
+    <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
+  </programme>
+  <programme channel="redbull.com" start="20250331165842+0000" stop="20250331172518+0000">
+    <title lang="en">From a pinball human to 93kph speed skating</title>
+    <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
   </programme>
 </tv>
