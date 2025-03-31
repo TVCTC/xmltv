@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-31 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-03-31 05:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250331002803+0000" stop="20250331012003+0000">
-    <title lang="en">Brad Binder: Becoming 33</title>
-    <desc lang="en">Brad Binder has earned his shot at MotoGP™ glory – see him take on the monumental challenge.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/8/31/ex1kbwbekyroewn8fdmk/brad-binder-road-to-motogp-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250331012003+0000" stop="20250331014131+0000">
-    <title lang="en">Jack Miller</title>
-    <desc lang="en">The MotoGP™ winner talks about his life and hobbies, including a love for fishing in Andorra.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/5/6/fsz1ed7dmwzsuhsn2bfp/off-the-racing-line-s1-e2-jack-miller-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250331014131+0000" stop="20250331020643+0000">
     <title lang="en">Completing a classic Honda Hawk RC31 restoration</title>
     <desc lang="en">Aaron Colton gets back to the street with his latest project build of the classic Honda Hawk RC31.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Check out the best surfing of the mid-90s and skits featuring Shane Dorian, Taylor Knox and Rob Machado.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/bthlxpit5py2pyfcarxs/shane-dorian-red-bull-cape-fear-2014"/>
+  </programme>
+  <programme channel="redbull.com" start="20250331051400+0000" stop="20250331052134+0000">
+    <title lang="en">The wave pools promised</title>
+    <desc lang="en">This is a dive into the waters of the promise that wave pools would be a pivotal part of surfing’s future.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/4/qdrx9hp84tsdpvllpdej/in-plain-sight-s2-e2-wave-pool-surfing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250331052134+0000" stop="20250331055417+0000">
+    <title lang="en">The Source</title>
+    <desc lang="en">Koa Smith goes on a South African surf adventure, where waves (or lack thereof) lead to profound discoveries.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/30/ltrm5vmnhrsj3ze9cdn3/koa-smith-the-source"/>
   </programme>
 </tv>
