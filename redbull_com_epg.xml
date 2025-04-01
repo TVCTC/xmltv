@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-01 19:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-01 20:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250401153720+0000" stop="20250401162120+0000">
-    <title lang="en">WSL Lexus Pipe Pro</title>
-    <desc lang="en">You're granted access-all-areas at the WSL Championship Tour 2025 season opening event, the Lexus Pipe Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/26/hcc1odpn6ogks2lqslbs/caitlin-simmers-on-pipeline-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250401162120+0000" stop="20250401170556+0000">
-    <title lang="en">WSL Surf Abu Dhabi Pro</title>
-    <desc lang="en">Take an access-all-areas tour of the Abu Dhabi Pro, as the 2025 WSL Championship Tour unleashes in the UAE.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/3/trfvt17zqaghmxssqotl/italo-ferreira-on-wsl-surf-abu-dhabi-pro-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250401170556+0000" stop="20250401173144+0000">
-    <title lang="en">Riyadh Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Saudia Arabia as the Riyadh Premier Padel P1 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/qeu4q0pzilaxkin3g5d0/padel-players-juan-lebron-chincoa-and-partner-competing-at-riyadh-season-premier-padel-p1-event"/>
-  </programme>
   <programme channel="redbull.com" start="20250401173144+0000" stop="20250401175733+0000">
     <title lang="en">Gijón Premier Padel highlights</title>
     <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Blind adventure athlete and author Erik Weihenmayer ascends a massive rock face deep in the Sierra Nevada.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/mhjtsqjvnivnsdlsrqop/erik-weihenmayer-rock-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250402035318+0000" stop="20250402041712+0000">
+    <title lang="en">With my heart</title>
+    <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
+  </programme>
+  <programme channel="redbull.com" start="20250402041712+0000" stop="20250402044803+0000">
+    <title lang="en">Black Pearl </title>
+    <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/g2b9nw1mf0wxn5fumqfd/chris-sharma-climbs-black-pearl-mallorca"/>
+  </programme>
+  <programme channel="redbull.com" start="20250402044803+0000" stop="20250402050741+0000">
+    <title lang="en">The puzzle</title>
+    <desc lang="en">Brette Harrington climbs the Chinese Puzzle Wall, completing a route begun by her late partner, Marc-André.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/tnhr1misd9vpkxouefvo/brette-harrington-chinese-puzzle-wall"/>
   </programme>
 </tv>
