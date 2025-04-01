@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-02 00:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-02 01:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250401200838+0000" stop="20250401205948+0000">
-    <title lang="en">Esperanto</title>
-    <desc lang="en">Esperanto explores how dreams can be shared through the universal two-wheeled language of cycling.</desc>
-    <category lang="en">Cycling</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/23/hyyihfqinrqdzghqxlri/esperanto-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250401205948+0000" stop="20250401212748+0000">
-    <title lang="en">Best moments of 2023</title>
-    <desc lang="en">From Xross Hard Enduro to GetzenRodeo, relive the best moments from the 2023 Hard Enduro World Championship.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/21/cbofzivks1dlqjaft3kb/manuel-lettenbichler-red-bull-outliers-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250401212748+0000" stop="20250401214446+0000">
-    <title lang="en">Best of Bolton – 24MX Hixpania Hard Enduro</title>
-    <desc lang="en">Follow extreme enduro rider Paul Bolton as he rides alongside Hard Enduro competitors at the season's finale.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/29/xbibdnwtr3mbtqbpbyld/paul-bolton-riding-red-bull-motorbike-in-serbia-fim-hard-enduro-race"/>
-  </programme>
   <programme channel="redbull.com" start="20250401214446+0000" stop="20250401220710+0000">
     <title lang="en">Best of Bolton – Xross Hard Enduro Rally</title>
     <desc lang="en">Enjoy the best onboard moments following Red Bull Hard Enduro riders as they race for the win in Serbia.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/jdlnqxz4nve0e3be9jf1/dario-costa-wingsuit-flying-through-catalca-tunnels-in-turkey"/>
+  </programme>
+  <programme channel="redbull.com" start="20250402065200+0000" stop="20250402071836+0000">
+    <title lang="en">From a paper plane contest to diving off ruins </title>
+    <desc lang="en">Red Bull athletes do it all, from diving off ancient ruins to acing a paper plane competition.  </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/5/orl9mdkwzi4y5qrhjbri/red-bull-racing-swamp-buggy-max-verstappen-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20250402071836+0000" stop="20250402074436+0000">
+    <title lang="en">From skateboarding out a plane to 180m wall climb</title>
+    <desc lang="en">Red Bull athletes do it all, from freerunning through an airport to building a skatepark in the forest.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/u2jrgximnynso9wn4vue/andrzej-bargiel"/>
+  </programme>
+  <programme channel="redbull.com" start="20250402074436+0000" stop="20250402081036+0000">
+    <title lang="en">From BASE jumping a cave to a flying mega swing </title>
+    <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iww612k42herg2tme0kr/marco-fuerst-base-jumping"/>
   </programme>
 </tv>
