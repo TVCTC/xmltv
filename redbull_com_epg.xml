@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-02 20:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-02 21:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250402173523+0000" stop="20250402180359+0000">
-    <title lang="en">Best moments of 2023</title>
-    <desc lang="en">From Xross Hard Enduro to GetzenRodeo, relive the best moments from the 2023 Hard Enduro World Championship.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/21/cbofzivks1dlqjaft3kb/manuel-lettenbichler-red-bull-outliers-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250402180359+0000" stop="20250402182058+0000">
-    <title lang="en">Best of Bolton – 24MX Hixpania Hard Enduro</title>
-    <desc lang="en">Follow extreme enduro rider Paul Bolton as he rides alongside Hard Enduro competitors at the season's finale.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/29/xbibdnwtr3mbtqbpbyld/paul-bolton-riding-red-bull-motorbike-in-serbia-fim-hard-enduro-race"/>
-  </programme>
-  <programme channel="redbull.com" start="20250402182058+0000" stop="20250402184321+0000">
-    <title lang="en">Best of Bolton – Xross Hard Enduro Rally</title>
-    <desc lang="en">Enjoy the best onboard moments following Red Bull Hard Enduro riders as they race for the win in Serbia.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/26/ydplinj0ornnnmekwfw4/michael-walkner-xross-hard-enduro-rally-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250402184321+0000" stop="20250402185805+0000">
-    <title lang="en">Best of Bolton – Hixpania Hard Enduro</title>
-    <desc lang="en">Enjoy the best onboard moments with Paul Bolton at the Hixpania Hard Enduro.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/4/v1chtiqlts4qtqdodn5a/paul-bolton-red-bull-romaniacs-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250402185805+0000" stop="20250402192317+0000">
-    <title lang="en">Completing a classic Honda Hawk RC31 restoration</title>
-    <desc lang="en">Aaron Colton gets back to the street with his latest project build of the classic Honda Hawk RC31.</desc>
-    <category lang="en">Motorbike Stuntriding </category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/24/nsm8sfrmsb0snfltp43i/bike-builds-with-aaron-colton-s1-e6-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250402192317+0000" stop="20250402201514+0000">
     <title lang="en">Greatest moments – Argentina</title>
     <desc lang="en">Take a look back at the greatest moments and biggest incidents from Rally Argentina's history.</desc>
@@ -154,5 +124,35 @@
     <desc lang="en">Red Bull athletes do it all, from diving off ancient ruins to acing a paper plane competition.  </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/5/orl9mdkwzi4y5qrhjbri/red-bull-racing-swamp-buggy-max-verstappen-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20250403041604+0000" stop="20250403044204+0000">
+    <title lang="en">From skateboarding out a plane to 180m wall climb</title>
+    <desc lang="en">Red Bull athletes do it all, from freerunning through an airport to building a skatepark in the forest.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/u2jrgximnynso9wn4vue/andrzej-bargiel"/>
+  </programme>
+  <programme channel="redbull.com" start="20250403044204+0000" stop="20250403050840+0000">
+    <title lang="en">From BASE jumping a cave to a flying mega swing </title>
+    <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iww612k42herg2tme0kr/marco-fuerst-base-jumping"/>
+  </programme>
+  <programme channel="redbull.com" start="20250403050840+0000" stop="20250403053440+0000">
+    <title lang="en">From freerunning Greek isles to skiing the Streif</title>
+    <desc lang="en">Red Bull athletes do it all, from skiing down the steepest run at night to slacklining during an eclipse.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/pafocedw24uyj8uzbkjm/dominic-di-tommaso-hazal-nehir-istanbul-2021"/>
+  </programme>
+  <programme channel="redbull.com" start="20250403053440+0000" stop="20250403060000+0000">
+    <title lang="en">XCO and DH highlights – Val di Sole</title>
+    <desc lang="en">Watch the cross-country and downhill highlights from the sixth stop of the 2024 World Cup season in Italy.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/19/y6x4qjm4qqwfhqctl1v7/alan-hatherly-uci-xco-world-cup-val-di-sole-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250403060000+0000" stop="20250403062600+0000">
+    <title lang="en">From wingsuits to parachutes</title>
+    <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/cps0jjbpnepwe6qtmphb/leticia-bufoni-california-2022"/>
   </programme>
 </tv>
