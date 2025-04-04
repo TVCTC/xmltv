@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-04 07:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-04 08:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250404044039+0000" stop="20250404052449+0000">
-    <title lang="en">WSL Abu Dhabi Pro wrap show</title>
-    <desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/grgodpvyqhg2grunxuqy/kanoa-igarashi-surfing-surf-abu-dhabi-pro-quarter-finals-hudayriyat-island-abu-dhabi-united-arab-emirates"/>
-  </programme>
-  <programme channel="redbull.com" start="20250404052449+0000" stop="20250404055312+0000">
-    <title lang="en">Dude Cruise</title>
-    <desc lang="en">The DC Shoes surf team hit the road in Australia for a two-week road trip.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/nq8gek3f3ote9vwfgrhe/dane-reynolds-oahu-2015"/>
-  </programme>
   <programme channel="redbull.com" start="20250404055312+0000" stop="20250404060000+0000">
     <title lang="en">Danny MacAskill's Gymnasium</title>
     <desc lang="en">Marvel at Danny MacAskill's crazy trials skills as he takes to the gymnasium on his bike.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Jason Hearn turns the lens on his native South Africa to explore its rich and complex surfing past.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZRC8U2J55N11/fo-1zrc8u2j55n11-featuremedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250404172043+0000" stop="20250404173814+0000">
+    <title lang="en">Yeah buddy – part 1</title>
+    <desc lang="en">Aussie climbing prodigy Angie Scarth-Johnson and Hazel Findlay explore Mallorca’s deep-water soloing routes.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/11/cax0dq8vgzmltqx8y9yi/angie-scarth-johnson-rock-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250404173814+0000" stop="20250404175521+0000">
+    <title lang="en">Yeah buddy – part 2</title>
+    <desc lang="en">Angie Scarth-Johnson faces the mental challenge of climbing comp Psicobloc, overcoming fears of deep waters.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/kqtu1mxtrklmmykzxgni/angie-scarth-johnson-free-climbing"/>
   </programme>
 </tv>
