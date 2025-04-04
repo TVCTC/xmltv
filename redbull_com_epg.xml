@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-04 14:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-04 15:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250404115027+0000" stop="20250404120726+0000">
-    <title lang="en">Best of Bolton – 24MX Hixpania Hard Enduro</title>
-    <desc lang="en">Follow extreme enduro rider Paul Bolton as he rides alongside Hard Enduro competitors at the season's finale.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/29/xbibdnwtr3mbtqbpbyld/paul-bolton-riding-red-bull-motorbike-in-serbia-fim-hard-enduro-race"/>
-  </programme>
-  <programme channel="redbull.com" start="20250404120726+0000" stop="20250404122949+0000">
-    <title lang="en">Best of Bolton – Xross Hard Enduro Rally</title>
-    <desc lang="en">Enjoy the best onboard moments following Red Bull Hard Enduro riders as they race for the win in Serbia.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/26/ydplinj0ornnnmekwfw4/michael-walkner-xross-hard-enduro-rally-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250404122949+0000" stop="20250404124509+0000">
-    <title lang="en">Best of Bolton – Hixpania Hard Enduro</title>
-    <desc lang="en">Enjoy the best onboard moments with Paul Bolton at the Hixpania Hard Enduro.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/4/v1chtiqlts4qtqdodn5a/paul-bolton-red-bull-romaniacs-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20250404124509+0000" stop="20250404130945+0000">
     <title lang="en">Completing a classic Honda Hawk RC31 restoration</title>
     <desc lang="en">Aaron Colton gets back to the street with his latest project build of the classic Honda Hawk RC31.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Red Bull athletes do it all, from freerunning through an airport to building a skatepark in the forest.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/u2jrgximnynso9wn4vue/andrzej-bargiel"/>
+  </programme>
+  <programme channel="redbull.com" start="20250404222944+0000" stop="20250404225544+0000">
+    <title lang="en">From BASE jumping a cave to a flying mega swing </title>
+    <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iww612k42herg2tme0kr/marco-fuerst-base-jumping"/>
+  </programme>
+  <programme channel="redbull.com" start="20250404225544+0000" stop="20250404232144+0000">
+    <title lang="en">From freerunning Greek isles to skiing the Streif</title>
+    <desc lang="en">Red Bull athletes do it all, from skiing down the steepest run at night to slacklining during an eclipse.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/pafocedw24uyj8uzbkjm/dominic-di-tommaso-hazal-nehir-istanbul-2021"/>
+  </programme>
+  <programme channel="redbull.com" start="20250404232144+0000" stop="20250404234820+0000">
+    <title lang="en">From soapbox madness to skydiving with an FMX bike</title>
+    <desc lang="en">Red Bull athletes do it all, from skydiving with a motocross bike to riding rally cars on frozen lakes. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iltxmuy0dpylwgiezemw/red-bull-dance-your-style-lausanne-final-aceko-performance-2024"/>
   </programme>
 </tv>
