@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-04 01:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-04 02:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250403215011+0000" stop="20250403222138+0000">
-    <title lang="en">Black Pearl </title>
-    <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/g2b9nw1mf0wxn5fumqfd/chris-sharma-climbs-black-pearl-mallorca"/>
-  </programme>
-  <programme channel="redbull.com" start="20250403222138+0000" stop="20250403224040+0000">
-    <title lang="en">The puzzle</title>
-    <desc lang="en">Brette Harrington climbs the Chinese Puzzle Wall, completing a route begun by her late partner, Marc-André.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/tnhr1misd9vpkxouefvo/brette-harrington-chinese-puzzle-wall"/>
-  </programme>
   <programme channel="redbull.com" start="20250403224040+0000" stop="20250403225645+0000">
     <title lang="en">Charles at large</title>
     <desc lang="en">Barefoot boulderer Charles Albert conquers his hardest route – L'Ombre du Voyageur in Switzerland. </desc>
@@ -154,5 +142,17 @@
     <desc lang="en">The Innsbruck stop saw five major mountain bike competitions take place. Catch up with all the action here.</desc>
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/6/23/ozqaeohgv4mcndk4ynka/crankworx-innsbruck-full-highlights-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250404100518+0000" stop="20250404103118+0000">
+    <title lang="en">Downhill recap – Lourdes</title>
+    <desc lang="en">Watch the full recap from the first downhill stop of the UCI Mountain Bike World Cup season in Lourdes.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/15/ifrahthvlr4zdwy8jbjk/finn-iles-lourdes-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20250404103118+0000" stop="20250404112227+0000">
+    <title lang="en">Esperanto</title>
+    <desc lang="en">Esperanto explores how dreams can be shared through the universal two-wheeled language of cycling.</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/23/hyyihfqinrqdzghqxlri/esperanto-hero-art"/>
   </programme>
 </tv>
