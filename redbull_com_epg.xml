@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-06 12:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-06 13:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250406084140+0000" stop="20250406093522+0000">
-    <title lang="en">Castles in the Sky</title>
-    <desc lang="en">This is as close to the experience of pioneering new coastlines as you can get without getting on a plane.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/12/q8wngrrxic3cpsh7sli6/dane-reynolds-haleiwa-2015"/>
-  </programme>
   <programme channel="redbull.com" start="20250406093522+0000" stop="20250406100202+0000">
     <title lang="en">The Last Step</title>
     <desc lang="en">See young talent from climbing, surf and skate as they prepare for the most important event of their careers.</desc>
@@ -148,5 +142,11 @@
     <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iww612k42herg2tme0kr/marco-fuerst-base-jumping"/>
+  </programme>
+  <programme channel="redbull.com" start="20250406214500+0000" stop="20250406221136+0000">
+    <title lang="en">From freerunning Greek isles to skiing the Streif</title>
+    <desc lang="en">Red Bull athletes do it all, from skiing down the steepest run at night to slacklining during an eclipse.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/pafocedw24uyj8uzbkjm/dominic-di-tommaso-hazal-nehir-istanbul-2021"/>
   </programme>
 </tv>
