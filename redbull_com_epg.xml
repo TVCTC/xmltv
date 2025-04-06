@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-06 18:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-06 19:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250406145321+0000" stop="20250406151442+0000">
-    <title lang="en">Friday the 17th</title>
-    <desc lang="en">Some of the world's best surfers attempt acting in a 1950s-style horror film – all while surfing at elite level.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/vk6dopvlkgnzkwhilrqm/friday-the-17th-surf-film"/>
-  </programme>
-  <programme channel="redbull.com" start="20250406151442+0000" stop="20250406154054+0000">
-    <title lang="en">Leon Glatzer surfs Costa Rica</title>
-    <desc lang="en">Leon Glatzer unpacks the incredible history of Pavones and explores its thriving roots surf scene. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/11/keco6olelsxc7210nuv1/no-contest-off-tour-s1-e4-leon-glatzer"/>
-  </programme>
-  <programme channel="redbull.com" start="20250406154054+0000" stop="20250406155734+0000">
-    <title lang="en">Charles at large</title>
-    <desc lang="en">Barefoot boulderer Charles Albert conquers his hardest route – L'Ombre du Voyageur in Switzerland. </desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/fvcfk1syjigfz9vh2aam/barefoot-boulderer-charles-albert-climbing-l-ombre-du-voyageur"/>
-  </programme>
-  <programme channel="redbull.com" start="20250406155734+0000" stop="20250406162905+0000">
-    <title lang="en">Dropping Molly</title>
-    <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
-    <category lang="en">Bouldering</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/hzbjjsd9kg5knno3grxo/molly-mitchell-bouldering"/>
-  </programme>
   <programme channel="redbull.com" start="20250406162905+0000" stop="20250406165505+0000">
     <title lang="en">From F1 soapbox racing to breaking world records</title>
     <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/ynqwuqdbhxclhxuwztm0/alejandro-galan-miami-premier-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250407042925+0000" stop="20250407051325+0000">
+    <title lang="en">Coldwater Journal</title>
+    <desc lang="en">Follow surfer and filmmaker Ben Weiland on his decade-long journey to explore the world's coastlines.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YS6FXQNN5N11/FO-1YS6FXQNN5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250406190003+0000" stop="20250406194539+0000">
+    <title lang="en">This Time Tomorrow</title>
+    <desc lang="en">Dave Rastovich and Craig Anderson follow an epic Pacific swell over eight days and 18,000 miles.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/22/wbitjjytiejpnj3nymh7/this-time-tomorrow-header"/>
+  </programme>
+  <programme channel="redbull.com" start="20250407060000+0000" stop="20250407064429+0000">
+    <title lang="en">Hallowed Ground </title>
+    <desc lang="en">Follow Hurley team riders through their usual skating haunts to get their views of skateboarding.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/c6j7zgvojn8pkeidswke/steve-alba-skateboarding-2013"/>
+  </programme>
+  <programme channel="redbull.com" start="20250407064429+0000" stop="20250407071109+0000">
+    <title lang="en">The Last Step</title>
+    <desc lang="en">See young talent from climbing, surf and skate as they prepare for the most important event of their careers.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/zgmuhpa7ydol2n6siube/the-last-step-documentary-climbing-oriane-bertone-skateboard-vincent-matheron-surf-kauli-vaast"/>
   </programme>
 </tv>
