@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-06 02:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-06 03:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250405223306+0000" stop="20250405234452+0000">
-    <title lang="en">Stranger than Fiction</title>
-    <desc lang="en">Scandal erupts as news leaks that high-performance surfing movies are all just smoke and mirrors.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/f5icevyc2k643g1vqjdz/dane-reynolds-oahu-hawaii-2015"/>
-  </programme>
   <programme channel="redbull.com" start="20250405234452+0000" stop="20250406002249+0000">
     <title lang="en">Trilogy</title>
     <desc lang="en">Get a rare insight into the lives of three great surfers: Andy Irons, Joel Parkinson and Taj Burrow.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Jason Hearn turns the lens on his native South Africa to explore its rich and complex surfing past.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZRC8U2J55N11/fo-1zrc8u2j55n11-featuremedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250406113203+0000" stop="20250406114933+0000">
+    <title lang="en">Yeah buddy – part 1</title>
+    <desc lang="en">Aussie climbing prodigy Angie Scarth-Johnson and Hazel Findlay explore Mallorca’s deep-water soloing routes.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/11/cax0dq8vgzmltqx8y9yi/angie-scarth-johnson-rock-climbing"/>
   </programme>
 </tv>
