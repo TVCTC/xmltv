@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-06 11:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-06 12:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250406065405+0000" stop="20250406071917+0000">
-    <title lang="en">Completing a classic Honda Hawk RC31 restoration</title>
-    <desc lang="en">Aaron Colton gets back to the street with his latest project build of the classic Honda Hawk RC31.</desc>
-    <category lang="en">Motorbike Stuntriding </category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/24/nsm8sfrmsb0snfltp43i/bike-builds-with-aaron-colton-s1-e6-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250406071917+0000" stop="20250406084140+0000">
-    <title lang="en">Bella Vita</title>
-    <desc lang="en">The waves of the Italian coast call surfer Chris Del Moro on a pilgrimage back to his ancestral homeland.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1NSYER48D2111/FO-1NSYER48D2111-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250406084140+0000" stop="20250406093522+0000">
     <title lang="en">Castles in the Sky</title>
     <desc lang="en">This is as close to the experience of pioneering new coastlines as you can get without getting on a plane.</desc>
@@ -148,5 +136,17 @@
     <desc lang="en">Red Bull athletes do it all, from diving off ancient ruins to acing a paper plane competition.  </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/5/orl9mdkwzi4y5qrhjbri/red-bull-racing-swamp-buggy-max-verstappen-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20250406205300+0000" stop="20250406211900+0000">
+    <title lang="en">From skateboarding out a plane to 180m wall climb</title>
+    <desc lang="en">Red Bull athletes do it all, from freerunning through an airport to building a skatepark in the forest.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/u2jrgximnynso9wn4vue/andrzej-bargiel"/>
+  </programme>
+  <programme channel="redbull.com" start="20250406211900+0000" stop="20250406214500+0000">
+    <title lang="en">From BASE jumping a cave to a flying mega swing </title>
+    <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iww612k42herg2tme0kr/marco-fuerst-base-jumping"/>
   </programme>
 </tv>
