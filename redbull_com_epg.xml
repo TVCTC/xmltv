@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-07 19:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-07 20:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250407151419+0000" stop="20250407155905+0000">
-    <title lang="en">WSL Abu Dhabi Pro wrap show</title>
-    <desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/grgodpvyqhg2grunxuqy/kanoa-igarashi-surfing-surf-abu-dhabi-pro-quarter-finals-hudayriyat-island-abu-dhabi-united-arab-emirates"/>
-  </programme>
-  <programme channel="redbull.com" start="20250407155905+0000" stop="20250407164239+0000">
-    <title lang="en">WSL MEO Rip Curl Pro Portugal wrap show</title>
-    <desc lang="en">Who was crowned king and queen of Supertubos? Watch highlights of finals day at MEO Rip Curl Pro Portugal. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/jz2yrcmch22rarlhzk2t/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250407164239+0000" stop="20250407172715+0000">
-    <title lang="en">WSL Lexus Pipe Pro</title>
-    <desc lang="en">You're granted access-all-areas at the WSL Championship Tour 2025 season opening event, the Lexus Pipe Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/26/hcc1odpn6ogks2lqslbs/caitlin-simmers-on-pipeline-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250407172715+0000" stop="20250407181115+0000">
     <title lang="en">WSL Surf Abu Dhabi Pro</title>
     <desc lang="en">Take an access-all-areas tour of the Abu Dhabi Pro, as the 2025 WSL Championship Tour unleashes in the UAE.</desc>
@@ -125,13 +107,7 @@
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/25/lhqik4pbc5dqzvjixn2w/ryan-decenzo-jake-wooten-alex-sorgente-margie-didal-zion-wright-torey-pudwill-yumeka-oda-max-habanec-kyoto-japan"/>
   </programme>
-  <programme channel="redbull.com" start="20250408033235+0000" stop="20250408042424+0000">
-    <title lang="en">Campaign 2</title>
-    <desc lang="en">The highly anticipated sequel to Campaign features Kelly Slater, Andy Irons and Shane Dorian.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/9/u1mkfizwruvsgcvlok01/dane-reynolds-hawaii-2015"/>
-  </programme>
-  <programme channel="redbull.com" start="20250408042424+0000" stop="20250408043905+0000">
+  <programme channel="redbull.com" start="20250408033235+0000" stop="20250408043905+0000">
     <title lang="en">The mother city</title>
     <desc lang="en">Jason Hearn turns the lens on his native South Africa to explore its rich and complex surfing past.</desc>
     <category lang="en">Surfing</category>
@@ -148,5 +124,29 @@
     <desc lang="en">Aussie climbing prodigy Angie Scarth-Johnson and Hazel Findlay explore Mallorca’s deep-water soloing routes.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/11/cax0dq8vgzmltqx8y9yi/angie-scarth-johnson-rock-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250408052036+0000" stop="20250408053343+0000">
+    <title lang="en">Daily recap 4 – Manuel Lettenbichler victorious at Xross Hard Enduro Rally</title>
+    <desc lang="en">Manuel Lettenbichler claims victory at the opening round of the FIM Hard Enduro World Championship in Serbia. </desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/21/mqlcurbif1d9aynhgohk/manuel-lettenbichler-xcoss-hard-enduro"/>
+  </programme>
+  <programme channel="redbull.com" start="20250408053343+0000" stop="20250408055503+0000">
+    <title lang="en">Best DH runs since 2012</title>
+    <desc lang="en">Take a look back at the greatest downhill runs from past events that are still mind-blowing years later.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/7/piijcwxasqribwbea8l8/best-dhi-runs-since-2012-rbtv-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250408055503+0000" stop="20250408060000+0000">
+    <title lang="en">Kade Edwards destroys Dyfi Bike Park</title>
+    <desc lang="en">Enjoy the sound of speed as British mountain bike rider Kade Edwards rips up Dyfi Bike Park in Wales. </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/doge7u1jj7vxmsg8m1sq/kade-edwards-dyfi-bike-park"/>
+  </programme>
+  <programme channel="redbull.com" start="20250408060000+0000" stop="20250408064410+0000">
+    <title lang="en">WSL Lexus Pipe Pro wrap show</title>
+    <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
   </programme>
 </tv>
