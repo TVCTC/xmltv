@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-07 12:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-07 13:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250407093624+0000" stop="20250407100054+0000">
-    <title lang="en">With my heart</title>
-    <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
-  </programme>
-  <programme channel="redbull.com" start="20250407100054+0000" stop="20250407103145+0000">
-    <title lang="en">Black Pearl </title>
-    <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/g2b9nw1mf0wxn5fumqfd/chris-sharma-climbs-black-pearl-mallorca"/>
-  </programme>
-  <programme channel="redbull.com" start="20250407103145+0000" stop="20250407105048+0000">
-    <title lang="en">The puzzle</title>
-    <desc lang="en">Brette Harrington climbs the Chinese Puzzle Wall, completing a route begun by her late partner, Marc-André.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/tnhr1misd9vpkxouefvo/brette-harrington-chinese-puzzle-wall"/>
-  </programme>
   <programme channel="redbull.com" start="20250407105048+0000" stop="20250407110728+0000">
     <title lang="en">Charles at large</title>
     <desc lang="en">Barefoot boulderer Charles Albert conquers his hardest route – L'Ombre du Voyageur in Switzerland. </desc>
@@ -148,5 +130,23 @@
     <desc lang="en">Take a look back at the greatest moments and biggest incidents from Rally Argentina's history.</desc>
     <category lang="en">WRC</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/24/tx9d1szq6zklfgw9sfnp/wrc-52-greatest-moments-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250408012041+0000" stop="20250408014719+0000">
+    <title lang="en">ABC of… Formula One</title>
+    <desc lang="en">Get a crash course in F1 racing, with lessons in the terminology, history, heroes and drama of the sport.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1W11S3SCH5N11/FO-1W11S3SCH5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250408014719+0000" stop="20250408015719+0000">
+    <title lang="en">Four-way battle: F1, drift, rallycross and truck vehicles face off</title>
+    <desc lang="en">Patrick Friesacher, ‘Mad' Mike, Scott Speed and Andrew Carlson race F1, drift, rallycross and Pro4 vehicles.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/26/azfjbw5hudtpgb4htutn/ultimate-racetrack-andrew-carlson-pro4-mike-whiddett-drift-scott-speed-rallycross-patrick-friesacher-f1"/>
+  </programme>
+  <programme channel="redbull.com" start="20250408015719+0000" stop="20250408024224+0000">
+    <title lang="en">Hallowed Ground </title>
+    <desc lang="en">Follow Hurley team riders through their usual skating haunts to get their views of skateboarding.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/c6j7zgvojn8pkeidswke/steve-alba-skateboarding-2013"/>
   </programme>
 </tv>
