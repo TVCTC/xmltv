@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-07 18:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-07 19:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250407143009+0000" stop="20250407151419+0000">
-    <title lang="en">WSL Lexus Pipe Pro wrap show</title>
-    <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250407151419+0000" stop="20250407155905+0000">
     <title lang="en">WSL Abu Dhabi Pro wrap show</title>
     <desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</desc>
@@ -148,5 +142,11 @@
     <desc lang="en">Michel Bourez and Kauli Vaast take you on a tour of beautiful islands of Tahiti. </desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/uywqkknj6cylyanrdz1n/kauli-vaast-no-contest-s2-e3-tahiti"/>
+  </programme>
+  <programme channel="redbull.com" start="20250408050341+0000" stop="20250408052036+0000">
+    <title lang="en">Yeah buddy – part 1</title>
+    <desc lang="en">Aussie climbing prodigy Angie Scarth-Johnson and Hazel Findlay explore Mallorca’s deep-water soloing routes.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/11/cax0dq8vgzmltqx8y9yi/angie-scarth-johnson-rock-climbing"/>
   </programme>
 </tv>
