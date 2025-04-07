@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-07 07:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-07 08:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250407003232+0000" stop="20250407011643+0000">
-    <title lang="en">WSL MEO Rip Curl Pro Portugal wrap show</title>
-    <desc lang="en">Who was crowned king and queen of Supertubos? Watch highlights of finals day at MEO Rip Curl Pro Portugal. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/jz2yrcmch22rarlhzk2t/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250407011643+0000" stop="20250407020042+0000">
-    <title lang="en">WSL Lexus Pipe Pro</title>
-    <desc lang="en">You're granted access-all-areas at the WSL Championship Tour 2025 season opening event, the Lexus Pipe Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/26/hcc1odpn6ogks2lqslbs/caitlin-simmers-on-pipeline-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250407020042+0000" stop="20250407024518+0000">
-    <title lang="en">WSL Surf Abu Dhabi Pro</title>
-    <desc lang="en">Take an access-all-areas tour of the Abu Dhabi Pro, as the 2025 WSL Championship Tour unleashes in the UAE.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/3/trfvt17zqaghmxssqotl/italo-ferreira-on-wsl-surf-abu-dhabi-pro-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250407024518+0000" stop="20250407031106+0000">
     <title lang="en">Riyadh Premier Padel highlights</title>
     <desc lang="en">Watch the highlights from Saudia Arabia as the Riyadh Premier Padel P1 took centre stage. </desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
     <category lang="en">F1</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250407143009+0000" stop="20250407151419+0000">
+    <title lang="en">WSL Lexus Pipe Pro wrap show</title>
+    <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250407151419+0000" stop="20250407155905+0000">
+    <title lang="en">WSL Abu Dhabi Pro wrap show</title>
+    <desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/grgodpvyqhg2grunxuqy/kanoa-igarashi-surfing-surf-abu-dhabi-pro-quarter-finals-hudayriyat-island-abu-dhabi-united-arab-emirates"/>
+  </programme>
+  <programme channel="redbull.com" start="20250407155905+0000" stop="20250407164239+0000">
+    <title lang="en">WSL MEO Rip Curl Pro Portugal wrap show</title>
+    <desc lang="en">Who was crowned king and queen of Supertubos? Watch highlights of finals day at MEO Rip Curl Pro Portugal. </desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/jz2yrcmch22rarlhzk2t/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
   </programme>
 </tv>
