@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-08 23:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-09 00:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250408194115+0000" stop="20250408215326+0000">
-    <title lang="en">Downhill finals – Lousã</title>
-    <desc lang="en">Riders dug deep for the final event of the 2020 UCI Mountain Bike World Cup season in Lousã, Portugal.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/11/3/x7yie4wrxxvswfock0kw/uci-2020-lousa-recap-program-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250408215326+0000" stop="20250408233236+0000">
     <title lang="en">Valley Uprising</title>
     <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Leticia Bufoni, Margy Didal, Lore Bruggeman and Aldana Bertran let loose in London's Natural History Museum.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/13/jtxc3fukqmwjeeeykjrx/skate-the-museum-image"/>
+  </programme>
+  <programme channel="redbull.com" start="20250409092939+0000" stop="20250409094508+0000">
+    <title lang="en">Evan Mock – NYC skater blending style and stardom </title>
+    <desc lang="en">Evan Mock's unique blend of skate style and NYC's A-list charm redefines cool with effortless flair. </desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/ot0g5dfqzoheygg9bmpq/madars-apse-evan-mock-skate-tales-new-york"/>
   </programme>
 </tv>
