@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-09 19:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-09 20:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250409153458+0000" stop="20250409160051+0000">
-    <title lang="en">The Streif – Fabio Wibmer</title>
-    <desc lang="en">Experience Fabio Wibmer's breathtaking MTB ride down the iconic Streif downhill ski course in Austria.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/15/uik6hbze5irm0vss0r5q/the-streif-fabio-wibmer-header"/>
-  </programme>
-  <programme channel="redbull.com" start="20250409160051+0000" stop="20250409162527+0000">
-    <title lang="en">DH and XCO highlights – Mont-Sainte-Anne</title>
-    <desc lang="en">Watch the cross-country and downhill highlights from Mont-Sainte-Anne to wrap up the 2024 World Cup season.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/9/bgntv1bug6uzbabtfbzp/vlad-dascalu-racing-uci-xco-world-cup-mont-sainte-anne-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250409162527+0000" stop="20250409174408+0000">
-    <title lang="en">Highlight Show Rampage 2023</title>
-    <desc lang="en">Watch the best moments of Red Bull Rampage including all top to bottom runs.  </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/kp92a5bvrxlsmsyjrtfz/jaxson-riddle"/>
-  </programme>
   <programme channel="redbull.com" start="20250409174408+0000" stop="20250409180955+0000">
     <title lang="en">Riyadh Premier Padel highlights</title>
     <desc lang="en">Watch the highlights from Saudia Arabia as the Riyadh Premier Padel P1 took centre stage. </desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Barefoot boulderer Charles Albert conquers his hardest route – L'Ombre du Voyageur in Switzerland. </desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/fvcfk1syjigfz9vh2aam/barefoot-boulderer-charles-albert-climbing-l-ombre-du-voyageur"/>
+  </programme>
+  <programme channel="redbull.com" start="20250410054722+0000" stop="20250410060000+0000">
+    <title lang="en">Behind the scenes at Red Bull Hardline Australia</title>
+    <desc lang="en">Host Caroline Buchanan goes behind the scenes with riders ahead of Red Bull Hardline Australia 2025.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/7/qyeiqdatyumz9exq1vtt/matt-jones-hardline-australia-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250410060000+0000" stop="20250410063131+0000">
+    <title lang="en">Dropping Molly</title>
+    <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
+    <category lang="en">Bouldering</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/hzbjjsd9kg5knno3grxo/molly-mitchell-bouldering"/>
+  </programme>
+  <programme channel="redbull.com" start="20250410063131+0000" stop="20250410065430+0000">
+    <title lang="en">Skate the Museum</title>
+    <desc lang="en">Leticia Bufoni, Margy Didal, Lore Bruggeman and Aldana Bertran let loose in London's Natural History Museum.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/13/jtxc3fukqmwjeeeykjrx/skate-the-museum-image"/>
   </programme>
 </tv>
