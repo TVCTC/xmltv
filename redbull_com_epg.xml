@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-09 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-09 05:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250409005112+0000" stop="20250409011712+0000">
+    <title lang="en">From wingsuits to parachutes</title>
+    <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/cps0jjbpnepwe6qtmphb/leticia-bufoni-california-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20250409011712+0000" stop="20250409012513+0000">
+    <title lang="en">Clmbxr: growing diversity in climbing</title>
+    <desc lang="en">Learn about Clmbxr, an inspiring community that celebrates diversity in the world of climbing.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/6/30/lcvc6gjwqenn12bjz79b/stories-in-motion-s02-e06-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250409012513+0000" stop="20250409015305+0000">
+    <title lang="en">Elite climbers compete at Verzasca Dam</title>
+    <desc lang="en">Look back at the best bits as 24 of the world’s best climbers go head to head at Red Bull Dual Ascent 2023.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/9/vpbs0htflubulplolnyi/petra-klingler-red-bull-dual-ascent-2023"/>
+  </programme>
   <programme channel="redbull.com" start="20250409015305+0000" stop="20250409022935+0000">
     <title lang="en">Red Bull Dual Ascent</title>
     <desc lang="en">Sixteen world-class athletes on eight teams battle to be the fastest up a wall of six gruelling pitches.</desc>
@@ -136,23 +154,5 @@
     <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
-  </programme>
-  <programme channel="redbull.com" start="20250409114840+0000" stop="20250409121516+0000">
-    <title lang="en">From skydiving with skis to flying into a volcano</title>
-    <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/jdlnqxz4nve0e3be9jf1/dario-costa-wingsuit-flying-through-catalca-tunnels-in-turkey"/>
-  </programme>
-  <programme channel="redbull.com" start="20250409121516+0000" stop="20250409124116+0000">
-    <title lang="en">From a paper plane contest to diving off ruins </title>
-    <desc lang="en">Red Bull athletes do it all, from diving off ancient ruins to acing a paper plane competition.  </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/5/orl9mdkwzi4y5qrhjbri/red-bull-racing-swamp-buggy-max-verstappen-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20250409124116+0000" stop="20250409130752+0000">
-    <title lang="en">From skateboarding out a plane to 180m wall climb</title>
-    <desc lang="en">Red Bull athletes do it all, from freerunning through an airport to building a skatepark in the forest.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/u2jrgximnynso9wn4vue/andrzej-bargiel"/>
   </programme>
 </tv>
