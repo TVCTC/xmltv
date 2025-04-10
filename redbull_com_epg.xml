@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-10 19:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-10 20:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250410165103+0000" stop="20250410170932+0000">
-    <title lang="en">Deep roots part 1</title>
-    <desc lang="en">Lonnie Kauk goes on a personal journey to honour his indigenous roots and repeat his father's iconic climbs.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/12/d9ze5msjdlszmyusd7bh/reel-rock-s7-e4-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250410170932+0000" stop="20250410172922+0000">
-    <title lang="en">Deep roots part 2</title>
-    <desc lang="en">Lonnie Kauk goes on a personal journey to honour his indigenous roots and repeat his father's iconic climbs.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/12/jhvab6fkhufhzgblebch/reel-rock-s7-e5-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250410172922+0000" stop="20250410182125+0000">
     <title lang="en">Downhill finals – Lousã</title>
     <desc lang="en">Riders dug deep for the final event of the 2020 UCI Mountain Bike World Cup season in Lousã, Portugal.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Enjoy the sound of speed as British mountain bike rider Kade Edwards rips up Dyfi Bike Park in Wales. </desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/doge7u1jj7vxmsg8m1sq/kade-edwards-dyfi-bike-park"/>
+  </programme>
+  <programme channel="redbull.com" start="20250411060000+0000" stop="20250411062600+0000">
+    <title lang="en">From a pinball human to 93kph speed skating</title>
+    <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
+  </programme>
+  <programme channel="redbull.com" start="20250411062600+0000" stop="20250411065200+0000">
+    <title lang="en">From skydiving with skis to flying into a volcano</title>
+    <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/jdlnqxz4nve0e3be9jf1/dario-costa-wingsuit-flying-through-catalca-tunnels-in-turkey"/>
   </programme>
 </tv>
