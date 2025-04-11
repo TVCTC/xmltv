@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-11 16:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-11 17:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250411113851+0000" stop="20250411120207+0000">
-    <title lang="en">The high road part 1</title>
-    <desc lang="en">Follow the rise of Nina Williams as she astounds the climbing world with a series of spectacular ascents.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/6/24/smcwx6luq0gfq6f5hnap/the-high-road-reel-rock-s6e1-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250411120207+0000" stop="20250411122050+0000">
-    <title lang="en">The high road part 2</title>
-    <desc lang="en">Nina Williams hones in on an outrageous new objective: a 15m-tall boulder called Too Big to Flail.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/6/24/glvm1qszdnzni7lf5hva/the-high-road-reel-rock-s6e2-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250411122050+0000" stop="20250411124413+0000">
-    <title lang="en">United States of Joe's</title>
-    <desc lang="en">A band of climbers discover thousands of sandstone boulders, and launch the American bouldering revolution.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/6/24/mjrr3awfkolbywwjjone/the-high-road-reel-rock-s6e3-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250411124413+0000" stop="20250411130542+0000">
-    <title lang="en">The Nose speed record part 1</title>
-    <desc lang="en">Alex Honnold and Tommy Caldwell introduce us to the speed record on The Nose route up El Capitan, California.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/6/24/if9oihvtergu5kwdfxbz/the-high-road-reel-rock-s6e4-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250411130542+0000" stop="20250411135655+0000">
     <title lang="en">Wings for Life World Run: Inside the Biggest Race</title>
     <desc lang="en">Wings for Life World Run is a global sports and charity phenomenon, and it unites people worldwide.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
     <category lang="en">Bouldering</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/hzbjjsd9kg5knno3grxo/molly-mitchell-bouldering"/>
+  </programme>
+  <programme channel="redbull.com" start="20250412022207+0000" stop="20250412024506+0000">
+    <title lang="en">Skate the Museum</title>
+    <desc lang="en">Leticia Bufoni, Margy Didal, Lore Bruggeman and Aldana Bertran let loose in London's Natural History Museum.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/13/jtxc3fukqmwjeeeykjrx/skate-the-museum-image"/>
+  </programme>
+  <programme channel="redbull.com" start="20250412024506+0000" stop="20250412030035+0000">
+    <title lang="en">Evan Mock – NYC skater blending style and stardom </title>
+    <desc lang="en">Evan Mock's unique blend of skate style and NYC's A-list charm redefines cool with effortless flair. </desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/ot0g5dfqzoheygg9bmpq/madars-apse-evan-mock-skate-tales-new-york"/>
+  </programme>
+  <programme channel="redbull.com" start="20250412030035+0000" stop="20250412041848+0000">
+    <title lang="en">Sébastien Ogier: The Final Season</title>
+    <desc lang="en">Discover how Sébastien Ogier won his eighth and last world title before calling time on his career.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/27/akixgmlupkcesyfssake/the-final-season-sebastien-ogier-rally-kenya"/>
+  </programme>
+  <programme channel="redbull.com" start="20250412041848+0000" stop="20250412044448+0000">
+    <title lang="en">From skydiving with skis to flying into a volcano</title>
+    <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/jdlnqxz4nve0e3be9jf1/dario-costa-wingsuit-flying-through-catalca-tunnels-in-turkey"/>
   </programme>
 </tv>
