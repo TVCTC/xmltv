@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-13 01:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-13 02:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250412214353+0000" stop="20250412215922+0000">
-    <title lang="en">Evan Mock – NYC skater blending style and stardom </title>
-    <desc lang="en">Evan Mock's unique blend of skate style and NYC's A-list charm redefines cool with effortless flair. </desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/ot0g5dfqzoheygg9bmpq/madars-apse-evan-mock-skate-tales-new-york"/>
-  </programme>
-  <programme channel="redbull.com" start="20250412215922+0000" stop="20250412231735+0000">
-    <title lang="en">Sébastien Ogier: The Final Season</title>
-    <desc lang="en">Discover how Sébastien Ogier won his eighth and last world title before calling time on his career.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/27/akixgmlupkcesyfssake/the-final-season-sebastien-ogier-rally-kenya"/>
-  </programme>
-  <programme channel="redbull.com" start="20250412231735+0000" stop="20250412234335+0000">
-    <title lang="en">From F1 soapbox racing to breaking world records</title>
-    <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
-  </programme>
   <programme channel="redbull.com" start="20250412234335+0000" stop="20250413000935+0000">
     <title lang="en">From a pinball human to 93kph speed skating</title>
     <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">After Boston's urban landscape, divers headed to the natural cliffs of Italy's picturesque Polignano a Mare.</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/h835bvjrh3fwuk4fxbta/andrea-barnaba"/>
+  </programme>
+  <programme channel="redbull.com" start="20250413100224+0000" stop="20250413102240+0000">
+    <title lang="en">Prologue</title>
+    <desc lang="en">Get a look at what motivates four of the world's best competitive surfers.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YPYV8WYW5N11/FO-1YPYV8WYW5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250413102240+0000" stop="20250413111440+0000">
+    <title lang="en">Red Bull Cliff Diving – Stop 5 Norway </title>
+    <desc lang="en">With three stops left, the series returns to Oslo with a 100ft platform, the longest in its history. </desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/16/elcy9qfooxaydz3gii1f/red-bull-cliff-diving-world-series-oslo-opera-house-meili-carpenter-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250413111440+0000" stop="20250413120000+0000">
+    <title lang="en">WSL Lexus Pipe Pro wrap show</title>
+    <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
   </programme>
 </tv>
