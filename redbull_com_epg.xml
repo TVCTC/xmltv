@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-14 14:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-14 15:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250414085213+0000" stop="20250414093659+0000">
+    <title lang="en">WSL Lexus Pipe Pro wrap show</title>
+    <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
+  </programme>
   <programme channel="redbull.com" start="20250414093659+0000" stop="20250414102109+0000">
     <title lang="en">WSL Abu Dhabi Pro wrap show</title>
     <desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">Welcome to the dizzying, squealing rage of South Africa’s adrenaline-sparking motorsport: spinning.</desc>
     <category lang="en">Drifting</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/8/25/upmdrn93p8d1gfdebtxr/red-bull-shay-imoto-2019-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250414211946+0000" stop="20250414212617+0000">
-    <title lang="en">3rd place battle round 3 – Riga</title>
-    <desc lang="en">Watch the intense battle that unfolded between Conor Shanahan, Piotr Więcek and Adam Zalewski.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/7/31/sfmyu3isp7mxz3xg7pw5/adam-zalewski-drift-masters-european-championship-riga"/>
   </programme>
 </tv>
