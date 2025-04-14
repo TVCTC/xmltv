@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-14 20:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-14 21:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250414144417+0000" stop="20250414150057+0000">
-    <title lang="en">Charles at large</title>
-    <desc lang="en">Barefoot boulderer Charles Albert conquers his hardest route – L'Ombre du Voyageur in Switzerland. </desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/fvcfk1syjigfz9vh2aam/barefoot-boulderer-charles-albert-climbing-l-ombre-du-voyageur"/>
-  </programme>
-  <programme channel="redbull.com" start="20250414150057+0000" stop="20250414153228+0000">
-    <title lang="en">Dropping Molly</title>
-    <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
-    <category lang="en">Bouldering</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/hzbjjsd9kg5knno3grxo/molly-mitchell-bouldering"/>
-  </programme>
-  <programme channel="redbull.com" start="20250414153228+0000" stop="20250414155527+0000">
-    <title lang="en">Skate the Museum</title>
-    <desc lang="en">Leticia Bufoni, Margy Didal, Lore Bruggeman and Aldana Bertran let loose in London's Natural History Museum.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/13/jtxc3fukqmwjeeeykjrx/skate-the-museum-image"/>
-  </programme>
-  <programme channel="redbull.com" start="20250414155527+0000" stop="20250414161056+0000">
-    <title lang="en">Evan Mock – NYC skater blending style and stardom </title>
-    <desc lang="en">Evan Mock's unique blend of skate style and NYC's A-list charm redefines cool with effortless flair. </desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/ot0g5dfqzoheygg9bmpq/madars-apse-evan-mock-skate-tales-new-york"/>
-  </programme>
   <programme channel="redbull.com" start="20250414161056+0000" stop="20250414172910+0000">
     <title lang="en">Sébastien Ogier: The Final Season</title>
     <desc lang="en">Discover how Sébastien Ogier won his eighth and last world title before calling time on his career.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iww612k42herg2tme0kr/marco-fuerst-base-jumping"/>
+  </programme>
+  <programme channel="redbull.com" start="20250415030332+0000" stop="20250415032932+0000">
+    <title lang="en">From freerunning Greek isles to skiing the Streif</title>
+    <desc lang="en">Red Bull athletes do it all, from skiing down the steepest run at night to slacklining during an eclipse.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/pafocedw24uyj8uzbkjm/dominic-di-tommaso-hazal-nehir-istanbul-2021"/>
+  </programme>
+  <programme channel="redbull.com" start="20250415032932+0000" stop="20250415035608+0000">
+    <title lang="en">From soapbox madness to skydiving with an FMX bike</title>
+    <desc lang="en">Red Bull athletes do it all, from skydiving with a motocross bike to riding rally cars on frozen lakes. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iltxmuy0dpylwgiezemw/red-bull-dance-your-style-lausanne-final-aceko-performance-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250415035608+0000" stop="20250415042208+0000">
+    <title lang="en">From wingsuits to parachutes</title>
+    <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/cps0jjbpnepwe6qtmphb/leticia-bufoni-california-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20250415042208+0000" stop="20250415045321+0000">
+    <title lang="en">In the Wings</title>
+    <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
   </programme>
 </tv>
