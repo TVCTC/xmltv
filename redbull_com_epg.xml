@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-15 07:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-15 08:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250415045321+0000" stop="20250415051525+0000">
-    <title lang="en">Jack Miller</title>
-    <desc lang="en">The MotoGP™ winner talks about his life and hobbies, including a love for fishing in Andorra.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/5/6/fsz1ed7dmwzsuhsn2bfp/off-the-racing-line-s1-e2-jack-miller-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250415051525+0000" stop="20250415052946+0000">
-    <title lang="en">Daily recap 2 – Manuel Lettenbichler leads Xross Hard Enduro Rally</title>
-    <desc lang="en">Stay up to date with the latest from the Xross Hard Enduro Rally as Manuel Lettenbichler takes an early lead.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/19/waueqh95j23cchuiyezh/manuel-lettenbichler-xross-serbia-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20250415052946+0000" stop="20250415055533+0000">
     <title lang="en">Riyadh Premier Padel highlights</title>
     <desc lang="en">Watch the highlights from Saudia Arabia as the Riyadh Premier Padel P1 took centre stage. </desc>
@@ -95,13 +83,13 @@
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/pafocedw24uyj8uzbkjm/dominic-di-tommaso-hazal-nehir-istanbul-2021"/>
   </programme>
-  <programme channel="redbull.com" start="20250415032932+0000" stop="20250415035608+0000">
+  <programme channel="redbull.com" start="20250415104718+0000" stop="20250415111354+0000">
     <title lang="en">From soapbox madness to skydiving with an FMX bike</title>
     <desc lang="en">Red Bull athletes do it all, from skydiving with a motocross bike to riding rally cars on frozen lakes. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iltxmuy0dpylwgiezemw/red-bull-dance-your-style-lausanne-final-aceko-performance-2024"/>
   </programme>
-  <programme channel="redbull.com" start="20250415035608+0000" stop="20250415042208+0000">
+  <programme channel="redbull.com" start="20250415111354+0000" stop="20250415113954+0000">
     <title lang="en">From wingsuits to parachutes</title>
     <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
     <category lang="en">Sport</category>
@@ -154,5 +142,17 @@
     <desc lang="en">Watch divers leap from El Nido’s towering limestone cliffs into crystal waters at season opener from the Philippines.</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/13/lodpbxhetzpckx7td4cp/kaylea-arnett-red-bull-cliff-diving-2025-el-nido-philippines"/>
+  </programme>
+  <programme channel="redbull.com" start="20250415171856+0000" stop="20250415174647+0000">
+    <title lang="en">Mateus Herdy explores Florianópolis</title>
+    <desc lang="en">Mateus Herdy takes us the entire 600km stretch of Santa Catarina to meet the crew in Florianópolis. </desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/11/hipgjhihjjw95rrn2azh/no-contest-off-tour-s1-e5-mateus-herdy-floripa"/>
+  </programme>
+  <programme channel="redbull.com" start="20250415174647+0000" stop="20250415183021+0000">
+    <title lang="en">WSL MEO Rip Curl Pro Portugal wrap show</title>
+    <desc lang="en">Who was crowned king and queen of Supertubos? Watch highlights of finals day at MEO Rip Curl Pro Portugal. </desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/jz2yrcmch22rarlhzk2t/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
   </programme>
 </tv>
