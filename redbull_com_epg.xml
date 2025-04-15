@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-15 17:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-15 18:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250415131801+0000" stop="20250415140237+0000">
-    <title lang="en">Kasso 2024 – part 1 </title>
-    <desc lang="en">Guest competitors Leo Romero, Madars Apse and Wes Kremer take on wild and obstacle-laden skate courses.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/rkp9d9ninbxkvmi4e8rp/madars-apse-kasso-japan-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250415140237+0000" stop="20250415141652+0000">
-    <title lang="en">Jamie Foy in Tokyo</title>
-    <desc lang="en">Enjoy full access to the international skate life as Jamie Foy goes behind the scenes of Uprising Tokyo 2023.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/fa6obkztvdxez3bwvdd8/jamie-foy-tokyo-uprising"/>
-  </programme>
-  <programme channel="redbull.com" start="20250415141652+0000" stop="20250415150138+0000">
-    <title lang="en">WSL Lexus Pipe Pro wrap show</title>
-    <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250415150138+0000" stop="20250415154624+0000">
-    <title lang="en">WSL Abu Dhabi Pro wrap show</title>
-    <desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/grgodpvyqhg2grunxuqy/kanoa-igarashi-surfing-surf-abu-dhabi-pro-quarter-finals-hudayriyat-island-abu-dhabi-united-arab-emirates"/>
-  </programme>
   <programme channel="redbull.com" start="20250415154624+0000" stop="20250415171856+0000">
     <title lang="en">Red Bull Cliff Diving Philippines</title>
     <desc lang="en">Watch divers leap from El Nido’s towering limestone cliffs into crystal waters at season opener from the Philippines.</desc>
@@ -148,5 +124,29 @@
     <desc lang="en">Barefoot boulderer Charles Albert conquers his hardest route – L'Ombre du Voyageur in Switzerland. </desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/fvcfk1syjigfz9vh2aam/barefoot-boulderer-charles-albert-climbing-l-ombre-du-voyageur"/>
+  </programme>
+  <programme channel="redbull.com" start="20250416023918+0000" stop="20250416031049+0000">
+    <title lang="en">Dropping Molly</title>
+    <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
+    <category lang="en">Bouldering</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/hzbjjsd9kg5knno3grxo/molly-mitchell-bouldering"/>
+  </programme>
+  <programme channel="redbull.com" start="20250416031049+0000" stop="20250416033127+0000">
+    <title lang="en">Infinita Patagonia</title>
+    <desc lang="en">Nadine Wallner ventured to the rarely skied location of El Chaltén, Argentina, for some serious alpinism.</desc>
+    <category lang="en">Freeskiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/4/eeerdp0sqel7uaglzw3x/infinita-patagonia-nadine-wallner-freeski"/>
+  </programme>
+  <programme channel="redbull.com" start="20250416033127+0000" stop="20250416034423+0000">
+    <title lang="en">Behind the scenes at Red Bull Hardline Australia</title>
+    <desc lang="en">Host Caroline Buchanan goes behind the scenes with riders ahead of Red Bull Hardline Australia 2025.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/7/qyeiqdatyumz9exq1vtt/matt-jones-hardline-australia-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250416034423+0000" stop="20250416041023+0000">
+    <title lang="en">From F1 soapbox racing to breaking world records</title>
+    <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
   </programme>
 </tv>
