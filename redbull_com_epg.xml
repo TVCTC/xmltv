@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-16 01:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-16 02:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250415224747+0000" stop="20250415230824+0000">
-    <title lang="en">Momentum: Angie Scarth-Johnson</title>
-    <desc lang="en">Spend a year touring the world with Australia’s Angie Scarth-Johnson as she pushes the boundaries of climbing.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/20/jaaohxwjtljbh9ffnrqk/momentum-angie-scarth-johnson"/>
-  </programme>
-  <programme channel="redbull.com" start="20250415230824+0000" stop="20250415233528+0000">
-    <title lang="en">Red Bull Dual Ascent – highlights</title>
-    <desc lang="en">World-class climbers in 10 teams battled to be the fastest up the wall during a head-to-head 180m-high ascent.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/6/b4j4cc9iaxi5glbwj4ho/jessica-pilz-climbing-180m-route-verzasca-dam-red-bull-dual-ascent-switzerland-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250415233528+0000" stop="20250415235204+0000">
-    <title lang="en">Beneath the Ice</title>
-    <desc lang="en">Will Gadd uses his unmatched ice climbing skills and knowledge to lead a scientific expedition into a previously unexplored territory beneath the Greenland ice sheet.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/12/aaeetjdfgzyopom0pddl/beneath-the-ice-will-gadd-greenland"/>
-  </programme>
   <programme channel="redbull.com" start="20250415235204+0000" stop="20250416000251+0000">
     <title lang="en">Magic backpacks</title>
     <desc lang="en">BASE jumpers Hayley Ashburn and Marshall Miller ascend and leap from a massive stone tower in Moab, Utah, USA.</desc>
@@ -148,5 +130,23 @@
     <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
     <category lang="en">F1</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250416090827+0000" stop="20250416093428+0000">
+    <title lang="en">BP Ultimate Rally-Raid</title>
+    <desc lang="en">BP Ultimate Rally-Raid racers tackle a 1,000km course over five days across Portugal's diverse Alentejo region.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/14/j9hgefrempdgrguyxv3p/seth-quintero-bp-rally-raid-badajoz-spain-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250416093428+0000" stop="20250416100123+0000">
+    <title lang="en">Desafío Ruta 40 highlights</title>
+    <desc lang="en">The Desafío Ruta 40 rally-raid debuts in Córdoba, where breathtaking South American landscapes set the stage.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/9/qbl9mlaks5uoexi4jnjs/sam-sunderland-desafio-ruta-40-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250416100123+0000" stop="20250416102122+0000">
+    <title lang="en">Price to Dakar </title>
+    <desc lang="en">Going from two to four wheels, off-road legend Toby Price is on his way to the world's hardest rally: Dakar. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/cxbt1gf4k78gdna0zpqw/toby-price-red-bull-ktm-factory-racing-saudi-arabia-dakar-rally-2024"/>
   </programme>
 </tv>
