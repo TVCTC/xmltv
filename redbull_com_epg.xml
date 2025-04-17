@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-17 08:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-17 09:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250417054510+0000" stop="20250417060000+0000">
+    <title lang="en">Downhill finals highlights – Fort William</title>
+    <desc lang="en">Here’s what went down on the hillside of Fort William at the second downhill stop of 2022.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/23/vmomzobarvol4gillhge/downhill-finals-highlights-uci-fort-william-2022-vali-holl"/>
+  </programme>
+  <programme channel="redbull.com" start="20250417060000+0000" stop="20250417062601+0000">
+    <title lang="en">BP Ultimate Rally-Raid</title>
+    <desc lang="en">BP Ultimate Rally-Raid racers tackle a 1,000km course over five days across Portugal's diverse Alentejo region.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/14/j9hgefrempdgrguyxv3p/seth-quintero-bp-rally-raid-badajoz-spain-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250417062601+0000" stop="20250417065220+0000">
+    <title lang="en">Desafío Ruta 40 highlights</title>
+    <desc lang="en">The Desafío Ruta 40 rally-raid debuts in Córdoba, where breathtaking South American landscapes set the stage.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/9/qbl9mlaks5uoexi4jnjs/sam-sunderland-desafio-ruta-40-2024"/>
+  </programme>
   <programme channel="redbull.com" start="20250417065220+0000" stop="20250417071255+0000">
     <title lang="en">Price to Dakar </title>
     <desc lang="en">Going from two to four wheels, off-road legend Toby Price is on his way to the world's hardest rally: Dakar. </desc>
@@ -130,23 +148,5 @@
     <desc lang="en">Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/9/29/md2dbtv8ieiozav0jeq2/reckless-isolation-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250417184813+0000" stop="20250417191903+0000">
-    <title lang="en">Black Pearl </title>
-    <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/g2b9nw1mf0wxn5fumqfd/chris-sharma-climbs-black-pearl-mallorca"/>
-  </programme>
-  <programme channel="redbull.com" start="20250417191903+0000" stop="20250417193806+0000">
-    <title lang="en">The puzzle</title>
-    <desc lang="en">Brette Harrington climbs the Chinese Puzzle Wall, completing a route begun by her late partner, Marc-André.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/tnhr1misd9vpkxouefvo/brette-harrington-chinese-puzzle-wall"/>
-  </programme>
-  <programme channel="redbull.com" start="20250417193806+0000" stop="20250417195446+0000">
-    <title lang="en">Charles at large</title>
-    <desc lang="en">Barefoot boulderer Charles Albert conquers his hardest route – L'Ombre du Voyageur in Switzerland. </desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/fvcfk1syjigfz9vh2aam/barefoot-boulderer-charles-albert-climbing-l-ombre-du-voyageur"/>
   </programme>
 </tv>
