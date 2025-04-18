@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-18 06:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-18 07:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250418033807+0000" stop="20250418040502+0000">
-    <title lang="en">Desafío Ruta 40 highlights</title>
-    <desc lang="en">The Desafío Ruta 40 rally-raid debuts in Córdoba, where breathtaking South American landscapes set the stage.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/9/qbl9mlaks5uoexi4jnjs/sam-sunderland-desafio-ruta-40-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250418040502+0000" stop="20250418042501+0000">
-    <title lang="en">Price to Dakar </title>
-    <desc lang="en">Going from two to four wheels, off-road legend Toby Price is on his way to the world's hardest rally: Dakar. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/20/cxbt1gf4k78gdna0zpqw/toby-price-red-bull-ktm-factory-racing-saudi-arabia-dakar-rally-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20250418042501+0000" stop="20250418050901+0000">
     <title lang="en">Kasso 2024 – part 1 </title>
     <desc lang="en">Guest competitors Leo Romero, Madars Apse and Wes Kremer take on wild and obstacle-laden skate courses.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Host Caroline Buchanan goes behind the scenes with riders ahead of Red Bull Hardline Australia 2025.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/7/qyeiqdatyumz9exq1vtt/matt-jones-hardline-australia-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250418175803+0000" stop="20250418182403+0000">
+    <title lang="en">From F1 soapbox racing to breaking world records</title>
+    <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
+  </programme>
+  <programme channel="redbull.com" start="20250418182403+0000" stop="20250418185039+0000">
+    <title lang="en">From a pinball human to 93kph speed skating</title>
+    <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
   </programme>
 </tv>
