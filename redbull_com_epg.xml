@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-19 22:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-19 23:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250419192653+0000" stop="20250419195807+0000">
-    <title lang="en">In the Wings</title>
-    <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250419195807+0000" stop="20250419202408+0000">
-    <title lang="en">BP Ultimate Rally-Raid</title>
-    <desc lang="en">BP Ultimate Rally-Raid racers tackle a 1,000km course over five days across Portugal's diverse Alentejo region.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/14/j9hgefrempdgrguyxv3p/seth-quintero-bp-rally-raid-badajoz-spain-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250419202408+0000" stop="20250419205103+0000">
-    <title lang="en">Desafío Ruta 40 highlights</title>
-    <desc lang="en">The Desafío Ruta 40 rally-raid debuts in Córdoba, where breathtaking South American landscapes set the stage.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/9/qbl9mlaks5uoexi4jnjs/sam-sunderland-desafio-ruta-40-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20250419205103+0000" stop="20250419211102+0000">
     <title lang="en">Price to Dakar </title>
     <desc lang="en">Going from two to four wheels, off-road legend Toby Price is on his way to the world's hardest rally: Dakar. </desc>
@@ -154,5 +136,23 @@
     <desc lang="en">BASE jumpers Hayley Ashburn and Marshall Miller ascend and leap from a massive stone tower in Moab, Utah, USA.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1P7DY9WE12111/FO-1P7DY9WE12111-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250420074540+0000" stop="20250420082451+0000">
+    <title lang="en">Drive Thru California</title>
+    <desc lang="en">Donavon Frankenreiter, Timmy Curran, Greg Browning and Shawn Barron journey down the coast of California.	 </desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/mo3lybqitmyq3xalxj0e/drive-thru-california-header"/>
+  </programme>
+  <programme channel="redbull.com" start="20250420082451+0000" stop="20250420091231+0000">
+    <title lang="en">Reckless Isolation</title>
+    <desc lang="en">Kolohe Andino and crew score perfect, crowd-free waves during a dream trip to Indonesia’s Mentawai Islands.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/9/29/md2dbtv8ieiozav0jeq2/reckless-isolation-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250420091231+0000" stop="20250420094321+0000">
+    <title lang="en">Black Pearl </title>
+    <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/g2b9nw1mf0wxn5fumqfd/chris-sharma-climbs-black-pearl-mallorca"/>
   </programme>
 </tv>
