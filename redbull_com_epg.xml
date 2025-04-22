@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-22 11:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-22 12:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250422074406+0000" stop="20250422081028+0000">
+    <title lang="en">DH recap show – Lenzerheide </title>
+    <desc lang="en">Catch up on all the DH action from Lenzerheide, the halfway point of the UCI Mountain Bike World Cup 2022.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/21/z6bzdps7pou5qo2kfvrg/uci-world-cup-lenzerheide-2022-dh-myriam-nicole-rachel-atherton"/>
+  </programme>
+  <programme channel="redbull.com" start="20250422081028+0000" stop="20250422084300+0000">
+    <title lang="en">20 Years of Red Bull Valparaíso Cerro Abajo</title>
+    <desc lang="en">Relive 20 years of the largest urban downhill race in the world that began as an idea among friends.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/grv8ijzyrwhtsstkoas3/red-bull-valparaiso-cerro-abajo-2023"/>
+  </programme>
   <programme channel="redbull.com" start="20250422084300+0000" stop="20250422090946+0000">
     <title lang="en">Best of Bolton – Sea to Sky</title>
     <desc lang="en">Ride with extreme enduro rider Paul Bolton alongside Hard Enduro heroes fighting for the win at Sea to Sky.</desc>
@@ -142,17 +154,5 @@
     <desc lang="en">The 2021 DMEC season got underway with a first-ever double-header in Greinbach, Austria.</desc>
     <category lang="en">Drifting</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/8/2/snhazhcpwcx02izh0alg/drift-masters-european-championship-2021-full-recap"/>
-  </programme>
-  <programme channel="redbull.com" start="20250422203448+0000" stop="20250422204312+0000">
-    <title lang="en">F1 drivers vs hovercraft </title>
-    <desc lang="en">Watch F1 drivers go head-to-head in sci-fi hovercraft racing, deep in the desert outside Las Vegas.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/16/yp3uykk2yvhbnyviock7/f1-drivers-las-vegas-desert"/>
-  </programme>
-  <programme channel="redbull.com" start="20250422204312+0000" stop="20250422210043+0000">
-    <title lang="en">Yeah buddy – part 1</title>
-    <desc lang="en">Aussie climbing prodigy Angie Scarth-Johnson and Hazel Findlay explore Mallorca’s deep-water soloing routes.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/11/cax0dq8vgzmltqx8y9yi/angie-scarth-johnson-rock-climbing"/>
   </programme>
 </tv>
