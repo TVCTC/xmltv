@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-22 19:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-22 20:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250422143937+0000" stop="20250422153745+0000">
-    <title lang="en">The Other Side of Fear</title>
-    <desc lang="en">The inspirational tale of big wave surfer and keynote speaker Mark Mathews and his journey back from disaster.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/10/15/pm8qnrh2gxbr6x5ej4ol/the-other-side-of-fear-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250422153745+0000" stop="20250422161724+0000">
     <title lang="en">Momentum</title>
     <desc lang="en">Momentum features the first sections of New School surfers Kelly Slater, Rob Machado, Shane Dorian and more.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Barefoot boulderer Charles Albert conquers his hardest route – L'Ombre du Voyageur in Switzerland. </desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/fvcfk1syjigfz9vh2aam/barefoot-boulderer-charles-albert-climbing-l-ombre-du-voyageur"/>
+  </programme>
+  <programme channel="redbull.com" start="20250423023441+0000" stop="20250423030612+0000">
+    <title lang="en">Dropping Molly</title>
+    <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
+    <category lang="en">Bouldering</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/hzbjjsd9kg5knno3grxo/molly-mitchell-bouldering"/>
   </programme>
 </tv>
