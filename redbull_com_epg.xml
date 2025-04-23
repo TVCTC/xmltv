@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-23 08:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-23 09:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250423055248+0000" stop="20250423060000+0000">
-    <title lang="en">Harriet Burbidge-Smith – Australian style</title>
-    <desc lang="en">Enjoy the stripped-back action as Harriet Burbidge-Smith puts it down at Maydena Bike Park, Tasmania.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/12/gcrqinxlygohlvqlere8/mtb-raw-s3-e1-harriet-burbidge-smith"/>
-  </programme>
-  <programme channel="redbull.com" start="20250423060000+0000" stop="20250423062640+0000">
-    <title lang="en">ABC of... Hard Enduro</title>
-    <desc lang="en">Take a down-and-dirty crash course in all things Hard Enduro, motocross's toughest discipline.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1S8C8H9KD5N11/FO-1S8C8H9KD5N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250423062640+0000" stop="20250423065830+0000">
     <title lang="en">In the Wings</title>
     <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Angie Scarth-Johnson faces the mental challenge of climbing comp Psicobloc, overcoming fears of deep waters.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/kqtu1mxtrklmmykzxgni/angie-scarth-johnson-free-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250423180342+0000" stop="20250423182419+0000">
+    <title lang="en">Soundscape</title>
+    <desc lang="en">Blind adventure athlete and author Erik Weihenmayer ascends a massive rock face deep in the Sierra Nevada.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/mhjtsqjvnivnsdlsrqop/erik-weihenmayer-rock-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250423052854+0000" stop="20250423055248+0000">
+    <title lang="en">With my heart</title>
+    <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
   </programme>
 </tv>
