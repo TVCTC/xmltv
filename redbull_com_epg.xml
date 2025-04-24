@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-24 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-24 05:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250424014112+0000" stop="20250424023225+0000">
-    <title lang="en">Wings for Life World Run: Inside the Biggest Race</title>
-    <desc lang="en">Wings for Life World Run is a global sports and charity phenomenon, and it unites people worldwide.</desc>
-    <category lang="en">Fitness Training</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/25/htymotketu5j2h33fnk3/wings-for-life-world-run-cape-town-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20250424023225+0000" stop="20250424025946+0000">
     <title lang="en">Best of Bolton – Sea to Sky</title>
     <desc lang="en">Ride with extreme enduro rider Paul Bolton alongside Hard Enduro heroes fighting for the win at Sea to Sky.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">The 2021 DMEC season got underway with a first-ever double-header in Greinbach, Austria.</desc>
     <category lang="en">Drifting</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/8/2/snhazhcpwcx02izh0alg/drift-masters-european-championship-2021-full-recap"/>
+  </programme>
+  <programme channel="redbull.com" start="20250424140004+0000" stop="20250424140828+0000">
+    <title lang="en">F1 drivers vs hovercraft </title>
+    <desc lang="en">Watch F1 drivers go head-to-head in sci-fi hovercraft racing, deep in the desert outside Las Vegas.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/16/yp3uykk2yvhbnyviock7/f1-drivers-las-vegas-desert"/>
   </programme>
 </tv>
