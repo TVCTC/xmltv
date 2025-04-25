@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-25 14:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-25 15:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250425114004+0000" stop="20250425120117+0000">
-    <title lang="en">Soundscape</title>
-    <desc lang="en">Blind adventure athlete and author Erik Weihenmayer ascends a massive rock face deep in the Sierra Nevada.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/mhjtsqjvnivnsdlsrqop/erik-weihenmayer-rock-climbing"/>
-  </programme>
-  <programme channel="redbull.com" start="20250425120117+0000" stop="20250425122511+0000">
-    <title lang="en">With my heart</title>
-    <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
-  </programme>
   <programme channel="redbull.com" start="20250425122511+0000" stop="20250425131700+0000">
     <title lang="en">Wings for Life World Run: Inside the Biggest Race</title>
     <desc lang="en">Wings for Life World Run is a global sports and charity phenomenon, and it unites people worldwide.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
+  </programme>
+  <programme channel="redbull.com" start="20250426003506+0000" stop="20250426010106+0000">
+    <title lang="en">From a pinball human to 93kph speed skating</title>
+    <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
+  </programme>
+  <programme channel="redbull.com" start="20250426010106+0000" stop="20250426012706+0000">
+    <title lang="en">From skydiving with skis to flying into a volcano</title>
+    <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/jdlnqxz4nve0e3be9jf1/dario-costa-wingsuit-flying-through-catalca-tunnels-in-turkey"/>
   </programme>
 </tv>
