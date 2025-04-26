@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-26 14:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-26 15:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250426093431+0000" stop="20250426101314+0000">
-    <title lang="en">Sipping Jetstreams</title>
-    <desc lang="en">On location in Cuba, Italy, Hong Kong, Barbados and Japan, this is a photo-journey of discovery and adventure.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/xx3alssn3olbzlhsk3pj/bruce-irons-hossegor-2016-surfing"/>
-  </programme>
-  <programme channel="redbull.com" start="20250426101314+0000" stop="20250426105400+0000">
-    <title lang="en">True to This</title>
-    <desc lang="en">Celebrate Volcom's fusion of surf, skate and snowboarding in a cinematic journey of rebellious attitude.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/2/gdzdz7ctatn8hluyhrme/true-to-this"/>
-  </programme>
   <programme channel="redbull.com" start="20250426105400+0000" stop="20250426111401+0000">
     <title lang="en">Red Gerard vs Austen Sweetin</title>
     <desc lang="en">The Froth Goblin vs The Golden Boy: Washington’s Austen Sweetin and Colorado’s Red Gerard duel at Scarp Ridge.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">See the best of the action from Paul Bolton at GetzenRodeo, stop 6 of the 2023 FIM Hard Enduro World Champs.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/xoq7sywylhrgu1izfe8f/paul-bolton"/>
+  </programme>
+  <programme channel="redbull.com" start="20250426211454+0000" stop="20250426214130+0000">
+    <title lang="en">From F1 soapbox racing to breaking world records</title>
+    <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
+  </programme>
+  <programme channel="redbull.com" start="20250426214130+0000" stop="20250426220730+0000">
+    <title lang="en">From a pinball human to 93kph speed skating</title>
+    <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
   </programme>
 </tv>
