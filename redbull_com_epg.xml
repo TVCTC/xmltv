@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-26 01:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-26 02:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250425214857+0000" stop="20250425224010+0000">
-    <title lang="en">Wings for Life World Run: Inside the Biggest Race</title>
-    <desc lang="en">Wings for Life World Run is a global sports and charity phenomenon, and it unites people worldwide.</desc>
-    <category lang="en">Fitness Training</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/25/htymotketu5j2h33fnk3/wings-for-life-world-run-cape-town-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20250425224010+0000" stop="20250425232456+0000">
     <title lang="en">WSL Abu Dhabi Pro wrap show</title>
     <desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
+  </programme>
+  <programme channel="redbull.com" start="20250426093431+0000" stop="20250426101314+0000">
+    <title lang="en">Sipping Jetstreams</title>
+    <desc lang="en">On location in Cuba, Italy, Hong Kong, Barbados and Japan, this is a photo-journey of discovery and adventure.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/8/xx3alssn3olbzlhsk3pj/bruce-irons-hossegor-2016-surfing"/>
   </programme>
 </tv>
