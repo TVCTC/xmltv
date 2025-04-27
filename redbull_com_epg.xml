@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-27 19:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-27 20:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250427165224+0000" stop="20250427171824+0000">
-    <title lang="en">From a pinball human to 93kph speed skating</title>
-    <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
-  </programme>
-  <programme channel="redbull.com" start="20250427171824+0000" stop="20250427174424+0000">
-    <title lang="en">From skydiving with skis to flying into a volcano</title>
-    <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/jdlnqxz4nve0e3be9jf1/dario-costa-wingsuit-flying-through-catalca-tunnels-in-turkey"/>
-  </programme>
-  <programme channel="redbull.com" start="20250427174424+0000" stop="20250427181141+0000">
-    <title lang="en">ASO Andalucía Rally</title>
-    <desc lang="en">After an extremely enjoyable debut in 2020, the Andalucía Rally is back on the calendar for 2021.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/5/6/tnubnblferzzs4vzpsfo/cross-country-rallies-world-cup-s2021-e1-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250427181141+0000" stop="20250427183344+0000">
-    <title lang="en">Abu Dhabi Desert Challenge</title>
-    <desc lang="en">The legendary Abu Dhabi Desert Challenge is one of the world’s most prestigious cross country rallies.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/11/17/wuv1xmlzqriqxncfzxzn/cross-country-rallies-world-cup-s2021-e4-abu-dhabi-desert-challenge-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250427183344+0000" stop="20250427185929+0000">
     <title lang="en">ABC of... Drifting</title>
     <desc lang="en">Drift driver Dave Egan gives the lowdown on the motorsport that's all about speed, style, smoke and skill.</desc>
@@ -41,7 +17,7 @@
     <category lang="en">Drifting</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/8/25/upmdrn93p8d1gfdebtxr/red-bull-shay-imoto-2019-art"/>
   </programme>
-  <programme channel="redbull.com" start="20250427153435+0000" stop="20250427162548+0000">
+  <programme channel="redbull.com" start="20250427192738+0000" stop="20250427201851+0000">
     <title lang="en">Wings for Life World Run: Inside the Biggest Race</title>
     <desc lang="en">Wings for Life World Run is a global sports and charity phenomenon, and it unites people worldwide.</desc>
     <category lang="en">Fitness Training</category>
@@ -154,5 +130,29 @@
     <desc lang="en">Angie Scarth-Johnson faces the mental challenge of climbing comp Psicobloc, overcoming fears of deep waters.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/kqtu1mxtrklmmykzxgni/angie-scarth-johnson-free-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250428032308+0000" stop="20250428034345+0000">
+    <title lang="en">Soundscape</title>
+    <desc lang="en">Blind adventure athlete and author Erik Weihenmayer ascends a massive rock face deep in the Sierra Nevada.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/mhjtsqjvnivnsdlsrqop/erik-weihenmayer-rock-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250428034345+0000" stop="20250428040815+0000">
+    <title lang="en">With my heart</title>
+    <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
+  </programme>
+  <programme channel="redbull.com" start="20250428040815+0000" stop="20250428043114+0000">
+    <title lang="en">Skate the Museum</title>
+    <desc lang="en">Leticia Bufoni, Margy Didal, Lore Bruggeman and Aldana Bertran let loose in London's Natural History Museum.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/13/jtxc3fukqmwjeeeykjrx/skate-the-museum-image"/>
+  </programme>
+  <programme channel="redbull.com" start="20250428043114+0000" stop="20250428052956+0000">
+    <title lang="en">Reverence</title>
+    <desc lang="en">Delve deep into the psyche of elite mountain bike athletes to uncover how they face and use fear.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/10/16/4f609b22-e375-43b4-ad00-f64dad5d9a3e/reverence_landscape_hero"/>
   </programme>
 </tv>
