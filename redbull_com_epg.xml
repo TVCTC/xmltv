@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-28 07:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-28 08:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250428055012+0000" stop="20250428060000+0000">
-    <title lang="en">Freeriding New Zealand with Harriet Burbidge-Smith</title>
-    <desc lang="en">Join MTB rider Harriet Burbidge-Smith as she squads up with the best to freeride new trails in New Zealand.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/11/qhu9i5hnbksl9ck5ezby/harriet-burbidge-smith-crankworx-whistler-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250428060000+0000" stop="20250428063400+0000">
-    <title lang="en">South America Tour</title>
-    <desc lang="en">Ryan Sheckler, Jamie Foy and the crew touch down on the most skate-crazy continent on Earth – South America.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/16/rgyh68fdvqt8ekzwr5gk/red-bull-drop-in-tour-florianopolis-skaters-group-photo"/>
-  </programme>
   <programme channel="redbull.com" start="20250428063400+0000" stop="20250428070116+0000">
     <title lang="en">Elite climbers compete at Verzasca Dam</title>
     <desc lang="en">Look back at the best bits as 24 of the world’s best climbers go head to head at Red Bull Dual Ascent 2023.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Relive the action from the third Major of the Premier Padel Season 2024 as Italy takes the main stage.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/lwozjjuxbuh1lsoad8xb/ale-galan-sevilla-premier-padel-p2-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250428180819+0000" stop="20250428183453+0000">
+    <title lang="en">Highlights – Bordeaux Premier Padel P2</title>
+    <desc lang="en">See the best moments from the action-packed Bordeaux Premier Padel P2 tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/kj8nobdgp207u02uj09c/thomas-leygue-bordeaux-premier-padel-p2-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250428183453+0000" stop="20250428190046+0000">
+    <title lang="en">France recap</title>
+    <desc lang="en">Watch the full recap from the second stop of Drift Masters European Championship 2019 in France.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZVEF4K8H5N11/FO-1ZVEF4K8H5N11-featureMedia"/>
   </programme>
 </tv>
