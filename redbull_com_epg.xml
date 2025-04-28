@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-28 08:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-28 09:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250428034345+0000" stop="20250428040815+0000">
+    <title lang="en">With my heart</title>
+    <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
+  </programme>
+  <programme channel="redbull.com" start="20250428040815+0000" stop="20250428043114+0000">
+    <title lang="en">Skate the Museum</title>
+    <desc lang="en">Leticia Bufoni, Margy Didal, Lore Bruggeman and Aldana Bertran let loose in London's Natural History Museum.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/13/jtxc3fukqmwjeeeykjrx/skate-the-museum-image"/>
+  </programme>
+  <programme channel="redbull.com" start="20250428043114+0000" stop="20250428052956+0000">
+    <title lang="en">Reverence</title>
+    <desc lang="en">Delve deep into the psyche of elite mountain bike athletes to uncover how they face and use fear.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/10/16/4f609b22-e375-43b4-ad00-f64dad5d9a3e/reverence_landscape_hero"/>
+  </programme>
+  <programme channel="redbull.com" start="20250428052956+0000" stop="20250428054419+0000">
+    <title lang="en">DH finals highlights – Vallnord</title>
+    <desc lang="en">Here’s what went down on the hillside in Vallnord at the fifth downhill UCI Mountain Bike World Cup of 2022.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/16/qb97vdln4dhiit04vv6t/dh-finals-highlights-vallnord-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250428054419+0000" stop="20250428055012+0000">
+    <title lang="en">Danny MacAskill's Gymnasium</title>
+    <desc lang="en">Marvel at Danny MacAskill's crazy trials skills as he takes to the gymnasium on his bike.</desc>
+    <category lang="en">Trial Biking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/1/7/sbf8w1uta2nop0tk1vly/danny-macaskill-gymnasium-pommel-horse"/>
+  </programme>
+  <programme channel="redbull.com" start="20250428055012+0000" stop="20250428060000+0000">
+    <title lang="en">Freeriding New Zealand with Harriet Burbidge-Smith</title>
+    <desc lang="en">Join MTB rider Harriet Burbidge-Smith as she squads up with the best to freeride new trails in New Zealand.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/11/qhu9i5hnbksl9ck5ezby/harriet-burbidge-smith-crankworx-whistler-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250428060000+0000" stop="20250428063400+0000">
+    <title lang="en">South America Tour</title>
+    <desc lang="en">Ryan Sheckler, Jamie Foy and the crew touch down on the most skate-crazy continent on Earth – South America.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/16/rgyh68fdvqt8ekzwr5gk/red-bull-drop-in-tour-florianopolis-skaters-group-photo"/>
+  </programme>
   <programme channel="redbull.com" start="20250428063400+0000" stop="20250428070116+0000">
     <title lang="en">Elite climbers compete at Verzasca Dam</title>
     <desc lang="en">Look back at the best bits as 24 of the world’s best climbers go head to head at Red Bull Dual Ascent 2023.</desc>
@@ -112,47 +154,5 @@
     <desc lang="en">Watch 26 rookies in their pursuit of glory at the Red Bull MotoGP™ Rookies Cup 2025 in Spain.</desc>
     <category lang="en">Red Bull Rookies Cup</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/28/hrkfdrvlo5mz1lqhswkt/maximo-quiles-leading-race-2-in-jerez-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250428150527+0000" stop="20250428153716+0000">
-    <title lang="en">In the Wings</title>
-    <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250428153716+0000" stop="20250428160433+0000">
-    <title lang="en">ABC of... Hard Enduro</title>
-    <desc lang="en">Take a down-and-dirty crash course in all things Hard Enduro, motocross's toughest discipline.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1S8C8H9KD5N11/FO-1S8C8H9KD5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250428160433+0000" stop="20250428170241+0000">
-    <title lang="en">The Other Side of Fear</title>
-    <desc lang="en">The inspirational tale of big wave surfer and keynote speaker Mark Mathews and his journey back from disaster.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/10/15/pm8qnrh2gxbr6x5ej4ol/the-other-side-of-fear-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250428170241+0000" stop="20250428174220+0000">
-    <title lang="en">Momentum</title>
-    <desc lang="en">Momentum features the first sections of New School surfers Kelly Slater, Rob Machado, Shane Dorian and more.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/22/ow1ixtflpdvwu18kl4qi/shane-dorian"/>
-  </programme>
-  <programme channel="redbull.com" start="20250428174220+0000" stop="20250428180819+0000">
-    <title lang="en">Highlights – BNL Italy Major Premier Padel</title>
-    <desc lang="en">Relive the action from the third Major of the Premier Padel Season 2024 as Italy takes the main stage.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/lwozjjuxbuh1lsoad8xb/ale-galan-sevilla-premier-padel-p2-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250428180819+0000" stop="20250428183453+0000">
-    <title lang="en">Highlights – Bordeaux Premier Padel P2</title>
-    <desc lang="en">See the best moments from the action-packed Bordeaux Premier Padel P2 tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/kj8nobdgp207u02uj09c/thomas-leygue-bordeaux-premier-padel-p2-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250428183453+0000" stop="20250428190046+0000">
-    <title lang="en">France recap</title>
-    <desc lang="en">Watch the full recap from the second stop of Drift Masters European Championship 2019 in France.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZVEF4K8H5N11/FO-1ZVEF4K8H5N11-featureMedia"/>
   </programme>
 </tv>
