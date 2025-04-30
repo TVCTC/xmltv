@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-30 10:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-04-30 11:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250430075459+0000" stop="20250430082100+0000">
-    <title lang="en">Abestone Hard Enduro recap</title>
-    <desc lang="en">In a new race for fans to enjoy, two days of action will culminate with 50 riders battling for the top prize.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/4/16/d4ca8xdn4yrlgswnwg7k/fim-round-3-abestone-hard-enduro-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250430082100+0000" stop="20250430084303+0000">
-    <title lang="en">Best of Bolton – Red Bull TKO</title>
-    <desc lang="en">Ride with extreme enduro rider Paul Bolton alongside Hard Enduro heroes fighting for the win at Red Bull TKO.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/29/u1luua7rdcznvkv7mqtc/trystan-hart-ktm-enduro-factory-racing-red-bull-tennessee-knockout-tko-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20250430084303+0000" stop="20250430085544+0000">
     <title lang="en">Best of Paul Bolton – GetzenRodeo</title>
     <desc lang="en">See the best of the action from Paul Bolton at GetzenRodeo, stop 6 of the 2023 FIM Hard Enduro World Champs.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Filled with iconic spots and endless hills, San Francisco is a legendary skate destination like no other.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/14/zslk6roqzregpycrnxyb/greetings-from-san-francisco"/>
+  </programme>
+  <programme channel="redbull.com" start="20250430201034+0000" stop="20250430205120+0000">
+    <title lang="en">True to This</title>
+    <desc lang="en">Celebrate Volcom's fusion of surf, skate and snowboarding in a cinematic journey of rebellious attitude.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/2/gdzdz7ctatn8hluyhrme/true-to-this"/>
+  </programme>
+  <programme channel="redbull.com" start="20250430205120+0000" stop="20250430210735+0000">
+    <title lang="en">Andy Anderson skates in Venice Beach</title>
+    <desc lang="en">Madars Apse meets Andy Anderson, the skateboarding phenom for all seasons who made being an outsider cool.  </desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/xwbfiowqjiwejm31s1sn/andy-anderson-skateboarding-venice-beach-during-skate-tales"/>
   </programme>
 </tv>
