@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-01 07:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-01 08:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250501042837+0000" stop="20250501055224+0000">
-    <title lang="en">The Engine Inside</title>
-    <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
-    <category lang="en">Cycling</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film"/>
-  </programme>
-  <programme channel="redbull.com" start="20250501055224+0000" stop="20250501060000+0000">
-    <title lang="en">The Sound of Wake</title>
-    <desc lang="en">Austrian wakeboarder Dom Hernler wakes around the most iconic locations from the film The Sound of Music.</desc>
-    <category lang="en">Wakeboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/7/29/mfyzwaeakkds7ou110zi/soundofwake_landscape_hero"/>
-  </programme>
-  <programme channel="redbull.com" start="20250501060000+0000" stop="20250501064410+0000">
-    <title lang="en">WSL Lexus Pipe Pro wrap show</title>
-    <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250501064410+0000" stop="20250501072856+0000">
     <title lang="en">WSL Abu Dhabi Pro wrap show</title>
     <desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Here’s what went down on the hillside of Lenzerheide for the third DH of 2022.</desc>
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/15/y8pagvjm8pnegccnaydd/uci-world-cup-lenzerheide-dh-2022-myriam-nicole"/>
+  </programme>
+  <programme channel="redbull.com" start="20250501192832+0000" stop="20250501194402+0000">
+    <title lang="en">Downhill finals highlights – Val di Sole</title>
+    <desc lang="en">Here’s what went down on the hillside of Val Di Sole at the eighth downhill stop of 2022.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/3/mku8xflk5sl2tzqcbftj/dh-val-di-sole-world-cup-2022-loris-vergier"/>
+  </programme>
+  <programme channel="redbull.com" start="20250501194402+0000" stop="20250501203638+0000">
+    <title lang="en">Action highlights from Crankworx Innsbruck</title>
+    <desc lang="en">The Innsbruck stop saw five major mountain bike competitions take place. Catch up with all the action here.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/6/23/ozqaeohgv4mcndk4ynka/crankworx-innsbruck-full-highlights-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250501203638+0000" stop="20250501211032+0000">
+    <title lang="en">Best of Paul Bolton – Red Bull Romaniacs</title>
+    <desc lang="en">Join field reporter Paul Bolton as he follows Hard Enduro riders fighting for the win in Romania.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/29/pnnirbrhvnlc9h4torsx/jonny-walker-red-bull-romaniacs-fim-hard-enduro-sibiu-romania-2024"/>
   </programme>
 </tv>
