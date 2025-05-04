@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-05 00:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-05 01:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250504214826+0000" stop="20250504221917+0000">
-    <title lang="en">Black Pearl </title>
-    <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/g2b9nw1mf0wxn5fumqfd/chris-sharma-climbs-black-pearl-mallorca"/>
-  </programme>
-  <programme channel="redbull.com" start="20250504221917+0000" stop="20250504223824+0000">
-    <title lang="en">First ascent/last ascent part 1</title>
-    <desc lang="en">Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/12/m9qegd51kv4rre0nw0ad/reel-rock-s7-e7-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250504223824+0000" stop="20250504225745+0000">
     <title lang="en">Cuddle part 1</title>
     <desc lang="en">Tommy Caldwell and Alex Honnold push their limits when they try to climb 17 alpine summits at high altitude.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Sixteen world-class athletes on eight teams battle to be the fastest up a wall of six gruelling pitches.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/30/inmn3pjglt8q3tlpdk2c/red-bull-dual-ascent-2022-domen-skofic"/>
+  </programme>
+  <programme channel="redbull.com" start="20250505115443+0000" stop="20250505123722+0000">
+    <title lang="en">Barcelona, Spain</title>
+    <desc lang="en">Drivers and soapbox cars alike are tested by a lengthy course full of sweeping turns and mid-track obstacles.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGU8CB52111/FO-1PQGU8CB52111-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250505123722+0000" stop="20250505132119+0000">
+    <title lang="en">Rome, Italy</title>
+    <desc lang="en">Rome is about to show a different side of itself as Red Bull Soapbox Race gets started in this location.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZJ92FUZN5N11/FO-1ZJ92FUZN5N11-featureMedia"/>
   </programme>
 </tv>
