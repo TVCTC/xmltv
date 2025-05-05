@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-05 11:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-05 12:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250505063027+0000" stop="20250505072303+0000">
-    <title lang="en">Action highlights from Crankworx Innsbruck</title>
-    <desc lang="en">The Innsbruck stop saw five major mountain bike competitions take place. Catch up with all the action here.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/6/23/ozqaeohgv4mcndk4ynka/crankworx-innsbruck-full-highlights-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250505072303+0000" stop="20250505074816+0000">
-    <title lang="en">Hong Kong</title>
-    <desc lang="en">Some of the world’s most creative aircraft soar at Victoria Harbour in Hong Kong for Red Bull Flugtag.</desc>
-    <category lang="en">Red Bull Flugtag</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFK2BSMS2111/FO-1RFK2BSMS2111-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250505074816+0000" stop="20250505082944+0000">
-    <title lang="en">Atlanta, USA</title>
-    <desc lang="en">It’s one of the steepest, fastest courses ever, with a big jump to test the durability of every soapbox car.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGSXNVW2111/FO-1PQGSXNVW2111-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250505082944+0000" stop="20250505100854+0000">
     <title lang="en">Valley Uprising</title>
     <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/gal4qmbviibzua4uegnf/rhiannan-iffland-red-bull-cliff-diving-el-nido-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250505233330+0000" stop="20250506004456+0000">
+    <title lang="en">Yeah Right!</title>
+    <desc lang="en">Yeah Right! is widely considered one of the most influential skate films of all time.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/8/iiyk38ns7rmynaz7svsj/yeah-right-skateboarding"/>
+  </programme>
+  <programme channel="redbull.com" start="20250506004456+0000" stop="20250506012850+0000">
+    <title lang="en">Bern, Switzerland </title>
+    <desc lang="en">Witness the thrills of the 2023 Red Bull Soapbox Race in Switzerland – wild designs, speed and epic crashes! </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/ofjybu0leyxatjxa3qut/red-bull-soapbox-race-bern-2023-team-moonshiners"/>
+  </programme>
+  <programme channel="redbull.com" start="20250506012850+0000" stop="20250506021319+0000">
+    <title lang="en">Des Moines, Iowa, USA</title>
+    <desc lang="en">The judges are ready to be dazzled by creativity and fast descents in this first event – in Iowa, USA.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/9/qku7jnbucbzirwkrxxbp/space-travelers"/>
   </programme>
 </tv>
