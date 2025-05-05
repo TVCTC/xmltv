@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-05 21:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-05 22:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250505161833+0000" stop="20250505174717+0000">
-    <title lang="en">Johannesburg, South Africa</title>
-    <desc lang="en">South Africa's most innovative and witty teams race each other down the twists and turns of Sandton Drive.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZJ98E3SH5N11/FO-1ZJ98E3SH5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250505174717+0000" stop="20250505183131+0000">
-    <title lang="en">São Paulo, Brazil</title>
-    <desc lang="en">The world's craziest and most creative four-wheeled race went to Brazil in 2019 and this is what happened.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/29/blkbuy7ruvon1hndevjg/red-bull-soapbox-race-s2019-e1-brazil-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250505183131+0000" stop="20250505191448+0000">
-    <title lang="en">Turin, Italy</title>
-    <desc lang="en">Teams from all over Italy have gathered for this fun-filled spectacle of speed, creativity, and performance.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MA9T58912111/FO-1MA9T58912111-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250505191448+0000" stop="20250505194112+0000">
-    <title lang="en">Riyadh Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Saudia Arabia as the Riyadh Premier Padel P1 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/qeu4q0pzilaxkin3g5d0/padel-players-juan-lebron-chincoa-and-partner-competing-at-riyadh-season-premier-padel-p1-event"/>
-  </programme>
   <programme channel="redbull.com" start="20250505194112+0000" stop="20250505200702+0000">
     <title lang="en">Gijón Premier Padel highlights</title>
     <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Tommy Caldwell and Alex Honnold push their limits when they try to climb 17 alpine summits at high altitude.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/uat0etyxixffkr03xne2/tommy-caldwell-the-dawn-wall-yosemite-2015"/>
+  </programme>
+  <programme channel="redbull.com" start="20250506093006+0000" stop="20250506100636+0000">
+    <title lang="en">Red Bull Dual Ascent</title>
+    <desc lang="en">Sixteen world-class athletes on eight teams battle to be the fastest up a wall of six gruelling pitches.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/30/inmn3pjglt8q3tlpdk2c/red-bull-dual-ascent-2022-domen-skofic"/>
+  </programme>
+  <programme channel="redbull.com" start="20250506100636+0000" stop="20250506101708+0000">
+    <title lang="en">Red Bull Flugtag </title>
+    <desc lang="en">Red Bull TV programme</desc>
+    <category lang="en">Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/r532oyzhf9kijbswimef/participants"/>
+  </programme>
+  <programme channel="redbull.com" start="20250506101708+0000" stop="20250506102607+0000">
+    <title lang="en">2014's fan-favourite teams</title>
+    <desc lang="en">If you can't build a fast soapbox, you can at least build a fun one and these were 2014's fan-favourite teams.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/pzqwmal0kzswcsdwppxa/team-carretto-dei-balocchi-red-bull-soapbox-race-turin-2014"/>
+  </programme>
+  <programme channel="redbull.com" start="20250506055030+0000" stop="20250506060000+0000">
+    <title lang="en">2015's best runs</title>
+    <desc lang="en">Flying bodywork, broken steering, a royal family and some really rapid runs star in 2015's fastest highlights.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/pzjag9xser2fklmxq8ye/team-pasatararri-red-bull-soapbox-race-2015-montreal"/>
   </programme>
 </tv>
