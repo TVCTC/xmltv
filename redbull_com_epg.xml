@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-06 02:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-06 03:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250505233330+0000" stop="20250506004456+0000">
-    <title lang="en">Yeah Right!</title>
-    <desc lang="en">Yeah Right! is widely considered one of the most influential skate films of all time.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/8/iiyk38ns7rmynaz7svsj/yeah-right-skateboarding"/>
-  </programme>
-  <programme channel="redbull.com" start="20250506004456+0000" stop="20250506012850+0000">
-    <title lang="en">Bern, Switzerland </title>
-    <desc lang="en">Witness the thrills of the 2023 Red Bull Soapbox Race in Switzerland – wild designs, speed and epic crashes! </desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/ofjybu0leyxatjxa3qut/red-bull-soapbox-race-bern-2023-team-moonshiners"/>
-  </programme>
   <programme channel="redbull.com" start="20250506012850+0000" stop="20250506021319+0000">
     <title lang="en">Des Moines, Iowa, USA</title>
     <desc lang="en">The judges are ready to be dazzled by creativity and fast descents in this first event – in Iowa, USA.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">The WSL commentary crew break down the 2025 Surf City El Salvador Pro’s winners and losers.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/popwkhscpmprophqwshu/jordy-smith-wsl-surf-city-el-salvador-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250506145521+0000" stop="20250506162446+0000">
+    <title lang="en">Madrid, Spain</title>
+    <desc lang="en">A churros-powered descent is taking place in the steep road of Madrid! Who will come out on top?</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/xifrq4b6kfis2z2uzxkm/sardinatti-team-red-bull-soapbox-race-madrid-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20250506034658+0000" stop="20250506043124+0000">
+    <title lang="en">Hyderabad, India</title>
+    <desc lang="en">Red Bull Soapbox Race 2024 Hyderabad unleashed a wave of chaos as teams navigated the obstacle-filled track. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/t3kuzavdigax1e7a0esc/red-bull-soapbox-race-hyderabad-2024"/>
   </programme>
 </tv>
