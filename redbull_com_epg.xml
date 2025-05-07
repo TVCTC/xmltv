@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-07 10:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-07 11:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250507061845+0000" stop="20250507065515+0000">
-    <title lang="en">Red Bull Dual Ascent</title>
-    <desc lang="en">Sixteen world-class athletes on eight teams battle to be the fastest up a wall of six gruelling pitches.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/30/inmn3pjglt8q3tlpdk2c/red-bull-dual-ascent-2022-domen-skofic"/>
-  </programme>
-  <programme channel="redbull.com" start="20250507065515+0000" stop="20250507074046+0000">
-    <title lang="en">Ronnie and Neguin explore Las Vegas</title>
-    <desc lang="en">Ronnie and Neguin meet pro artists, explore Full Force Crew's roots and chill with Jabbawockeez in Las Vegas.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/4/odkdgjvsjw0jujjyp8st/breaking-beyond-s1-e3-ronnie-neguin-las-vegas"/>
-  </programme>
   <programme channel="redbull.com" start="20250507074046+0000" stop="20250507082249+0000">
     <title lang="en">Barcelona, Spain</title>
     <desc lang="en">Drivers and soapbox cars alike are tested by a lengthy course full of sweeping turns and mid-track obstacles.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Leticia Bufoni and Aldana Bertran fire up South Africa's female skate movement.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/16/ejhbu6yidn6qa006n68f/leticia-bufoni-leticia-pushes-mzanzi"/>
+  </programme>
+  <programme channel="redbull.com" start="20250507210251+0000" stop="20250507211820+0000">
+    <title lang="en">Evan Mock – NYC skater blending style and stardom </title>
+    <desc lang="en">Evan Mock's unique blend of skate style and NYC's A-list charm redefines cool with effortless flair. </desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/ot0g5dfqzoheygg9bmpq/madars-apse-evan-mock-skate-tales-new-york"/>
+  </programme>
+  <programme channel="redbull.com" start="20250507211820+0000" stop="20250507224704+0000">
+    <title lang="en">Johannesburg, South Africa</title>
+    <desc lang="en">South Africa's most innovative and witty teams race each other down the twists and turns of Sandton Drive.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZJ98E3SH5N11/FO-1ZJ98E3SH5N11-featureMedia"/>
   </programme>
 </tv>
