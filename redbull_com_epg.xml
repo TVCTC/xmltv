@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-07 12:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-07 13:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250507082249+0000" stop="20250507090646+0000">
-    <title lang="en">Rome, Italy</title>
-    <desc lang="en">Rome is about to show a different side of itself as Red Bull Soapbox Race gets started in this location.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZJ92FUZN5N11/FO-1ZJ92FUZN5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250507090646+0000" stop="20250507095018+0000">
-    <title lang="en">Melbourne, Australia </title>
-    <desc lang="en">High-speed antics in Melbourne, Australia, as wildly creative teams test their homemade racers, down under. </desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/bxbgdlyih7jfsmf1jdww/red-bull-billy-cart-race-melbourne-postal-express-2022"/>
-  </programme>
   <programme channel="redbull.com" start="20250507095018+0000" stop="20250507103504+0000">
     <title lang="en">WSL Abu Dhabi Pro wrap show</title>
     <desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">The world's craziest and most creative four-wheeled race went to Brazil in 2019 and this is what happened.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/29/blkbuy7ruvon1hndevjg/red-bull-soapbox-race-s2019-e1-brazil-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250507233118+0000" stop="20250508001435+0000">
+    <title lang="en">Turin, Italy</title>
+    <desc lang="en">Teams from all over Italy have gathered for this fun-filled spectacle of speed, creativity, and performance.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MA9T58912111/FO-1MA9T58912111-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250508001435+0000" stop="20250508004829+0000">
+    <title lang="en">Best of Paul Bolton – Red Bull Romaniacs</title>
+    <desc lang="en">Join field reporter Paul Bolton as he follows Hard Enduro riders fighting for the win in Romania.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/29/pnnirbrhvnlc9h4torsx/jonny-walker-red-bull-romaniacs-fim-hard-enduro-sibiu-romania-2024"/>
   </programme>
 </tv>
