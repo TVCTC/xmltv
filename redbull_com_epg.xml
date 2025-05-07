@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-07 09:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-07 10:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250507040326+0000" stop="20250507054236+0000">
-    <title lang="en">Valley Uprising</title>
-    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250507054236+0000" stop="20250507055604+0000">
-    <title lang="en">2017's fan-favourite teams</title>
-    <desc lang="en">As 2017's fan favourites teach us, two-wheels never work, and everyone loves a pop culture referencing racer.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/dho8x52o7xnz6asj4kiy/team-gripen-light-red-bull-soapbox-race-lausanne-2017"/>
-  </programme>
-  <programme channel="redbull.com" start="20250507055604+0000" stop="20250507060000+0000">
-    <title lang="en">Kade Edwards destroys Dyfi Bike Park</title>
-    <desc lang="en">Enjoy the sound of speed as British mountain bike rider Kade Edwards rips up Dyfi Bike Park in Wales. </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/doge7u1jj7vxmsg8m1sq/kade-edwards-dyfi-bike-park"/>
-  </programme>
-  <programme channel="redbull.com" start="20250507060000+0000" stop="20250507061845+0000">
-    <title lang="en">Cuddle part 1</title>
-    <desc lang="en">Tommy Caldwell and Alex Honnold push their limits when they try to climb 17 alpine summits at high altitude.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/uat0etyxixffkr03xne2/tommy-caldwell-the-dawn-wall-yosemite-2015"/>
-  </programme>
   <programme channel="redbull.com" start="20250507061845+0000" stop="20250507065515+0000">
     <title lang="en">Red Bull Dual Ascent</title>
     <desc lang="en">Sixteen world-class athletes on eight teams battle to be the fastest up a wall of six gruelling pitches.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Peru's capital hosts the bombastic race that sends racers down a harrowing course in homemade vehicles.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MA9PDHTD2111/FO-1MA9PDHTD2111-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250507185026+0000" stop="20250507191537+0000">
+    <title lang="en">Boston, USA</title>
+    <desc lang="en">A strong headwind challenges the weird and wonderful flying machines in one of America's great academic cities.</desc>
+    <category lang="en">Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFK19H3D2111/FO-1RFK19H3D2111-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250507191537+0000" stop="20250507202627+0000">
+    <title lang="en">Yeah Right!</title>
+    <desc lang="en">Yeah Right! is widely considered one of the most influential skate films of all time.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/8/iiyk38ns7rmynaz7svsj/yeah-right-skateboarding"/>
+  </programme>
+  <programme channel="redbull.com" start="20250507202627+0000" stop="20250507204250+0000">
+    <title lang="en">Milton Martinez – street legend born into skating</title>
+    <desc lang="en">From skate shop to global fame, Milton Martinez retraces his skateboarding success from where it all began.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/ba89bolmndj6phrsbntm/madars-apse-milton-martinez-skateboarding-mar-del-plata-argentina"/>
+  </programme>
+  <programme channel="redbull.com" start="20250507204250+0000" stop="20250507210251+0000">
+    <title lang="en">Leticia Pushes Mzansi</title>
+    <desc lang="en">Leticia Bufoni and Aldana Bertran fire up South Africa's female skate movement.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/16/ejhbu6yidn6qa006n68f/leticia-bufoni-leticia-pushes-mzanzi"/>
   </programme>
 </tv>
