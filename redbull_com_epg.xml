@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-09 08:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-09 09:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250509042621+0000" stop="20250509045621+0000">
-    <title lang="en">Dune racing with Kirsten Landman</title>
-    <desc lang="en">Jason and Nick track down endurance motorcyclist Kirsten Landman on sun-scorched dunes in Cape Town.</desc>
-    <category lang="en">Motoring</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/brsrbtjamhd6bhvm5npv/jason-goliath-and-kirsten-landman-giving-it-gears"/>
-  </programme>
-  <programme channel="redbull.com" start="20250509045621+0000" stop="20250509054031+0000">
-    <title lang="en">WSL Lexus Pipe Pro wrap show</title>
-    <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250509054031+0000" stop="20250509055512+0000">
     <title lang="en">The mother city</title>
     <desc lang="en">Jason Hearn turns the lens on his native South Africa to explore its rich and complex surfing past.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Filled with iconic spots and endless hills, San Francisco is a legendary skate destination like no other.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/14/zslk6roqzregpycrnxyb/greetings-from-san-francisco"/>
+  </programme>
+  <programme channel="redbull.com" start="20250509194408+0000" stop="20250509195859+0000">
+    <title lang="en">Jamie Foy in Tokyo</title>
+    <desc lang="en">Enjoy full access to the international skate life as Jamie Foy goes behind the scenes of Uprising Tokyo 2023.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/fa6obkztvdxez3bwvdd8/jamie-foy-tokyo-uprising"/>
+  </programme>
+  <programme channel="redbull.com" start="20250509195859+0000" stop="20250509205102+0000">
+    <title lang="en">Downhill finals – Lousã</title>
+    <desc lang="en">Riders dug deep for the final event of the 2020 UCI Mountain Bike World Cup season in Lousã, Portugal.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/11/3/x7yie4wrxxvswfock0kw/uci-2020-lousa-recap-program-art"/>
   </programme>
 </tv>
