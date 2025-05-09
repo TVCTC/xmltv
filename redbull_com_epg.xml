@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-09 14:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-09 15:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250509113248+0000" stop="20250509121648+0000">
-    <title lang="en">WSL MEO Rip Curl Pro Portugal</title>
-    <desc lang="en">Come backstage for a closer study of WSL MEO Rip Curl Pro Portugal’s biggest storylines.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/3/vgvpsfeu699lkaywjmg9/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250509121648+0000" stop="20250509124326+0000">
-    <title lang="en">Miami Premier Padel highlights</title>
-    <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/ynqwuqdbhxclhxuwztm0/alejandro-galan-miami-premier-padel-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250509124326+0000" stop="20250509141251+0000">
     <title lang="en">Madrid, Spain</title>
     <desc lang="en">A churros-powered descent is taking place in the steep road of Madrid! Who will come out on top?</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Red Bull TV programme</desc>
     <category lang="en">Red Bull Flugtag</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/r532oyzhf9kijbswimef/participants"/>
+  </programme>
+  <programme channel="redbull.com" start="20250510011718+0000" stop="20250510012617+0000">
+    <title lang="en">2014's fan-favourite teams</title>
+    <desc lang="en">If you can't build a fast soapbox, you can at least build a fun one and these were 2014's fan-favourite teams.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/pzqwmal0kzswcsdwppxa/team-carretto-dei-balocchi-red-bull-soapbox-race-turin-2014"/>
+  </programme>
+  <programme channel="redbull.com" start="20250510012617+0000" stop="20250510013520+0000">
+    <title lang="en">2015's best runs</title>
+    <desc lang="en">Flying bodywork, broken steering, a royal family and some really rapid runs star in 2015's fastest highlights.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/pzjag9xser2fklmxq8ye/team-pasatararri-red-bull-soapbox-race-2015-montreal"/>
   </programme>
 </tv>
