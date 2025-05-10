@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-10 04:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-10 05:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250510014443+0000" stop="20250510021443+0000">
-    <title lang="en">Dune racing with Kirsten Landman</title>
-    <desc lang="en">Jason and Nick track down endurance motorcyclist Kirsten Landman on sun-scorched dunes in Cape Town.</desc>
-    <category lang="en">Motoring</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/brsrbtjamhd6bhvm5npv/jason-goliath-and-kirsten-landman-giving-it-gears"/>
-  </programme>
   <programme channel="redbull.com" start="20250510021443+0000" stop="20250510025853+0000">
     <title lang="en">WSL Lexus Pipe Pro wrap show</title>
     <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Watch 26 rookies on their pursit of glory in the Red Bull MotoGP™ Rookies Cup 2025 in France.</desc>
     <category lang="en">Red Bull Rookies Cup</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/23/ystmjkmumsfavxksjsgz/carter-thompson-racing-in-le-mans-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250510013520+0000" stop="20250510014443+0000">
+    <title lang="en">2018's best runs</title>
+    <desc lang="en">Italian bagpipes and South Africa's fastest Stone Age soapbox made the cut among 2018's very best runs.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/28/pm6zgr2tqmnkc2jfehhf/red-bull-soapbox-race-rome-2018"/>
   </programme>
 </tv>
