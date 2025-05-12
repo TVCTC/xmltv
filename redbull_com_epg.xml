@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-12 09:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-12 10:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250512063608+0000" stop="20250512065728+0000">
+    <title lang="en">Sydney</title>
+    <desc lang="en">Gets to know the colourful characters and surfing culture of Australia's biggest city, Sydney.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/onhifkvity1rfohttjgc/no-contest-off-tour-sydney"/>
+  </programme>
+  <programme channel="redbull.com" start="20250512065728+0000" stop="20250512075037+0000">
+    <title lang="en">Pressure in paradise</title>
+    <desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/gal4qmbviibzua4uegnf/rhiannan-iffland-red-bull-cliff-diving-el-nido-2025"/>
+  </programme>
   <programme channel="redbull.com" start="20250512075037+0000" stop="20250512085733+0000">
     <title lang="en">Yamnuska: The Ragged Edge </title>
     <desc lang="en">Vikki Weldon and Quentin Roberts explore the enduring legacy of rock climbing on Canada's Mount Yamnuska.</desc>
@@ -142,17 +154,5 @@
     <desc lang="en">See the best of the action from Paul Bolton at GetzenRodeo, stop 6 of the 2023 FIM Hard Enduro World Champs.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/xoq7sywylhrgu1izfe8f/paul-bolton"/>
-  </programme>
-  <programme channel="redbull.com" start="20250512173822+0000" stop="20250512174649+0000">
-    <title lang="en">Born a racer</title>
-    <desc lang="en">Dennis Hauger tells his story from the beginning all the way to the lead-up to the 2019 Formula 4 season.</desc>
-    <category lang="en">Formula Racing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/08/14/d3215cb2-fa1e-4237-8000-2d6eccaa267f/dennis-hauger-hockenheim-2019"/>
-  </programme>
-  <programme channel="redbull.com" start="20250512174649+0000" stop="20250512183925+0000">
-    <title lang="en">Brad Binder: Becoming 33</title>
-    <desc lang="en">Brad Binder has earned his shot at MotoGP™ glory – see him take on the monumental challenge.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/8/31/ex1kbwbekyroewn8fdmk/brad-binder-road-to-motogp-hero-art"/>
   </programme>
 </tv>
