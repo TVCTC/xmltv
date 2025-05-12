@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-12 17:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-12 18:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250512143829+0000" stop="20250512150421+0000">
+    <title lang="en">Cancun Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Mexico as the Cancun Premier Padel P2 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/17/lr1amwly2elapgnn1fha/juan-lebron-franco-stupaczuk-cancun-padel-p2-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250512150421+0000" stop="20250512151453+0000">
+    <title lang="en">Red Bull Flugtag </title>
+    <desc lang="en">Red Bull TV programme</desc>
+    <category lang="en">Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/r532oyzhf9kijbswimef/participants"/>
+  </programme>
+  <programme channel="redbull.com" start="20250512151453+0000" stop="20250512152428+0000">
+    <title lang="en">2014's fan-favourite teams</title>
+    <desc lang="en">If you can't build a fast soapbox, you can at least build a fun one and these were 2014's fan-favourite teams.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/pzqwmal0kzswcsdwppxa/team-carretto-dei-balocchi-red-bull-soapbox-race-turin-2014"/>
+  </programme>
+  <programme channel="redbull.com" start="20250512152428+0000" stop="20250512153941+0000">
+    <title lang="en">Best of Bolton – Xross Hard Enduro Rally</title>
+    <desc lang="en">Enjoy the POV action from Xross Hard Enduro Rally as captured by our man on the ground, Paul Bolton.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/22/qfr9zzgedrtzdnm8qmqf/mario-roman-xross-hard-enduro-2023"/>
+  </programme>
   <programme channel="redbull.com" start="20250512153941+0000" stop="20250512160108+0000">
     <title lang="en">Jack Miller</title>
     <desc lang="en">The MotoGP™ winner talks about his life and hobbies, including a love for fishing in Andorra.</desc>
@@ -130,29 +154,5 @@
     <desc lang="en">Junior and Shigekix visit Goma in the Democratic Republic of the Congo to explore the local hip-hop culture.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/4/f4l8fll6m1y6xphjxhxk/breaking-beyond-s1-e1-junior-shigekix-goma"/>
-  </programme>
-  <programme channel="redbull.com" start="20250513030717+0000" stop="20250513032547+0000">
-    <title lang="en">Honolulu</title>
-    <desc lang="en">Explore Honolulu and uncover a rich tapestry of waves, culture, community and heritage.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/oksqdkz3uerrg1o5vg2j/no-contest-off-tour-hawaii"/>
-  </programme>
-  <programme channel="redbull.com" start="20250513032547+0000" stop="20250513034402+0000">
-    <title lang="en">Japan</title>
-    <desc lang="en">Head to Tokyo to discover Japan's incredible culture, in and out of the water.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/ajm40meccouf98q084gi/no-contest-off-tour-japan-kanoa-igarashi"/>
-  </programme>
-  <programme channel="redbull.com" start="20250513034402+0000" stop="20250513040445+0000">
-    <title lang="en">Sydney</title>
-    <desc lang="en">Gets to know the colourful characters and surfing culture of Australia's biggest city, Sydney.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/onhifkvity1rfohttjgc/no-contest-off-tour-sydney"/>
-  </programme>
-  <programme channel="redbull.com" start="20250513040445+0000" stop="20250513045754+0000">
-    <title lang="en">Pressure in paradise</title>
-    <desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/gal4qmbviibzua4uegnf/rhiannan-iffland-red-bull-cliff-diving-el-nido-2025"/>
   </programme>
 </tv>
