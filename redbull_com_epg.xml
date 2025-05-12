@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-12 14:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-12 15:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250512104621+0000" stop="20250512111533+0000">
+    <title lang="en">Race One</title>
+    <desc lang="en">Every season, the biggest race in Supercross is also the first. See how top motocross athletes prepare for A1.</desc>
+    <category lang="en">Supercross</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/14/jdx0riqq91sco88x49nn/red-bull-ktms-chase-sexton-mid-air-at-ama-supermotocross-anaheim-round"/>
+  </programme>
+  <programme channel="redbull.com" start="20250512111533+0000" stop="20250512114523+0000">
+    <title lang="en">Relive the action from YETI Natural Selection Ski</title>
+    <desc lang="en">Watch the world's best slopestyle and freeride skiers battle for the crown in Alaska’s legendary terrain.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/28/lwh7zvoaesktnmcchhiv/michelle-parker-natural-selection-alaska-2025"/>
+  </programme>
   <programme channel="redbull.com" start="20250512114523+0000" stop="20250512123556+0000">
     <title lang="en">Esperanto</title>
     <desc lang="en">Esperanto explores how dreams can be shared through the universal two-wheeled language of cycling.</desc>
@@ -142,17 +154,5 @@
     <desc lang="en">The WSL commentary crew break down the 2025 Surf City El Salvador Pro’s winners and losers.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/popwkhscpmprophqwshu/jordy-smith-wsl-surf-city-el-salvador-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250512221514+0000" stop="20250512225950+0000">
-    <title lang="en">WSL Lexus Pipe Pro</title>
-    <desc lang="en">You're granted access-all-areas at the WSL Championship Tour 2025 season opening event, the Lexus Pipe Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/26/hcc1odpn6ogks2lqslbs/caitlin-simmers-on-pipeline-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250512225950+0000" stop="20250512232535+0000">
-    <title lang="en">ABC of... Drifting</title>
-    <desc lang="en">Drift driver Dave Egan gives the lowdown on the motorsport that's all about speed, style, smoke and skill.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/5/4/p3t1rjho9ze26gmdlz9e/abc-of-drifting"/>
   </programme>
 </tv>
