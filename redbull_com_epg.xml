@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-13 14:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-13 15:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250513074812+0000" stop="20250513081724+0000">
+    <title lang="en">Race One</title>
+    <desc lang="en">Every season, the biggest race in Supercross is also the first. See how top motocross athletes prepare for A1.</desc>
+    <category lang="en">Supercross</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/14/jdx0riqq91sco88x49nn/red-bull-ktms-chase-sexton-mid-air-at-ama-supermotocross-anaheim-round"/>
+  </programme>
+  <programme channel="redbull.com" start="20250513081724+0000" stop="20250513084713+0000">
+    <title lang="en">Relive the action from YETI Natural Selection Ski</title>
+    <desc lang="en">Watch the world's best slopestyle and freeride skiers battle for the crown in Alaska’s legendary terrain.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/28/lwh7zvoaesktnmcchhiv/michelle-parker-natural-selection-alaska-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250513084713+0000" stop="20250513093823+0000">
+    <title lang="en">Esperanto</title>
+    <desc lang="en">Esperanto explores how dreams can be shared through the universal two-wheeled language of cycling.</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/23/hyyihfqinrqdzghqxlri/esperanto-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250513093823+0000" stop="20250513102616+0000">
+    <title lang="en">Shaping Jordy</title>
+    <desc lang="en">Ride along with Jordy Smith and Mikey February as they cruise the South African coast in search of waves.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/9/qbvbvtgsucrb1qufpesj/jordy_smith_sunset"/>
+  </programme>
+  <programme channel="redbull.com" start="20250513102616+0000" stop="20250513104538+0000">
+    <title lang="en">WSL Finals week at Lowers</title>
+    <desc lang="en">Go behind the scenes as the world’s best surfers prepare for the 2021 Rip Curl WSL Finals at Lower Trestles.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/21/iowrrd1lceqfhlvtktfw/people-watching-s1-e5-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250513104538+0000" stop="20250513105617+0000">
+    <title lang="en">XXL Teahupo’o waves</title>
+    <desc lang="en">Enormous waves see the world’s best big wave surfers drawn to Tahiti as the 2023 southern swell season opens.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/d0ehfgn8fsna6woz4eod/kai-lenny-teahupoo-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250513105617+0000" stop="20250513112204+0000">
+    <title lang="en">Riyadh Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Saudia Arabia as the Riyadh Premier Padel P1 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/qeu4q0pzilaxkin3g5d0/padel-players-juan-lebron-chincoa-and-partner-competing-at-riyadh-season-premier-padel-p1-event"/>
+  </programme>
+  <programme channel="redbull.com" start="20250513112204+0000" stop="20250513114754+0000">
+    <title lang="en">Gijón Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/24/venuyomgtnvhhfeakcrc/paula-josemaria-martin-competing-at-riyadh-premier-padel-p1-quarter-finals-in-riyadh"/>
+  </programme>
   <programme channel="redbull.com" start="20250513114754+0000" stop="20250513120342+0000">
     <title lang="en">Best of Bolton – Xross Hard Enduro Rally</title>
     <desc lang="en">Enjoy the POV action from Xross Hard Enduro Rally as captured by our man on the ground, Paul Bolton.</desc>
@@ -106,53 +154,5 @@
     <desc lang="en">The WSL commentary crew break down the 2025 Surf City El Salvador Pro’s winners and losers.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/popwkhscpmprophqwshu/jordy-smith-wsl-surf-city-el-salvador-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250513203058+0000" stop="20250513211533+0000">
-    <title lang="en">WSL Lexus Pipe Pro</title>
-    <desc lang="en">You're granted access-all-areas at the WSL Championship Tour 2025 season opening event, the Lexus Pipe Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/26/hcc1odpn6ogks2lqslbs/caitlin-simmers-on-pipeline-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250513211533+0000" stop="20250513214306+0000">
-    <title lang="en">Check out this crazy new motorsport</title>
-    <desc lang="en">Welcome to the dizzying, squealing rage of South Africa’s adrenaline-sparking motorsport: spinning.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/8/25/upmdrn93p8d1gfdebtxr/red-bull-shay-imoto-2019-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250513214306+0000" stop="20250513220935+0000">
-    <title lang="en">France recap</title>
-    <desc lang="en">Watch the full recap from the second stop of Drift Masters European Championship 2019 in France.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZVEF4K8H5N11/FO-1ZVEF4K8H5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250513220935+0000" stop="20250513225335+0000">
-    <title lang="en">WSL MEO Rip Curl Pro Portugal</title>
-    <desc lang="en">Come backstage for a closer study of WSL MEO Rip Curl Pro Portugal’s biggest storylines.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/3/vgvpsfeu699lkaywjmg9/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250513225335+0000" stop="20250513232013+0000">
-    <title lang="en">Miami Premier Padel highlights</title>
-    <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/ynqwuqdbhxclhxuwztm0/alejandro-galan-miami-premier-padel-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250513232013+0000" stop="20250513234617+0000">
-    <title lang="en">Santiago Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Chile as the Santiago Premier Padel P1 took centre stage.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/bdtrfzyj5lvybvefhsp6/marta-ortega-miami-2025-premier-padel-semi-final"/>
-  </programme>
-  <programme channel="redbull.com" start="20250513234617+0000" stop="20250514001301+0000">
-    <title lang="en">Qatar Major Premier Padel highlights</title>
-    <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/18/c4ncyoippkl1obtdsl6o/alejandro-galan-ooredoo-qatar-major-padel-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250514001301+0000" stop="20250514005833+0000">
-    <title lang="en">Lil Zoo: Breaking Chose Me</title>
-    <desc lang="en">Chart B-Boy Lil Zoo's journey from Casablanca to Red Bull BC One World Champion to breaking mentor.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/munjntrz7n5wocu7c7mo/lil-zoo-breaking-chose-me"/>
   </programme>
 </tv>
