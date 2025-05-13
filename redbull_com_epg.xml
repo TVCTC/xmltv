@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-13 21:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-13 22:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250513183320+0000" stop="20250513185756+0000">
-    <title lang="en">XCO &amp; XCC highlights – Araxá Round 2</title>
-    <desc lang="en">Watch highlights of Round 2's cross-country action on the challenging terrain surrounding Araxá in Brazil.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/15/kizssjmqsuf8ta9gtdsg/martin-vidaurre-uci-xcc-world-cup-araxa-brazil-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250513185756+0000" stop="20250513192019+0000">
-    <title lang="en">Best of Bolton – Xross Hard Enduro Rally</title>
-    <desc lang="en">Enjoy the best onboard moments following Red Bull Hard Enduro riders as they race for the win in Serbia.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/26/ydplinj0ornnnmekwfw4/michael-walkner-xross-hard-enduro-rally-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250513192019+0000" stop="20250513194657+0000">
-    <title lang="en">Red Bull Guanajuato Cerro Abajo highlights</title>
-    <desc lang="en">The world's most epic urban downhill MTB race hit beautiful Guanajuato, Mexico, a UNESCO World Heritage Site.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/31/ivmkn9d6wrwx3bppm0d7/tomas-slavik-red-bull-cerro-abajo-guanajuato-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250513194657+0000" stop="20250513203058+0000">
     <title lang="en">WSL Surf City El Salvador Pro wrap show</title>
     <desc lang="en">The WSL commentary crew break down the 2025 Surf City El Salvador Pro’s winners and losers.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Go behind the scenes as the world’s best surfers prepare for the 2021 Rip Curl WSL Finals at Lower Trestles.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/21/iowrrd1lceqfhlvtktfw/people-watching-s1-e5-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250514075824+0000" stop="20250514080903+0000">
+    <title lang="en">XXL Teahupo’o waves</title>
+    <desc lang="en">Enormous waves see the world’s best big wave surfers drawn to Tahiti as the 2023 southern swell season opens.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/d0ehfgn8fsna6woz4eod/kai-lenny-teahupoo-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250514080903+0000" stop="20250514083451+0000">
+    <title lang="en">Riyadh Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Saudia Arabia as the Riyadh Premier Padel P1 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/qeu4q0pzilaxkin3g5d0/padel-players-juan-lebron-chincoa-and-partner-competing-at-riyadh-season-premier-padel-p1-event"/>
+  </programme>
+  <programme channel="redbull.com" start="20250513211533+0000" stop="20250513214306+0000">
+    <title lang="en">Check out this crazy new motorsport</title>
+    <desc lang="en">Welcome to the dizzying, squealing rage of South Africa’s adrenaline-sparking motorsport: spinning.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/8/25/upmdrn93p8d1gfdebtxr/red-bull-shay-imoto-2019-art"/>
   </programme>
 </tv>
