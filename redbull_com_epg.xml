@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-14 17:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-14 18:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250514134346+0000" stop="20250514142431+0000">
-    <title lang="en">True to This</title>
-    <desc lang="en">Celebrate Volcom's fusion of surf, skate and snowboarding in a cinematic journey of rebellious attitude.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/2/gdzdz7ctatn8hluyhrme/true-to-this"/>
-  </programme>
-  <programme channel="redbull.com" start="20250514142431+0000" stop="20250514144907+0000">
-    <title lang="en">XCO &amp; XCC highlights – Araxá Round 2</title>
-    <desc lang="en">Watch highlights of Round 2's cross-country action on the challenging terrain surrounding Araxá in Brazil.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/15/kizssjmqsuf8ta9gtdsg/martin-vidaurre-uci-xcc-world-cup-araxa-brazil-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250514144907+0000" stop="20250514151507+0000">
     <title lang="en">Pole vaulting highlights from Mondo Classic</title>
     <desc lang="en">The world’s best pole vaulters compete at Armand Duplantis’s signature event on his home turf in Sweden. </desc>
@@ -77,7 +65,7 @@
     <category lang="en">Red Bull Rookies Cup</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/23/ystmjkmumsfavxksjsgz/carter-thompson-racing-in-le-mans-2024"/>
   </programme>
-  <programme channel="redbull.com" start="20250514124920+0000" stop="20250514134346+0000">
+  <programme channel="redbull.com" start="20250514195705+0000" stop="20250514205131+0000">
     <title lang="en">Toby Price: Ridin’ Shotgun</title>
     <desc lang="en">Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
     <category lang="en">Offroad</category>
@@ -154,5 +142,17 @@
     <desc lang="en">Watch the world's best slopestyle and freeride skiers battle for the crown in Alaska’s legendary terrain.</desc>
     <category lang="en">Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/28/lwh7zvoaesktnmcchhiv/michelle-parker-natural-selection-alaska-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250515031127+0000" stop="20250515040200+0000">
+    <title lang="en">Esperanto</title>
+    <desc lang="en">Esperanto explores how dreams can be shared through the universal two-wheeled language of cycling.</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/23/hyyihfqinrqdzghqxlri/esperanto-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250514154145+0000" stop="20250514161245+0000">
+    <title lang="en">Masters of Dirt - Total Freestyle Tour</title>
+    <desc lang="en">Dive into the world of Masters of Dirt! Insane tricks, world records and wild stories await you.</desc>
+    <category lang="en">Motoring</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/17/wfdascqfuqlaitqupbex/graz-show-action-szymon-godziek"/>
   </programme>
 </tv>
