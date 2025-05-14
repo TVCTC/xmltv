@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-14 06:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-14 07:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250514033739+0000" stop="20250514044435+0000">
+    <title lang="en">Yamnuska: The Ragged Edge </title>
+    <desc lang="en">Vikki Weldon and Quentin Roberts explore the enduring legacy of rock climbing on Canada's Mount Yamnuska.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/ll4jsqgipcgeh5kufqli/will-gadd-yamnuska-canada-climbing"/>
+  </programme>
   <programme channel="redbull.com" start="20250514044435+0000" stop="20250514050959+0000">
     <title lang="en">Black ice part 1</title>
     <desc lang="en">Members of a Memphis climbing gym travel to the frozen wilds of Montana for an ice climbing adventure.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">The world’s best pole vaulters compete at Armand Duplantis’s signature event on his home turf in Sweden. </desc>
     <category lang="en">Athletics</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/18/dxboydmozamoyqkvkia3/armand-duplantis-mondo-classic-uppsala-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250514151507+0000" stop="20250514154145+0000">
-    <title lang="en">Red Bull Guanajuato Cerro Abajo highlights</title>
-    <desc lang="en">The world's most epic urban downhill MTB race hit beautiful Guanajuato, Mexico, a UNESCO World Heritage Site.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/31/ivmkn9d6wrwx3bppm0d7/tomas-slavik-red-bull-cerro-abajo-guanajuato-2025"/>
   </programme>
 </tv>
