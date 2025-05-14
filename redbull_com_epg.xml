@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-14 10:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-14 11:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250514065109+0000" stop="20250514073902+0000">
+    <title lang="en">Shaping Jordy</title>
+    <desc lang="en">Ride along with Jordy Smith and Mikey February as they cruise the South African coast in search of waves.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/9/qbvbvtgsucrb1qufpesj/jordy_smith_sunset"/>
+  </programme>
   <programme channel="redbull.com" start="20250514073902+0000" stop="20250514075824+0000">
     <title lang="en">WSL Finals week at Lowers</title>
     <desc lang="en">Go behind the scenes as the world’s best surfers prepare for the 2021 Rip Curl WSL Finals at Lower Trestles.</desc>
@@ -113,13 +119,13 @@
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/31/ivmkn9d6wrwx3bppm0d7/tomas-slavik-red-bull-cerro-abajo-guanajuato-2025"/>
   </programme>
-  <programme channel="redbull.com" start="20250514154145+0000" stop="20250514161245+0000">
+  <programme channel="redbull.com" start="20250514014342+0000" stop="20250514021442+0000">
     <title lang="en">Masters of Dirt - Total Freestyle Tour</title>
     <desc lang="en">Dive into the world of Masters of Dirt! Insane tricks, world records and wild stories await you.</desc>
     <category lang="en">Motoring</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/17/wfdascqfuqlaitqupbex/graz-show-action-szymon-godziek"/>
   </programme>
-  <programme channel="redbull.com" start="20250514161245+0000" stop="20250514164233+0000">
+  <programme channel="redbull.com" start="20250514021442+0000" stop="20250514024430+0000">
     <title lang="en">Race One</title>
     <desc lang="en">Every season, the biggest race in Supercross is also the first. See how top motocross athletes prepare for A1.</desc>
     <category lang="en">Supercross</category>
@@ -148,11 +154,5 @@
     <desc lang="en">Dennis Hauger tells his story from the beginning all the way to the lead-up to the 2019 Formula 4 season.</desc>
     <category lang="en">Formula Racing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/08/14/d3215cb2-fa1e-4237-8000-2d6eccaa267f/dennis-hauger-hockenheim-2019"/>
-  </programme>
-  <programme channel="redbull.com" start="20250514181425+0000" stop="20250514190701+0000">
-    <title lang="en">Brad Binder: Becoming 33</title>
-    <desc lang="en">Brad Binder has earned his shot at MotoGP™ glory – see him take on the monumental challenge.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/8/31/ex1kbwbekyroewn8fdmk/brad-binder-road-to-motogp-hero-art"/>
   </programme>
 </tv>
