@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-15 01:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-15 02:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250514154145+0000" stop="20250514161245+0000">
-    <title lang="en">Masters of Dirt - Total Freestyle Tour</title>
-    <desc lang="en">Dive into the world of Masters of Dirt! Insane tricks, world records and wild stories await you.</desc>
-    <category lang="en">Motoring</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/17/wfdascqfuqlaitqupbex/graz-show-action-szymon-godziek"/>
-  </programme>
-  <programme channel="redbull.com" start="20250514161245+0000" stop="20250514164233+0000">
-    <title lang="en">Race One</title>
-    <desc lang="en">Every season, the biggest race in Supercross is also the first. See how top motocross athletes prepare for A1.</desc>
-    <category lang="en">Supercross</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/14/jdx0riqq91sco88x49nn/red-bull-ktms-chase-sexton-mid-air-at-ama-supermotocross-anaheim-round"/>
-  </programme>
   <programme channel="redbull.com" start="20250514164233+0000" stop="20250514172633+0000">
     <title lang="en">WSL Lexus Pipe Pro</title>
     <desc lang="en">You're granted access-all-areas at the WSL Championship Tour 2025 season opening event, the Lexus Pipe Pro.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Ride along with Jordy Smith and Mikey February as they cruise the South African coast in search of waves.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/9/qbvbvtgsucrb1qufpesj/jordy_smith_sunset"/>
+  </programme>
+  <programme channel="redbull.com" start="20250515055117+0000" stop="20250515060000+0000">
+    <title lang="en">World’s longest-ever ski jump</title>
+    <desc lang="en">Ryōyū Kobayashi and his team went to Iceland, intent on creating a jump big enough to smash world records.</desc>
+    <category lang="en">Ski Jumping</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/10/s3hcevdzamxlv4pyuezz/red-bull-athletes-ryoyu-kobayashi-ski-jumping-in-akureyri-iceland-event"/>
+  </programme>
+  <programme channel="redbull.com" start="20250515060000+0000" stop="20250515062551+0000">
+    <title lang="en">Cancun Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Mexico as the Cancun Premier Padel P2 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/17/lr1amwly2elapgnn1fha/juan-lebron-franco-stupaczuk-cancun-padel-p2-2025"/>
   </programme>
 </tv>
