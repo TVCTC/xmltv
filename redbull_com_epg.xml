@@ -1,10 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-16 05:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-16 06:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250515215135+0000" stop="20250515221700+0000">
+    <title lang="en">Black ice part 1</title>
+    <desc lang="en">Members of a Memphis climbing gym travel to the frozen wilds of Montana for an ice climbing adventure.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/12/f8z77yqqb83tau82gj3y/reel-rock-s7-e9-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250515221700+0000" stop="20250515223131+0000">
+    <title lang="en">Greece</title>
+    <desc lang="en">Sasha DiGiulian creates new routes in a Grecian area not typically travelled to by the climbing community.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/t4umwtpenffenr1pyuqw/no-days-off-s1-e1-sasha-digiulian-climbing-greece"/>
+  </programme>
+  <programme channel="redbull.com" start="20250515223131+0000" stop="20250515225433+0000">
+    <title lang="en">San Francisco</title>
+    <desc lang="en">Filled with iconic spots and endless hills, San Francisco is a legendary skate destination like no other.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/14/zslk6roqzregpycrnxyb/greetings-from-san-francisco"/>
+  </programme>
+  <programme channel="redbull.com" start="20250515225433+0000" stop="20250515230924+0000">
+    <title lang="en">Jamie Foy in Tokyo</title>
+    <desc lang="en">Enjoy full access to the international skate life as Jamie Foy goes behind the scenes of Uprising Tokyo 2023.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/fa6obkztvdxez3bwvdd8/jamie-foy-tokyo-uprising"/>
+  </programme>
+  <programme channel="redbull.com" start="20250515230924+0000" stop="20250515234024+0000">
+    <title lang="en">Masters of Dirt - Total Freestyle Tour</title>
+    <desc lang="en">Dive into the world of Masters of Dirt! Insane tricks, world records and wild stories await you.</desc>
+    <category lang="en">Motoring</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/17/wfdascqfuqlaitqupbex/graz-show-action-szymon-godziek"/>
+  </programme>
+  <programme channel="redbull.com" start="20250515234024+0000" stop="20250516000936+0000">
+    <title lang="en">Race One</title>
+    <desc lang="en">Every season, the biggest race in Supercross is also the first. See how top motocross athletes prepare for A1.</desc>
+    <category lang="en">Supercross</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/14/jdx0riqq91sco88x49nn/red-bull-ktms-chase-sexton-mid-air-at-ama-supermotocross-anaheim-round"/>
+  </programme>
+  <programme channel="redbull.com" start="20250516000936+0000" stop="20250516003925+0000">
+    <title lang="en">Relive the action from YETI Natural Selection Ski</title>
+    <desc lang="en">Watch the world's best slopestyle and freeride skiers battle for the crown in Alaska’s legendary terrain.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/28/lwh7zvoaesktnmcchhiv/michelle-parker-natural-selection-alaska-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250516003925+0000" stop="20250516013035+0000">
+    <title lang="en">Esperanto</title>
+    <desc lang="en">Esperanto explores how dreams can be shared through the universal two-wheeled language of cycling.</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/23/hyyihfqinrqdzghqxlri/esperanto-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250516013035+0000" stop="20250516021828+0000">
+    <title lang="en">Shaping Jordy</title>
+    <desc lang="en">Ride along with Jordy Smith and Mikey February as they cruise the South African coast in search of waves.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/12/9/qbvbvtgsucrb1qufpesj/jordy_smith_sunset"/>
+  </programme>
+  <programme channel="redbull.com" start="20250516021828+0000" stop="20250516023750+0000">
+    <title lang="en">WSL Finals week at Lowers</title>
+    <desc lang="en">Go behind the scenes as the world’s best surfers prepare for the 2021 Rip Curl WSL Finals at Lower Trestles.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/21/iowrrd1lceqfhlvtktfw/people-watching-s1-e5-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250516023750+0000" stop="20250516024829+0000">
+    <title lang="en">XXL Teahupo’o waves</title>
+    <desc lang="en">Enormous waves see the world’s best big wave surfers drawn to Tahiti as the 2023 southern swell season opens.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/d0ehfgn8fsna6woz4eod/kai-lenny-teahupoo-2023"/>
+  </programme>
   <programme channel="redbull.com" start="20250516024829+0000" stop="20250516031601+0000">
     <title lang="en">Check out this crazy new motorsport</title>
     <desc lang="en">Welcome to the dizzying, squealing rage of South Africa’s adrenaline-sparking motorsport: spinning.</desc>
@@ -88,71 +154,5 @@
     <desc lang="en">The world's most epic urban downhill MTB race hit beautiful Guanajuato, Mexico, a UNESCO World Heritage Site.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/31/ivmkn9d6wrwx3bppm0d7/tomas-slavik-red-bull-cerro-abajo-guanajuato-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250516093523+0000" stop="20250516101959+0000">
-    <title lang="en">WSL Surf City El Salvador Pro wrap show</title>
-    <desc lang="en">The WSL commentary crew break down the 2025 Surf City El Salvador Pro’s winners and losers.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/popwkhscpmprophqwshu/jordy-smith-wsl-surf-city-el-salvador-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250516101959+0000" stop="20250516110359+0000">
-    <title lang="en">WSL Lexus Pipe Pro</title>
-    <desc lang="en">You're granted access-all-areas at the WSL Championship Tour 2025 season opening event, the Lexus Pipe Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/26/hcc1odpn6ogks2lqslbs/caitlin-simmers-on-pipeline-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250516110359+0000" stop="20250516111911+0000">
-    <title lang="en">Best of Bolton – Xross Hard Enduro Rally</title>
-    <desc lang="en">Enjoy the POV action from Xross Hard Enduro Rally as captured by our man on the ground, Paul Bolton.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/22/qfr9zzgedrtzdnm8qmqf/mario-roman-xross-hard-enduro-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250516111911+0000" stop="20250516114039+0000">
-    <title lang="en">Jack Miller</title>
-    <desc lang="en">The MotoGP™ winner talks about his life and hobbies, including a love for fishing in Andorra.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/5/6/fsz1ed7dmwzsuhsn2bfp/off-the-racing-line-s1-e2-jack-miller-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250516114039+0000" stop="20250516115122+0000">
-    <title lang="en">F1 drivers cross the USA</title>
-    <desc lang="en">Join F1 drivers Daniel Ricciardo and Max Verstappen on a road trip across the USA from California to Florida.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/11/11/i3xuvbnr5euuckumo3sd/red-bull-racing-road-trips-ep2-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250516115122+0000" stop="20250516120952+0000">
-    <title lang="en">Honolulu</title>
-    <desc lang="en">Explore Honolulu and uncover a rich tapestry of waves, culture, community and heritage.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/oksqdkz3uerrg1o5vg2j/no-contest-off-tour-hawaii"/>
-  </programme>
-  <programme channel="redbull.com" start="20250516120952+0000" stop="20250516122806+0000">
-    <title lang="en">Japan</title>
-    <desc lang="en">Head to Tokyo to discover Japan's incredible culture, in and out of the water.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/ajm40meccouf98q084gi/no-contest-off-tour-japan-kanoa-igarashi"/>
-  </programme>
-  <programme channel="redbull.com" start="20250516122806+0000" stop="20250516124850+0000">
-    <title lang="en">Sydney</title>
-    <desc lang="en">Gets to know the colourful characters and surfing culture of Australia's biggest city, Sydney.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/onhifkvity1rfohttjgc/no-contest-off-tour-sydney"/>
-  </programme>
-  <programme channel="redbull.com" start="20250516124850+0000" stop="20250516134159+0000">
-    <title lang="en">Pressure in paradise</title>
-    <desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/gal4qmbviibzua4uegnf/rhiannan-iffland-red-bull-cliff-diving-el-nido-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250516134159+0000" stop="20250516140837+0000">
-    <title lang="en">ABC of… Formula One</title>
-    <desc lang="en">Get a crash course in F1 racing, with lessons in the terminology, history, heroes and drama of the sport.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1W11S3SCH5N11/FO-1W11S3SCH5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250516140837+0000" stop="20250516143142+0000">
-    <title lang="en">Highlights from Nürburgring</title>
-    <desc lang="en">Four-time Formula One world champion Sebastian Vettel delighted over 60,000 fans with a comeback in an F1 car.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/13/vbts7kxecdbge0jkaw7t/sebastian-vettel-red-bull-formula-nurburgring-2023"/>
   </programme>
 </tv>
