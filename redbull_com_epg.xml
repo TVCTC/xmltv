@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-16 12:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-16 13:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250516093523+0000" stop="20250516101959+0000">
-    <title lang="en">WSL Surf City El Salvador Pro wrap show</title>
-    <desc lang="en">The WSL commentary crew break down the 2025 Surf City El Salvador Pro’s winners and losers.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/popwkhscpmprophqwshu/jordy-smith-wsl-surf-city-el-salvador-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250516101959+0000" stop="20250516110359+0000">
     <title lang="en">WSL Lexus Pipe Pro</title>
     <desc lang="en">You're granted access-all-areas at the WSL Championship Tour 2025 season opening event, the Lexus Pipe Pro.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Every season, the biggest race in Supercross is also the first. See how top motocross athletes prepare for A1.</desc>
     <category lang="en">Supercross</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/14/jdx0riqq91sco88x49nn/red-bull-ktms-chase-sexton-mid-air-at-ama-supermotocross-anaheim-round"/>
+  </programme>
+  <programme channel="redbull.com" start="20250516201521+0000" stop="20250516204511+0000">
+    <title lang="en">Relive the action from YETI Natural Selection Ski</title>
+    <desc lang="en">Watch the world's best slopestyle and freeride skiers battle for the crown in Alaska’s legendary terrain.</desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/28/lwh7zvoaesktnmcchhiv/michelle-parker-natural-selection-alaska-2025"/>
   </programme>
 </tv>
