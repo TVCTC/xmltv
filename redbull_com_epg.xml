@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-16 02:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-16 03:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250515234024+0000" stop="20250516000936+0000">
-    <title lang="en">Race One</title>
-    <desc lang="en">Every season, the biggest race in Supercross is also the first. See how top motocross athletes prepare for A1.</desc>
-    <category lang="en">Supercross</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/14/jdx0riqq91sco88x49nn/red-bull-ktms-chase-sexton-mid-air-at-ama-supermotocross-anaheim-round"/>
-  </programme>
-  <programme channel="redbull.com" start="20250516000936+0000" stop="20250516003925+0000">
-    <title lang="en">Relive the action from YETI Natural Selection Ski</title>
-    <desc lang="en">Watch the world's best slopestyle and freeride skiers battle for the crown in Alaska’s legendary terrain.</desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/28/lwh7zvoaesktnmcchhiv/michelle-parker-natural-selection-alaska-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250516003925+0000" stop="20250516013035+0000">
     <title lang="en">Esperanto</title>
     <desc lang="en">Esperanto explores how dreams can be shared through the universal two-wheeled language of cycling.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Join F1 drivers Daniel Ricciardo and Max Verstappen on a road trip across the USA from California to Florida.</desc>
     <category lang="en">F1</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/11/11/i3xuvbnr5euuckumo3sd/red-bull-racing-road-trips-ep2-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250516115122+0000" stop="20250516120952+0000">
+    <title lang="en">Honolulu</title>
+    <desc lang="en">Explore Honolulu and uncover a rich tapestry of waves, culture, community and heritage.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/oksqdkz3uerrg1o5vg2j/no-contest-off-tour-hawaii"/>
+  </programme>
+  <programme channel="redbull.com" start="20250516120952+0000" stop="20250516122806+0000">
+    <title lang="en">Japan</title>
+    <desc lang="en">Head to Tokyo to discover Japan's incredible culture, in and out of the water.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/ajm40meccouf98q084gi/no-contest-off-tour-japan-kanoa-igarashi"/>
   </programme>
 </tv>
