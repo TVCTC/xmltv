@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-16 07:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-16 08:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250516042818+0000" stop="20250516045818+0000">
-    <title lang="en">Dune racing with Kirsten Landman</title>
-    <desc lang="en">Jason and Nick track down endurance motorcyclist Kirsten Landman on sun-scorched dunes in Cape Town.</desc>
-    <category lang="en">Motoring</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/brsrbtjamhd6bhvm5npv/jason-goliath-and-kirsten-landman-giving-it-gears"/>
-  </programme>
-  <programme channel="redbull.com" start="20250516045818+0000" stop="20250516054228+0000">
-    <title lang="en">WSL Lexus Pipe Pro wrap show</title>
-    <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250516054228+0000" stop="20250516054940+0000">
-    <title lang="en">Jagger Eaton</title>
-    <desc lang="en">Spend the day with all-terrain ripper Jagger Eaton for skate sessions and golf in Encinitas, California.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/14/sfpyw1kchn2abraim93y/jagger-eaton-red-bull-drop-in-tour-florida-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20250516060000+0000" stop="20250516064334+0000">
     <title lang="en">WSL MEO Rip Curl Pro Portugal wrap show</title>
     <desc lang="en">Who was crowned king and queen of Supertubos? Watch highlights of finals day at MEO Rip Curl Pro Portugal. </desc>
@@ -154,5 +136,23 @@
     <desc lang="en">See the best of the action from Paul Bolton at GetzenRodeo, stop 6 of the 2023 FIM Hard Enduro World Champs.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/xoq7sywylhrgu1izfe8f/paul-bolton"/>
+  </programme>
+  <programme channel="redbull.com" start="20250516160229+0000" stop="20250516161055+0000">
+    <title lang="en">Born a racer</title>
+    <desc lang="en">Dennis Hauger tells his story from the beginning all the way to the lead-up to the 2019 Formula 4 season.</desc>
+    <category lang="en">Formula Racing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/08/14/d3215cb2-fa1e-4237-8000-2d6eccaa267f/dennis-hauger-hockenheim-2019"/>
+  </programme>
+  <programme channel="redbull.com" start="20250516161055+0000" stop="20250516170331+0000">
+    <title lang="en">Brad Binder: Becoming 33</title>
+    <desc lang="en">Brad Binder has earned his shot at MotoGP™ glory – see him take on the monumental challenge.</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/8/31/ex1kbwbekyroewn8fdmk/brad-binder-road-to-motogp-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250516064334+0000" stop="20250516073759+0000">
+    <title lang="en">Toby Price: Ridin’ Shotgun</title>
+    <desc lang="en">Can Toby Price become the undisputed king of the Australian desert in 2021 by finally winning on four wheels?</desc>
+    <category lang="en">Offroad</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/9/22/uizpbk9kquu6ustdsgnf/toby-price-ridin-shotgun-hero-art"/>
   </programme>
 </tv>
