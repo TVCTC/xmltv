@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-17 17:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-17 18:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250517145100+0000" stop="20250517152332+0000">
-    <title lang="en">20 Years of Red Bull Valparaíso Cerro Abajo</title>
-    <desc lang="en">Relive 20 years of the largest urban downhill race in the world that began as an idea among friends.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/grv8ijzyrwhtsstkoas3/red-bull-valparaiso-cerro-abajo-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20250517152332+0000" stop="20250517163124+0000">
     <title lang="en">The 5th Symphony Document</title>
     <desc lang="en">The 5th Symphony Document is a movie about surfers and rediscovering the wandering spirit of surf filmmaking.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Come backstage for a closer study of WSL MEO Rip Curl Pro Portugal’s biggest storylines.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/3/vgvpsfeu699lkaywjmg9/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250518053751+0000" stop="20250518060000+0000">
+    <title lang="en">Best DH runs since 2012</title>
+    <desc lang="en">Take a look back at the greatest downhill runs from past events that are still mind-blowing years later.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/7/piijcwxasqribwbea8l8/best-dhi-runs-since-2012-rbtv-art"/>
   </programme>
 </tv>
