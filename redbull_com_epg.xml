@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-17 18:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-17 19:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250517152332+0000" stop="20250517163124+0000">
-    <title lang="en">The 5th Symphony Document</title>
-    <desc lang="en">The 5th Symphony Document is a movie about surfers and rediscovering the wandering spirit of surf filmmaking.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/nqlhtlen541lsaexjluk/kelly-slater-australia-2016"/>
-  </programme>
   <programme channel="redbull.com" start="20250517163124+0000" stop="20250517170408+0000">
     <title lang="en">The Source</title>
     <desc lang="en">Koa Smith goes on a South African surf adventure, where waves (or lack thereof) lead to profound discoveries.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Take a look back at the greatest downhill runs from past events that are still mind-blowing years later.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/7/piijcwxasqribwbea8l8/best-dhi-runs-since-2012-rbtv-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250517174844+0000" stop="20250517181445+0000">
+    <title lang="en">Miami Premier Padel highlights</title>
+    <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/ynqwuqdbhxclhxuwztm0/alejandro-galan-miami-premier-padel-2025"/>
   </programme>
 </tv>
