@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-18 01:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-18 02:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250517222452+0000" stop="20250517230928+0000">
+    <title lang="en">WSL Surf City El Salvador Pro wrap show</title>
+    <desc lang="en">The WSL commentary crew break down the 2025 Surf City El Salvador Pro’s winners and losers.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/popwkhscpmprophqwshu/jordy-smith-wsl-surf-city-el-salvador-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250517230928+0000" stop="20250517233534+0000">
+    <title lang="en">DH full recap show – Leogang</title>
+    <desc lang="en">Watch the full recap from the downhill finals in Leogang, Austria.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/6/15/yr8vjejb9r6yankwrehe/uci-world-cup-leogang-dh-laurie-greenland"/>
+  </programme>
   <programme channel="redbull.com" start="20250517233534+0000" stop="20250518000210+0000">
     <title lang="en">Downhill recap – Lourdes</title>
     <desc lang="en">Watch the full recap from the first downhill stop of the UCI Mountain Bike World Cup season in Lourdes.</desc>
@@ -142,17 +154,5 @@
     <desc lang="en">Watch the full recap from the second stop of Drift Masters European Championship 2019 in France.</desc>
     <category lang="en">Drifting</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZVEF4K8H5N11/FO-1ZVEF4K8H5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250518133447+0000" stop="20250518135000+0000">
-    <title lang="en">Daily recap 2 – Manuel Lettenbichler leads Xross Hard Enduro Rally</title>
-    <desc lang="en">Stay up to date with the latest from the Xross Hard Enduro Rally as Manuel Lettenbichler takes an early lead.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/19/waueqh95j23cchuiyezh/manuel-lettenbichler-xross-serbia-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250518135000+0000" stop="20250518155036+0000">
-    <title lang="en">Drift Masters Top 16 – Spain livestream</title>
-    <desc lang="en">Watch the Top 16 drifters in action in Spain at the second round of the Drift Masters 2025 season.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/6/jawy00ibydyn2sdnc2eh/ali-makhseed-drift-masters-valencia-2024"/>
   </programme>
 </tv>
