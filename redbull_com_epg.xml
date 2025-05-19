@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-19 09:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-19 10:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250519055329+0000" stop="20250519060000+0000">
+    <title lang="en">Unfold huNter</title>
+    <desc lang="en">How G2 Esports gamers huNter and his cousin Nikola 'NiKo' Kovač rose to the top.</desc>
+    <category lang="en">Games</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/pkuhkm3fz7vqodf7fkea/esports-unfold-s3-e3-unfold-hunter-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250519060000+0000" stop="20250519063131+0000">
+    <title lang="en">Dropping Molly</title>
+    <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
+    <category lang="en">Bouldering</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/hzbjjsd9kg5knno3grxo/molly-mitchell-bouldering"/>
+  </programme>
   <programme channel="redbull.com" start="20250519063131+0000" stop="20250519070123+0000">
     <title lang="en">Barefoot Charles</title>
     <desc lang="en">Barefoot Charles Albert is a minimalist who climbs boulders in Fontainebleau, France, and lives in a cave.</desc>
@@ -142,17 +154,5 @@
     <desc lang="en">In the backwoods of Canada, three crews of adventure seekers change the world of cycling.</desc>
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z6R1FMW55N11/FO-1Z6R1FMW55N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250519203415+0000" stop="20250519210815+0000">
-    <title lang="en">South America Tour</title>
-    <desc lang="en">Ryan Sheckler, Jamie Foy and the crew touch down on the most skate-crazy continent on Earth – South America.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/16/rgyh68fdvqt8ekzwr5gk/red-bull-drop-in-tour-florianopolis-skaters-group-photo"/>
-  </programme>
-  <programme channel="redbull.com" start="20250519210815+0000" stop="20250519215251+0000">
-    <title lang="en">WSL Lexus Pipe Pro</title>
-    <desc lang="en">You're granted access-all-areas at the WSL Championship Tour 2025 season opening event, the Lexus Pipe Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/26/hcc1odpn6ogks2lqslbs/caitlin-simmers-on-pipeline-2025"/>
   </programme>
 </tv>
