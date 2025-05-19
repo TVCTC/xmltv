@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-19 01:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-19 02:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250518203637+0000" stop="20250518212113+0000">
-    <title lang="en">WSL Surf City El Salvador Pro wrap show</title>
-    <desc lang="en">The WSL commentary crew break down the 2025 Surf City El Salvador Pro’s winners and losers.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/popwkhscpmprophqwshu/jordy-smith-wsl-surf-city-el-salvador-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250518212113+0000" stop="20250518214719+0000">
-    <title lang="en">DH full recap show – Leogang</title>
-    <desc lang="en">Watch the full recap from the downhill finals in Leogang, Austria.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/6/15/yr8vjejb9r6yankwrehe/uci-world-cup-leogang-dh-laurie-greenland"/>
-  </programme>
-  <programme channel="redbull.com" start="20250518214719+0000" stop="20250518221319+0000">
-    <title lang="en">Downhill recap – Lourdes</title>
-    <desc lang="en">Watch the full recap from the first downhill stop of the UCI Mountain Bike World Cup season in Lourdes.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/15/ifrahthvlr4zdwy8jbjk/finn-iles-lourdes-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20250518221319+0000" stop="20250518225614+0000">
-    <title lang="en">Shigekix shows Ronnie around Tokyo</title>
-    <desc lang="en">B-Boys Shigekix and Ronnie reveal Tokyo's secret: the pursuit of perfection in dance, food and craftsmanship.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/4/figfglupualag3qogrtn/breaking-beyond-s1-e4-shigekix-ronnie-tokyo"/>
-  </programme>
-  <programme channel="redbull.com" start="20250518225614+0000" stop="20250518233845+0000">
-    <title lang="en">Menno and Junior chill in Rotterdam</title>
-    <desc lang="en">B-Boys Menno and Junior explore Rotterdam’s breaking scene, Dutch pioneers' stories and life beyond breaking.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/4/yl83syaubuzydh9bpayb/breaking-beyond-s1-e5-menno-junior-rotterdam"/>
-  </programme>
   <programme channel="redbull.com" start="20250518233845+0000" stop="20250519000245+0000">
     <title lang="en">Can't stop us</title>
     <desc lang="en">Look back at Red Bull Dance Your Style 2021 and the cancellation of the World Final due to Covid-19.</desc>
@@ -149,10 +119,40 @@
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/grv8ijzyrwhtsstkoas3/red-bull-valparaiso-cerro-abajo-2023"/>
   </programme>
-  <programme channel="redbull.com" start="20250518184512+0000" stop="20250518195303+0000">
+  <programme channel="redbull.com" start="20250519090952+0000" stop="20250519101744+0000">
     <title lang="en">The 5th Symphony Document</title>
     <desc lang="en">The 5th Symphony Document is a movie about surfers and rediscovering the wandering spirit of surf filmmaking.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/nqlhtlen541lsaexjluk/kelly-slater-australia-2016"/>
+  </programme>
+  <programme channel="redbull.com" start="20250519101744+0000" stop="20250519105028+0000">
+    <title lang="en">The Source</title>
+    <desc lang="en">Koa Smith goes on a South African surf adventure, where waves (or lack thereof) lead to profound discoveries.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/30/ltrm5vmnhrsj3ze9cdn3/koa-smith-the-source"/>
+  </programme>
+  <programme channel="redbull.com" start="20250519105028+0000" stop="20250519111631+0000">
+    <title lang="en">Santiago Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Chile as the Santiago Premier Padel P1 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/bdtrfzyj5lvybvefhsp6/marta-ortega-miami-2025-premier-padel-semi-final"/>
+  </programme>
+  <programme channel="redbull.com" start="20250519111631+0000" stop="20250519114253+0000">
+    <title lang="en">ABC of... Drifting</title>
+    <desc lang="en">Drift driver Dave Egan gives the lowdown on the motorsport that's all about speed, style, smoke and skill.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/5/4/p3t1rjho9ze26gmdlz9e/abc-of-drifting"/>
+  </programme>
+  <programme channel="redbull.com" start="20250519114253+0000" stop="20250519120846+0000">
+    <title lang="en">France recap</title>
+    <desc lang="en">Watch the full recap from the second stop of Drift Masters European Championship 2019 in France.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZVEF4K8H5N11/FO-1ZVEF4K8H5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250519120846+0000" stop="20250519123048+0000">
+    <title lang="en">Abu Dhabi Desert Challenge</title>
+    <desc lang="en">The legendary Abu Dhabi Desert Challenge is one of the world’s most prestigious cross country rallies.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/11/17/wuv1xmlzqriqxncfzxzn/cross-country-rallies-world-cup-s2021-e4-abu-dhabi-desert-challenge-art"/>
   </programme>
 </tv>
