@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-19 12:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-19 13:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250519083720+0000" stop="20250519090952+0000">
-    <title lang="en">20 Years of Red Bull Valparaíso Cerro Abajo</title>
-    <desc lang="en">Relive 20 years of the largest urban downhill race in the world that began as an idea among friends.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/grv8ijzyrwhtsstkoas3/red-bull-valparaiso-cerro-abajo-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20250519090952+0000" stop="20250519101744+0000">
     <title lang="en">The 5th Symphony Document</title>
     <desc lang="en">The 5th Symphony Document is a movie about surfers and rediscovering the wandering spirit of surf filmmaking.</desc>
@@ -137,13 +131,13 @@
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/27/n4v6kk1h6vslpk5ukmdq/the-old-world-visual"/>
   </programme>
-  <programme channel="redbull.com" start="20250519072251+0000" stop="20250519074651+0000">
+  <programme channel="redbull.com" start="20250519234657+0000" stop="20250520001057+0000">
     <title lang="en">Downhill highlights – Leogang</title>
     <desc lang="en">Watch the highlights from Stop 5 of the 2024 World Cup season with all the downhill action from Leogang.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/12/z4wsfcgkh46nmhruhcsv/andreas-kolb-uci-dh-world-cup-leogang-2024"/>
   </programme>
-  <programme channel="redbull.com" start="20250519074651+0000" stop="20250519081051+0000">
+  <programme channel="redbull.com" start="20250520001057+0000" stop="20250520003457+0000">
     <title lang="en">Downhill highlights – Loudenvielle</title>
     <desc lang="en">Watch the downhill highlights from the ninth stop of the 2024 World Cup season from Loudenvielle, France.</desc>
     <category lang="en">MTB</category>
@@ -154,5 +148,11 @@
     <desc lang="en">Watch the highlights from Mexico as the Cancun Premier Padel P2 took centre stage. </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/17/lr1amwly2elapgnn1fha/juan-lebron-franco-stupaczuk-cancun-padel-p2-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250520010124+0000" stop="20250520012802+0000">
+    <title lang="en">Miami Premier Padel highlights</title>
+    <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/ynqwuqdbhxclhxuwztm0/alejandro-galan-miami-premier-padel-2025"/>
   </programme>
 </tv>
