@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-21 00:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-21 01:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250520214423+0000" stop="20250520223038+0000">
-    <title lang="en">Saya Sakakibara: Ride to Redemption</title>
-    <desc lang="en">After her brother’s injury, BMX athlete Saya Sakakibara pushes for success on her road to Paris.</desc>
-    <category lang="en">BMX</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/7/erpqldmdfxn0hk0ntagb/saya-sakakibara-macarthur-bmx-track-camden-australia-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20250520223038+0000" stop="20250520231514+0000">
     <title lang="en">WSL MEO Rip Curl Pro Portugal</title>
     <desc lang="en">Come backstage for a closer study of WSL MEO Rip Curl Pro Portugal’s biggest storylines.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Watch the full recap from the downhill finals in Leogang, Austria.</desc>
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/6/15/yr8vjejb9r6yankwrehe/uci-world-cup-leogang-dh-laurie-greenland"/>
+  </programme>
+  <programme channel="redbull.com" start="20250521111314+0000" stop="20250521113914+0000">
+    <title lang="en">Downhill recap – Lourdes</title>
+    <desc lang="en">Watch the full recap from the first downhill stop of the UCI Mountain Bike World Cup season in Lourdes.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/15/ifrahthvlr4zdwy8jbjk/finn-iles-lourdes-2022"/>
   </programme>
 </tv>
