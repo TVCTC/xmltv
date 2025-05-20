@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-20 20:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-20 21:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250520152413+0000" stop="20250520172449+0000">
+    <title lang="en">Drift Masters Top 16 – Spain livestream</title>
+    <desc lang="en">Watch the Top 16 drifters in action in Spain at the second round of the Drift Masters 2025 season.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/6/jawy00ibydyn2sdnc2eh/ali-makhseed-drift-masters-valencia-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250520172449+0000" stop="20250520175042+0000">
+    <title lang="en">France recap</title>
+    <desc lang="en">Watch the full recap from the second stop of Drift Masters European Championship 2019 in France.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZVEF4K8H5N11/FO-1ZVEF4K8H5N11-featureMedia"/>
+  </programme>
   <programme channel="redbull.com" start="20250520175042+0000" stop="20250520184329+0000">
     <title lang="en">Abu Dhabi Desert Challenge 2024 highlights</title>
     <desc lang="en">Round 2 of the Abu Dhabi Desert Challenge offers challenging sand dunes and baking heat in remote UAE deserts.</desc>
@@ -142,17 +154,5 @@
     <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/18/c4ncyoippkl1obtdsl6o/alejandro-galan-ooredoo-qatar-major-padel-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250521065211+0000" stop="20250521071543+0000">
-    <title lang="en">Japan Tour</title>
-    <desc lang="en">Catch up with the Red Bull Drop In Japan Tour with Zion Wright, Torey Pudwill, Ryan Decenzo and Jake Wooten.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/25/lhqik4pbc5dqzvjixn2w/ryan-decenzo-jake-wooten-alex-sorgente-margie-didal-zion-wright-torey-pudwill-yumeka-oda-max-habanec-kyoto-japan"/>
-  </programme>
-  <programme channel="redbull.com" start="20250521071543+0000" stop="20250521074832+0000">
-    <title lang="en">Australia Tour</title>
-    <desc lang="en">The skateboard demo tour hits Melbourne, Brisbane, Gold Coast and Sydney with Jamie Foy, TJ Rogers and more.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/12/c1cuulekhr76jf4t3pgr/jamie-foy-red-bull-drop-in-tour-2023-australia-skateboarding"/>
   </programme>
 </tv>
