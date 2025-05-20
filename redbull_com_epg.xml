@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-20 06:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-20 07:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250520035025+0000" stop="20250520042233+0000">
-    <title lang="en">Dropping Molly</title>
-    <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
-    <category lang="en">Bouldering</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/hzbjjsd9kg5knno3grxo/molly-mitchell-bouldering"/>
-  </programme>
-  <programme channel="redbull.com" start="20250520042233+0000" stop="20250520045225+0000">
-    <title lang="en">Barefoot Charles</title>
-    <desc lang="en">Barefoot Charles Albert is a minimalist who climbs boulders in Fontainebleau, France, and lives in a cave.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/ydxaxjhqzror4iclvx2k/giuliano-cameroni-the-feather-reel-rock-s8-ep2"/>
-  </programme>
-  <programme channel="redbull.com" start="20250520045225+0000" stop="20250520051353+0000">
-    <title lang="en">La Dura Dura</title>
-    <desc lang="en">A legendary climber and the young phenom hot on his heels team up to send the world's hardest route.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2E7SCN1W11/FO-1RM2E7SCN1W11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250520051353+0000" stop="20250520054753+0000">
-    <title lang="en">South America Tour</title>
-    <desc lang="en">Ryan Sheckler, Jamie Foy and the crew touch down on the most skate-crazy continent on Earth – South America.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/16/rgyh68fdvqt8ekzwr5gk/red-bull-drop-in-tour-florianopolis-skaters-group-photo"/>
-  </programme>
   <programme channel="redbull.com" start="20250520054753+0000" stop="20250520055604+0000">
     <title lang="en">World’s longest-ever ski jump</title>
     <desc lang="en">Ryōyū Kobayashi and his team went to Iceland, intent on creating a jump big enough to smash world records.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Watch the Top 16 drifters in action in Spain at the second round of the Drift Masters 2025 season.</desc>
     <category lang="en">Drifting</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/6/jawy00ibydyn2sdnc2eh/ali-makhseed-drift-masters-valencia-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250520172449+0000" stop="20250520175042+0000">
+    <title lang="en">France recap</title>
+    <desc lang="en">Watch the full recap from the second stop of Drift Masters European Championship 2019 in France.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZVEF4K8H5N11/FO-1ZVEF4K8H5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250520175042+0000" stop="20250520184329+0000">
+    <title lang="en">Abu Dhabi Desert Challenge 2024 highlights</title>
+    <desc lang="en">Round 2 of the Abu Dhabi Desert Challenge offers challenging sand dunes and baking heat in remote UAE deserts.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/cjglt0voraiqyycemrmx/rokas-baciuska-abu-dhabi-desert-challenge-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250520083336+0000" stop="20250520085736+0000">
+    <title lang="en">Downhill highlights – Fort William</title>
+    <desc lang="en">See the pack tame the UCI MTB World Cup's longest track and catch up on the downhill highlights from the Fort William stop in Scotland</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/7/ir09igmkl0srre77lixi/loic-bruni-uci-dh-world-cup-in-fort-william-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250520190729+0000" stop="20250520193358+0000">
+    <title lang="en">The Streif – Fabio Wibmer</title>
+    <desc lang="en">Experience Fabio Wibmer's breathtaking MTB ride down the iconic Streif downhill ski course in Austria.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/15/uik6hbze5irm0vss0r5q/the-streif-fabio-wibmer-header"/>
   </programme>
 </tv>
