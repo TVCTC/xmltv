@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-21 07:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-21 08:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250521033433+0000" stop="20250521040604+0000">
+    <title lang="en">Dropping Molly</title>
+    <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
+    <category lang="en">Bouldering</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/hzbjjsd9kg5knno3grxo/molly-mitchell-bouldering"/>
+  </programme>
+  <programme channel="redbull.com" start="20250521040604+0000" stop="20250521043557+0000">
+    <title lang="en">Barefoot Charles</title>
+    <desc lang="en">Barefoot Charles Albert is a minimalist who climbs boulders in Fontainebleau, France, and lives in a cave.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/ydxaxjhqzror4iclvx2k/giuliano-cameroni-the-feather-reel-rock-s8-ep2"/>
+  </programme>
+  <programme channel="redbull.com" start="20250521043557+0000" stop="20250521045725+0000">
+    <title lang="en">La Dura Dura</title>
+    <desc lang="en">A legendary climber and the young phenom hot on his heels team up to send the world's hardest route.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2E7SCN1W11/FO-1RM2E7SCN1W11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250521045725+0000" stop="20250521052125+0000">
+    <title lang="en">Downhill highlights – Leogang</title>
+    <desc lang="en">Watch the highlights from Stop 5 of the 2024 World Cup season with all the downhill action from Leogang.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/12/z4wsfcgkh46nmhruhcsv/andreas-kolb-uci-dh-world-cup-leogang-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250521052125+0000" stop="20250521054525+0000">
+    <title lang="en">Downhill highlights – Loudenvielle</title>
+    <desc lang="en">Watch the downhill highlights from the ninth stop of the 2024 World Cup season from Loudenvielle, France.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/10/vjef8enqxzqvd4agel9v/loic-bruni-uci-dh-world-cup-loudenvielle-peyragudes-france-downhill-mountain-biking-competition"/>
+  </programme>
   <programme channel="redbull.com" start="20250521054525+0000" stop="20250521055524+0000">
     <title lang="en">Women of freeride part 2 – raising the bar</title>
     <desc lang="en">Explore the paths of pioneering women freeriders as they push for inclusion at Red Bull Rampage.</desc>
@@ -124,35 +154,5 @@
     <desc lang="en">Catch up on the highlights from the DH race in Les Gets, where the racing conditions delivered many surprises.</desc>
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/6/29/wctjtw8harx3tknjr80t/uci-world-cup-les-gets-downhill-highlights-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250521144915+0000" stop="20250521153314+0000">
-    <title lang="en">WSL Lexus Pipe Pro</title>
-    <desc lang="en">You're granted access-all-areas at the WSL Championship Tour 2025 season opening event, the Lexus Pipe Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/26/hcc1odpn6ogks2lqslbs/caitlin-simmers-on-pipeline-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250521153314+0000" stop="20250521161750+0000">
-    <title lang="en">WSL Surf Abu Dhabi Pro</title>
-    <desc lang="en">Take an access-all-areas tour of the Abu Dhabi Pro, as the 2025 WSL Championship Tour unleashes in the UAE.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/3/trfvt17zqaghmxssqotl/italo-ferreira-on-wsl-surf-abu-dhabi-pro-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250521161750+0000" stop="20250521164418+0000">
-    <title lang="en">Full recap – Austria</title>
-    <desc lang="en">The 2021 DMEC season got underway with a first-ever double-header in Greinbach, Austria.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/8/2/snhazhcpwcx02izh0alg/drift-masters-european-championship-2021-full-recap"/>
-  </programme>
-  <programme channel="redbull.com" start="20250521164418+0000" stop="20250521173705+0000">
-    <title lang="en">Abu Dhabi Desert Challenge 2024 highlights</title>
-    <desc lang="en">Round 2 of the Abu Dhabi Desert Challenge offers challenging sand dunes and baking heat in remote UAE deserts.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/cjglt0voraiqyycemrmx/rokas-baciuska-abu-dhabi-desert-challenge-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250521173705+0000" stop="20250521175205+0000">
-    <title lang="en">Festival highlights</title>
-    <desc lang="en">Cars and motorbikes race up a hill, and fans can also enjoy a rally stage, classic cars and Red Arrows demos.</desc>
-    <category lang="en">WRC</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-21415XT21BH11/FO-21415XT21BH11-featureMedia"/>
   </programme>
 </tv>
