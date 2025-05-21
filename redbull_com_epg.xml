@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-21 14:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-21 15:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250521094037+0000" stop="20250521100233+0000">
-    <title lang="en">Best DH runs since 2012</title>
-    <desc lang="en">Take a look back at the greatest downhill runs from past events that are still mind-blowing years later.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/7/piijcwxasqribwbea8l8/best-dhi-runs-since-2012-rbtv-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250521100233+0000" stop="20250521104633+0000">
-    <title lang="en">WSL Surf City El Salvador Pro wrap show</title>
-    <desc lang="en">The WSL commentary crew break down the 2025 Surf City El Salvador Pro’s winners and losers.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/popwkhscpmprophqwshu/jordy-smith-wsl-surf-city-el-salvador-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250521104633+0000" stop="20250521111314+0000">
     <title lang="en">DH full recap show – Leogang</title>
     <desc lang="en">Watch the full recap from the downhill finals in Leogang, Austria.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Experience Fabio Wibmer's breathtaking MTB ride down the iconic Streif downhill ski course in Austria.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/15/uik6hbze5irm0vss0r5q/the-streif-fabio-wibmer-header"/>
+  </programme>
+  <programme channel="redbull.com" start="20250521233734+0000" stop="20250522001006+0000">
+    <title lang="en">20 Years of Red Bull Valparaíso Cerro Abajo</title>
+    <desc lang="en">Relive 20 years of the largest urban downhill race in the world that began as an idea among friends.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/grv8ijzyrwhtsstkoas3/red-bull-valparaiso-cerro-abajo-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250522001006+0000" stop="20250522011758+0000">
+    <title lang="en">The 5th Symphony Document</title>
+    <desc lang="en">The 5th Symphony Document is a movie about surfers and rediscovering the wandering spirit of surf filmmaking.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/nqlhtlen541lsaexjluk/kelly-slater-australia-2016"/>
   </programme>
 </tv>
