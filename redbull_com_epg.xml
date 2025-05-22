@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-22 11:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-22 12:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250522082051+0000" stop="20250522090311+0000">
-    <title lang="en">Shigekix shows Ronnie around Tokyo</title>
-    <desc lang="en">B-Boys Shigekix and Ronnie reveal Tokyo's secret: the pursuit of perfection in dance, food and craftsmanship.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/4/figfglupualag3qogrtn/breaking-beyond-s1-e4-shigekix-ronnie-tokyo"/>
-  </programme>
-  <programme channel="redbull.com" start="20250522090311+0000" stop="20250522094617+0000">
-    <title lang="en">Menno and Junior chill in Rotterdam</title>
-    <desc lang="en">B-Boys Menno and Junior explore Rotterdam’s breaking scene, Dutch pioneers' stories and life beyond breaking.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/4/yl83syaubuzydh9bpayb/breaking-beyond-s1-e5-menno-junior-rotterdam"/>
-  </programme>
-  <programme channel="redbull.com" start="20250522094617+0000" stop="20250522101017+0000">
-    <title lang="en">Can't stop us</title>
-    <desc lang="en">Look back at Red Bull Dance Your Style 2021 and the cancellation of the World Final due to Covid-19.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/quukznhnvgdcdeobmfjx/take-the-title-red-bull-dance-your-style-south-africa-s1-e2"/>
-  </programme>
-  <programme channel="redbull.com" start="20250522101017+0000" stop="20250522102433+0000">
-    <title lang="en">Battle for 3rd – Predatorz vs Team Vinotinto</title>
-    <desc lang="en">Predatorz and Team Vinotinto crews battle for third place at the biggest breaking crew competion.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/10/29/1f5f7757-d865-4d80-ab21-ae10b3a56361/vinotinto"/>
-  </programme>
   <programme channel="redbull.com" start="20250522102433+0000" stop="20250522110921+0000">
     <title lang="en">Kasso 2024 – part 2</title>
     <desc lang="en">Skate pros Madars Apse, Wes Kremer, Leo Romero and the local rippers take on the final two challenges.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/18/c4ncyoippkl1obtdsl6o/alejandro-galan-ooredoo-qatar-major-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250523002458+0000" stop="20250523005144+0000">
+    <title lang="en">Chasing the Inca II</title>
+    <desc lang="en">Take a journey into the Peruvian Andes with a group of pro mountain bikers searching for a lost Incan trail. </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/23/myixpofpdbj5buaerqdd/chasing-the-inca-2-header-image"/>
+  </programme>
+  <programme channel="redbull.com" start="20250523005144+0000" stop="20250523013450+0000">
+    <title lang="en">Encouraged: Building the Future</title>
+    <desc lang="en">Join Courage Adams as he returns to Nigeria to fulfil his promise of building Lagos's first skatepark.</desc>
+    <category lang="en">BMX</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/vwwci81eotk8udlrfy1n/lagos-bmx-crew-courage-adams-encouraged"/>
+  </programme>
+  <programme channel="redbull.com" start="20250523013450+0000" stop="20250523020132+0000">
+    <title lang="en">DH full recap show – Leogang</title>
+    <desc lang="en">Watch the full recap from the downhill finals in Leogang, Austria.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/6/15/yr8vjejb9r6yankwrehe/uci-world-cup-leogang-dh-laurie-greenland"/>
+  </programme>
+  <programme channel="redbull.com" start="20250523020132+0000" stop="20250523022732+0000">
+    <title lang="en">Downhill recap – Lourdes</title>
+    <desc lang="en">Watch the full recap from the first downhill stop of the UCI Mountain Bike World Cup season in Lourdes.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/4/15/ifrahthvlr4zdwy8jbjk/finn-iles-lourdes-2022"/>
   </programme>
 </tv>
