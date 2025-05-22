@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-22 22:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-22 23:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250522204908+0000" stop="20250522210408+0000">
-    <title lang="en">Festival highlights</title>
-    <desc lang="en">Cars and motorbikes race up a hill, and fans can also enjoy a rally stage, classic cars and Red Arrows demos.</desc>
-    <category lang="en">WRC</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-21415XT21BH11/FO-21415XT21BH11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250522210408+0000" stop="20250522212646+0000">
-    <title lang="en">Abu Dhabi Desert Challenge</title>
-    <desc lang="en">The legendary Abu Dhabi Desert Challenge is one of the world’s most prestigious cross country rallies.</desc>
-    <category lang="en">Rally Raid</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/11/17/wuv1xmlzqriqxncfzxzn/cross-country-rallies-world-cup-s2021-e4-abu-dhabi-desert-challenge-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250522212646+0000" stop="20250522215419+0000">
-    <title lang="en">Check out this crazy new motorsport</title>
-    <desc lang="en">Welcome to the dizzying, squealing rage of South Africa’s adrenaline-sparking motorsport: spinning.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/8/25/upmdrn93p8d1gfdebtxr/red-bull-shay-imoto-2019-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250522215419+0000" stop="20250522224555+0000">
     <title lang="en">Shires</title>
     <desc lang="en">Narrated by Rob Warner, Shires is all about UK riding – the riders, landscapes and the ever-changing weather.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Predatorz and Team Vinotinto crews battle for third place at the biggest breaking crew competion.</desc>
     <category lang="en">Breaking</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/10/29/1f5f7757-d865-4d80-ab21-ae10b3a56361/vinotinto"/>
+  </programme>
+  <programme channel="redbull.com" start="20250523082835+0000" stop="20250523091247+0000">
+    <title lang="en">Kasso 2024 – part 2</title>
+    <desc lang="en">Skate pros Madars Apse, Wes Kremer, Leo Romero and the local rippers take on the final two challenges.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/l6xnhbqc6wz7j3opais2/madars-apse-kasso-japan-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250523091247+0000" stop="20250523094723+0000">
+    <title lang="en">South America Tour</title>
+    <desc lang="en">Ryan Sheckler, Jamie Foy and the crew touch down on the most skate-crazy continent on Earth – South America.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/16/rgyh68fdvqt8ekzwr5gk/red-bull-drop-in-tour-florianopolis-skaters-group-photo"/>
+  </programme>
+  <programme channel="redbull.com" start="20250523094723+0000" stop="20250523103123+0000">
+    <title lang="en">WSL Lexus Pipe Pro</title>
+    <desc lang="en">You're granted access-all-areas at the WSL Championship Tour 2025 season opening event, the Lexus Pipe Pro.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/26/hcc1odpn6ogks2lqslbs/caitlin-simmers-on-pipeline-2025"/>
   </programme>
 </tv>
