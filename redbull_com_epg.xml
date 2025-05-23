@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-23 07:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-23 08:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250523035313+0000" stop="20250523042113+0000">
+    <title lang="en">Best moments of 2023</title>
+    <desc lang="en">From Xross Hard Enduro to GetzenRodeo, relive the best moments from the 2023 Hard Enduro World Championship.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/21/cbofzivks1dlqjaft3kb/manuel-lettenbichler-red-bull-outliers-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250523042113+0000" stop="20250523044751+0000">
+    <title lang="en">Abestone Hard Enduro recap</title>
+    <desc lang="en">In a new race for fans to enjoy, two days of action will culminate with 50 riders battling for the top prize.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/4/16/d4ca8xdn4yrlgswnwg7k/fim-round-3-abestone-hard-enduro-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250523044751+0000" stop="20250523045423+0000">
+    <title lang="en">Best of Skate Tales from season 1</title>
+    <desc lang="en">Join Madars Apse for the best bits of his first season exploring skateboarding’s wilder shores.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/9/zuyqwvp1oy8hate4dslg/madars-apse-handstand-skate-tales"/>
+  </programme>
   <programme channel="redbull.com" start="20250523045423+0000" stop="20250523050000+0000">
     <title lang="en">Kriss Kyle swaps BMX for MTB</title>
     <desc lang="en">The wild woods of Wales bear witness to the bike-handling maestro, Kriss Kyle, in a classic British winter.</desc>
@@ -119,7 +137,7 @@
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/10/vjef8enqxzqvd4agel9v/loic-bruni-uci-dh-world-cup-loudenvielle-peyragudes-france-downhill-mountain-biking-competition"/>
   </programme>
-  <programme channel="redbull.com" start="20250523154056+0000" stop="20250523160649+0000">
+  <programme channel="redbull.com" start="20250523032720+0000" stop="20250523035313+0000">
     <title lang="en">The Streif – Fabio Wibmer</title>
     <desc lang="en">Experience Fabio Wibmer's breathtaking MTB ride down the iconic Streif downhill ski course in Austria.</desc>
     <category lang="en">MTB</category>
@@ -136,23 +154,5 @@
     <desc lang="en">Barefoot Charles Albert is a minimalist who climbs boulders in Fontainebleau, France, and lives in a cave.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/ydxaxjhqzror4iclvx2k/giuliano-cameroni-the-feather-reel-rock-s8-ep2"/>
-  </programme>
-  <programme channel="redbull.com" start="20250523170914+0000" stop="20250523173006+0000">
-    <title lang="en">La Dura Dura</title>
-    <desc lang="en">A legendary climber and the young phenom hot on his heels team up to send the world's hardest route.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2E7SCN1W11/FO-1RM2E7SCN1W11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250523173006+0000" stop="20250523184751+0000">
-    <title lang="en">The Moment</title>
-    <desc lang="en">In the backwoods of Canada, three crews of adventure seekers change the world of cycling.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z6R1FMW55N11/FO-1Z6R1FMW55N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250523184751+0000" stop="20250523195543+0000">
-    <title lang="en">The 5th Symphony Document</title>
-    <desc lang="en">The 5th Symphony Document is a movie about surfers and rediscovering the wandering spirit of surf filmmaking.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/nqlhtlen541lsaexjluk/kelly-slater-australia-2016"/>
   </programme>
 </tv>
