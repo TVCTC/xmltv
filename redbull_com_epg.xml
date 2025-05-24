@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-24 09:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-24 10:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250524072856+0000" stop="20250524075541+0000">
-    <title lang="en">Best of Bolton – Sea to Sky</title>
-    <desc lang="en">Ride with extreme enduro rider Paul Bolton alongside Hard Enduro heroes fighting for the win at Sea to Sky.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/14/hw7cwha55y91tjmm5ugt/manuel-lettenbichler-fim-hard-enduro-sea-to-sky-2024-turkey"/>
-  </programme>
-  <programme channel="redbull.com" start="20250524075541+0000" stop="20250524082143+0000">
-    <title lang="en">Extreme XL Lagares recap</title>
-    <desc lang="en">Get the full recap from Toyota Porto Extreme XL Lagares, which mixes EnduroCross with Urban and Hard Enduro.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZCZUSA515N11/FO-1ZCZUSA515N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250524082143+0000" stop="20250524083000+0000">
-    <title lang="en">Creative BMX through the streets of Croatia</title>
-    <desc lang="en">Rovinj, famous for its 16th century architecture and narrow streets, makes for an enticing BMX challenge.</desc>
-    <category lang="en">Cycling</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/23/mbtdmhcqflud1xww8lbt/marin-rantes"/>
-  </programme>
   <programme channel="redbull.com" start="20250524083000+0000" stop="20250524100036+0000">
     <title lang="en">Crankworx: Pumptrack Challenge -- Cairns</title>
     <desc lang="en">Forget pedalling! MTB riders use pure body strength to dominate the course and outrun competitors.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">We take a deep dive behind the scenes of the National Final and follow the top 16 dancers for the World Final.</desc>
     <category lang="en">Dance</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/gc3ecxdmat2c1n6kagma/take-the-title-red-bull-dance-your-style-south-africa-s1-e4"/>
+  </programme>
+  <programme channel="redbull.com" start="20250524214439+0000" stop="20250524221032+0000">
+    <title lang="en">Unlimited rounds</title>
+    <desc lang="en">Get ready for a Seoul showdown! B-Boy Hong 10 trains Phil Wizard ahead of an unlimited rounds break battle. </desc>
+    <category lang="en">Breaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/21/izoibmohgic2wofdryp6/hong-10-phil-wizard-seoul-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20250524221032+0000" stop="20250524223736+0000">
+    <title lang="en">Red Bull Dual Ascent – highlights</title>
+    <desc lang="en">World-class climbers in 10 teams battled to be the fastest up the wall during a head-to-head 180m-high ascent.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/6/b4j4cc9iaxi5glbwj4ho/jessica-pilz-climbing-180m-route-verzasca-dam-red-bull-dual-ascent-switzerland-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250524223736+0000" stop="20250524231634+0000">
+    <title lang="en">Big wall climbing in Jordan</title>
+    <desc lang="en">Sasha DiGiulian tackles a classic Jordanian big wall in Wadi Rum with pro climber Magnus Midtbø.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/6/o5awcfx0bnmscw3niruu/10am-on-a-tue-sasha-digiulian-s2e1"/>
   </programme>
 </tv>
