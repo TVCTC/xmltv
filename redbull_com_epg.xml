@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-24 03:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-24 04:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250523173006+0000" stop="20250523184751+0000">
-    <title lang="en">The Moment</title>
-    <desc lang="en">In the backwoods of Canada, three crews of adventure seekers change the world of cycling.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z6R1FMW55N11/FO-1Z6R1FMW55N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250523184751+0000" stop="20250523195543+0000">
     <title lang="en">The 5th Symphony Document</title>
     <desc lang="en">The 5th Symphony Document is a movie about surfers and rediscovering the wandering spirit of surf filmmaking.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Ride with extreme enduro rider Paul Bolton alongside Hard Enduro heroes fighting for the win at Sea to Sky.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/14/hw7cwha55y91tjmm5ugt/manuel-lettenbichler-fim-hard-enduro-sea-to-sky-2024-turkey"/>
+  </programme>
+  <programme channel="redbull.com" start="20250524075541+0000" stop="20250524082143+0000">
+    <title lang="en">Extreme XL Lagares recap</title>
+    <desc lang="en">Get the full recap from Toyota Porto Extreme XL Lagares, which mixes EnduroCross with Urban and Hard Enduro.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZCZUSA515N11/FO-1ZCZUSA515N11-featureMedia"/>
   </programme>
 </tv>
