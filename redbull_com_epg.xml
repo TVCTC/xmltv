@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-26 06:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-26 07:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250526023002+0000" stop="20250526025604+0000">
-    <title lang="en">Extreme XL Lagares recap</title>
-    <desc lang="en">Get the full recap from Toyota Porto Extreme XL Lagares, which mixes EnduroCross with Urban and Hard Enduro.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZCZUSA515N11/FO-1ZCZUSA515N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250526025604+0000" stop="20250526033615+0000">
-    <title lang="en">High tension</title>
-    <desc lang="en">A violent altercation on Mount Everest uncovers deep-seated tensions between climbers and Sherpas.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2Y56611W11/FO-1RM2Y56611W11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250526033615+0000" stop="20250526035652+0000">
     <title lang="en">Infinita Patagonia</title>
     <desc lang="en">Nadine Wallner ventured to the rarely skied location of El Chaltén, Argentina, for some serious alpinism.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Watch the highlights from Mexico as the Cancun Premier Padel P2 took centre stage. </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/17/lr1amwly2elapgnn1fha/juan-lebron-franco-stupaczuk-cancun-padel-p2-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250526162011+0000" stop="20250526164447+0000">
+    <title lang="en">The next generation part 1</title>
+    <desc lang="en">Red Bull Dance Your Style is back for 2023 – we follow the new journey of the dancers and get to know them.</desc>
+    <category lang="en">Dance</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/gzaxqogpctel9ab1je4i/take-the-title-red-bull-dance-your-style-south-africa-s1-e3"/>
+  </programme>
+  <programme channel="redbull.com" start="20250526164447+0000" stop="20250526170847+0000">
+    <title lang="en">The next generation part 2</title>
+    <desc lang="en">We take a deep dive behind the scenes of the National Final and follow the top 16 dancers for the World Final.</desc>
+    <category lang="en">Dance</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/gc3ecxdmat2c1n6kagma/take-the-title-red-bull-dance-your-style-south-africa-s1-e4"/>
   </programme>
 </tv>
