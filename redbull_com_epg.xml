@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-26 19:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-26 20:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250526105057+0000" stop="20250526125553+0000">
+    <title lang="en">Crankworx: RockShox Downhill -- Cairns</title>
+    <desc lang="en">It’s high-speed action as top MTB riders take on the downhill challenge at Crankworx 2025 in Cairns.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/2/jvkwxiz7xww9slt0cih1/downhill-crankworx-cairns-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250526125553+0000" stop="20250526131953+0000">
+    <title lang="en">XCO and DH highlights – Les Gets</title>
+    <desc lang="en">Watch the cross-country and downhill highlights from the eighth stop of the 2024 World Cup season in France.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/10/xrq9xberleg0ac1yvs6z/simon-andreassen-uci-xco-world-cup-les-gets-france-mountain-biking"/>
+  </programme>
+  <programme channel="redbull.com" start="20250526131953+0000" stop="20250526134353+0000">
+    <title lang="en">Cross-country highlights – Nové Město</title>
+    <desc lang="en">Watch the XCO highlights from the fourth stop of the 2024 World Cup season in Nové Město, Czech Republic.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/27/cyosd7jqqdfzanef8pig/tom-pidcock-uci-world-cup-2024-nove-mesto"/>
+  </programme>
+  <programme channel="redbull.com" start="20250526134353+0000" stop="20250526140955+0000">
+    <title lang="en">Miami Premier Padel highlights</title>
+    <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/ynqwuqdbhxclhxuwztm0/alejandro-galan-miami-premier-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250526140955+0000" stop="20250526143559+0000">
+    <title lang="en">Santiago Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Chile as the Santiago Premier Padel P1 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/bdtrfzyj5lvybvefhsp6/marta-ortega-miami-2025-premier-padel-semi-final"/>
+  </programme>
+  <programme channel="redbull.com" start="20250526143559+0000" stop="20250526150207+0000">
+    <title lang="en">Qatar Major Premier Padel highlights</title>
+    <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/18/c4ncyoippkl1obtdsl6o/alejandro-galan-ooredoo-qatar-major-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250526150207+0000" stop="20250526152830+0000">
+    <title lang="en">Riyadh Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Saudia Arabia as the Riyadh Premier Padel P1 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/qeu4q0pzilaxkin3g5d0/padel-players-juan-lebron-chincoa-and-partner-competing-at-riyadh-season-premier-padel-p1-event"/>
+  </programme>
+  <programme channel="redbull.com" start="20250526152830+0000" stop="20250526155420+0000">
+    <title lang="en">Gijón Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/24/venuyomgtnvhhfeakcrc/paula-josemaria-martin-competing-at-riyadh-premier-padel-p1-quarter-finals-in-riyadh"/>
+  </programme>
   <programme channel="redbull.com" start="20250526155420+0000" stop="20250526162011+0000">
     <title lang="en">Cancun Premier Padel highlights</title>
     <desc lang="en">Watch the highlights from Mexico as the Cancun Premier Padel P2 took centre stage. </desc>
@@ -106,53 +154,5 @@
     <desc lang="en">A violent altercation on Mount Everest uncovers deep-seated tensions between climbers and Sherpas.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2Y56611W11/FO-1RM2Y56611W11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250527002058+0000" stop="20250527004135+0000">
-    <title lang="en">Infinita Patagonia</title>
-    <desc lang="en">Nadine Wallner ventured to the rarely skied location of El Chaltén, Argentina, for some serious alpinism.</desc>
-    <category lang="en">Freeskiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/4/eeerdp0sqel7uaglzw3x/infinita-patagonia-nadine-wallner-freeski"/>
-  </programme>
-  <programme channel="redbull.com" start="20250527004135+0000" stop="20250527010149+0000">
-    <title lang="en">King lines part 1</title>
-    <desc lang="en">Climber Chris Sharma starts a quest to make first ascents of the greatest unclimbed walls on Earth.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM31E4FD1W11/chris-sharma-mediterranean-sea"/>
-  </programme>
-  <programme channel="redbull.com" start="20250527010149+0000" stop="20250527012314+0000">
-    <title lang="en">King lines part 2</title>
-    <desc lang="en">After failing to conquer a formidable Mediterranean deep-sea arch, Chris Sharma vows to regroup and return.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM31XET51W11/FO-1RM31XET51W11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250527012314+0000" stop="20250527015114+0000">
-    <title lang="en">Best moments of 2023</title>
-    <desc lang="en">From Xross Hard Enduro to GetzenRodeo, relive the best moments from the 2023 Hard Enduro World Championship.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/21/cbofzivks1dlqjaft3kb/manuel-lettenbichler-red-bull-outliers-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250527015114+0000" stop="20250527021751+0000">
-    <title lang="en">Abestone Hard Enduro recap</title>
-    <desc lang="en">In a new race for fans to enjoy, two days of action will culminate with 50 riders battling for the top prize.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/4/16/d4ca8xdn4yrlgswnwg7k/fim-round-3-abestone-hard-enduro-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250527021751+0000" stop="20250527024413+0000">
-    <title lang="en">DH recap show – Lenzerheide </title>
-    <desc lang="en">Catch up on all the DH action from Lenzerheide, the halfway point of the UCI Mountain Bike World Cup 2022.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/21/z6bzdps7pou5qo2kfvrg/uci-world-cup-lenzerheide-2022-dh-myriam-nicole-rachel-atherton"/>
-  </programme>
-  <programme channel="redbull.com" start="20250527024413+0000" stop="20250527031100+0000">
-    <title lang="en">Chasing the Inca II</title>
-    <desc lang="en">Take a journey into the Peruvian Andes with a group of pro mountain bikers searching for a lost Incan trail. </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/23/myixpofpdbj5buaerqdd/chasing-the-inca-2-header-image"/>
-  </programme>
-  <programme channel="redbull.com" start="20250527031100+0000" stop="20250527044655+0000">
-    <title lang="en">Dirtbag: The Legend of Fred Beckey</title>
-    <desc lang="en">Uncover the legacy of American mountaineer Fred Beckey, whose name's spoken in hushed tones around campfires. </desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/slqfddh4a4wqew1umo1x/dirtbag-mountaineer-fred-beckey"/>
   </programme>
 </tv>
