@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-28 04:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-28 05:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250527204807+0000" stop="20250527211452+0000">
+    <title lang="en">Best of Bolton – Sea to Sky</title>
+    <desc lang="en">Ride with extreme enduro rider Paul Bolton alongside Hard Enduro heroes fighting for the win at Sea to Sky.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/14/hw7cwha55y91tjmm5ugt/manuel-lettenbichler-fim-hard-enduro-sea-to-sky-2024-turkey"/>
+  </programme>
+  <programme channel="redbull.com" start="20250527211452+0000" stop="20250527214054+0000">
+    <title lang="en">Extreme XL Lagares recap</title>
+    <desc lang="en">Get the full recap from Toyota Porto Extreme XL Lagares, which mixes EnduroCross with Urban and Hard Enduro.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZCZUSA515N11/FO-1ZCZUSA515N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250527214054+0000" stop="20250527222105+0000">
+    <title lang="en">High tension</title>
+    <desc lang="en">A violent altercation on Mount Everest uncovers deep-seated tensions between climbers and Sherpas.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2Y56611W11/FO-1RM2Y56611W11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250527222105+0000" stop="20250527224142+0000">
+    <title lang="en">Infinita Patagonia</title>
+    <desc lang="en">Nadine Wallner ventured to the rarely skied location of El Chaltén, Argentina, for some serious alpinism.</desc>
+    <category lang="en">Freeskiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/4/eeerdp0sqel7uaglzw3x/infinita-patagonia-nadine-wallner-freeski"/>
+  </programme>
+  <programme channel="redbull.com" start="20250527224142+0000" stop="20250527230156+0000">
+    <title lang="en">King lines part 1</title>
+    <desc lang="en">Climber Chris Sharma starts a quest to make first ascents of the greatest unclimbed walls on Earth.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM31E4FD1W11/chris-sharma-mediterranean-sea"/>
+  </programme>
+  <programme channel="redbull.com" start="20250527230156+0000" stop="20250527232321+0000">
+    <title lang="en">King lines part 2</title>
+    <desc lang="en">After failing to conquer a formidable Mediterranean deep-sea arch, Chris Sharma vows to regroup and return.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM31XET51W11/FO-1RM31XET51W11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250527232321+0000" stop="20250528005917+0000">
+    <title lang="en">Dirtbag: The Legend of Fred Beckey</title>
+    <desc lang="en">Uncover the legacy of American mountaineer Fred Beckey, whose name's spoken in hushed tones around campfires. </desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/slqfddh4a4wqew1umo1x/dirtbag-mountaineer-fred-beckey"/>
+  </programme>
+  <programme channel="redbull.com" start="20250528005917+0000" stop="20250528012842+0000">
+    <title lang="en">Bridge boys</title>
+    <desc lang="en">Tom Randall and Pete Whittaker take on the most absurd crack climb when they end up under a motorway bridge.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/17/oep1nmcdr78erw6rmvqi/reel-rock-s8-e8-tom-randall-pete-whittaker"/>
+  </programme>
   <programme channel="redbull.com" start="20250528012842+0000" stop="20250528021253+0000">
     <title lang="en">WSL MEO Rip Curl Pro Portugal wrap show</title>
     <desc lang="en">Who was crowned king and queen of Supertubos? Watch highlights of finals day at MEO Rip Curl Pro Portugal. </desc>
@@ -106,53 +154,5 @@
     <desc lang="en">We take a deep dive behind the scenes of the National Final and follow the top 16 dancers for the World Final.</desc>
     <category lang="en">Dance</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/gc3ecxdmat2c1n6kagma/take-the-title-red-bull-dance-your-style-south-africa-s1-e4"/>
-  </programme>
-  <programme channel="redbull.com" start="20250528092454+0000" stop="20250528095046+0000">
-    <title lang="en">Unlimited rounds</title>
-    <desc lang="en">Get ready for a Seoul showdown! B-Boy Hong 10 trains Phil Wizard ahead of an unlimited rounds break battle. </desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/21/izoibmohgic2wofdryp6/hong-10-phil-wizard-seoul-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20250528095046+0000" stop="20250528101751+0000">
-    <title lang="en">Red Bull Dual Ascent – highlights</title>
-    <desc lang="en">World-class climbers in 10 teams battled to be the fastest up the wall during a head-to-head 180m-high ascent.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/6/b4j4cc9iaxi5glbwj4ho/jessica-pilz-climbing-180m-route-verzasca-dam-red-bull-dual-ascent-switzerland-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250528101751+0000" stop="20250528104904+0000">
-    <title lang="en">In the Wings</title>
-    <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250528104904+0000" stop="20250528105612+0000">
-    <title lang="en">Big wall climbing in Jordan</title>
-    <desc lang="en">Sasha DiGiulian tackles a classic Jordanian big wall in Wadi Rum with pro climber Magnus Midtbø.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/6/o5awcfx0bnmscw3niruu/10am-on-a-tue-sasha-digiulian-s2e1"/>
-  </programme>
-  <programme channel="redbull.com" start="20250528105612+0000" stop="20250528112143+0000">
-    <title lang="en">ABC of... Climbing</title>
-    <desc lang="en">Join Sasha DiGiulian as she takes you on an expedition around the globe with some of the world's top climbers.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/3/3/iayq9ughxcjbdcc5xryb/abc-of-climbing-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250528112143+0000" stop="20250528114208+0000">
-    <title lang="en">Split Lane: Today's Parks 10 Year Anniversary</title>
-    <desc lang="en">The untold story of Today’s Parks: how visionaries transform snow and bike courses with innovative designs.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/17/ty2q54ejtimyzlidtydf/gracey-hemstreet-seb-toots-mtb-snowboarding"/>
-  </programme>
-  <programme channel="redbull.com" start="20250528114208+0000" stop="20250528120644+0000">
-    <title lang="en">XCO and DH highlights – Les Gets</title>
-    <desc lang="en">Watch the cross-country and downhill highlights from the eighth stop of the 2024 World Cup season in France.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/10/xrq9xberleg0ac1yvs6z/simon-andreassen-uci-xco-world-cup-les-gets-france-mountain-biking"/>
-  </programme>
-  <programme channel="redbull.com" start="20250528120644+0000" stop="20250528123044+0000">
-    <title lang="en">Cross-country highlights – Nové Město</title>
-    <desc lang="en">Watch the XCO highlights from the fourth stop of the 2024 World Cup season in Nové Město, Czech Republic.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/27/cyosd7jqqdfzanef8pig/tom-pidcock-uci-world-cup-2024-nove-mesto"/>
   </programme>
 </tv>
