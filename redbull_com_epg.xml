@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-29 09:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-29 10:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250529075442+0000" stop="20250529082013+0000">
-    <title lang="en">ABC of... Climbing</title>
-    <desc lang="en">Join Sasha DiGiulian as she takes you on an expedition around the globe with some of the world's top climbers.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/3/3/iayq9ughxcjbdcc5xryb/abc-of-climbing-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250529082013+0000" stop="20250529084114+0000">
-    <title lang="en">Split Lane: Today's Parks 10 Year Anniversary</title>
-    <desc lang="en">The untold story of Today’s Parks: how visionaries transform snow and bike courses with innovative designs.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/17/ty2q54ejtimyzlidtydf/gracey-hemstreet-seb-toots-mtb-snowboarding"/>
-  </programme>
   <programme channel="redbull.com" start="20250529084114+0000" stop="20250529102231+0000">
     <title lang="en">Crankworx: Specialized Dual Slalom -- Cairns</title>
     <desc lang="en">Top MTB riders go head-to-head in a fast-paced race for glory at the Dual Slalom in Cairns, Australia.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Who was crowned king and queen of Supertubos? Watch highlights of finals day at MEO Rip Curl Pro Portugal. </desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/jz2yrcmch22rarlhzk2t/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250529221233+0000" stop="20250529225633+0000">
+    <title lang="en">WSL Surf City El Salvador Pro wrap show</title>
+    <desc lang="en">The WSL commentary crew break down the 2025 Surf City El Salvador Pro’s winners and losers.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/popwkhscpmprophqwshu/jordy-smith-wsl-surf-city-el-salvador-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250529225633+0000" stop="20250529234109+0000">
+    <title lang="en">WSL Lexus Pipe Pro</title>
+    <desc lang="en">You're granted access-all-areas at the WSL Championship Tour 2025 season opening event, the Lexus Pipe Pro.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/26/hcc1odpn6ogks2lqslbs/caitlin-simmers-on-pipeline-2025"/>
   </programme>
 </tv>
