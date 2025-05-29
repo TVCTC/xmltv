@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-29 13:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-29 14:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250529084114+0000" stop="20250529102231+0000">
-    <title lang="en">Crankworx: Specialized Dual Slalom -- Cairns</title>
-    <desc lang="en">Top MTB riders go head-to-head in a fast-paced race for glory at the Dual Slalom in Cairns, Australia.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/2/b29qda6lankg5ykzwgly/burbidge-smith-buchanan-crankworx-dual-slalom-final-cairns-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20250529102231+0000" stop="20250529104631+0000">
-    <title lang="en">XCO and DH highlights – Les Gets</title>
-    <desc lang="en">Watch the cross-country and downhill highlights from the eighth stop of the 2024 World Cup season in France.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/10/xrq9xberleg0ac1yvs6z/simon-andreassen-uci-xco-world-cup-les-gets-france-mountain-biking"/>
-  </programme>
   <programme channel="redbull.com" start="20250529104631+0000" stop="20250529111107+0000">
     <title lang="en">Cross-country highlights – Nové Město</title>
     <desc lang="en">Watch the XCO highlights from the fourth stop of the 2024 World Cup season in Nové Město, Czech Republic.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">You're granted access-all-areas at the WSL Championship Tour 2025 season opening event, the Lexus Pipe Pro.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/26/hcc1odpn6ogks2lqslbs/caitlin-simmers-on-pipeline-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250529234109+0000" stop="20250530002509+0000">
+    <title lang="en">WSL Surf Abu Dhabi Pro</title>
+    <desc lang="en">Take an access-all-areas tour of the Abu Dhabi Pro, as the 2025 WSL Championship Tour unleashes in the UAE.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/3/trfvt17zqaghmxssqotl/italo-ferreira-on-wsl-surf-abu-dhabi-pro-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250530002509+0000" stop="20250530010945+0000">
+    <title lang="en">WSL MEO Rip Curl Pro Portugal</title>
+    <desc lang="en">Come backstage for a closer study of WSL MEO Rip Curl Pro Portugal’s biggest storylines.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/3/vgvpsfeu699lkaywjmg9/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
   </programme>
 </tv>
