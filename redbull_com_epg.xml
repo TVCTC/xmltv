@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-30 13:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-30 14:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250530064154+0000" stop="20250530070044+0000">
+    <title lang="en">Japan</title>
+    <desc lang="en">Head to Tokyo to discover Japan's incredible culture, in and out of the water.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/ajm40meccouf98q084gi/no-contest-off-tour-japan-kanoa-igarashi"/>
+  </programme>
+  <programme channel="redbull.com" start="20250530070044+0000" stop="20250530072128+0000">
+    <title lang="en">Sydney</title>
+    <desc lang="en">Gets to know the colourful characters and surfing culture of Australia's biggest city, Sydney.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/onhifkvity1rfohttjgc/no-contest-off-tour-sydney"/>
+  </programme>
+  <programme channel="redbull.com" start="20250530072128+0000" stop="20250530081437+0000">
+    <title lang="en">Pressure in paradise</title>
+    <desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/gal4qmbviibzua4uegnf/rhiannan-iffland-red-bull-cliff-diving-el-nido-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250530081437+0000" stop="20250530084358+0000">
+    <title lang="en">Transmission</title>
+    <desc lang="en">Luke Egan and his all-star crew surf from one end of the Indonesian archipelago to the other.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/2/l8tc20kjmctvetb0l94a/transmission-surf-film"/>
+  </programme>
   <programme channel="redbull.com" start="20250530084358+0000" stop="20250530092844+0000">
     <title lang="en">WSL Lexus Pipe Pro wrap show</title>
     <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
@@ -130,29 +154,5 @@
     <desc lang="en">The missed resupply pushes Tommy and Alex to the limit as they continue their challenge on empty stomachs.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/bymmgwqwutmllrhd3jcp/alex-honnold-drus-chamonix-2021"/>
-  </programme>
-  <programme channel="redbull.com" start="20250530233416+0000" stop="20250530235912+0000">
-    <title lang="en">Flex</title>
-    <desc lang="en">Matty Hong and Margo Hayes challenge themselves by ascending two of the hardest climbs in Colorado, USA. </desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/fsk7akaw85kryjhdatkj/matty-hong-red-bull-dual-ascent-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20250530235912+0000" stop="20250531002550+0000">
-    <title lang="en">Miami Premier Padel highlights</title>
-    <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/ynqwuqdbhxclhxuwztm0/alejandro-galan-miami-premier-padel-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250531002550+0000" stop="20250531005154+0000">
-    <title lang="en">Santiago Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Chile as the Santiago Premier Padel P1 took centre stage.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/bdtrfzyj5lvybvefhsp6/marta-ortega-miami-2025-premier-padel-semi-final"/>
-  </programme>
-  <programme channel="redbull.com" start="20250531005154+0000" stop="20250531011802+0000">
-    <title lang="en">Qatar Major Premier Padel highlights</title>
-    <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/18/c4ncyoippkl1obtdsl6o/alejandro-galan-ooredoo-qatar-major-padel-2025"/>
   </programme>
 </tv>
