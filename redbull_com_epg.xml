@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-30 15:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-30 16:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250530114552+0000" stop="20250530120705+0000">
-    <title lang="en">Infinita Patagonia</title>
-    <desc lang="en">Nadine Wallner ventured to the rarely skied location of El Chaltén, Argentina, for some serious alpinism.</desc>
-    <category lang="en">Freeskiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/4/eeerdp0sqel7uaglzw3x/infinita-patagonia-nadine-wallner-freeski"/>
-  </programme>
-  <programme channel="redbull.com" start="20250530120705+0000" stop="20250530122719+0000">
-    <title lang="en">King lines part 1</title>
-    <desc lang="en">Climber Chris Sharma starts a quest to make first ascents of the greatest unclimbed walls on Earth.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM31E4FD1W11/chris-sharma-mediterranean-sea"/>
-  </programme>
-  <programme channel="redbull.com" start="20250530122719+0000" stop="20250530124808+0000">
-    <title lang="en">King lines part 2</title>
-    <desc lang="en">After failing to conquer a formidable Mediterranean deep-sea arch, Chris Sharma vows to regroup and return.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM31XET51W11/FO-1RM31XET51W11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250530124808+0000" stop="20250530131608+0000">
-    <title lang="en">Best moments of 2023</title>
-    <desc lang="en">From Xross Hard Enduro to GetzenRodeo, relive the best moments from the 2023 Hard Enduro World Championship.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/21/cbofzivks1dlqjaft3kb/manuel-lettenbichler-red-bull-outliers-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250530131608+0000" stop="20250530134246+0000">
-    <title lang="en">Abestone Hard Enduro recap</title>
-    <desc lang="en">In a new race for fans to enjoy, two days of action will culminate with 50 riders battling for the top prize.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/4/16/d4ca8xdn4yrlgswnwg7k/fim-round-3-abestone-hard-enduro-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250530134246+0000" stop="20250530163516+0000">
     <title lang="en">Crankworx: Slopestyle -- Cairns</title>
     <desc lang="en">The MTB Slopestyle riders deliver an exciting display of skill, tricks and creativity in Cairns, Australia.</desc>
@@ -154,5 +124,35 @@
     <desc lang="en">We take a deep dive behind the scenes of the National Final and follow the top 16 dancers for the World Final.</desc>
     <category lang="en">Dance</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/gc3ecxdmat2c1n6kagma/take-the-title-red-bull-dance-your-style-south-africa-s1-e4"/>
+  </programme>
+  <programme channel="redbull.com" start="20250531032442+0000" stop="20250531034959+0000">
+    <title lang="en">Unlimited rounds</title>
+    <desc lang="en">Get ready for a Seoul showdown! B-Boy Hong 10 trains Phil Wizard ahead of an unlimited rounds break battle. </desc>
+    <category lang="en">Breaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/21/izoibmohgic2wofdryp6/hong-10-phil-wizard-seoul-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20250531034959+0000" stop="20250531041739+0000">
+    <title lang="en">Red Bull Dual Ascent – highlights</title>
+    <desc lang="en">World-class climbers in 10 teams battled to be the fastest up the wall during a head-to-head 180m-high ascent.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/6/b4j4cc9iaxi5glbwj4ho/jessica-pilz-climbing-180m-route-verzasca-dam-red-bull-dual-ascent-switzerland-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250531041739+0000" stop="20250531044853+0000">
+    <title lang="en">In the Wings</title>
+    <desc lang="en">Formula One driver Liam Lawson builds his F1 resume in his busiest season yet in 2023.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/27/rsygukg3rb710jjjz1x4/liam-lawson-f1-grand-prix-of-the-netherlands-practice-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250531044853+0000" stop="20250531045525+0000">
+    <title lang="en">Big wall climbing in Jordan</title>
+    <desc lang="en">Sasha DiGiulian tackles a classic Jordanian big wall in Wadi Rum with pro climber Magnus Midtbø.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/6/o5awcfx0bnmscw3niruu/10am-on-a-tue-sasha-digiulian-s2e1"/>
+  </programme>
+  <programme channel="redbull.com" start="20250531045525+0000" stop="20250531052132+0000">
+    <title lang="en">ABC of... Climbing</title>
+    <desc lang="en">Join Sasha DiGiulian as she takes you on an expedition around the globe with some of the world's top climbers.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/3/3/iayq9ughxcjbdcc5xryb/abc-of-climbing-art"/>
   </programme>
 </tv>
