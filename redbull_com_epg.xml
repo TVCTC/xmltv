@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-30 20:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-05-30 21:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250530163516+0000" stop="20250530170138+0000">
+    <title lang="en">DH recap show – Lenzerheide </title>
+    <desc lang="en">Catch up on all the DH action from Lenzerheide, the halfway point of the UCI Mountain Bike World Cup 2022.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/21/z6bzdps7pou5qo2kfvrg/uci-world-cup-lenzerheide-2022-dh-myriam-nicole-rachel-atherton"/>
+  </programme>
+  <programme channel="redbull.com" start="20250530170138+0000" stop="20250530172825+0000">
+    <title lang="en">Chasing the Inca II</title>
+    <desc lang="en">Take a journey into the Peruvian Andes with a group of pro mountain bikers searching for a lost Incan trail. </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/23/myixpofpdbj5buaerqdd/chasing-the-inca-2-header-image"/>
+  </programme>
   <programme channel="redbull.com" start="20250530172825+0000" stop="20250530190420+0000">
     <title lang="en">Dirtbag: The Legend of Fred Beckey</title>
     <desc lang="en">Uncover the legacy of American mountaineer Fred Beckey, whose name's spoken in hushed tones around campfires. </desc>
@@ -142,17 +154,5 @@
     <desc lang="en">The untold story of Today’s Parks: how visionaries transform snow and bike courses with innovative designs.</desc>
     <category lang="en">Snowboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/17/ty2q54ejtimyzlidtydf/gracey-hemstreet-seb-toots-mtb-snowboarding"/>
-  </programme>
-  <programme channel="redbull.com" start="20250531054157+0000" stop="20250531055418+0000">
-    <title lang="en">Behind the scenes at Red Bull Hardline Australia</title>
-    <desc lang="en">Host Caroline Buchanan goes behind the scenes with riders ahead of Red Bull Hardline Australia 2025.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/7/qyeiqdatyumz9exq1vtt/matt-jones-hardline-australia-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250531055418+0000" stop="20250531060000+0000">
-    <title lang="en">Tomáš Slavík's winning run </title>
-    <desc lang="en">Watch Tomáš Slavík claim victory at Red Bull Cerro Abajo’s first European stop with a flawless run.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/v6tfascdj9ucqlwmqfb7/tomas-slavik-red-bull-genova-cerro-abajo-stunt-show-genoa-italy-2024"/>
   </programme>
 </tv>
