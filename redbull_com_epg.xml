@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-02 07:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-02 08:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250602024728+0000" stop="20250602030913+0000">
-    <title lang="en">Born among boulders</title>
-    <desc lang="en">Follow as Swiss bouldering star Giuliano Cameroni explores the stunning boulders in his home region of Ticino.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/12/dhylamc9wtfro8jloxml/reel-rock-s7-e6-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250602030913+0000" stop="20250602035359+0000">
-    <title lang="en">WSL Lexus Pipe Pro wrap show</title>
-    <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250602035359+0000" stop="20250602043809+0000">
-    <title lang="en">WSL Abu Dhabi Pro wrap show</title>
-    <desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/grgodpvyqhg2grunxuqy/kanoa-igarashi-surfing-surf-abu-dhabi-pro-quarter-finals-hudayriyat-island-abu-dhabi-united-arab-emirates"/>
-  </programme>
-  <programme channel="redbull.com" start="20250602043809+0000" stop="20250602052219+0000">
-    <title lang="en">WSL MEO Rip Curl Pro Portugal wrap show</title>
-    <desc lang="en">Who was crowned king and queen of Supertubos? Watch highlights of finals day at MEO Rip Curl Pro Portugal. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/jz2yrcmch22rarlhzk2t/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250602052219+0000" stop="20250602054817+0000">
-    <title lang="en">South Florida</title>
-    <desc lang="en">The Sunshine State’s core skate scene now has generations of pro skaters proud to call South Florida home.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/uc4fnp8jshga92o14coi/jamie-foy-skateboarding-florida"/>
-  </programme>
   <programme channel="redbull.com" start="20250602054817+0000" stop="20250602060000+0000">
     <title lang="en">2017's top car designs</title>
     <desc lang="en">Not every genius design translates into a stable soapbox, as 2017's creative but crash-heavy highlights show.</desc>
@@ -154,5 +124,35 @@
     <desc lang="en">See young talent from climbing, surf and skate as they prepare for the most important event of their careers.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/zgmuhpa7ydol2n6siube/the-last-step-documentary-climbing-oriane-bertone-skateboard-vincent-matheron-surf-kauli-vaast"/>
+  </programme>
+  <programme channel="redbull.com" start="20250602181021+0000" stop="20250602185225+0000">
+    <title lang="en">Atlanta, USA</title>
+    <desc lang="en">It’s one of the steepest, fastest courses ever, with a big jump to test the durability of every soapbox car.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGSXNVW2111/FO-1PQGSXNVW2111-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250602185225+0000" stop="20250602193557+0000">
+    <title lang="en">Melbourne, Australia </title>
+    <desc lang="en">High-speed antics in Melbourne, Australia, as wildly creative teams test their homemade racers, down under. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/bxbgdlyih7jfsmf1jdww/red-bull-billy-cart-race-melbourne-postal-express-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20250602193557+0000" stop="20250602202435+0000">
+    <title lang="en">Red Bull Flugtag </title>
+    <desc lang="en">Watch participants showcase ingenuity, creativity and flying capabilities before crashing into the Ohio River.</desc>
+    <category lang="en">Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/18/dena2qctqzcwwfwga2cm/event-participants"/>
+  </programme>
+  <programme channel="redbull.com" start="20250602202435+0000" stop="20250602204528+0000">
+    <title lang="en">The Nose speed record part 1</title>
+    <desc lang="en">Alex Honnold and Tommy Caldwell introduce us to the speed record on The Nose route up El Capitan, California.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/6/24/if9oihvtergu5kwdfxbz/the-high-road-reel-rock-s6e4-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250602204528+0000" stop="20250602211040+0000">
+    <title lang="en">The Nose speed record part 2</title>
+    <desc lang="en">Alex Honnold knows the ropes and is pushing for perfection, but Tommy Caldwell is new to speed climbing.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/6/24/jweov19hfsmtzks0d7ij/the-high-road-reel-rock-s6e5-art"/>
   </programme>
 </tv>
