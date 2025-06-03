@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-03 17:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-03 18:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250603142943+0000" stop="20250603151355+0000">
+    <title lang="en">Kasso 2024 – part 2</title>
+    <desc lang="en">Skate pros Madars Apse, Wes Kremer, Leo Romero and the local rippers take on the final two challenges.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/l6xnhbqc6wz7j3opais2/madars-apse-kasso-japan-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250603151355+0000" stop="20250603154111+0000">
+    <title lang="en">The Last Step</title>
+    <desc lang="en">See young talent from climbing, surf and skate as they prepare for the most important event of their careers.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/zgmuhpa7ydol2n6siube/the-last-step-documentary-climbing-oriane-bertone-skateboard-vincent-matheron-surf-kauli-vaast"/>
+  </programme>
   <programme channel="redbull.com" start="20250603154111+0000" stop="20250603162239+0000">
     <title lang="en">Atlanta, USA</title>
     <desc lang="en">It’s one of the steepest, fastest courses ever, with a big jump to test the durability of every soapbox car.</desc>
@@ -142,17 +154,5 @@
     <desc lang="en">Watch the highlights from the Brussels P2 Premier Padel tournament.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/23/qf7dntygf7afi5plczxn/eduardo-alonso-lotto-brussels-premier-padel-p2-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250604053912+0000" stop="20250604055602+0000">
-    <title lang="en">Merci Marseille</title>
-    <desc lang="en">Go behind the scenes at Red Bull Bowl Rippers to find out what makes it a favourite for both fans and skaters.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/wcvi20pald59kzl0s4fk/red-bull-bowl-rippers-2023-marseille-france"/>
-  </programme>
-  <programme channel="redbull.com" start="20250604055602+0000" stop="20250604060000+0000">
-    <title lang="en">Kade Edwards destroys Dyfi Bike Park</title>
-    <desc lang="en">Enjoy the sound of speed as British mountain bike rider Kade Edwards rips up Dyfi Bike Park in Wales. </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/doge7u1jj7vxmsg8m1sq/kade-edwards-dyfi-bike-park"/>
   </programme>
 </tv>
