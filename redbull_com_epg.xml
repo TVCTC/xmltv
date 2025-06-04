@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-04 01:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-04 02:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250603215001+0000" stop="20250603223447+0000">
-    <title lang="en">WSL Abu Dhabi Pro wrap show</title>
-    <desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/grgodpvyqhg2grunxuqy/kanoa-igarashi-surfing-surf-abu-dhabi-pro-quarter-finals-hudayriyat-island-abu-dhabi-united-arab-emirates"/>
-  </programme>
-  <programme channel="redbull.com" start="20250603223447+0000" stop="20250603231821+0000">
-    <title lang="en">WSL MEO Rip Curl Pro Portugal wrap show</title>
-    <desc lang="en">Who was crowned king and queen of Supertubos? Watch highlights of finals day at MEO Rip Curl Pro Portugal. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/jz2yrcmch22rarlhzk2t/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250603231821+0000" stop="20250604000257+0000">
     <title lang="en">WSL Surf City El Salvador Pro wrap show</title>
     <desc lang="en">The WSL commentary crew break down the 2025 Surf City El Salvador Pro’s winners and losers.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Skate pros Madars Apse, Wes Kremer, Leo Romero and the local rippers take on the final two challenges.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/l6xnhbqc6wz7j3opais2/madars-apse-kasso-japan-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250604121643+0000" stop="20250604124359+0000">
+    <title lang="en">The Last Step</title>
+    <desc lang="en">See young talent from climbing, surf and skate as they prepare for the most important event of their careers.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/zgmuhpa7ydol2n6siube/the-last-step-documentary-climbing-oriane-bertone-skateboard-vincent-matheron-surf-kauli-vaast"/>
+  </programme>
+  <programme channel="redbull.com" start="20250604124359+0000" stop="20250604172854+0000">
+    <title lang="en">Red Bull Erzbergrodeo LIVE</title>
+    <desc lang="en">1 mountain. 500 riders. 23 checkpoints. 4 hours of time – and only a handful of riders cross the finish line.</desc>
+    <category lang="en">Motocross</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/12/vn0c3p9flspsmbmcwmiu/jonny-walker-red-bull-erzbergrodeo-2024-eisenerz"/>
   </programme>
 </tv>
