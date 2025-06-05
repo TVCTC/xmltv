@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-05 19:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-05 20:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250605145251+0000" stop="20250605150554+0000">
+    <title lang="en">Downhill finals highlights – Fort William</title>
+    <desc lang="en">Here’s what went down on the hillside of Fort William at the second downhill stop of 2022.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/23/vmomzobarvol4gillhge/downhill-finals-highlights-uci-fort-william-2022-vali-holl"/>
+  </programme>
+  <programme channel="redbull.com" start="20250605150554+0000" stop="20250605155040+0000">
+    <title lang="en">WSL Lexus Pipe Pro wrap show</title>
+    <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250605155040+0000" stop="20250605163450+0000">
+    <title lang="en">WSL Abu Dhabi Pro wrap show</title>
+    <desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/grgodpvyqhg2grunxuqy/kanoa-igarashi-surfing-surf-abu-dhabi-pro-quarter-finals-hudayriyat-island-abu-dhabi-united-arab-emirates"/>
+  </programme>
   <programme channel="redbull.com" start="20250605163450+0000" stop="20250605171900+0000">
     <title lang="en">WSL MEO Rip Curl Pro Portugal wrap show</title>
     <desc lang="en">Who was crowned king and queen of Supertubos? Watch highlights of finals day at MEO Rip Curl Pro Portugal. </desc>
@@ -136,23 +154,5 @@
     <desc lang="en">See the pack tame the UCI MTB World Cup's longest track and catch up on the downhill highlights from the Fort William stop in Scotland</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/7/ir09igmkl0srre77lixi/loic-bruni-uci-dh-world-cup-in-fort-william-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250606055507+0000" stop="20250606060000+0000">
-    <title lang="en"> I Jumped From Space </title>
-    <desc lang="en">Red Bull TV programme</desc>
-    <category lang="en">BASE Jumping</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/numkn5vmseryilk3f4bh/felix-baumgartner-action"/>
-  </programme>
-  <programme channel="redbull.com" start="20250606060000+0000" stop="20250606062640+0000">
-    <title lang="en">The Last Step</title>
-    <desc lang="en">See young talent from climbing, surf and skate as they prepare for the most important event of their careers.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/zgmuhpa7ydol2n6siube/the-last-step-documentary-climbing-oriane-bertone-skateboard-vincent-matheron-surf-kauli-vaast"/>
-  </programme>
-  <programme channel="redbull.com" start="20250606062640+0000" stop="20250606070843+0000">
-    <title lang="en">Atlanta, USA</title>
-    <desc lang="en">It’s one of the steepest, fastest courses ever, with a big jump to test the durability of every soapbox car.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGSXNVW2111/FO-1PQGSXNVW2111-featureMedia"/>
   </programme>
 </tv>
