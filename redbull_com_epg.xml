@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-05 15:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-05 16:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250605115452+0000" stop="20250605121621+0000">
-    <title lang="en">The Nose speed record part 1</title>
-    <desc lang="en">Alex Honnold and Tommy Caldwell introduce us to the speed record on The Nose route up El Capitan, California.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/6/24/if9oihvtergu5kwdfxbz/the-high-road-reel-rock-s6e4-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250605121621+0000" stop="20250605124133+0000">
-    <title lang="en">The Nose speed record part 2</title>
-    <desc lang="en">Alex Honnold knows the ropes and is pushing for perfection, but Tommy Caldwell is new to speed climbing.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/6/24/jweov19hfsmtzks0d7ij/the-high-road-reel-rock-s6e5-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250605124133+0000" stop="20250605131125+0000">
-    <title lang="en">Barefoot Charles</title>
-    <desc lang="en">Barefoot Charles Albert is a minimalist who climbs boulders in Fontainebleau, France, and lives in a cave.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/ydxaxjhqzror4iclvx2k/giuliano-cameroni-the-feather-reel-rock-s8-ep2"/>
-  </programme>
-  <programme channel="redbull.com" start="20250605131125+0000" stop="20250605133346+0000">
-    <title lang="en">Born among boulders</title>
-    <desc lang="en">Follow as Swiss bouldering star Giuliano Cameroni explores the stunning boulders in his home region of Ticino.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/12/dhylamc9wtfro8jloxml/reel-rock-s7-e6-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250605133346+0000" stop="20250605140012+0000">
     <title lang="en">DH recap show – Vallnord</title>
     <desc lang="en">Catch up on all the DH action from Vallnord, Andorra, the fifth stop of the UCI Mountain Bike World Cup 2022.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Watch the highlights from Chile as the Santiago Premier Padel P1 took centre stage.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/bdtrfzyj5lvybvefhsp6/marta-ortega-miami-2025-premier-padel-semi-final"/>
+  </programme>
+  <programme channel="redbull.com" start="20250606020846+0000" stop="20250606023454+0000">
+    <title lang="en">Qatar Major Premier Padel highlights</title>
+    <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/18/c4ncyoippkl1obtdsl6o/alejandro-galan-ooredoo-qatar-major-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250606023454+0000" stop="20250606030121+0000">
+    <title lang="en">Brussels P2 Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Brussels P2 Premier Padel tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/23/qf7dntygf7afi5plczxn/eduardo-alonso-lotto-brussels-premier-padel-p2-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250606030121+0000" stop="20250606032721+0000">
+    <title lang="en">Highlights – Dubai Premier Padel P1 </title>
+    <desc lang="en">Watch the highlights from Spain as the Dubai Premier Padel P1 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/6/svkj6x5q1cwnjw62prqp/miguel-yanguas-franco-stupaczuk-newgiza-premier-padel-p2-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250606032721+0000" stop="20250606035359+0000">
+    <title lang="en">Asunción Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Paraguay as the Asunción Premier Padel P2 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/28/nf8ippk7aj3p7esbsntm/beatriz-gonzalez-2025-asuncion-premier-padel-p2-victory-red-bull"/>
   </programme>
 </tv>
