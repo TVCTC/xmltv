@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-07 00:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-07 01:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250606161738+0000" stop="20250606210233+0000">
-    <title lang="en">Red Bull Erzbergrodeo LIVE</title>
-    <desc lang="en">1 mountain. 500 riders. 23 checkpoints. 4 hours of time – and only a handful of riders cross the finish line.</desc>
-    <category lang="en">Motocross</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/12/vn0c3p9flspsmbmcwmiu/jonny-walker-red-bull-erzbergrodeo-2024-eisenerz"/>
-  </programme>
-  <programme channel="redbull.com" start="20250606210233+0000" stop="20250606212821+0000">
-    <title lang="en">Riyadh Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Saudia Arabia as the Riyadh Premier Padel P1 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/qeu4q0pzilaxkin3g5d0/padel-players-juan-lebron-chincoa-and-partner-competing-at-riyadh-season-premier-padel-p1-event"/>
-  </programme>
-  <programme channel="redbull.com" start="20250606212821+0000" stop="20250606215410+0000">
-    <title lang="en">Gijón Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/24/venuyomgtnvhhfeakcrc/paula-josemaria-martin-competing-at-riyadh-premier-padel-p1-quarter-finals-in-riyadh"/>
-  </programme>
   <programme channel="redbull.com" start="20250606215410+0000" stop="20250606222038+0000">
     <title lang="en">Cancun Premier Padel highlights</title>
     <desc lang="en">Watch the highlights from Mexico as the Cancun Premier Padel P2 took centre stage. </desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Experience Fabio Wibmer's breathtaking MTB ride down the iconic Streif downhill ski course in Austria.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/15/uik6hbze5irm0vss0r5q/the-streif-fabio-wibmer-header"/>
+  </programme>
+  <programme channel="redbull.com" start="20250607083630+0000" stop="20250607084932+0000">
+    <title lang="en">Downhill finals highlights – Fort William</title>
+    <desc lang="en">Here’s what went down on the hillside of Fort William at the second downhill stop of 2022.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/23/vmomzobarvol4gillhge/downhill-finals-highlights-uci-fort-william-2022-vali-holl"/>
+  </programme>
+  <programme channel="redbull.com" start="20250607084932+0000" stop="20250607085820+0000">
+    <title lang="en">The women sending Red Bull Hardline</title>
+    <desc lang="en">Six of the best women mountain bikers push new frontiers at Red Bull Hardline 2023.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/7/31/eovjo3ohico6r8pijviz/tahnee-seagrave-jess-blewitt-red-bull-hardline-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250607085820+0000" stop="20250607092552+0000">
+    <title lang="en">Check out this crazy new motorsport</title>
+    <desc lang="en">Welcome to the dizzying, squealing rage of South Africa’s adrenaline-sparking motorsport: spinning.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/8/25/upmdrn93p8d1gfdebtxr/red-bull-shay-imoto-2019-art"/>
   </programme>
 </tv>
