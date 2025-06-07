@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-07 22:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-07 23:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250607195122+0000" stop="20250607201751+0000">
-    <title lang="en">ABC... of MotoGP™</title>
-    <desc lang="en">From understanding the rules to learning the jargon, find out what makes this motorsport so thrilling.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1WR6QJV515N11/FO-1WR6QJV515N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250607201751+0000" stop="20250607212827+0000">
     <title lang="en">Red Bull MotoGP™ Rookies Cup Aragon: Race 5</title>
     <desc lang="en">Watch 26 rookies on their pursit of glory in the Red Bull MotoGP™ Rookies Cup 2025 in Spain.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">In a new race for fans to enjoy, two days of action will culminate with 50 riders battling for the top prize.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/4/16/d4ca8xdn4yrlgswnwg7k/fim-round-3-abestone-hard-enduro-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250608090558+0000" stop="20250608095032+0000">
+    <title lang="en">Best of Red Bull Soapbox Race part 2</title>
+    <desc lang="en">Check out the best moments of Red Bull Soapbox Race, from the driving skills to the high speed spills.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2014/02/16/1331633575850_3/christian-horner-competing-at-red-bull-soapbox-london-in-2013"/>
   </programme>
 </tv>
