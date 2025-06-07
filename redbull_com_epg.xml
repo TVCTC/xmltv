@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-07 12:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-07 13:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250607084932+0000" stop="20250607085820+0000">
+    <title lang="en">The women sending Red Bull Hardline</title>
+    <desc lang="en">Six of the best women mountain bikers push new frontiers at Red Bull Hardline 2023.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/7/31/eovjo3ohico6r8pijviz/tahnee-seagrave-jess-blewitt-red-bull-hardline-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250607085820+0000" stop="20250607092552+0000">
+    <title lang="en">Check out this crazy new motorsport</title>
+    <desc lang="en">Welcome to the dizzying, squealing rage of South Africa’s adrenaline-sparking motorsport: spinning.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/8/25/upmdrn93p8d1gfdebtxr/red-bull-shay-imoto-2019-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250607092552+0000" stop="20250607094128+0000">
+    <title lang="en">Festival highlights</title>
+    <desc lang="en">Cars and motorbikes race up a hill, and fans can also enjoy a rally stage, classic cars and Red Arrows demos.</desc>
+    <category lang="en">WRC</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-21415XT21BH11/FO-21415XT21BH11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250607094128+0000" stop="20250607094500+0000">
+    <title lang="en">Kade Edwards destroys Dyfi Bike Park</title>
+    <desc lang="en">Enjoy the sound of speed as British mountain bike rider Kade Edwards rips up Dyfi Bike Park in Wales. </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/doge7u1jj7vxmsg8m1sq/kade-edwards-dyfi-bike-park"/>
+  </programme>
   <programme channel="redbull.com" start="20250607094500+0000" stop="20250607114536+0000">
     <title lang="en">Drift Masters Top 32 – Finland livestream</title>
     <desc lang="en">Watch the Top 32 drifters in action in Finland at the third round of the Drift Masters 2025 season.</desc>
@@ -130,29 +154,5 @@
     <desc lang="en">It’s one of the steepest, fastest courses ever, with a big jump to test the durability of every soapbox car.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGSXNVW2111/FO-1PQGSXNVW2111-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250608012433+0000" stop="20250608020805+0000">
-    <title lang="en">Melbourne, Australia </title>
-    <desc lang="en">High-speed antics in Melbourne, Australia, as wildly creative teams test their homemade racers, down under. </desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/bxbgdlyih7jfsmf1jdww/red-bull-billy-cart-race-melbourne-postal-express-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20250608020805+0000" stop="20250608025643+0000">
-    <title lang="en">Red Bull Flugtag </title>
-    <desc lang="en">Watch participants showcase ingenuity, creativity and flying capabilities before crashing into the Ohio River.</desc>
-    <category lang="en">Red Bull Flugtag</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/18/dena2qctqzcwwfwga2cm/event-participants"/>
-  </programme>
-  <programme channel="redbull.com" start="20250608025643+0000" stop="20250608031736+0000">
-    <title lang="en">The Nose speed record part 1</title>
-    <desc lang="en">Alex Honnold and Tommy Caldwell introduce us to the speed record on The Nose route up El Capitan, California.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/6/24/if9oihvtergu5kwdfxbz/the-high-road-reel-rock-s6e4-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250608031736+0000" stop="20250608034248+0000">
-    <title lang="en">The Nose speed record part 2</title>
-    <desc lang="en">Alex Honnold knows the ropes and is pushing for perfection, but Tommy Caldwell is new to speed climbing.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/6/24/jweov19hfsmtzks0d7ij/the-high-road-reel-rock-s6e5-art"/>
   </programme>
 </tv>
