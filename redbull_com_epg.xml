@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-08 00:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-08 01:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250607201751+0000" stop="20250607212827+0000">
+    <title lang="en">Red Bull MotoGP™ Rookies Cup Aragon: Race 5</title>
+    <desc lang="en">Watch 26 rookies on their pursit of glory in the Red Bull MotoGP™ Rookies Cup 2025 in Spain.</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/7/vuiie8yj0jmycmlfxcry/alvaro-carpe-red-bull-motogp-rookies-cup-misano-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250607212827+0000" stop="20250607215429+0000">
+    <title lang="en">Asunción Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Paraguay as the Asunción Premier Padel P2 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/28/nf8ippk7aj3p7esbsntm/beatriz-gonzalez-2025-asuncion-premier-padel-p2-victory-red-bull"/>
+  </programme>
   <programme channel="redbull.com" start="20250607215429+0000" stop="20250607224737+0000">
     <title lang="en">Pressure in paradise</title>
     <desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</desc>
@@ -142,17 +154,5 @@
     <desc lang="en">Check out the best moments of Red Bull Soapbox Race, from the driving skills to the high speed spills.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2014/02/16/1331633575850_3/christian-horner-competing-at-red-bull-soapbox-london-in-2013"/>
-  </programme>
-  <programme channel="redbull.com" start="20250608095032+0000" stop="20250608102321+0000">
-    <title lang="en">Australia Tour</title>
-    <desc lang="en">The skateboard demo tour hits Melbourne, Brisbane, Gold Coast and Sydney with Jamie Foy, TJ Rogers and more.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/12/c1cuulekhr76jf4t3pgr/jamie-foy-red-bull-drop-in-tour-2023-australia-skateboarding"/>
-  </programme>
-  <programme channel="redbull.com" start="20250608102321+0000" stop="20250608104659+0000">
-    <title lang="en">San Francisco</title>
-    <desc lang="en">Filled with iconic spots and endless hills, San Francisco is a legendary skate destination like no other.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/14/zslk6roqzregpycrnxyb/greetings-from-san-francisco"/>
   </programme>
 </tv>
