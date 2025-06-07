@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-07 19:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-07 20:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250607135000+0000" stop="20250607165036+0000">
-    <title lang="en">Drift Masters Top 16 – Finland livestream</title>
-    <desc lang="en">Watch the Top 16 drifters in action in Finland at the third round of the Drift Masters 2025 season.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/12/bn5o07emkzxllywtznld/conor-shanahan-mika-salo-circuit-drift-masters-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20250607165036+0000" stop="20250607170317+0000">
     <title lang="en">Best of Paul Bolton – GetzenRodeo</title>
     <desc lang="en">See the best of the action from Paul Bolton at GetzenRodeo, stop 6 of the 2023 FIM Hard Enduro World Champs.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Experience Fabio Wibmer's breathtaking MTB ride down the iconic Streif downhill ski course in Austria.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/15/uik6hbze5irm0vss0r5q/the-streif-fabio-wibmer-header"/>
+  </programme>
+  <programme channel="redbull.com" start="20250608055330+0000" stop="20250608060000+0000">
+    <title lang="en">Danny MacAskill's Gymnasium</title>
+    <desc lang="en">Marvel at Danny MacAskill's crazy trials skills as he takes to the gymnasium on his bike.</desc>
+    <category lang="en">Trial Biking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/1/7/sbf8w1uta2nop0tk1vly/danny-macaskill-gymnasium-pommel-horse"/>
   </programme>
 </tv>
