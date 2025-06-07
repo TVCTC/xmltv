@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-07 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-07 05:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250607015105+0000" stop="20250607023504+0000">
-    <title lang="en">Kasso 2024 – part 1 </title>
-    <desc lang="en">Guest competitors Leo Romero, Madars Apse and Wes Kremer take on wild and obstacle-laden skate courses.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/rkp9d9ninbxkvmi4e8rp/madars-apse-kasso-japan-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250607023504+0000" stop="20250607031952+0000">
-    <title lang="en">Kasso 2024 – part 2</title>
-    <desc lang="en">Skate pros Madars Apse, Wes Kremer, Leo Romero and the local rippers take on the final two challenges.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/l6xnhbqc6wz7j3opais2/madars-apse-kasso-japan-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250607031952+0000" stop="20250607034632+0000">
-    <title lang="en">The Last Step</title>
-    <desc lang="en">See young talent from climbing, surf and skate as they prepare for the most important event of their careers.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/zgmuhpa7ydol2n6siube/the-last-step-documentary-climbing-oriane-bertone-skateboard-vincent-matheron-surf-kauli-vaast"/>
-  </programme>
   <programme channel="redbull.com" start="20250607034632+0000" stop="20250607042836+0000">
     <title lang="en">Atlanta, USA</title>
     <desc lang="en">It’s one of the steepest, fastest courses ever, with a big jump to test the durability of every soapbox car.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Watch the Top 16 drifters in action in Finland at the third round of the Drift Masters 2025 season.</desc>
     <category lang="en">Drifting</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/12/bn5o07emkzxllywtznld/conor-shanahan-mika-salo-circuit-drift-masters-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250607165036+0000" stop="20250607170317+0000">
+    <title lang="en">Best of Paul Bolton – GetzenRodeo</title>
+    <desc lang="en">See the best of the action from Paul Bolton at GetzenRodeo, stop 6 of the 2023 FIM Hard Enduro World Champs.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/xoq7sywylhrgu1izfe8f/paul-bolton"/>
+  </programme>
+  <programme channel="redbull.com" start="20250607170317+0000" stop="20250607172946+0000">
+    <title lang="en">France recap</title>
+    <desc lang="en">Watch the full recap from the second stop of Drift Masters European Championship 2019 in France.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZVEF4K8H5N11/FO-1ZVEF4K8H5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250607172946+0000" stop="20250607182157+0000">
+    <title lang="en">Abu Dhabi Desert Challenge 2024 highlights</title>
+    <desc lang="en">Round 2 of the Abu Dhabi Desert Challenge offers challenging sand dunes and baking heat in remote UAE deserts.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/cjglt0voraiqyycemrmx/rokas-baciuska-abu-dhabi-desert-challenge-2024"/>
   </programme>
 </tv>
