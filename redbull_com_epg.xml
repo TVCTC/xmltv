@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-07 07:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-07 08:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250607042836+0000" stop="20250607051209+0000">
-    <title lang="en">Melbourne, Australia </title>
-    <desc lang="en">High-speed antics in Melbourne, Australia, as wildly creative teams test their homemade racers, down under. </desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/bxbgdlyih7jfsmf1jdww/red-bull-billy-cart-race-melbourne-postal-express-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20250607051209+0000" stop="20250607053802+0000">
-    <title lang="en">The Streif – Fabio Wibmer</title>
-    <desc lang="en">Experience Fabio Wibmer's breathtaking MTB ride down the iconic Streif downhill ski course in Austria.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/15/uik6hbze5irm0vss0r5q/the-streif-fabio-wibmer-header"/>
-  </programme>
-  <programme channel="redbull.com" start="20250607053802+0000" stop="20250607055022+0000">
-    <title lang="en">Behind the scenes at Red Bull Hardline Australia</title>
-    <desc lang="en">Host Caroline Buchanan goes behind the scenes with riders ahead of Red Bull Hardline Australia 2025.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/7/qyeiqdatyumz9exq1vtt/matt-jones-hardline-australia-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250607055022+0000" stop="20250607060000+0000">
     <title lang="en">2016's top car designs</title>
     <desc lang="en">Nothing less than infinity and beyond was enough for 2016's top design wizards... or at least the finish line.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Enjoy the best onboard moments with Paul Bolton at the Hixpania Hard Enduro.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/4/v1chtiqlts4qtqdodn5a/paul-bolton-red-bull-romaniacs-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250607183716+0000" stop="20250607192023+0000">
+    <title lang="en">Encouraged: Building the Future</title>
+    <desc lang="en">Join Courage Adams as he returns to Nigeria to fulfil his promise of building Lagos's first skatepark.</desc>
+    <category lang="en">BMX</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/18/vwwci81eotk8udlrfy1n/lagos-bmx-crew-courage-adams-encouraged"/>
+  </programme>
+  <programme channel="redbull.com" start="20250607192023+0000" stop="20250607194155+0000">
+    <title lang="en">Crossing Tasmania</title>
+    <desc lang="en">MTB rider Payson McElveen attempts to cross Australia’s least populated state: the island of Tasmania.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/17/qur2mizj4fmcxx63hrns/crossing-tasmania-payson-mcelveen"/>
+  </programme>
+  <programme channel="redbull.com" start="20250607194155+0000" stop="20250607195122+0000">
+    <title lang="en">2018's best crashes and smashes</title>
+    <desc lang="en">Skinny wheels, a narrow wheelbase and a tall chassis, are a recipe for big crashes and here's the proof.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/ht9puzufb1pdlqzsekp8/crash-red-bull-soapbox-race-rome-2018"/>
   </programme>
 </tv>
