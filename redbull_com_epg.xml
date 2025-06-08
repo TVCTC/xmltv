@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-08 07:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-08 08:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250608043502+0000" stop="20250608050127+0000">
-    <title lang="en">DH recap show – Vallnord</title>
-    <desc lang="en">Catch up on all the DH action from Vallnord, Andorra, the fifth stop of the UCI Mountain Bike World Cup 2022.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/21/bki9svels9udr3emz2ce/uci-mtb-world-cup-2022-dh-vallnord-laurie-greenland"/>
-  </programme>
-  <programme channel="redbull.com" start="20250608050127+0000" stop="20250608052737+0000">
-    <title lang="en">Chasing the Inca II</title>
-    <desc lang="en">Take a journey into the Peruvian Andes with a group of pro mountain bikers searching for a lost Incan trail. </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/23/myixpofpdbj5buaerqdd/chasing-the-inca-2-header-image"/>
-  </programme>
-  <programme channel="redbull.com" start="20250608052737+0000" stop="20250608055330+0000">
-    <title lang="en">The Streif – Fabio Wibmer</title>
-    <desc lang="en">Experience Fabio Wibmer's breathtaking MTB ride down the iconic Streif downhill ski course in Austria.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/15/uik6hbze5irm0vss0r5q/the-streif-fabio-wibmer-header"/>
-  </programme>
   <programme channel="redbull.com" start="20250608055330+0000" stop="20250608060000+0000">
     <title lang="en">Danny MacAskill's Gymnasium</title>
     <desc lang="en">Marvel at Danny MacAskill's crazy trials skills as he takes to the gymnasium on his bike.</desc>
@@ -143,7 +125,7 @@
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/3/vgvpsfeu699lkaywjmg9/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
   </programme>
-  <programme channel="redbull.com" start="20250608050127+0000" stop="20250608052737+0000">
+  <programme channel="redbull.com" start="20250608155451+0000" stop="20250608162137+0000">
     <title lang="en">Chasing the Inca II</title>
     <desc lang="en">Take a journey into the Peruvian Andes with a group of pro mountain bikers searching for a lost Incan trail. </desc>
     <category lang="en">MTB</category>
@@ -154,5 +136,23 @@
     <desc lang="en">From understanding the rules to learning the jargon, find out what makes this motorsport so thrilling.</desc>
     <category lang="en">MotoGP</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1WR6QJV515N11/FO-1WR6QJV515N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250608164806+0000" stop="20250608172017+0000">
+    <title lang="en">The Silent Samurai</title>
+    <desc lang="en">Take a look at the key moments that made Dani Pedrosa one of the most talented riders of his generation.</desc>
+    <category lang="en">MotoGP</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/4/vpjjweogxazvloubvivh/fo-1y3qewv7w5n11-featuremedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250608172017+0000" stop="20250608173258+0000">
+    <title lang="en">Best of Paul Bolton – GetzenRodeo</title>
+    <desc lang="en">See the best of the action from Paul Bolton at GetzenRodeo, stop 6 of the 2023 FIM Hard Enduro World Champs.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/xoq7sywylhrgu1izfe8f/paul-bolton"/>
+  </programme>
+  <programme channel="redbull.com" start="20250608173258+0000" stop="20250608175330+0000">
+    <title lang="en">Ice revolution</title>
+    <desc lang="en">A pair of veteran ice climbers find the ultimate challenge in a massive cave in Canada.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2TU9KH1W11/FO-1RM2TU9KH1W11-featureMedia"/>
   </programme>
 </tv>
