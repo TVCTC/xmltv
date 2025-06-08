@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-08 08:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-08 09:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250608020805+0000" stop="20250608025643+0000">
+    <title lang="en">Red Bull Flugtag </title>
+    <desc lang="en">Watch participants showcase ingenuity, creativity and flying capabilities before crashing into the Ohio River.</desc>
+    <category lang="en">Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/18/dena2qctqzcwwfwga2cm/event-participants"/>
+  </programme>
+  <programme channel="redbull.com" start="20250608025643+0000" stop="20250608031736+0000">
+    <title lang="en">The Nose speed record part 1</title>
+    <desc lang="en">Alex Honnold and Tommy Caldwell introduce us to the speed record on The Nose route up El Capitan, California.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/6/24/if9oihvtergu5kwdfxbz/the-high-road-reel-rock-s6e4-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250608031736+0000" stop="20250608034248+0000">
+    <title lang="en">The Nose speed record part 2</title>
+    <desc lang="en">Alex Honnold knows the ropes and is pushing for perfection, but Tommy Caldwell is new to speed climbing.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/6/24/jweov19hfsmtzks0d7ij/the-high-road-reel-rock-s6e5-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250608034248+0000" stop="20250608041316+0000">
+    <title lang="en">Barefoot Charles</title>
+    <desc lang="en">Barefoot Charles Albert is a minimalist who climbs boulders in Fontainebleau, France, and lives in a cave.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/ydxaxjhqzror4iclvx2k/giuliano-cameroni-the-feather-reel-rock-s8-ep2"/>
+  </programme>
+  <programme channel="redbull.com" start="20250608041316+0000" stop="20250608043502+0000">
+    <title lang="en">Born among boulders</title>
+    <desc lang="en">Follow as Swiss bouldering star Giuliano Cameroni explores the stunning boulders in his home region of Ticino.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/12/dhylamc9wtfro8jloxml/reel-rock-s7-e6-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250608043502+0000" stop="20250608050127+0000">
+    <title lang="en">DH recap show – Vallnord</title>
+    <desc lang="en">Catch up on all the DH action from Vallnord, Andorra, the fifth stop of the UCI Mountain Bike World Cup 2022.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/21/bki9svels9udr3emz2ce/uci-mtb-world-cup-2022-dh-vallnord-laurie-greenland"/>
+  </programme>
+  <programme channel="redbull.com" start="20250608050127+0000" stop="20250608052737+0000">
+    <title lang="en">Chasing the Inca II</title>
+    <desc lang="en">Take a journey into the Peruvian Andes with a group of pro mountain bikers searching for a lost Incan trail. </desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/23/myixpofpdbj5buaerqdd/chasing-the-inca-2-header-image"/>
+  </programme>
+  <programme channel="redbull.com" start="20250608052737+0000" stop="20250608055330+0000">
+    <title lang="en">The Streif – Fabio Wibmer</title>
+    <desc lang="en">Experience Fabio Wibmer's breathtaking MTB ride down the iconic Streif downhill ski course in Austria.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/15/uik6hbze5irm0vss0r5q/the-streif-fabio-wibmer-header"/>
+  </programme>
   <programme channel="redbull.com" start="20250608055330+0000" stop="20250608060000+0000">
     <title lang="en">Danny MacAskill's Gymnasium</title>
     <desc lang="en">Marvel at Danny MacAskill's crazy trials skills as he takes to the gymnasium on his bike.</desc>
@@ -106,53 +154,5 @@
     <desc lang="en">The WSL team dissect the top stories, triumphs and upsets of the 2025 Bonsoy Gold Coast Pro.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/14/ldt07wp8k8ryckufzfpd/kanoa-igarashi-wsl-bonsoy-gold-coast-pro-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250608134215+0000" stop="20250608142615+0000">
-    <title lang="en">WSL Lexus Pipe Pro</title>
-    <desc lang="en">You're granted access-all-areas at the WSL Championship Tour 2025 season opening event, the Lexus Pipe Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/26/hcc1odpn6ogks2lqslbs/caitlin-simmers-on-pipeline-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250608142615+0000" stop="20250608151051+0000">
-    <title lang="en">WSL Surf Abu Dhabi Pro</title>
-    <desc lang="en">Take an access-all-areas tour of the Abu Dhabi Pro, as the 2025 WSL Championship Tour unleashes in the UAE.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/3/trfvt17zqaghmxssqotl/italo-ferreira-on-wsl-surf-abu-dhabi-pro-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250608151051+0000" stop="20250608155451+0000">
-    <title lang="en">WSL MEO Rip Curl Pro Portugal</title>
-    <desc lang="en">Come backstage for a closer study of WSL MEO Rip Curl Pro Portugal’s biggest storylines.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/3/vgvpsfeu699lkaywjmg9/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250608155451+0000" stop="20250608162137+0000">
-    <title lang="en">Chasing the Inca II</title>
-    <desc lang="en">Take a journey into the Peruvian Andes with a group of pro mountain bikers searching for a lost Incan trail. </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/23/myixpofpdbj5buaerqdd/chasing-the-inca-2-header-image"/>
-  </programme>
-  <programme channel="redbull.com" start="20250608162137+0000" stop="20250608164806+0000">
-    <title lang="en">ABC... of MotoGP™</title>
-    <desc lang="en">From understanding the rules to learning the jargon, find out what makes this motorsport so thrilling.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1WR6QJV515N11/FO-1WR6QJV515N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250608164806+0000" stop="20250608172017+0000">
-    <title lang="en">The Silent Samurai</title>
-    <desc lang="en">Take a look at the key moments that made Dani Pedrosa one of the most talented riders of his generation.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/4/vpjjweogxazvloubvivh/fo-1y3qewv7w5n11-featuremedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250608172017+0000" stop="20250608173258+0000">
-    <title lang="en">Best of Paul Bolton – GetzenRodeo</title>
-    <desc lang="en">See the best of the action from Paul Bolton at GetzenRodeo, stop 6 of the 2023 FIM Hard Enduro World Champs.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/xoq7sywylhrgu1izfe8f/paul-bolton"/>
-  </programme>
-  <programme channel="redbull.com" start="20250608173258+0000" stop="20250608175330+0000">
-    <title lang="en">Ice revolution</title>
-    <desc lang="en">A pair of veteran ice climbers find the ultimate challenge in a massive cave in Canada.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2TU9KH1W11/FO-1RM2TU9KH1W11-featureMedia"/>
   </programme>
 </tv>
