@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-08 19:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-08 20:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250608164806+0000" stop="20250608172017+0000">
-    <title lang="en">The Silent Samurai</title>
-    <desc lang="en">Take a look at the key moments that made Dani Pedrosa one of the most talented riders of his generation.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/4/vpjjweogxazvloubvivh/fo-1y3qewv7w5n11-featuremedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250608172017+0000" stop="20250608173258+0000">
-    <title lang="en">Best of Paul Bolton – GetzenRodeo</title>
-    <desc lang="en">See the best of the action from Paul Bolton at GetzenRodeo, stop 6 of the 2023 FIM Hard Enduro World Champs.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/xoq7sywylhrgu1izfe8f/paul-bolton"/>
-  </programme>
-  <programme channel="redbull.com" start="20250608173258+0000" stop="20250608175330+0000">
-    <title lang="en">Ice revolution</title>
-    <desc lang="en">A pair of veteran ice climbers find the ultimate challenge in a massive cave in Canada.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2TU9KH1W11/FO-1RM2TU9KH1W11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250608175330+0000" stop="20250608180917+0000">
     <title lang="en">Milton Martinez – street legend born into skating</title>
     <desc lang="en">From skate shop to global fame, Milton Martinez retraces his skateboarding success from where it all began.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Enjoy the top three runs from Vélez, Kerr and Dunne at the world's hardest mountain bike race.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/3/nnvbawq0ldxqdv45hbvv/juanfer-velez-bernard-kerr-ronan-dunne"/>
+  </programme>
+  <programme channel="redbull.com" start="20250609060000+0000" stop="20250609062436+0000">
+    <title lang="en">Completing a classic Honda Hawk RC31 restoration</title>
+    <desc lang="en">Aaron Colton gets back to the street with his latest project build of the classic Honda Hawk RC31.</desc>
+    <category lang="en">Motorbike Stuntriding </category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/24/nsm8sfrmsb0snfltp43i/bike-builds-with-aaron-colton-s1-e6-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250609062436+0000" stop="20250609065038+0000">
+    <title lang="en">Extreme XL Lagares recap</title>
+    <desc lang="en">Get the full recap from Toyota Porto Extreme XL Lagares, which mixes EnduroCross with Urban and Hard Enduro.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZCZUSA515N11/FO-1ZCZUSA515N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250609065038+0000" stop="20250609071715+0000">
+    <title lang="en">Abestone Hard Enduro recap</title>
+    <desc lang="en">In a new race for fans to enjoy, two days of action will culminate with 50 riders battling for the top prize.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/4/16/d4ca8xdn4yrlgswnwg7k/fim-round-3-abestone-hard-enduro-art"/>
   </programme>
 </tv>
