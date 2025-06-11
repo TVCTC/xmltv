@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-11 21:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-11 22:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250611135045+0000" stop="20250611143445+0000">
+    <title lang="en">WSL Surf City El Salvador Pro wrap show</title>
+    <desc lang="en">The WSL commentary crew break down the 2025 Surf City El Salvador Pro’s winners and losers.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/popwkhscpmprophqwshu/jordy-smith-wsl-surf-city-el-salvador-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250611143445+0000" stop="20250611151921+0000">
+    <title lang="en">WSL Rip Curl Pro Bells Beach wrap show</title>
+    <desc lang="en">The WSL team analyse the highs, lows and defining moments of the 2025 Rip Curl Pro Bells Beach contest.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/28/yztvuatjcnxusqdo9xja/jack-robinson-rip-curl-bells-beach-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250611151921+0000" stop="20250611155316+0000">
+    <title lang="en">Best of Paul Bolton – Red Bull Romaniacs</title>
+    <desc lang="en">Join field reporter Paul Bolton as he follows Hard Enduro riders fighting for the win in Romania.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/29/pnnirbrhvnlc9h4torsx/jonny-walker-red-bull-romaniacs-fim-hard-enduro-sibiu-romania-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250611155316+0000" stop="20250611162152+0000">
+    <title lang="en">Best moments of 2023</title>
+    <desc lang="en">From Xross Hard Enduro to GetzenRodeo, relive the best moments from the 2023 Hard Enduro World Championship.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/21/cbofzivks1dlqjaft3kb/manuel-lettenbichler-red-bull-outliers-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250611162152+0000" stop="20250611183843+0000">
+    <title lang="en">Drift Masters Top 16 – Finland livestream</title>
+    <desc lang="en">Watch the Top 16 drifters in action in Finland at the third round of the Drift Masters 2025 season.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/12/bn5o07emkzxllywtznld/conor-shanahan-mika-salo-circuit-drift-masters-2024"/>
+  </programme>
   <programme channel="redbull.com" start="20250611183843+0000" stop="20250611192109+0000">
     <title lang="en">Auckland, New Zealand</title>
     <desc lang="en">This is one of the most difficult tracks in Soapbox Race history, requiring durability and manoeuvrability.</desc>
@@ -124,35 +154,5 @@
     <desc lang="en">Leticia Bufoni, Margy Didal, Lore Bruggeman and Aldana Bertran let loose in London's Natural History Museum.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/13/jtxc3fukqmwjeeeykjrx/skate-the-museum-image"/>
-  </programme>
-  <programme channel="redbull.com" start="20250612054508+0000" stop="20250612060000+0000">
-    <title lang="en">Downhill finals highlights – Fort William</title>
-    <desc lang="en">Here’s what went down on the hillside of Fort William at the second downhill stop of 2022.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/23/vmomzobarvol4gillhge/downhill-finals-highlights-uci-fort-william-2022-vali-holl"/>
-  </programme>
-  <programme channel="redbull.com" start="20250612060000+0000" stop="20250612062049+0000">
-    <title lang="en">Race for The Nose</title>
-    <desc lang="en">A rivalry for the speed record up The Nose of El Capitan pushes climbers to their limits.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1T4Z19W8N5N11/FO-1T4Z19W8N5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250612062049+0000" stop="20250612064120+0000">
-    <title lang="en">Ice revolution</title>
-    <desc lang="en">A pair of veteran ice climbers find the ultimate challenge in a massive cave in Canada.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2TU9KH1W11/FO-1RM2TU9KH1W11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250612064120+0000" stop="20250612065707+0000">
-    <title lang="en">Milton Martinez – street legend born into skating</title>
-    <desc lang="en">From skate shop to global fame, Milton Martinez retraces his skateboarding success from where it all began.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/ba89bolmndj6phrsbntm/madars-apse-milton-martinez-skateboarding-mar-del-plata-argentina"/>
-  </programme>
-  <programme channel="redbull.com" start="20250612065707+0000" stop="20250612072039+0000">
-    <title lang="en">Japan Tour</title>
-    <desc lang="en">Catch up with the Red Bull Drop In Japan Tour with Zion Wright, Torey Pudwill, Ryan Decenzo and Jake Wooten.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/25/lhqik4pbc5dqzvjixn2w/ryan-decenzo-jake-wooten-alex-sorgente-margie-didal-zion-wright-torey-pudwill-yumeka-oda-max-habanec-kyoto-japan"/>
   </programme>
 </tv>
