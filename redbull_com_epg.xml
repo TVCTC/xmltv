@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-13 05:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-13 06:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250613023405+0000" stop="20250613030456+0000">
-    <title lang="en">Black Pearl </title>
-    <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/g2b9nw1mf0wxn5fumqfd/chris-sharma-climbs-black-pearl-mallorca"/>
-  </programme>
-  <programme channel="redbull.com" start="20250613030456+0000" stop="20250613032621+0000">
-    <title lang="en">Race for The Nose</title>
-    <desc lang="en">A rivalry for the speed record up The Nose of El Capitan pushes climbers to their limits.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1T4Z19W8N5N11/FO-1T4Z19W8N5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250613032621+0000" stop="20250613034653+0000">
-    <title lang="en">Ice revolution</title>
-    <desc lang="en">A pair of veteran ice climbers find the ultimate challenge in a massive cave in Canada.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2TU9KH1W11/FO-1RM2TU9KH1W11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250613034653+0000" stop="20250613040240+0000">
     <title lang="en">Milton Martinez – street legend born into skating</title>
     <desc lang="en">From skate shop to global fame, Milton Martinez retraces his skateboarding success from where it all began.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Filled with iconic spots and endless hills, San Francisco is a legendary skate destination like no other.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/14/zslk6roqzregpycrnxyb/greetings-from-san-francisco"/>
+  </programme>
+  <programme channel="redbull.com" start="20250613165131+0000" stop="20250613171811+0000">
+    <title lang="en">Santiago Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Chile as the Santiago Premier Padel P1 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/bdtrfzyj5lvybvefhsp6/marta-ortega-miami-2025-premier-padel-semi-final"/>
+  </programme>
+  <programme channel="redbull.com" start="20250613171811+0000" stop="20250613174419+0000">
+    <title lang="en">Qatar Major Premier Padel highlights</title>
+    <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/18/c4ncyoippkl1obtdsl6o/alejandro-galan-ooredoo-qatar-major-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250613174419+0000" stop="20250613181010+0000">
+    <title lang="en">Brussels P2 Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Brussels P2 Premier Padel tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/23/qf7dntygf7afi5plczxn/eduardo-alonso-lotto-brussels-premier-padel-p2-2025"/>
   </programme>
 </tv>
