@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-13 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-13 05:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250613015416+0000" stop="20250613021715+0000">
-    <title lang="en">Skate the Museum</title>
-    <desc lang="en">Leticia Bufoni, Margy Didal, Lore Bruggeman and Aldana Bertran let loose in London's Natural History Museum.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/13/jtxc3fukqmwjeeeykjrx/skate-the-museum-image"/>
-  </programme>
-  <programme channel="redbull.com" start="20250613021715+0000" stop="20250613023405+0000">
-    <title lang="en">Merci Marseille</title>
-    <desc lang="en">Go behind the scenes at Red Bull Bowl Rippers to find out what makes it a favourite for both fans and skaters.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/wcvi20pald59kzl0s4fk/red-bull-bowl-rippers-2023-marseille-france"/>
-  </programme>
   <programme channel="redbull.com" start="20250613023405+0000" stop="20250613030456+0000">
     <title lang="en">Black Pearl </title>
     <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">In a new race for fans to enjoy, two days of action will culminate with 50 riders battling for the top prize.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/4/16/d4ca8xdn4yrlgswnwg7k/fim-round-3-abestone-hard-enduro-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250613155541+0000" stop="20250613162830+0000">
+    <title lang="en">Australia Tour</title>
+    <desc lang="en">The skateboard demo tour hits Melbourne, Brisbane, Gold Coast and Sydney with Jamie Foy, TJ Rogers and more.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/12/c1cuulekhr76jf4t3pgr/jamie-foy-red-bull-drop-in-tour-2023-australia-skateboarding"/>
+  </programme>
+  <programme channel="redbull.com" start="20250613162830+0000" stop="20250613165131+0000">
+    <title lang="en">San Francisco</title>
+    <desc lang="en">Filled with iconic spots and endless hills, San Francisco is a legendary skate destination like no other.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/14/zslk6roqzregpycrnxyb/greetings-from-san-francisco"/>
   </programme>
 </tv>
