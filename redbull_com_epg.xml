@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-14 18:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-14 19:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250614143258+0000" stop="20250614145905+0000">
-    <title lang="en">Qatar Major Premier Padel highlights</title>
-    <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/18/c4ncyoippkl1obtdsl6o/alejandro-galan-ooredoo-qatar-major-padel-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250614145905+0000" stop="20250614152532+0000">
-    <title lang="en">Brussels P2 Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from the Brussels P2 Premier Padel tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/23/qf7dntygf7afi5plczxn/eduardo-alonso-lotto-brussels-premier-padel-p2-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250614152532+0000" stop="20250614161819+0000">
-    <title lang="en">Abu Dhabi Desert Challenge 2024 highlights</title>
-    <desc lang="en">Round 2 of the Abu Dhabi Desert Challenge offers challenging sand dunes and baking heat in remote UAE deserts.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/7/cjglt0voraiqyycemrmx/rokas-baciuska-abu-dhabi-desert-challenge-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20250614161819+0000" stop="20250614183546+0000">
     <title lang="en">Drift Masters Top 16 – Finland livestream</title>
     <desc lang="en">Watch the Top 16 drifters in action in Finland at the third round of the Drift Masters 2025 season.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Skinny wheels, a narrow wheelbase and a tall chassis, are a recipe for big crashes and here's the proof.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/ht9puzufb1pdlqzsekp8/crash-red-bull-soapbox-race-rome-2018"/>
+  </programme>
+  <programme channel="redbull.com" start="20250615053739+0000" stop="20250615054744+0000">
+    <title lang="en">2015's best crashes and smashes</title>
+    <desc lang="en">From a hall-of-fame driver bail to one of the worst designs to hit the track, 2015 had some classic crashes.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/qhxkv8mvlhtf9hliwhv7/good-times-invasion-crash-red-bull-soapbox-2015"/>
+  </programme>
+  <programme channel="redbull.com" start="20250615054744+0000" stop="20250615060000+0000">
+    <title lang="en">2016's best crashes and smashes</title>
+    <desc lang="en">The steepest hill ever in Ireland and the aptly named Death Roller made sure 2016 delivered epic crashes.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/wmucukxnbl5l0qybfff5/crash-red-bull-soapbox-cork-ireland-2016"/>
+  </programme>
+  <programme channel="redbull.com" start="20250614222306+0000" stop="20250614230752+0000">
+    <title lang="en">WSL Lexus Pipe Pro wrap show</title>
+    <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
   </programme>
 </tv>
