@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-18 10:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-18 11:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250618074207+0000" stop="20250618082512+0000">
-    <title lang="en">Seattle, USA</title>
-    <desc lang="en">This stop features the steepest course in soapbox history and the return of a fan-favourite obstacle. </desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MA9SBYZH2111/FO-1MA9SBYZH2111-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250618082512+0000" stop="20250618091002+0000">
     <title lang="en">São Paulo, Brazil</title>
     <desc lang="en">The world's craziest and most creative four-wheeled race went to Brazil in 2019 and this is what happened.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Leticia Bufoni and Aldana Bertran fire up South Africa's female skate movement.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/16/ejhbu6yidn6qa006n68f/leticia-bufoni-leticia-pushes-mzanzi"/>
+  </programme>
+  <programme channel="redbull.com" start="20250618153012+0000" stop="20250618162122+0000">
+    <title lang="en">Esperanto</title>
+    <desc lang="en">Esperanto explores how dreams can be shared through the universal two-wheeled language of cycling.</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/23/hyyihfqinrqdzghqxlri/esperanto-hero-art"/>
   </programme>
 </tv>
