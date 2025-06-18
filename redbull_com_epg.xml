@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-18 11:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-18 12:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250618082512+0000" stop="20250618091002+0000">
-    <title lang="en">São Paulo, Brazil</title>
-    <desc lang="en">The world's craziest and most creative four-wheeled race went to Brazil in 2019 and this is what happened.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/29/blkbuy7ruvon1hndevjg/red-bull-soapbox-race-s2019-e1-brazil-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250618091002+0000" stop="20250618095305+0000">
-    <title lang="en">Cincinnati, Ohio, USA</title>
-    <desc lang="en">Thousands gather in Cincinnati, Ohio to witness these wacky contraptions compete downhill against gravity.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZJ956GR95N11/FO-1ZJ956GR95N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250618095305+0000" stop="20250618103652+0000">
     <title lang="en">Toulouse, France</title>
     <desc lang="en">To win or To(ulouse)? That is the question that will be answered today in this gravity-powered race!</desc>
@@ -131,19 +119,19 @@
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2WC5GH1W11/FO-1RM2WC5GH1W11-featureMedia"/>
   </programme>
-  <programme channel="redbull.com" start="20250618064729+0000" stop="20250618072206+0000">
+  <programme channel="redbull.com" start="20250618194253+0000" stop="20250618201654+0000">
     <title lang="en">South America Tour</title>
     <desc lang="en">Ryan Sheckler, Jamie Foy and the crew touch down on the most skate-crazy continent on Earth – South America.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/16/rgyh68fdvqt8ekzwr5gk/red-bull-drop-in-tour-florianopolis-skaters-group-photo"/>
   </programme>
-  <programme channel="redbull.com" start="20250618060000+0000" stop="20250618064729+0000">
+  <programme channel="redbull.com" start="20250618201654+0000" stop="20250618210459+0000">
     <title lang="en">Rolling Away</title>
     <desc lang="en">Pushing boundaries and defying expectations – it's all a normal part of Ryan Sheckler's epic skateboarding journey.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/7/28/moqmuxllpdhvsilodave/ryan-sheckler"/>
   </programme>
-  <programme channel="redbull.com" start="20250618072206+0000" stop="20250618074207+0000">
+  <programme channel="redbull.com" start="20250618210459+0000" stop="20250618212500+0000">
     <title lang="en">Leticia Pushes Mzansi</title>
     <desc lang="en">Leticia Bufoni and Aldana Bertran fire up South Africa's female skate movement.</desc>
     <category lang="en">Skateboarding</category>
@@ -154,5 +142,17 @@
     <desc lang="en">Esperanto explores how dreams can be shared through the universal two-wheeled language of cycling.</desc>
     <category lang="en">Cycling</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/23/hyyihfqinrqdzghqxlri/esperanto-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250618221610+0000" stop="20250618225813+0000">
+    <title lang="en">Barcelona, Spain</title>
+    <desc lang="en">Drivers and soapbox cars alike are tested by a lengthy course full of sweeping turns and mid-track obstacles.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGU8CB52111/FO-1PQGU8CB52111-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250618225813+0000" stop="20250618230858+0000">
+    <title lang="en">F1 drivers race soapboxes in Montreal</title>
+    <desc lang="en">F1 drivers Max Verstappen and Sergio Pérez race soapbox karts against Yuki Tsunoda and Daniel Ricciardo.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/10/avtdqzs2gjnds6lnbhgf/max-verstappen-daniel-ricciardo-f1-soapbox-race-montreal-2024"/>
   </programme>
 </tv>
