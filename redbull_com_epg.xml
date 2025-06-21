@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-21 18:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-21 19:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250621151036+0000" stop="20250621160312+0000">
-    <title lang="en">Brad Binder: Becoming 33</title>
-    <desc lang="en">Brad Binder has earned his shot at MotoGP™ glory – see him take on the monumental challenge.</desc>
-    <category lang="en">MotoGP</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/8/31/ex1kbwbekyroewn8fdmk/brad-binder-road-to-motogp-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250621160312+0000" stop="20250621165421+0000">
-    <title lang="en">Esperanto</title>
-    <desc lang="en">Esperanto explores how dreams can be shared through the universal two-wheeled language of cycling.</desc>
-    <category lang="en">Cycling</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/23/hyyihfqinrqdzghqxlri/esperanto-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250621165421+0000" stop="20250621174700+0000">
-    <title lang="en">Downhill finals – Lousã</title>
-    <desc lang="en">Riders dug deep for the final event of the 2020 UCI Mountain Bike World Cup season in Lousã, Portugal.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/11/3/x7yie4wrxxvswfock0kw/uci-2020-lousa-recap-program-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250621174700+0000" stop="20250621184627+0000">
     <title lang="en">One at a Time</title>
     <desc lang="en">Follow professional slopestyle rider Brett Rheeder through the ups and downs of a Crankworx contest season.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/gal4qmbviibzua4uegnf/rhiannan-iffland-red-bull-cliff-diving-el-nido-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250621184627+0000" stop="20250621192027+0000">
+    <title lang="en">South America Tour</title>
+    <desc lang="en">Ryan Sheckler, Jamie Foy and the crew touch down on the most skate-crazy continent on Earth – South America.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/16/rgyh68fdvqt8ekzwr5gk/red-bull-drop-in-tour-florianopolis-skaters-group-photo"/>
+  </programme>
+  <programme channel="redbull.com" start="20250622053320+0000" stop="20250622060000+0000">
+    <title lang="en">Extreme XL Lagares recap</title>
+    <desc lang="en">Get the full recap from Toyota Porto Extreme XL Lagares, which mixes EnduroCross with Urban and Hard Enduro.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZCZUSA515N11/FO-1ZCZUSA515N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250622032926+0000" stop="20250622034720+0000">
+    <title lang="en">Honolulu</title>
+    <desc lang="en">Explore Honolulu and uncover a rich tapestry of waves, culture, community and heritage.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/oksqdkz3uerrg1o5vg2j/no-contest-off-tour-hawaii"/>
   </programme>
 </tv>
