@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-26 16:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-26 17:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250626120820+0000" stop="20250626130633+0000">
-    <title lang="en">Red Bull MotoGP™ Rookies Cup Mugello : Race 7</title>
-    <desc lang="en">Watch 26 rookies on their pursuit of glory in the Red Bull MotoGP™ Rookies Cup 2025 in Italy.</desc>
-    <category lang="en">Red Bull Rookies Cup</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/2/k1sldmhtbndlkjlavlwp/the-rookies-train-of-mugello-2024-race-2"/>
-  </programme>
-  <programme channel="redbull.com" start="20250626130633+0000" stop="20250626135109+0000">
-    <title lang="en">WSL Surf City El Salvador Pro</title>
-    <desc lang="en">Look at the 2025 Surf City El Salvador Pro from a new angle and find out the biggest stories.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/ja0zxwdkkmtomrt1gu5w/jordy-smith-wsl-surf-city-el-salvador-pro-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250626135109+0000" stop="20250626141152+0000">
-    <title lang="en">Sydney</title>
-    <desc lang="en">Gets to know the colourful characters and surfing culture of Australia's biggest city, Sydney.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/onhifkvity1rfohttjgc/no-contest-off-tour-sydney"/>
-  </programme>
   <programme channel="redbull.com" start="20250626141152+0000" stop="20250626150501+0000">
     <title lang="en">Pressure in paradise</title>
     <desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">From Xross Hard Enduro to GetzenRodeo, relive the best moments from the 2023 Hard Enduro World Championship.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/21/cbofzivks1dlqjaft3kb/manuel-lettenbichler-red-bull-outliers-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250627030850+0000" stop="20250627034244+0000">
+    <title lang="en">Best of Paul Bolton – Red Bull Romaniacs</title>
+    <desc lang="en">Join field reporter Paul Bolton as he follows Hard Enduro riders fighting for the win in Romania.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/29/pnnirbrhvnlc9h4torsx/jonny-walker-red-bull-romaniacs-fim-hard-enduro-sibiu-romania-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250627024014+0000" stop="20250627030850+0000">
+    <title lang="en">Best moments of 2023</title>
+    <desc lang="en">From Xross Hard Enduro to GetzenRodeo, relive the best moments from the 2023 Hard Enduro World Championship.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/21/cbofzivks1dlqjaft3kb/manuel-lettenbichler-red-bull-outliers-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250627041044+0000" stop="20250627044044+0000">
+    <title lang="en">Dune racing with Kirsten Landman</title>
+    <desc lang="en">Jason and Nick track down endurance motorcyclist Kirsten Landman on sun-scorched dunes in Cape Town.</desc>
+    <category lang="en">Motoring</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/brsrbtjamhd6bhvm5npv/jason-goliath-and-kirsten-landman-giving-it-gears"/>
   </programme>
 </tv>
