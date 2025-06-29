@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-29 19:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-29 20:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250629142000+0000" stop="20250629162036+0000">
-    <title lang="en">Drift Masters: Top 16 – Ireland livestream</title>
-    <desc lang="en">Watch the Top 16 drifters in action in Ireland at the fourth round of the Drift Masters 2025 season.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/18/uyypiwxtraksh4kxitxa/red-bull-jakub-przygonski-european-drift-masters-mondello-park-dublin-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250629162036+0000" stop="20250629162342+0000">
-    <title lang="en">Kade Edwards destroys Dyfi Bike Park</title>
-    <desc lang="en">Enjoy the sound of speed as British mountain bike rider Kade Edwards rips up Dyfi Bike Park in Wales. </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/doge7u1jj7vxmsg8m1sq/kade-edwards-dyfi-bike-park"/>
-  </programme>
-  <programme channel="redbull.com" start="20250629162342+0000" stop="20250629165026+0000">
-    <title lang="en">Latvia highlights</title>
-    <desc lang="en">Catch up on the best of the action as the third and fourth rounds of DMEC 2021 rolled into Riga, Latvia.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/8/3/nvjaoxkunkxzdckeiwgz/drift-masters-european-championship-2021-latvia-highlights"/>
-  </programme>
-  <programme channel="redbull.com" start="20250629165026+0000" stop="20250629173337+0000">
-    <title lang="en">Toulouse, France</title>
-    <desc lang="en">To win or To(ulouse)? That is the question that will be answered today in this gravity-powered race!</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/zpafu4se3ambjjhqy1wb/team-2-red-bull-soapbox-race-2022"/>
-  </programme>
   <programme channel="redbull.com" start="20250629173337+0000" stop="20250629181348+0000">
     <title lang="en">High tension</title>
     <desc lang="en">A violent altercation on Mount Everest uncovers deep-seated tensions between climbers and Sherpas.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">The WSL commentary crew break down the 2025 Surf City El Salvador Pro’s winners and losers.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/popwkhscpmprophqwshu/jordy-smith-wsl-surf-city-el-salvador-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250630072810+0000" stop="20250630075414+0000">
+    <title lang="en">Santiago Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Chile as the Santiago Premier Padel P1 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/bdtrfzyj5lvybvefhsp6/marta-ortega-miami-2025-premier-padel-semi-final"/>
+  </programme>
+  <programme channel="redbull.com" start="20250630075414+0000" stop="20250630082022+0000">
+    <title lang="en">Qatar Major Premier Padel highlights</title>
+    <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/18/c4ncyoippkl1obtdsl6o/alejandro-galan-ooredoo-qatar-major-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250630082022+0000" stop="20250630084648+0000">
+    <title lang="en">Brussels P2 Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Brussels P2 Premier Padel tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/23/qf7dntygf7afi5plczxn/eduardo-alonso-lotto-brussels-premier-padel-p2-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250630084648+0000" stop="20250630091250+0000">
+    <title lang="en">Asunción Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Paraguay as the Asunción Premier Padel P2 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/28/nf8ippk7aj3p7esbsntm/beatriz-gonzalez-2025-asuncion-premier-padel-p2-victory-red-bull"/>
   </programme>
 </tv>
