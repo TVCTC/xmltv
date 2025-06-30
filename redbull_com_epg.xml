@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-30 17:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-30 18:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250630133600+0000" stop="20250630142036+0000">
-    <title lang="en">WSL MEO Rip Curl Pro Portugal</title>
-    <desc lang="en">Come backstage for a closer study of WSL MEO Rip Curl Pro Portugal’s biggest storylines.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/3/vgvpsfeu699lkaywjmg9/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250630142036+0000" stop="20250630150436+0000">
-    <title lang="en">WSL Surf City El Salvador Pro</title>
-    <desc lang="en">Look at the 2025 Surf City El Salvador Pro from a new angle and find out the biggest stories.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/ja0zxwdkkmtomrt1gu5w/jordy-smith-wsl-surf-city-el-salvador-pro-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250630150436+0000" stop="20250630154446+0000">
-    <title lang="en">High tension</title>
-    <desc lang="en">A violent altercation on Mount Everest uncovers deep-seated tensions between climbers and Sherpas.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2Y56611W11/FO-1RM2Y56611W11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250630154446+0000" stop="20250630172356+0000">
     <title lang="en">Valley Uprising</title>
     <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/18/c4ncyoippkl1obtdsl6o/alejandro-galan-ooredoo-qatar-major-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250701020221+0000" stop="20250701024707+0000">
+    <title lang="en">WSL Lexus Pipe Pro wrap show</title>
+    <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250701024707+0000" stop="20250701033117+0000">
+    <title lang="en">WSL Abu Dhabi Pro wrap show</title>
+    <desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/grgodpvyqhg2grunxuqy/kanoa-igarashi-surfing-surf-abu-dhabi-pro-quarter-finals-hudayriyat-island-abu-dhabi-united-arab-emirates"/>
+  </programme>
+  <programme channel="redbull.com" start="20250701033117+0000" stop="20250701041527+0000">
+    <title lang="en">WSL MEO Rip Curl Pro Portugal wrap show</title>
+    <desc lang="en">Who was crowned king and queen of Supertubos? Watch highlights of finals day at MEO Rip Curl Pro Portugal. </desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/jz2yrcmch22rarlhzk2t/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
   </programme>
 </tv>
