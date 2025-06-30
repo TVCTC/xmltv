@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-30 02:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-06-30 03:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250629222734+0000" stop="20250629231222+0000">
-    <title lang="en">Kasso 2024 – part 2</title>
-    <desc lang="en">Skate pros Madars Apse, Wes Kremer, Leo Romero and the local rippers take on the final two challenges.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/l6xnhbqc6wz7j3opais2/madars-apse-kasso-japan-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250629231222+0000" stop="20250630002348+0000">
-    <title lang="en">Yeah Right!</title>
-    <desc lang="en">Yeah Right! is widely considered one of the most influential skate films of all time.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/8/iiyk38ns7rmynaz7svsj/yeah-right-skateboarding"/>
-  </programme>
-  <programme channel="redbull.com" start="20250630002348+0000" stop="20250630004349+0000">
-    <title lang="en">Leticia Pushes Mzansi</title>
-    <desc lang="en">Leticia Bufoni and Aldana Bertran fire up South Africa's female skate movement.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/16/ejhbu6yidn6qa006n68f/leticia-bufoni-leticia-pushes-mzanzi"/>
-  </programme>
   <programme channel="redbull.com" start="20250630004349+0000" stop="20250630013040+0000">
     <title lang="en">Saya Sakakibara: Ride to Redemption</title>
     <desc lang="en">After her brother’s injury, BMX athlete Saya Sakakibara pushes for success on her road to Paris.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Come backstage for a closer study of WSL MEO Rip Curl Pro Portugal’s biggest storylines.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/3/vgvpsfeu699lkaywjmg9/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250630142036+0000" stop="20250630150436+0000">
+    <title lang="en">WSL Surf City El Salvador Pro</title>
+    <desc lang="en">Look at the 2025 Surf City El Salvador Pro from a new angle and find out the biggest stories.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/ja0zxwdkkmtomrt1gu5w/jordy-smith-wsl-surf-city-el-salvador-pro-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250630150436+0000" stop="20250630154446+0000">
+    <title lang="en">High tension</title>
+    <desc lang="en">A violent altercation on Mount Everest uncovers deep-seated tensions between climbers and Sherpas.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2Y56611W11/FO-1RM2Y56611W11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250630154446+0000" stop="20250630172356+0000">
+    <title lang="en">Valley Uprising</title>
+    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art"/>
   </programme>
 </tv>
