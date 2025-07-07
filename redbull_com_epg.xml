@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-07 09:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-07 10:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250707064551+0000" stop="20250707072846+0000">
-    <title lang="en">Shigekix shows Ronnie around Tokyo</title>
-    <desc lang="en">B-Boys Shigekix and Ronnie reveal Tokyo's secret: the pursuit of perfection in dance, food and craftsmanship.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/4/figfglupualag3qogrtn/breaking-beyond-s1-e4-shigekix-ronnie-tokyo"/>
-  </programme>
-  <programme channel="redbull.com" start="20250707072846+0000" stop="20250707074658+0000">
-    <title lang="en">Victor Montalvo: Breaking the Loop</title>
-    <desc lang="en">Watch US breaker Victor Montalvo prepare and compete on the world stage as breaking makes its Olympic debut.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/12/cqp47vnzeyr8tnpm8dva/b-boy-victor-break-at-red-bull-bc-one-world-final-paris-2023-teaser-shoot"/>
-  </programme>
   <programme channel="redbull.com" start="20250707074658+0000" stop="20250707083015+0000">
     <title lang="en">Turin, Italy</title>
     <desc lang="en">Teams from all over Italy have gathered for this fun-filled spectacle of speed, creativity, and performance.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Rome is about to show a different side of itself as Red Bull Soapbox Race gets started in this location.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZJ92FUZN5N11/FO-1ZJ92FUZN5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250707223951+0000" stop="20250707232410+0000">
+    <title lang="en">Spa, Belgium</title>
+    <desc lang="en">Fearless teams race through obstacles in their engineless machines, but who will win in Spa?</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/do7fajz6prkpoagayfnq/red-bull-soapbox-race-brussels-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20250707232410+0000" stop="20250707235048+0000">
+    <title lang="en">ABC of… Formula One</title>
+    <desc lang="en">Get a crash course in F1 racing, with lessons in the terminology, history, heroes and drama of the sport.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1W11S3SCH5N11/FO-1W11S3SCH5N11-featureMedia"/>
   </programme>
 </tv>
