@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-07 11:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-07 12:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250707043231+0000" stop="20250707054321+0000">
+    <title lang="en">Yeah Right!</title>
+    <desc lang="en">Yeah Right! is widely considered one of the most influential skate films of all time.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/8/iiyk38ns7rmynaz7svsj/yeah-right-skateboarding"/>
+  </programme>
+  <programme channel="redbull.com" start="20250707054321+0000" stop="20250707055458+0000">
+    <title lang="en">Top 3 runs – Wales</title>
+    <desc lang="en">Enjoy the top three runs from Vélez, Kerr and Dunne at the world's hardest mountain bike race.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/3/nnvbawq0ldxqdv45hbvv/juanfer-velez-bernard-kerr-ronan-dunne"/>
+  </programme>
+  <programme channel="redbull.com" start="20250707055458+0000" stop="20250707060000+0000">
+    <title lang="en">Ricciardo vs Tsunoda in mini jet boats</title>
+    <desc lang="en">Watch Daniel Ricciardo and Yuki Tsunoda race each other in mini jet boats ahead of the Miami Grand Prix.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/8/zt9ruex6wv9lfkqtstfm/yuki-tsunoda-daniel-ricciardo-red-bull-unserious-race-miami-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250707060000+0000" stop="20250707064551+0000">
+    <title lang="en">(Un)credited</title>
+    <desc lang="en">Dive deep into the origins of Afro Dance in Nigeria and how it has shaped a global mainstream culture.</desc>
+    <category lang="en">Dance</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/4/scufziiaglussi1stxen/un-credited-nigeria-afro-dance"/>
+  </programme>
+  <programme channel="redbull.com" start="20250707064551+0000" stop="20250707072846+0000">
+    <title lang="en">Shigekix shows Ronnie around Tokyo</title>
+    <desc lang="en">B-Boys Shigekix and Ronnie reveal Tokyo's secret: the pursuit of perfection in dance, food and craftsmanship.</desc>
+    <category lang="en">Dance</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/4/figfglupualag3qogrtn/breaking-beyond-s1-e4-shigekix-ronnie-tokyo"/>
+  </programme>
+  <programme channel="redbull.com" start="20250707072846+0000" stop="20250707074658+0000">
+    <title lang="en">Victor Montalvo: Breaking the Loop</title>
+    <desc lang="en">Watch US breaker Victor Montalvo prepare and compete on the world stage as breaking makes its Olympic debut.</desc>
+    <category lang="en">Breaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/12/cqp47vnzeyr8tnpm8dva/b-boy-victor-break-at-red-bull-bc-one-world-final-paris-2023-teaser-shoot"/>
+  </programme>
+  <programme channel="redbull.com" start="20250707074658+0000" stop="20250707083015+0000">
+    <title lang="en">Turin, Italy</title>
+    <desc lang="en">Teams from all over Italy have gathered for this fun-filled spectacle of speed, creativity, and performance.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MA9T58912111/FO-1MA9T58912111-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250707083015+0000" stop="20250707085450+0000">
+    <title lang="en">Boston, USA</title>
+    <desc lang="en">A strong headwind challenges the weird and wonderful flying machines in one of America's great academic cities.</desc>
+    <category lang="en">Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RFK19H3D2111/FO-1RFK19H3D2111-featureMedia"/>
+  </programme>
   <programme channel="redbull.com" start="20250707085450+0000" stop="20250707093936+0000">
     <title lang="en">WSL Lexus Pipe Pro wrap show</title>
     <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
@@ -106,53 +154,5 @@
     <desc lang="en">Watch the highlights from Paraguay as the Asunción Premier Padel P2 took centre stage.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/28/nf8ippk7aj3p7esbsntm/beatriz-gonzalez-2025-asuncion-premier-padel-p2-victory-red-bull"/>
-  </programme>
-  <programme channel="redbull.com" start="20250707190307+0000" stop="20250707203902+0000">
-    <title lang="en">Dirtbag: The Legend of Fred Beckey</title>
-    <desc lang="en">Uncover the legacy of American mountaineer Fred Beckey, whose name's spoken in hushed tones around campfires. </desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/slqfddh4a4wqew1umo1x/dirtbag-mountaineer-fred-beckey"/>
-  </programme>
-  <programme channel="redbull.com" start="20250707203902+0000" stop="20250707211059+0000">
-    <title lang="en">20 Years of Red Bull Valparaíso Cerro Abajo</title>
-    <desc lang="en">Relive 20 years of the largest urban downhill race in the world that began as an idea among friends.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/grv8ijzyrwhtsstkoas3/red-bull-valparaiso-cerro-abajo-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250707211059+0000" stop="20250707215554+0000">
-    <title lang="en">Santiago, Chile</title>
-    <desc lang="en">Teams of intrepid soapbox racers test their skills in Santiago, Chile, on a steep and treacherous course.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SERBKFRS5N11/FO-1SERBKFRS5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250707215554+0000" stop="20250707223951+0000">
-    <title lang="en">Rome, Italy</title>
-    <desc lang="en">Rome is about to show a different side of itself as Red Bull Soapbox Race gets started in this location.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZJ92FUZN5N11/FO-1ZJ92FUZN5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250707223951+0000" stop="20250707232410+0000">
-    <title lang="en">Spa, Belgium</title>
-    <desc lang="en">Fearless teams race through obstacles in their engineless machines, but who will win in Spa?</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/do7fajz6prkpoagayfnq/red-bull-soapbox-race-brussels-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20250707232410+0000" stop="20250707235048+0000">
-    <title lang="en">ABC of… Formula One</title>
-    <desc lang="en">Get a crash course in F1 racing, with lessons in the terminology, history, heroes and drama of the sport.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1W11S3SCH5N11/FO-1W11S3SCH5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250707235048+0000" stop="20250708001049+0000">
-    <title lang="en">Open the Doors</title>
-    <desc lang="en">The 2021 F1 season is upon us, so now's a good time to see Scuderia AlphaTauri prepare to make their 2020 debut at the Red Bull Ring.</desc>
-    <category lang="en">F1</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/7/14/vr13w5exjql1f43diusu/scuderiaalphatauri_landscape_hero"/>
-  </programme>
-  <programme channel="redbull.com" start="20250708001049+0000" stop="20250708003925+0000">
-    <title lang="en">Best moments of 2023</title>
-    <desc lang="en">From Xross Hard Enduro to GetzenRodeo, relive the best moments from the 2023 Hard Enduro World Championship.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/21/cbofzivks1dlqjaft3kb/manuel-lettenbichler-red-bull-outliers-2023"/>
   </programme>
 </tv>
