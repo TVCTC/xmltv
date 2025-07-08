@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-08 05:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-08 06:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250708014747+0000" stop="20250708025837+0000">
-    <title lang="en">Yeah Right!</title>
-    <desc lang="en">Yeah Right! is widely considered one of the most influential skate films of all time.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/8/iiyk38ns7rmynaz7svsj/yeah-right-skateboarding"/>
-  </programme>
-  <programme channel="redbull.com" start="20250708025837+0000" stop="20250708032212+0000">
-    <title lang="en">Skate the Museum</title>
-    <desc lang="en">Leticia Bufoni, Margy Didal, Lore Bruggeman and Aldana Bertran let loose in London's Natural History Museum.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/13/jtxc3fukqmwjeeeykjrx/skate-the-museum-image"/>
-  </programme>
   <programme channel="redbull.com" start="20250708040744+0000" stop="20250708045040+0000">
     <title lang="en">Shigekix shows Ronnie around Tokyo</title>
     <desc lang="en">B-Boys Shigekix and Ronnie reveal Tokyo's secret: the pursuit of perfection in dance, food and craftsmanship.</desc>
@@ -148,5 +136,17 @@
     <desc lang="en">Barefoot Charles Albert is a minimalist who climbs boulders in Fontainebleau, France, and lives in a cave.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/ydxaxjhqzror4iclvx2k/giuliano-cameroni-the-feather-reel-rock-s8-ep2"/>
+  </programme>
+  <programme channel="redbull.com" start="20250708173717+0000" stop="20250708180808+0000">
+    <title lang="en">Black Pearl </title>
+    <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/g2b9nw1mf0wxn5fumqfd/chris-sharma-climbs-black-pearl-mallorca"/>
+  </programme>
+  <programme channel="redbull.com" start="20250708180808+0000" stop="20250708182315+0000">
+    <title lang="en">Greece</title>
+    <desc lang="en">Sasha DiGiulian creates new routes in a Grecian area not typically travelled to by the climbing community.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/17/t4umwtpenffenr1pyuqw/no-days-off-s1-e1-sasha-digiulian-climbing-greece"/>
   </programme>
 </tv>
