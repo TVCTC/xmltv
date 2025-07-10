@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-10 15:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-10 16:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250710113751+0000" stop="20250710120014+0000">
-    <title lang="en">Best of Bolton – Xross Hard Enduro Rally</title>
-    <desc lang="en">Enjoy the best onboard moments following Red Bull Hard Enduro riders as they race for the win in Serbia.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/26/ydplinj0ornnnmekwfw4/michael-walkner-xross-hard-enduro-rally-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250710120014+0000" stop="20250710123444+0000">
-    <title lang="en">Best of Paul Bolton – Red Bull Romaniacs</title>
-    <desc lang="en">Join field reporter Paul Bolton as he follows Hard Enduro riders fighting for the win in Romania.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/29/pnnirbrhvnlc9h4torsx/jonny-walker-red-bull-romaniacs-fim-hard-enduro-sibiu-romania-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20250710123444+0000" stop="20250710130046+0000">
     <title lang="en">Extreme XL Lagares recap</title>
     <desc lang="en">Get the full recap from Toyota Porto Extreme XL Lagares, which mixes EnduroCross with Urban and Hard Enduro.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Go behind the scenes of Ryan Sheckler's LIFER video part, filled with slams, lands and everything in between.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/p5ldao7j0vspmuhunhkh/r-y-a-n-s-h-e-c-k-l-e-r"/>
+  </programme>
+  <programme channel="redbull.com" start="20250711010250+0000" stop="20250711014615+0000">
+    <title lang="en">Lisbon, Portugal</title>
+    <desc lang="en">The steep inclines of Lisbon, Portugal, played a perfect host to Red Bull Soapbox Race.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZJ96TWY15N11/FO-1ZJ96TWY15N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250711014615+0000" stop="20250711022956+0000">
+    <title lang="en">Seattle, USA</title>
+    <desc lang="en">This stop features the steepest course in soapbox history and the return of a fan-favourite obstacle. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MA9SBYZH2111/FO-1MA9SBYZH2111-featureMedia"/>
   </programme>
 </tv>
