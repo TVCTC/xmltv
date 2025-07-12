@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-12 05:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-12 06:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250712014625+0000" stop="20250712023101+0000">
-    <title lang="en">WSL Bonsoy Gold Coast Pro wrap show</title>
-    <desc lang="en">The WSL team dissect the top stories, triumphs and upsets of the 2025 Bonsoy Gold Coast Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/14/ldt07wp8k8ryckufzfpd/kanoa-igarashi-wsl-bonsoy-gold-coast-pro-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250712023101+0000" stop="20250712025052+0000">
-    <title lang="en">The sensei part 1</title>
-    <desc lang="en">Legendary climber Yuji Hirayama enlists a young partner to help him with a swan-song summit.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2UVU811W11/FO-1RM2UVU811W11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250712025052+0000" stop="20250712031119+0000">
-    <title lang="en">The sensei part 2</title>
-    <desc lang="en">Daniel Woods has proven himself. Now he and his sensei, Yuji Hirayama, head to untapped peaks in Borneo.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2WC5GH1W11/FO-1RM2WC5GH1W11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250712031119+0000" stop="20250712034148+0000">
-    <title lang="en">Barefoot Charles</title>
-    <desc lang="en">Barefoot Charles Albert is a minimalist who climbs boulders in Fontainebleau, France, and lives in a cave.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/ydxaxjhqzror4iclvx2k/giuliano-cameroni-the-feather-reel-rock-s8-ep2"/>
-  </programme>
   <programme channel="redbull.com" start="20250712034148+0000" stop="20250712041239+0000">
     <title lang="en">Black Pearl </title>
     <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Watch 26 rookies on their pursit of glory in the Red Bull MotoGP™ Rookies Cup 2025 in Germany.</desc>
     <category lang="en">Red Bull Rookies Cup</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/3/16/ldbihhxydmjog1ji1hq0/kevin-orgis-racing-at-sachsenring-2017"/>
+  </programme>
+  <programme channel="redbull.com" start="20250712201700+0000" stop="20250712203554+0000">
+    <title lang="en">Ryan Sheckler's LIFER: Raw</title>
+    <desc lang="en">Go behind the scenes of Ryan Sheckler's LIFER video part, filled with slams, lands and everything in between.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/p5ldao7j0vspmuhunhkh/r-y-a-n-s-h-e-c-k-l-e-r"/>
+  </programme>
+  <programme channel="redbull.com" start="20250712203554+0000" stop="20250712211955+0000">
+    <title lang="en">Lisbon, Portugal</title>
+    <desc lang="en">The steep inclines of Lisbon, Portugal, played a perfect host to Red Bull Soapbox Race.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZJ96TWY15N11/FO-1ZJ96TWY15N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250712211955+0000" stop="20250712220300+0000">
+    <title lang="en">Seattle, USA</title>
+    <desc lang="en">This stop features the steepest course in soapbox history and the return of a fan-favourite obstacle. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MA9SBYZH2111/FO-1MA9SBYZH2111-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250712220300+0000" stop="20250712224746+0000">
+    <title lang="en">WSL Lexus Pipe Pro wrap show</title>
+    <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
   </programme>
 </tv>
