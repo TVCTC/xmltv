@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-13 20:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-13 21:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250713080000+0000" stop="20250713160036+0000">
+    <title lang="en">Goodwood Festival of Speed 2025 – Sunday</title>
+    <desc lang="en">The grand finale sees champions and machines race for glory in motorsport’s ultimate test.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/30/b6xwpdgmh5gurew1yp8p/red-bull-racing-david-coulthard-goodwood-festival-speed-chichester-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250713160036+0000" stop="20250713161929+0000">
+    <title lang="en">Ryan Sheckler's LIFER: Raw</title>
+    <desc lang="en">Go behind the scenes of Ryan Sheckler's LIFER video part, filled with slams, lands and everything in between.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/p5ldao7j0vspmuhunhkh/r-y-a-n-s-h-e-c-k-l-e-r"/>
+  </programme>
+  <programme channel="redbull.com" start="20250713161929+0000" stop="20250713170330+0000">
+    <title lang="en">Lisbon, Portugal</title>
+    <desc lang="en">The steep inclines of Lisbon, Portugal, played a perfect host to Red Bull Soapbox Race.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZJ96TWY15N11/FO-1ZJ96TWY15N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250713170330+0000" stop="20250713174635+0000">
+    <title lang="en">Seattle, USA</title>
+    <desc lang="en">This stop features the steepest course in soapbox history and the return of a fan-favourite obstacle. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MA9SBYZH2111/FO-1MA9SBYZH2111-featureMedia"/>
+  </programme>
   <programme channel="redbull.com" start="20250713174635+0000" stop="20250713183121+0000">
     <title lang="en">WSL Lexus Pipe Pro wrap show</title>
     <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
@@ -130,29 +154,5 @@
     <desc lang="en">Watch the highlights from Chile as the Santiago Premier Padel P1 took centre stage.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/bdtrfzyj5lvybvefhsp6/marta-ortega-miami-2025-premier-padel-semi-final"/>
-  </programme>
-  <programme channel="redbull.com" start="20250714052555+0000" stop="20250714055203+0000">
-    <title lang="en">Qatar Major Premier Padel highlights</title>
-    <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/18/c4ncyoippkl1obtdsl6o/alejandro-galan-ooredoo-qatar-major-padel-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250714055203+0000" stop="20250714055524+0000">
-    <title lang="en">Pedro Burns</title>
-    <desc lang="en">Pedro Burns goes for a ride across three wildly different Chilean terrains.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/6/qhqd0u4fodjrjczivvvd/mtb-raw-s2e14"/>
-  </programme>
-  <programme channel="redbull.com" start="20250714055524+0000" stop="20250714060000+0000">
-    <title lang="en">Don’t Look Down with Kriss Kyle</title>
-    <desc lang="en">See how Kriss Kyle’s daring idea ballooned into the ultimate test of BMX skill. </desc>
-    <category lang="en">BMX</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/12/gfc5surociyddotljcaz/kriss-kyle-dont-look-down-malmesbury-uk-december-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20250714060000+0000" stop="20250714064359+0000">
-    <title lang="en">WSL Lexus Pipe Pro</title>
-    <desc lang="en">You're granted access-all-areas at the WSL Championship Tour 2025 season opening event, the Lexus Pipe Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/26/hcc1odpn6ogks2lqslbs/caitlin-simmers-on-pipeline-2025"/>
   </programme>
 </tv>
