@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-14 01:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-14 02:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250713223854+0000" stop="20250713225845+0000">
-    <title lang="en">The sensei part 1</title>
-    <desc lang="en">Legendary climber Yuji Hirayama enlists a young partner to help him with a swan-song summit.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2UVU811W11/FO-1RM2UVU811W11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250713225845+0000" stop="20250713231912+0000">
-    <title lang="en">The sensei part 2</title>
-    <desc lang="en">Daniel Woods has proven himself. Now he and his sensei, Yuji Hirayama, head to untapped peaks in Borneo.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2WC5GH1W11/FO-1RM2WC5GH1W11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250713231912+0000" stop="20250713234941+0000">
-    <title lang="en">Barefoot Charles</title>
-    <desc lang="en">Barefoot Charles Albert is a minimalist who climbs boulders in Fontainebleau, France, and lives in a cave.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/20/ydxaxjhqzror4iclvx2k/giuliano-cameroni-the-feather-reel-rock-s8-ep2"/>
-  </programme>
   <programme channel="redbull.com" start="20250713234941+0000" stop="20250714002031+0000">
     <title lang="en">Black Pearl </title>
     <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Skate pros Madars Apse, Wes Kremer, Leo Romero and the local rippers take on the final two challenges.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/l6xnhbqc6wz7j3opais2/madars-apse-kasso-japan-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250714105848+0000" stop="20250714111817+0000">
+    <title lang="en">Ryan Sheckler's LIFER: Raw</title>
+    <desc lang="en">Go behind the scenes of Ryan Sheckler's LIFER video part, filled with slams, lands and everything in between.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/5/p5ldao7j0vspmuhunhkh/r-y-a-n-s-h-e-c-k-l-e-r"/>
+  </programme>
+  <programme channel="redbull.com" start="20250714111817+0000" stop="20250714120142+0000">
+    <title lang="en">Lisbon, Portugal</title>
+    <desc lang="en">The steep inclines of Lisbon, Portugal, played a perfect host to Red Bull Soapbox Race.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZJ96TWY15N11/FO-1ZJ96TWY15N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250714120142+0000" stop="20250714124524+0000">
+    <title lang="en">Seattle, USA</title>
+    <desc lang="en">This stop features the steepest course in soapbox history and the return of a fan-favourite obstacle. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MA9SBYZH2111/FO-1MA9SBYZH2111-featureMedia"/>
   </programme>
 </tv>
