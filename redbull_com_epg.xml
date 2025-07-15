@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-15 16:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-15 17:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250715133224+0000" stop="20250715141653+0000">
-    <title lang="en">Helsinki, Finland</title>
-    <desc lang="en">Red Bull Soapbox Race 2019 headed to Helsinki, Finland and things got out-of-hand funny.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/29/sw0rqdfmz17nw4e3ojz1/red-bull-soapbox-race-s2019-e2-finland-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250715141653+0000" stop="20250715150052+0000">
     <title lang="en">Tokyo, Japan</title>
     <desc lang="en">Creativity reaches new heights at the 2019 Red Bull Soapbox Race in Tokyo, Japan.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Ride with extreme enduro rider Paul Bolton alongside Hard Enduro heroes fighting for the win at Red Bull TKO.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/29/u1luua7rdcznvkv7mqtc/trystan-hart-ktm-enduro-factory-racing-red-bull-tennessee-knockout-tko-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250716023904+0000" stop="20250716032455+0000">
+    <title lang="en">(Un)credited</title>
+    <desc lang="en">Dive deep into the origins of Afro Dance in Nigeria and how it has shaped a global mainstream culture.</desc>
+    <category lang="en">Dance</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/4/scufziiaglussi1stxen/un-credited-nigeria-afro-dance"/>
   </programme>
 </tv>
