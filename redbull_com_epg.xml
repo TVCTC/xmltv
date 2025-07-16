@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-16 19:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-16 20:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250716153941+0000" stop="20250716160555+0000">
+    <title lang="en">The Nose speed record part 3</title>
+    <desc lang="en">After weeks of practice and more than a few mishaps, Alex Honnold and Tommy Caldwell attempt the record.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/6/24/klqewvyjmfbcdxijfcxj/the-high-road-reel-rock-s6e6-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250716160555+0000" stop="20250716162848+0000">
+    <title lang="en">Big things to come</title>
+    <desc lang="en">Alex Johnson spent a decade trying to climb The Swarm, USA. The challenge forces her to face her true self.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/28/ih4gy94ufhrghrh059nc/reel-rock-s8-e3-alex-johnson-swarm-usa"/>
+  </programme>
   <programme channel="redbull.com" start="20250716162848+0000" stop="20250716171248+0000">
     <title lang="en">WSL Lexus Pipe Pro</title>
     <desc lang="en">You're granted access-all-areas at the WSL Championship Tour 2025 season opening event, the Lexus Pipe Pro.</desc>
@@ -125,7 +137,7 @@
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/7/28/moqmuxllpdhvsilodave/ryan-sheckler"/>
   </programme>
-  <programme channel="redbull.com" start="20250716141859+0000" stop="20250716143553+0000">
+  <programme channel="redbull.com" start="20250717053516+0000" stop="20250717055210+0000">
     <title lang="en">Yeah buddy – part 1</title>
     <desc lang="en">Aussie climbing prodigy Angie Scarth-Johnson and Hazel Findlay explore Mallorca’s deep-water soloing routes.</desc>
     <category lang="en">Climbing</category>
@@ -142,17 +154,5 @@
     <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/24/venuyomgtnvhhfeakcrc/paula-josemaria-martin-competing-at-riyadh-premier-padel-p1-quarter-finals-in-riyadh"/>
-  </programme>
-  <programme channel="redbull.com" start="20250717062549+0000" stop="20250717065141+0000">
-    <title lang="en">Cancun Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Mexico as the Cancun Premier Padel P2 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/17/lr1amwly2elapgnn1fha/juan-lebron-franco-stupaczuk-cancun-padel-p2-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250717065141+0000" stop="20250717071818+0000">
-    <title lang="en">Miami Premier Padel highlights</title>
-    <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/ynqwuqdbhxclhxuwztm0/alejandro-galan-miami-premier-padel-2025"/>
   </programme>
 </tv>
