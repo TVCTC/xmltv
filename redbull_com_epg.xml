@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-20 00:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-20 01:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250719184902+0000" stop="20250719193331+0000">
+    <title lang="en">Hallowed Ground </title>
+    <desc lang="en">Follow Hurley team riders through their usual skating haunts to get their views of skateboarding.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/c6j7zgvojn8pkeidswke/steve-alba-skateboarding-2013"/>
+  </programme>
+  <programme channel="redbull.com" start="20250719193331+0000" stop="20250719200807+0000">
+    <title lang="en">South America Tour</title>
+    <desc lang="en">Ryan Sheckler, Jamie Foy and the crew touch down on the most skate-crazy continent on Earth – South America.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/16/rgyh68fdvqt8ekzwr5gk/red-bull-drop-in-tour-florianopolis-skaters-group-photo"/>
+  </programme>
+  <programme channel="redbull.com" start="20250719200807+0000" stop="20250719205537+0000">
+    <title lang="en">Rolling Away</title>
+    <desc lang="en">Pushing boundaries and defying expectations – it's all a normal part of Ryan Sheckler's epic skateboarding journey.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/7/28/moqmuxllpdhvsilodave/ryan-sheckler"/>
+  </programme>
+  <programme channel="redbull.com" start="20250719205537+0000" stop="20250719212201+0000">
+    <title lang="en">Riyadh Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Saudia Arabia as the Riyadh Premier Padel P1 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/qeu4q0pzilaxkin3g5d0/padel-players-juan-lebron-chincoa-and-partner-competing-at-riyadh-season-premier-padel-p1-event"/>
+  </programme>
+  <programme channel="redbull.com" start="20250719212201+0000" stop="20250719214750+0000">
+    <title lang="en">Gijón Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/24/venuyomgtnvhhfeakcrc/paula-josemaria-martin-competing-at-riyadh-premier-padel-p1-quarter-finals-in-riyadh"/>
+  </programme>
   <programme channel="redbull.com" start="20250719214750+0000" stop="20250719221342+0000">
     <title lang="en">Cancun Premier Padel highlights</title>
     <desc lang="en">Watch the highlights from Mexico as the Cancun Premier Padel P2 took centre stage. </desc>
@@ -124,35 +154,5 @@
     <desc lang="en">Look at the 2025 Surf City El Salvador Pro from a new angle and find out the biggest stories.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/ja0zxwdkkmtomrt1gu5w/jordy-smith-wsl-surf-city-el-salvador-pro-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250720072835+0000" stop="20250720082035+0000">
-    <title lang="en">Action highlights from Crankworx Innsbruck</title>
-    <desc lang="en">The Innsbruck stop saw five major mountain bike competitions take place. Catch up with all the action here.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/6/23/ozqaeohgv4mcndk4ynka/crankworx-innsbruck-full-highlights-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250720082035+0000" stop="20250720084717+0000">
-    <title lang="en">DH full recap show – Leogang</title>
-    <desc lang="en">Watch the full recap from the downhill finals in Leogang, Austria.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/6/15/yr8vjejb9r6yankwrehe/uci-world-cup-leogang-dh-laurie-greenland"/>
-  </programme>
-  <programme channel="redbull.com" start="20250720084717+0000" stop="20250720091343+0000">
-    <title lang="en">DH recap show – Vallnord</title>
-    <desc lang="en">Catch up on all the DH action from Vallnord, Andorra, the fifth stop of the UCI Mountain Bike World Cup 2022.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/21/bki9svels9udr3emz2ce/uci-mtb-world-cup-2022-dh-vallnord-laurie-greenland"/>
-  </programme>
-  <programme channel="redbull.com" start="20250720091343+0000" stop="20250720093723+0000">
-    <title lang="en">Cross-country highlights – Mairiporã</title>
-    <desc lang="en">Watch the XC highlights from Mairiporã, the first stop of the 2024 UCI Mountain Bike World Cup season.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/16/jyhgsszyriuhugi0lvj7/martin-vidaurre-uci-mtb-world-cup-mairipora-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250720093723+0000" stop="20250720100401+0000">
-    <title lang="en">Abestone Hard Enduro recap</title>
-    <desc lang="en">In a new race for fans to enjoy, two days of action will culminate with 50 riders battling for the top prize.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/4/16/d4ca8xdn4yrlgswnwg7k/fim-round-3-abestone-hard-enduro-art"/>
   </programme>
 </tv>
