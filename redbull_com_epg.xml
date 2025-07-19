@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-19 20:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-19 21:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250719163615+0000" stop="20250719172026+0000">
-    <title lang="en">WSL MEO Rip Curl Pro Portugal wrap show</title>
-    <desc lang="en">Who was crowned king and queen of Supertubos? Watch highlights of finals day at MEO Rip Curl Pro Portugal. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/jz2yrcmch22rarlhzk2t/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250719172026+0000" stop="20250719180426+0000">
-    <title lang="en">WSL Surf City El Salvador Pro wrap show</title>
-    <desc lang="en">The WSL commentary crew break down the 2025 Surf City El Salvador Pro’s winners and losers.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/popwkhscpmprophqwshu/jordy-smith-wsl-surf-city-el-salvador-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250719180426+0000" stop="20250719184902+0000">
-    <title lang="en">WSL Bonsoy Gold Coast Pro wrap show</title>
-    <desc lang="en">The WSL team dissect the top stories, triumphs and upsets of the 2025 Bonsoy Gold Coast Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/14/ldt07wp8k8ryckufzfpd/kanoa-igarashi-wsl-bonsoy-gold-coast-pro-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250719184902+0000" stop="20250719193331+0000">
     <title lang="en">Hallowed Ground </title>
     <desc lang="en">Follow Hurley team riders through their usual skating haunts to get their views of skateboarding.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Catch up on the highlights from the DH race in Les Gets, where the racing conditions delivered many surprises.</desc>
     <category lang="en">Bike</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/6/29/wctjtw8harx3tknjr80t/uci-world-cup-les-gets-downhill-highlights-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250720055446+0000" stop="20250720060000+0000">
+    <title lang="en">Danny MacAskill in San Francisco</title>
+    <desc lang="en">Pioneering mountain bike star Danny MacAskill turns the iconic sites of San Francisco into the ultimate trials riding paradise.</desc>
+    <category lang="en">Trial Biking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/zznvst7oofmarln0vgmp/danny-macaskill-postcard-from-san-francisco-extra"/>
+  </programme>
+  <programme channel="redbull.com" start="20250720060000+0000" stop="20250720064359+0000">
+    <title lang="en">WSL MEO Rip Curl Pro Portugal</title>
+    <desc lang="en">Come backstage for a closer study of WSL MEO Rip Curl Pro Portugal’s biggest storylines.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/3/vgvpsfeu699lkaywjmg9/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250720064359+0000" stop="20250720072835+0000">
+    <title lang="en">WSL Surf City El Salvador Pro</title>
+    <desc lang="en">Look at the 2025 Surf City El Salvador Pro from a new angle and find out the biggest stories.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/ja0zxwdkkmtomrt1gu5w/jordy-smith-wsl-surf-city-el-salvador-pro-2025"/>
   </programme>
 </tv>
