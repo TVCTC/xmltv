@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-21 06:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-21 07:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250721032455+0000" stop="20250721040855+0000">
-    <title lang="en">WSL MEO Rip Curl Pro Portugal</title>
-    <desc lang="en">Come backstage for a closer study of WSL MEO Rip Curl Pro Portugal’s biggest storylines.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/3/vgvpsfeu699lkaywjmg9/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250721040855+0000" stop="20250721045331+0000">
-    <title lang="en">WSL Surf City El Salvador Pro</title>
-    <desc lang="en">Look at the 2025 Surf City El Salvador Pro from a new angle and find out the biggest stories.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/ja0zxwdkkmtomrt1gu5w/jordy-smith-wsl-surf-city-el-salvador-pro-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250721045331+0000" stop="20250721054531+0000">
     <title lang="en">Action highlights from Crankworx Innsbruck</title>
     <desc lang="en">The Innsbruck stop saw five major mountain bike competitions take place. Catch up with all the action here.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Creativity reaches new heights at the 2019 Red Bull Soapbox Race in Tokyo, Japan.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/29/jrm18vxvcstqeiizw6rp/red-bull-soapbox-race-s2019-e5-tokyo-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250721175959+0000" stop="20250721184802+0000">
+    <title lang="en">Red Bull Flugtag </title>
+    <desc lang="en">Watch participants showcase ingenuity, creativity and flying capabilities before crashing into the Ohio River.</desc>
+    <category lang="en">Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/18/dena2qctqzcwwfwga2cm/event-participants"/>
+  </programme>
+  <programme channel="redbull.com" start="20250721184802+0000" stop="20250721191433+0000">
+    <title lang="en">Oslo, Norway</title>
+    <desc lang="en">Local flavours rule the day, as teams dress up homemade flying machines in honour of food, festivals and more.</desc>
+    <category lang="en">Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1NPQ4G1J52111/FO-1NPQ4G1J52111-featureMedia"/>
   </programme>
 </tv>
