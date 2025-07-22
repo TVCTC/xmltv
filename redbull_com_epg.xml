@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-23 00:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-23 01:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250722205243+0000" stop="20250722213643+0000">
+    <title lang="en">WSL Surf City El Salvador Pro</title>
+    <desc lang="en">Look at the 2025 Surf City El Salvador Pro from a new angle and find out the biggest stories.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/ja0zxwdkkmtomrt1gu5w/jordy-smith-wsl-surf-city-el-salvador-pro-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250722213643+0000" stop="20250722215341+0000">
+    <title lang="en">Best of Bolton – 24MX Hixpania Hard Enduro</title>
+    <desc lang="en">Follow extreme enduro rider Paul Bolton as he rides alongside Hard Enduro competitors at the season's finale.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/29/xbibdnwtr3mbtqbpbyld/paul-bolton-riding-red-bull-motorbike-in-serbia-fim-hard-enduro-race"/>
+  </programme>
   <programme channel="redbull.com" start="20250722215341+0000" stop="20250722220830+0000">
     <title lang="en">Daily recap 3 – Billy Bolt wins off-road day two at Xross Hard Enduro Rally</title>
     <desc lang="en">Billy Bolt narrowly wins the second day of off-road racing at the Xross Hard Enduro Rally. </desc>
@@ -142,17 +154,5 @@
     <desc lang="en">The skateboard demo tour hits Melbourne, Brisbane, Gold Coast and Sydney with Jamie Foy, TJ Rogers and more.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/12/c1cuulekhr76jf4t3pgr/jamie-foy-red-bull-drop-in-tour-2023-australia-skateboarding"/>
-  </programme>
-  <programme channel="redbull.com" start="20250723092830+0000" stop="20250723094323+0000">
-    <title lang="en">Evan Mock – NYC skater blending style and stardom </title>
-    <desc lang="en">Evan Mock's unique blend of skate style and NYC's A-list charm redefines cool with effortless flair. </desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/ot0g5dfqzoheygg9bmpq/madars-apse-evan-mock-skate-tales-new-york"/>
-  </programme>
-  <programme channel="redbull.com" start="20250723094323+0000" stop="20250723100049+0000">
-    <title lang="en">Merci Marseille</title>
-    <desc lang="en">Go behind the scenes at Red Bull Bowl Rippers to find out what makes it a favourite for both fans and skaters.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/wcvi20pald59kzl0s4fk/red-bull-bowl-rippers-2023-marseille-france"/>
   </programme>
 </tv>
