@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-23 18:55:04">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-23 19:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250723132354+0000" stop="20250723141633+0000">
-    <title lang="en">Downhill finals – Lousã</title>
-    <desc lang="en">Riders dug deep for the final event of the 2020 UCI Mountain Bike World Cup season in Lousã, Portugal.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/11/3/x7yie4wrxxvswfock0kw/uci-2020-lousa-recap-program-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250723141633+0000" stop="20250723151524+0000">
-    <title lang="en">One at a Time</title>
-    <desc lang="en">Follow professional slopestyle rider Brett Rheeder through the ups and downs of a Crankworx contest season.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/10/ju0vdt30ad36f7oel2k4/one-at-a-time-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250723151524+0000" stop="20250723160000+0000">
-    <title lang="en">WSL Bonsoy Gold Coast Pro wrap show</title>
-    <desc lang="en">The WSL team dissect the top stories, triumphs and upsets of the 2025 Bonsoy Gold Coast Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/14/ldt07wp8k8ryckufzfpd/kanoa-igarashi-wsl-bonsoy-gold-coast-pro-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250723160000+0000" stop="20250723164359+0000">
-    <title lang="en">WSL Lexus Pipe Pro</title>
-    <desc lang="en">You're granted access-all-areas at the WSL Championship Tour 2025 season opening event, the Lexus Pipe Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/26/hcc1odpn6ogks2lqslbs/caitlin-simmers-on-pipeline-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250723164359+0000" stop="20250723172835+0000">
     <title lang="en">WSL Surf Abu Dhabi Pro</title>
     <desc lang="en">Take an access-all-areas tour of the Abu Dhabi Pro, as the 2025 WSL Championship Tour unleashes in the UAE.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Pushing boundaries and defying expectations – it's all a normal part of Ryan Sheckler's epic skateboarding journey.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/7/28/moqmuxllpdhvsilodave/ryan-sheckler"/>
+  </programme>
+  <programme channel="redbull.com" start="20250724051926+0000" stop="20250724054257+0000">
+    <title lang="en">Japan Tour</title>
+    <desc lang="en">Catch up with the Red Bull Drop In Japan Tour with Zion Wright, Torey Pudwill, Ryan Decenzo and Jake Wooten.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/25/lhqik4pbc5dqzvjixn2w/ryan-decenzo-jake-wooten-alex-sorgente-margie-didal-zion-wright-torey-pudwill-yumeka-oda-max-habanec-kyoto-japan"/>
+  </programme>
+  <programme channel="redbull.com" start="20250724054257+0000" stop="20250724060000+0000">
+    <title lang="en">Milton Martinez – street legend born into skating</title>
+    <desc lang="en">From skate shop to global fame, Milton Martinez retraces his skateboarding success from where it all began.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/ba89bolmndj6phrsbntm/madars-apse-milton-martinez-skateboarding-mar-del-plata-argentina"/>
+  </programme>
+  <programme channel="redbull.com" start="20250724060000+0000" stop="20250724061453+0000">
+    <title lang="en">Evan Mock – NYC skater blending style and stardom </title>
+    <desc lang="en">Evan Mock's unique blend of skate style and NYC's A-list charm redefines cool with effortless flair. </desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/ot0g5dfqzoheygg9bmpq/madars-apse-evan-mock-skate-tales-new-york"/>
+  </programme>
+  <programme channel="redbull.com" start="20250724061453+0000" stop="20250724063143+0000">
+    <title lang="en">Merci Marseille</title>
+    <desc lang="en">Go behind the scenes at Red Bull Bowl Rippers to find out what makes it a favourite for both fans and skaters.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/22/wcvi20pald59kzl0s4fk/red-bull-bowl-rippers-2023-marseille-france"/>
   </programme>
 </tv>
