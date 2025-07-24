@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-24 07:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-24 08:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250724043156+0000" stop="20250724051926+0000">
-    <title lang="en">Rolling Away</title>
-    <desc lang="en">Pushing boundaries and defying expectations – it's all a normal part of Ryan Sheckler's epic skateboarding journey.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/7/28/moqmuxllpdhvsilodave/ryan-sheckler"/>
-  </programme>
-  <programme channel="redbull.com" start="20250724051926+0000" stop="20250724054257+0000">
-    <title lang="en">Japan Tour</title>
-    <desc lang="en">Catch up with the Red Bull Drop In Japan Tour with Zion Wright, Torey Pudwill, Ryan Decenzo and Jake Wooten.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/25/lhqik4pbc5dqzvjixn2w/ryan-decenzo-jake-wooten-alex-sorgente-margie-didal-zion-wright-torey-pudwill-yumeka-oda-max-habanec-kyoto-japan"/>
-  </programme>
   <programme channel="redbull.com" start="20250724054257+0000" stop="20250724060000+0000">
     <title lang="en">Milton Martinez – street legend born into skating</title>
     <desc lang="en">From skate shop to global fame, Milton Martinez retraces his skateboarding success from where it all began.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
     <category lang="en">Cycling</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20250724192240+0000" stop="20250724194840+0000">
+    <title lang="en">DH highlights from Maribor</title>
+    <desc lang="en">Catch all the on and off-track highlights from the opening downhill World Cup round of 2019 in wild Maribor.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z8YYNEWW5N11/FO-1Z8YYNEWW5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250724194840+0000" stop="20250724203950+0000">
+    <title lang="en">Esperanto</title>
+    <desc lang="en">Esperanto explores how dreams can be shared through the universal two-wheeled language of cycling.</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/23/hyyihfqinrqdzghqxlri/esperanto-hero-art"/>
   </programme>
 </tv>
