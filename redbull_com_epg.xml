@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-27 13:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-27 14:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250727080000+0000" stop="20250727103036+0000">
-    <title lang="en">Red Bull Hardline UK livestream</title>
-    <desc lang="en">The world’s toughest MTB race pushes riders to their absolute limits on the most extreme, unforgiving terrain.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/3/zea4hgij5uceemztv27v/ronan-dunne"/>
-  </programme>
   <programme channel="redbull.com" start="20250727103036+0000" stop="20250727105713+0000">
     <title lang="en">Miami Premier Padel highlights</title>
     <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
@@ -148,5 +142,11 @@
     <desc lang="en">Follow extreme enduro rider Paul Bolton as he rides alongside Hard Enduro competitors at the season's finale.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/29/xbibdnwtr3mbtqbpbyld/paul-bolton-riding-red-bull-motorbike-in-serbia-fim-hard-enduro-race"/>
+  </programme>
+  <programme channel="redbull.com" start="20250728014224+0000" stop="20250728015637+0000">
+    <title lang="en">Daily recap 3 – Billy Bolt wins off-road day two at Xross Hard Enduro Rally</title>
+    <desc lang="en">Billy Bolt narrowly wins the second day of off-road racing at the Xross Hard Enduro Rally. </desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/20/fciltrdashbzi6xwrgf4/billy-bolt-xcoss-hard-enduro-rally"/>
   </programme>
 </tv>
