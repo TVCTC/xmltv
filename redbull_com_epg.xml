@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-27 20:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-27 21:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250727162904+0000" stop="20250727165538+0000">
-    <title lang="en">South Florida</title>
-    <desc lang="en">The Sunshine State’s core skate scene now has generations of pro skaters proud to call South Florida home.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/uc4fnp8jshga92o14coi/jamie-foy-skateboarding-florida"/>
-  </programme>
-  <programme channel="redbull.com" start="20250727165538+0000" stop="20250727173948+0000">
-    <title lang="en">WSL Lexus Pipe Pro wrap show</title>
-    <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250727173948+0000" stop="20250727182434+0000">
-    <title lang="en">WSL Abu Dhabi Pro wrap show</title>
-    <desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/grgodpvyqhg2grunxuqy/kanoa-igarashi-surfing-surf-abu-dhabi-pro-quarter-finals-hudayriyat-island-abu-dhabi-united-arab-emirates"/>
-  </programme>
   <programme channel="redbull.com" start="20250727182434+0000" stop="20250727190808+0000">
     <title lang="en">WSL MEO Rip Curl Pro Portugal wrap show</title>
     <desc lang="en">Who was crowned king and queen of Supertubos? Watch highlights of finals day at MEO Rip Curl Pro Portugal. </desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/18/c4ncyoippkl1obtdsl6o/alejandro-galan-ooredoo-qatar-major-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250728062607+0000" stop="20250728065158+0000">
+    <title lang="en">Brussels P2 Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Brussels P2 Premier Padel tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/23/qf7dntygf7afi5plczxn/eduardo-alonso-lotto-brussels-premier-padel-p2-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250728065158+0000" stop="20250728071836+0000">
+    <title lang="en">Asunción Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Paraguay as the Asunción Premier Padel P2 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/28/nf8ippk7aj3p7esbsntm/beatriz-gonzalez-2025-asuncion-premier-padel-p2-victory-red-bull"/>
+  </programme>
+  <programme channel="redbull.com" start="20250728071836+0000" stop="20250728081144+0000">
+    <title lang="en">Best moments from Mostar </title>
+    <desc lang="en">The Red Bull Cliff Diving World Series returned to Bosnia and Herzegovina. Watch the best action from Mostar.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/9/6/nuk5v9cddr0xepwga93f/constantin-popovici-red-bull-cliff-diving-bosnia-and-herzegovina-2022"/>
   </programme>
 </tv>
