@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-28 22:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-28 23:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250728174320+0000" stop="20250728200230+0000">
-    <title lang="en">Drift Masters Top 16 – Latvia livestream</title>
-    <desc lang="en">Watch the Top 16 drifters in action in Latvia at the fifth round of the Drift Masters 2025 season.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/16/uzx1ykdg3ynkxxcphfk0/conor-shanahan-red-bull-drift-masters-kildare-ireland-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250728200230+0000" stop="20250728210121+0000">
     <title lang="en">One at a Time</title>
     <desc lang="en">Follow professional slopestyle rider Brett Rheeder through the ups and downs of a Crankworx contest season.</desc>
@@ -119,13 +113,13 @@
     <category lang="en">BMX</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/12/gfc5surociyddotljcaz/kriss-kyle-dont-look-down-malmesbury-uk-december-2022"/>
   </programme>
-  <programme channel="redbull.com" start="20250728161424+0000" stop="20250728165834+0000">
+  <programme channel="redbull.com" start="20250729060000+0000" stop="20250729064410+0000">
     <title lang="en">WSL Lexus Pipe Pro wrap show</title>
     <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
   </programme>
-  <programme channel="redbull.com" start="20250728165834+0000" stop="20250728174320+0000">
+  <programme channel="redbull.com" start="20250729064410+0000" stop="20250729072856+0000">
     <title lang="en">WSL Abu Dhabi Pro wrap show</title>
     <desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</desc>
     <category lang="en">Surfing</category>
@@ -154,5 +148,11 @@
     <desc lang="en">Celebrate Volcom's fusion of surf, skate and snowboarding in a cinematic journey of rebellious attitude.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/2/gdzdz7ctatn8hluyhrme/true-to-this"/>
+  </programme>
+  <programme channel="redbull.com" start="20250729100129+0000" stop="20250729103806+0000">
+    <title lang="en">Veeco: A Volcom Filmmaking Documentary</title>
+    <desc lang="en">Discover untold stories behind Volcom's groundbreaking films, from inception to adrenaline-fuelled execution.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/2/dn81xqv9yyodwpj6rwpn/veeco-volcom-filmmaking-documentary"/>
   </programme>
 </tv>
