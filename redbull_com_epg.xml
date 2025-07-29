@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-29 17:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-29 18:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250729133032+0000" stop="20250729141358+0000">
-    <title lang="en">Amman, Jordan </title>
-    <desc lang="en">Catch the Red Bull Soapbox Race in Jordan as creative teams speed through Amman’s hills with bold designs.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/uf6p1xnnsq5hvg5jrjpr/red-bull-soapbox-race-2023-amman-jordan"/>
-  </programme>
-  <programme channel="redbull.com" start="20250729141358+0000" stop="20250729145814+0000">
-    <title lang="en">Dallas, Texas, USA</title>
-    <desc lang="en">Red Bull Soapbox Race returned to Dallas, Texas, for the first time since 2012 and boy did the race deliver.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/29/cqoxrfz6vauornnbv8ik/red-bull-soapbox-race-s2019-e4-dallas-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250729145814+0000" stop="20250729154125+0000">
-    <title lang="en">Toulouse, France</title>
-    <desc lang="en">To win or To(ulouse)? That is the question that will be answered today in this gravity-powered race!</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/zpafu4se3ambjjhqy1wb/team-2-red-bull-soapbox-race-2022"/>
-  </programme>
   <programme channel="redbull.com" start="20250729154125+0000" stop="20250729162329+0000">
     <title lang="en">Atlanta, USA</title>
     <desc lang="en">It’s one of the steepest, fastest courses ever, with a big jump to test the durability of every soapbox car.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">The WSL commentary crew break down the 2025 Surf City El Salvador Pro’s winners and losers.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/popwkhscpmprophqwshu/jordy-smith-wsl-surf-city-el-salvador-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250730053913+0000" stop="20250730055500+0000">
+    <title lang="en">Milton Martinez – street legend born into skating</title>
+    <desc lang="en">From skate shop to global fame, Milton Martinez retraces his skateboarding success from where it all began.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/ba89bolmndj6phrsbntm/madars-apse-milton-martinez-skateboarding-mar-del-plata-argentina"/>
+  </programme>
+  <programme channel="redbull.com" start="20250730055500+0000" stop="20250730060000+0000">
+    <title lang="en">Tomáš Slavík's winning run </title>
+    <desc lang="en">Watch Tomáš Slavík claim victory at Red Bull Cerro Abajo’s first European stop with a flawless run.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/v6tfascdj9ucqlwmqfb7/tomas-slavik-red-bull-genova-cerro-abajo-stunt-show-genoa-italy-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250730060000+0000" stop="20250730064045+0000">
+    <title lang="en">True to This</title>
+    <desc lang="en">Celebrate Volcom's fusion of surf, skate and snowboarding in a cinematic journey of rebellious attitude.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/2/gdzdz7ctatn8hluyhrme/true-to-this"/>
   </programme>
 </tv>
