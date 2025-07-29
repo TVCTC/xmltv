@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-29 14:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-29 15:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250729103806+0000" stop="20250729110354+0000">
-    <title lang="en">Riyadh Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Saudia Arabia as the Riyadh Premier Padel P1 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/qeu4q0pzilaxkin3g5d0/padel-players-juan-lebron-chincoa-and-partner-competing-at-riyadh-season-premier-padel-p1-event"/>
-  </programme>
-  <programme channel="redbull.com" start="20250729110354+0000" stop="20250729113019+0000">
-    <title lang="en">Gijón Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/24/venuyomgtnvhhfeakcrc/paula-josemaria-martin-competing-at-riyadh-premier-padel-p1-quarter-finals-in-riyadh"/>
-  </programme>
-  <programme channel="redbull.com" start="20250729113019+0000" stop="20250729115611+0000">
-    <title lang="en">Cancun Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Mexico as the Cancun Premier Padel P2 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/17/lr1amwly2elapgnn1fha/juan-lebron-franco-stupaczuk-cancun-padel-p2-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250729115611+0000" stop="20250729122249+0000">
-    <title lang="en">Miami Premier Padel highlights</title>
-    <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/ynqwuqdbhxclhxuwztm0/alejandro-galan-miami-premier-padel-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250729122249+0000" stop="20250729133032+0000">
     <title lang="en">Cork, Ireland</title>
     <desc lang="en">Creative and crazy competitors from the British Isles converge on Cork, Ireland for the Red Bull Soapbox Race.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Come backstage for a closer study of WSL MEO Rip Curl Pro Portugal’s biggest storylines.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/3/vgvpsfeu699lkaywjmg9/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250730015807+0000" stop="20250730024207+0000">
+    <title lang="en">WSL Surf City El Salvador Pro</title>
+    <desc lang="en">Look at the 2025 Surf City El Salvador Pro from a new angle and find out the biggest stories.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/ja0zxwdkkmtomrt1gu5w/jordy-smith-wsl-surf-city-el-salvador-pro-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250730024207+0000" stop="20250730032653+0000">
+    <title lang="en">WSL Lexus Pipe Pro wrap show</title>
+    <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250730032653+0000" stop="20250730041103+0000">
+    <title lang="en">WSL Abu Dhabi Pro wrap show</title>
+    <desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/grgodpvyqhg2grunxuqy/kanoa-igarashi-surfing-surf-abu-dhabi-pro-quarter-finals-hudayriyat-island-abu-dhabi-united-arab-emirates"/>
+  </programme>
+  <programme channel="redbull.com" start="20250730041103+0000" stop="20250730045513+0000">
+    <title lang="en">WSL MEO Rip Curl Pro Portugal wrap show</title>
+    <desc lang="en">Who was crowned king and queen of Supertubos? Watch highlights of finals day at MEO Rip Curl Pro Portugal. </desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/jz2yrcmch22rarlhzk2t/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
   </programme>
 </tv>
