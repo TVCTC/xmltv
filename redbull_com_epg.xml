@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-30 05:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-30 06:55:04">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250730002931+0000" stop="20250730011331+0000">
-    <title lang="en">WSL Surf Abu Dhabi Pro</title>
-    <desc lang="en">Take an access-all-areas tour of the Abu Dhabi Pro, as the 2025 WSL Championship Tour unleashes in the UAE.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/3/trfvt17zqaghmxssqotl/italo-ferreira-on-wsl-surf-abu-dhabi-pro-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250730011331+0000" stop="20250730015807+0000">
-    <title lang="en">WSL MEO Rip Curl Pro Portugal</title>
-    <desc lang="en">Come backstage for a closer study of WSL MEO Rip Curl Pro Portugal’s biggest storylines.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/3/vgvpsfeu699lkaywjmg9/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250730015807+0000" stop="20250730024207+0000">
-    <title lang="en">WSL Surf City El Salvador Pro</title>
-    <desc lang="en">Look at the 2025 Surf City El Salvador Pro from a new angle and find out the biggest stories.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/ja0zxwdkkmtomrt1gu5w/jordy-smith-wsl-surf-city-el-salvador-pro-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250730024207+0000" stop="20250730032653+0000">
-    <title lang="en">WSL Lexus Pipe Pro wrap show</title>
-    <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250730032653+0000" stop="20250730041103+0000">
     <title lang="en">WSL Abu Dhabi Pro wrap show</title>
     <desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">From Xross Hard Enduro to GetzenRodeo, relive the best moments from the 2023 Hard Enduro World Championship.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/21/cbofzivks1dlqjaft3kb/manuel-lettenbichler-red-bull-outliers-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250730151525+0000" stop="20250730154242+0000">
+    <title lang="en">ABC of... Hard Enduro</title>
+    <desc lang="en">Take a down-and-dirty crash course in all things Hard Enduro, motocross's toughest discipline.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1S8C8H9KD5N11/FO-1S8C8H9KD5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250730154242+0000" stop="20250730161637+0000">
+    <title lang="en">Best of Paul Bolton – Red Bull Romaniacs</title>
+    <desc lang="en">Join field reporter Paul Bolton as he follows Hard Enduro riders fighting for the win in Romania.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/29/pnnirbrhvnlc9h4torsx/jonny-walker-red-bull-romaniacs-fim-hard-enduro-sibiu-romania-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250730161637+0000" stop="20250730164239+0000">
+    <title lang="en">Extreme XL Lagares recap</title>
+    <desc lang="en">Get the full recap from Toyota Porto Extreme XL Lagares, which mixes EnduroCross with Urban and Hard Enduro.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZCZUSA515N11/FO-1ZCZUSA515N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250730164239+0000" stop="20250730170846+0000">
+    <title lang="en">ABC of... Climbing</title>
+    <desc lang="en">Join Sasha DiGiulian as she takes you on an expedition around the globe with some of the world's top climbers.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/3/3/iayq9ughxcjbdcc5xryb/abc-of-climbing-art"/>
   </programme>
 </tv>
