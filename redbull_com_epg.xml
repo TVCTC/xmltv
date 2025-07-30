@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-30 18:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-07-30 19:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250730144725+0000" stop="20250730151525+0000">
-    <title lang="en">Best moments of 2023</title>
-    <desc lang="en">From Xross Hard Enduro to GetzenRodeo, relive the best moments from the 2023 Hard Enduro World Championship.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/21/cbofzivks1dlqjaft3kb/manuel-lettenbichler-red-bull-outliers-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250730151525+0000" stop="20250730154242+0000">
-    <title lang="en">ABC of... Hard Enduro</title>
-    <desc lang="en">Take a down-and-dirty crash course in all things Hard Enduro, motocross's toughest discipline.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1S8C8H9KD5N11/FO-1S8C8H9KD5N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250730154242+0000" stop="20250730161637+0000">
     <title lang="en">Best of Paul Bolton – Red Bull Romaniacs</title>
     <desc lang="en">Join field reporter Paul Bolton as he follows Hard Enduro riders fighting for the win in Romania.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Catch the Red Bull Soapbox Race in Jordan as creative teams speed through Amman’s hills with bold designs.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/uf6p1xnnsq5hvg5jrjpr/red-bull-soapbox-race-2023-amman-jordan"/>
+  </programme>
+  <programme channel="redbull.com" start="20250731075109+0000" stop="20250731083525+0000">
+    <title lang="en">Dallas, Texas, USA</title>
+    <desc lang="en">Red Bull Soapbox Race returned to Dallas, Texas, for the first time since 2012 and boy did the race deliver.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/4/29/cqoxrfz6vauornnbv8ik/red-bull-soapbox-race-s2019-e4-dallas-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250731083525+0000" stop="20250731091836+0000">
+    <title lang="en">Toulouse, France</title>
+    <desc lang="en">To win or To(ulouse)? That is the question that will be answered today in this gravity-powered race!</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/zpafu4se3ambjjhqy1wb/team-2-red-bull-soapbox-race-2022"/>
   </programme>
 </tv>
