@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-02 08:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-02 09:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250802052726+0000" stop="20250802055650+0000">
-    <title lang="en">Dune racing with Kirsten Landman</title>
-    <desc lang="en">Jason and Nick track down endurance motorcyclist Kirsten Landman on sun-scorched dunes in Cape Town.</desc>
-    <category lang="en">Motoring</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/2/6/brsrbtjamhd6bhvm5npv/jason-goliath-and-kirsten-landman-giving-it-gears"/>
-  </programme>
-  <programme channel="redbull.com" start="20250802055650+0000" stop="20250802060000+0000">
-    <title lang="en">Kade Edwards destroys Dyfi Bike Park</title>
-    <desc lang="en">Enjoy the sound of speed as British mountain bike rider Kade Edwards rips up Dyfi Bike Park in Wales. </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/doge7u1jj7vxmsg8m1sq/kade-edwards-dyfi-bike-park"/>
-  </programme>
-  <programme channel="redbull.com" start="20250802060000+0000" stop="20250802064359+0000">
-    <title lang="en">WSL Lexus Pipe Pro</title>
-    <desc lang="en">You're granted access-all-areas at the WSL Championship Tour 2025 season opening event, the Lexus Pipe Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/26/hcc1odpn6ogks2lqslbs/caitlin-simmers-on-pipeline-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250802064359+0000" stop="20250802072835+0000">
     <title lang="en">WSL Surf Abu Dhabi Pro</title>
     <desc lang="en">Take an access-all-areas tour of the Abu Dhabi Pro, as the 2025 WSL Championship Tour unleashes in the UAE.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Lonnie Kauk goes on a personal journey to honour his indigenous roots and repeat his father's iconic climbs.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/12/d9ze5msjdlszmyusd7bh/reel-rock-s7-e4-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250802190250+0000" stop="20250802192240+0000">
+    <title lang="en">Deep roots part 2</title>
+    <desc lang="en">Lonnie Kauk goes on a personal journey to honour his indigenous roots and repeat his father's iconic climbs.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/12/jhvab6fkhufhzgblebch/reel-rock-s7-e5-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250802192240+0000" stop="20250802210149+0000">
+    <title lang="en">Valley Uprising</title>
+    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250802210149+0000" stop="20250802213819+0000">
+    <title lang="en">Red Bull Dual Ascent</title>
+    <desc lang="en">Sixteen world-class athletes on eight teams battle to be the fastest up a wall of six gruelling pitches.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/30/inmn3pjglt8q3tlpdk2c/red-bull-dual-ascent-2022-domen-skofic"/>
   </programme>
 </tv>
