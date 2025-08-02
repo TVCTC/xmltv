@@ -1,46 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-02 19:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-02 20:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250802124500+0000" stop="20250802150000+0000">
-    <title lang="en">RB Leipzig vs Atalanta BC livestream</title>
-    <desc lang="en">Catch all the action from RB Leipzig’s home opener of the 2025/26 season as they take on Atalanta BC.</desc>
-    <category lang="en">Soccer</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/17/honaoj3h2djx1q7xharf/rb-leipzig-estadio-cicero-de-souza-braganca-fc-santos-2025-celebration"/>
-  </programme>
-  <programme channel="redbull.com" start="20250802150000+0000" stop="20250802151814+0000">
-    <title lang="en">Japan</title>
-    <desc lang="en">Head to Tokyo to discover Japan's incredible culture, in and out of the water.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/ajm40meccouf98q084gi/no-contest-off-tour-japan-kanoa-igarashi"/>
-  </programme>
-  <programme channel="redbull.com" start="20250802151814+0000" stop="20250802160249+0000">
-    <title lang="en">Kasso 2024 – part 1 </title>
-    <desc lang="en">Guest competitors Leo Romero, Madars Apse and Wes Kremer take on wild and obstacle-laden skate courses.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/rkp9d9ninbxkvmi4e8rp/madars-apse-kasso-japan-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250802160249+0000" stop="20250802164701+0000">
-    <title lang="en">Kasso 2024 – part 2</title>
-    <desc lang="en">Skate pros Madars Apse, Wes Kremer, Leo Romero and the local rippers take on the final two challenges.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/l6xnhbqc6wz7j3opais2/madars-apse-kasso-japan-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250802164701+0000" stop="20250802171341+0000">
-    <title lang="en">The Last Step</title>
-    <desc lang="en">See young talent from climbing, surf and skate as they prepare for the most important event of their careers.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/zgmuhpa7ydol2n6siube/the-last-step-documentary-climbing-oriane-bertone-skateboard-vincent-matheron-surf-kauli-vaast"/>
-  </programme>
-  <programme channel="redbull.com" start="20250802171341+0000" stop="20250802173544+0000">
-    <title lang="en">Best of Bolton – Red Bull TKO</title>
-    <desc lang="en">Ride with extreme enduro rider Paul Bolton alongside Hard Enduro heroes fighting for the win at Red Bull TKO.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/29/u1luua7rdcznvkv7mqtc/trystan-hart-ktm-enduro-factory-racing-red-bull-tennessee-knockout-tko-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20250802173544+0000" stop="20250802180230+0000">
     <title lang="en">Best of Bolton – Sea to Sky</title>
     <desc lang="en">Ride with extreme enduro rider Paul Bolton alongside Hard Enduro heroes fighting for the win at Sea to Sky.</desc>
@@ -154,5 +118,41 @@
     <desc lang="en">Enjoy the sound of speed as British mountain bike rider Kade Edwards rips up Dyfi Bike Park in Wales. </desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/2/12/doge7u1jj7vxmsg8m1sq/kade-edwards-dyfi-bike-park"/>
+  </programme>
+  <programme channel="redbull.com" start="20250803054447+0000" stop="20250803055945+0000">
+    <title lang="en">Downhill finals – Lenzerheide</title>
+    <desc lang="en">Here’s what went down on the hillside of Lenzerheide for the third DH of 2022.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/15/y8pagvjm8pnegccnaydd/uci-world-cup-lenzerheide-dh-2022-myriam-nicole"/>
+  </programme>
+  <programme channel="redbull.com" start="20250803060000+0000" stop="20250803062547+0000">
+    <title lang="en">Riyadh Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Saudia Arabia as the Riyadh Premier Padel P1 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/qeu4q0pzilaxkin3g5d0/padel-players-juan-lebron-chincoa-and-partner-competing-at-riyadh-season-premier-padel-p1-event"/>
+  </programme>
+  <programme channel="redbull.com" start="20250803062547+0000" stop="20250803065137+0000">
+    <title lang="en">Gijón Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/24/venuyomgtnvhhfeakcrc/paula-josemaria-martin-competing-at-riyadh-premier-padel-p1-quarter-finals-in-riyadh"/>
+  </programme>
+  <programme channel="redbull.com" start="20250803065137+0000" stop="20250803071804+0000">
+    <title lang="en">Cancun Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Mexico as the Cancun Premier Padel P2 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/17/lr1amwly2elapgnn1fha/juan-lebron-franco-stupaczuk-cancun-padel-p2-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250803071804+0000" stop="20250803074406+0000">
+    <title lang="en">Miami Premier Padel highlights</title>
+    <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/ynqwuqdbhxclhxuwztm0/alejandro-galan-miami-premier-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250803074406+0000" stop="20250803081010+0000">
+    <title lang="en">Santiago Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Chile as the Santiago Premier Padel P1 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/bdtrfzyj5lvybvefhsp6/marta-ortega-miami-2025-premier-padel-semi-final"/>
   </programme>
 </tv>
