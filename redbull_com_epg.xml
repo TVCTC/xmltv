@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-02 05:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-02 06:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250802014603+0000" stop="20250802023023+0000">
-    <title lang="en">Santiago, Chile</title>
-    <desc lang="en">Teams of intrepid soapbox racers test their skills in Santiago, Chile, on a steep and treacherous course.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SERBKFRS5N11/FO-1SERBKFRS5N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250802023023+0000" stop="20250802031456+0000">
-    <title lang="en">Rome, Italy</title>
-    <desc lang="en">Rome is about to show a different side of itself as Red Bull Soapbox Race gets started in this location.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZJ92FUZN5N11/FO-1ZJ92FUZN5N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250802031456+0000" stop="20250802035906+0000">
     <title lang="en">WSL Lexus Pipe Pro wrap show</title>
     <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">See young talent from climbing, surf and skate as they prepare for the most important event of their careers.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/zgmuhpa7ydol2n6siube/the-last-step-documentary-climbing-oriane-bertone-skateboard-vincent-matheron-surf-kauli-vaast"/>
+  </programme>
+  <programme channel="redbull.com" start="20250802171341+0000" stop="20250802173544+0000">
+    <title lang="en">Best of Bolton – Red Bull TKO</title>
+    <desc lang="en">Ride with extreme enduro rider Paul Bolton alongside Hard Enduro heroes fighting for the win at Red Bull TKO.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/29/u1luua7rdcznvkv7mqtc/trystan-hart-ktm-enduro-factory-racing-red-bull-tennessee-knockout-tko-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250802173544+0000" stop="20250802180230+0000">
+    <title lang="en">Best of Bolton – Sea to Sky</title>
+    <desc lang="en">Ride with extreme enduro rider Paul Bolton alongside Hard Enduro heroes fighting for the win at Sea to Sky.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/14/hw7cwha55y91tjmm5ugt/manuel-lettenbichler-fim-hard-enduro-sea-to-sky-2024-turkey"/>
   </programme>
 </tv>
