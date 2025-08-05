@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-05 16:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-05 17:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250805094435+0000" stop="20250805100425+0000">
-    <title lang="en">Deep roots part 2</title>
-    <desc lang="en">Lonnie Kauk goes on a personal journey to honour his indigenous roots and repeat his father's iconic climbs.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/12/jhvab6fkhufhzgblebch/reel-rock-s7-e5-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250805100425+0000" stop="20250805114335+0000">
-    <title lang="en">Valley Uprising</title>
-    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250805114335+0000" stop="20250805122005+0000">
-    <title lang="en">Red Bull Dual Ascent</title>
-    <desc lang="en">Sixteen world-class athletes on eight teams battle to be the fastest up a wall of six gruelling pitches.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/30/inmn3pjglt8q3tlpdk2c/red-bull-dual-ascent-2022-domen-skofic"/>
-  </programme>
-  <programme channel="redbull.com" start="20250805122005+0000" stop="20250805130015+0000">
-    <title lang="en">High tension</title>
-    <desc lang="en">A violent altercation on Mount Everest uncovers deep-seated tensions between climbers and Sherpas.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2Y56611W11/FO-1RM2Y56611W11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250805130015+0000" stop="20250805134435+0000">
-    <title lang="en">Santiago, Chile</title>
-    <desc lang="en">Teams of intrepid soapbox racers test their skills in Santiago, Chile, on a steep and treacherous course.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SERBKFRS5N11/FO-1SERBKFRS5N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250805134435+0000" stop="20250805142908+0000">
     <title lang="en">Rome, Italy</title>
     <desc lang="en">Rome is about to show a different side of itself as Red Bull Soapbox Race gets started in this location.</desc>
@@ -154,5 +124,35 @@
     <desc lang="en">Pushing boundaries and defying expectations – it's all a normal part of Ryan Sheckler's epic skateboarding journey.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/7/28/moqmuxllpdhvsilodave/ryan-sheckler"/>
+  </programme>
+  <programme channel="redbull.com" start="20250806032751+0000" stop="20250806041151+0000">
+    <title lang="en">Kasso 2024 – part 1 </title>
+    <desc lang="en">Guest competitors Leo Romero, Madars Apse and Wes Kremer take on wild and obstacle-laden skate courses.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/rkp9d9ninbxkvmi4e8rp/madars-apse-kasso-japan-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250806041151+0000" stop="20250806045639+0000">
+    <title lang="en">Kasso 2024 – part 2</title>
+    <desc lang="en">Skate pros Madars Apse, Wes Kremer, Leo Romero and the local rippers take on the final two challenges.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/l6xnhbqc6wz7j3opais2/madars-apse-kasso-japan-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250806045639+0000" stop="20250806052319+0000">
+    <title lang="en">The Last Step</title>
+    <desc lang="en">See young talent from climbing, surf and skate as they prepare for the most important event of their careers.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/zgmuhpa7ydol2n6siube/the-last-step-documentary-climbing-oriane-bertone-skateboard-vincent-matheron-surf-kauli-vaast"/>
+  </programme>
+  <programme channel="redbull.com" start="20250806052319+0000" stop="20250806054446+0000">
+    <title lang="en">Best of Bolton – Red Bull TKO</title>
+    <desc lang="en">Ride with extreme enduro rider Paul Bolton alongside Hard Enduro heroes fighting for the win at Red Bull TKO.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/29/u1luua7rdcznvkv7mqtc/trystan-hart-ktm-enduro-factory-racing-red-bull-tennessee-knockout-tko-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250806054446+0000" stop="20250806060000+0000">
+    <title lang="en">Downhill finals – Lenzerheide</title>
+    <desc lang="en">Here’s what went down on the hillside of Lenzerheide for the third DH of 2022.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/7/15/y8pagvjm8pnegccnaydd/uci-world-cup-lenzerheide-dh-2022-myriam-nicole"/>
   </programme>
 </tv>
