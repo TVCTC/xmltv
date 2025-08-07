@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-07 10:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-07 11:55:04">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250807024735+0000" stop="20250807031456+0000">
+    <title lang="en">Best of Bolton – Sea to Sky</title>
+    <desc lang="en">Ride with extreme enduro rider Paul Bolton alongside Hard Enduro heroes fighting for the win at Sea to Sky.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/14/hw7cwha55y91tjmm5ugt/manuel-lettenbichler-fim-hard-enduro-sea-to-sky-2024-turkey"/>
+  </programme>
+  <programme channel="redbull.com" start="20250807031456+0000" stop="20250807033008+0000">
+    <title lang="en">Best of Bolton – Xross Hard Enduro Rally</title>
+    <desc lang="en">Enjoy the POV action from Xross Hard Enduro Rally as captured by our man on the ground, Paul Bolton.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/22/qfr9zzgedrtzdnm8qmqf/mario-roman-xross-hard-enduro-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250807033008+0000" stop="20250807035611+0000">
+    <title lang="en">Extreme XL Lagares recap</title>
+    <desc lang="en">Get the full recap from Toyota Porto Extreme XL Lagares, which mixes EnduroCross with Urban and Hard Enduro.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZCZUSA515N11/FO-1ZCZUSA515N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250807035611+0000" stop="20250807041516+0000">
+    <title lang="en">Deep roots part 1</title>
+    <desc lang="en">Lonnie Kauk goes on a personal journey to honour his indigenous roots and repeat his father's iconic climbs.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/12/d9ze5msjdlszmyusd7bh/reel-rock-s7-e4-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250807041516+0000" stop="20250807055350+0000">
+    <title lang="en">Valley Uprising</title>
+    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art"/>
+  </programme>
   <programme channel="redbull.com" start="20250807055350+0000" stop="20250807060000+0000">
     <title lang="en">Red Bull Racing vs Best of British</title>
     <desc lang="en">Watch eight quintessentially British vehicles take on the ultimate motorsports challenge: dodging traffic.</desc>
@@ -124,35 +154,5 @@
     <desc lang="en">Head to Tokyo to discover Japan's incredible culture, in and out of the water.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/ajm40meccouf98q084gi/no-contest-off-tour-japan-kanoa-igarashi"/>
-  </programme>
-  <programme channel="redbull.com" start="20250807193736+0000" stop="20250807195855+0000">
-    <title lang="en">Sydney</title>
-    <desc lang="en">Gets to know the colourful characters and surfing culture of Australia's biggest city, Sydney.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/onhifkvity1rfohttjgc/no-contest-off-tour-sydney"/>
-  </programme>
-  <programme channel="redbull.com" start="20250807195855+0000" stop="20250807205128+0000">
-    <title lang="en">Pressure in paradise</title>
-    <desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/gal4qmbviibzua4uegnf/rhiannan-iffland-red-bull-cliff-diving-el-nido-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250807205128+0000" stop="20250807213934+0000">
-    <title lang="en">Rolling Away</title>
-    <desc lang="en">Pushing boundaries and defying expectations – it's all a normal part of Ryan Sheckler's epic skateboarding journey.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/7/28/moqmuxllpdhvsilodave/ryan-sheckler"/>
-  </programme>
-  <programme channel="redbull.com" start="20250807213934+0000" stop="20250807222334+0000">
-    <title lang="en">Kasso 2024 – part 1 </title>
-    <desc lang="en">Guest competitors Leo Romero, Madars Apse and Wes Kremer take on wild and obstacle-laden skate courses.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/rkp9d9ninbxkvmi4e8rp/madars-apse-kasso-japan-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250807222334+0000" stop="20250807230821+0000">
-    <title lang="en">Kasso 2024 – part 2</title>
-    <desc lang="en">Skate pros Madars Apse, Wes Kremer, Leo Romero and the local rippers take on the final two challenges.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/l6xnhbqc6wz7j3opais2/madars-apse-kasso-japan-2024"/>
   </programme>
 </tv>
