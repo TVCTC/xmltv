@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-07 09:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-07 10:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250807055350+0000" stop="20250807060000+0000">
+    <title lang="en">Red Bull Racing vs Best of British</title>
+    <desc lang="en">Watch eight quintessentially British vehicles take on the ultimate motorsports challenge: dodging traffic.</desc>
+    <category lang="en">F1</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/7/7/mmqdxvfr74rqap7h2kd3/boy-racer-car-ford-best-of-british"/>
+  </programme>
+  <programme channel="redbull.com" start="20250807060000+0000" stop="20250807063629+0000">
+    <title lang="en">Red Bull Dual Ascent</title>
+    <desc lang="en">Sixteen world-class athletes on eight teams battle to be the fastest up a wall of six gruelling pitches.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/30/inmn3pjglt8q3tlpdk2c/red-bull-dual-ascent-2022-domen-skofic"/>
+  </programme>
   <programme channel="redbull.com" start="20250807063629+0000" stop="20250807071640+0000">
     <title lang="en">High tension</title>
     <desc lang="en">A violent altercation on Mount Everest uncovers deep-seated tensions between climbers and Sherpas.</desc>
@@ -142,17 +154,5 @@
     <desc lang="en">Skate pros Madars Apse, Wes Kremer, Leo Romero and the local rippers take on the final two challenges.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/l6xnhbqc6wz7j3opais2/madars-apse-kasso-japan-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250807230821+0000" stop="20250807233502+0000">
-    <title lang="en">The Last Step</title>
-    <desc lang="en">See young talent from climbing, surf and skate as they prepare for the most important event of their careers.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/4/17/zgmuhpa7ydol2n6siube/the-last-step-documentary-climbing-oriane-bertone-skateboard-vincent-matheron-surf-kauli-vaast"/>
-  </programme>
-  <programme channel="redbull.com" start="20250807233502+0000" stop="20250807235628+0000">
-    <title lang="en">Best of Bolton – Red Bull TKO</title>
-    <desc lang="en">Ride with extreme enduro rider Paul Bolton alongside Hard Enduro heroes fighting for the win at Red Bull TKO.</desc>
-    <category lang="en">Enduro</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/29/u1luua7rdcznvkv7mqtc/trystan-hart-ktm-enduro-factory-racing-red-bull-tennessee-knockout-tko-2024"/>
   </programme>
 </tv>
