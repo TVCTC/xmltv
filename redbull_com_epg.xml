@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-08 03:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-08 04:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250807213934+0000" stop="20250807222334+0000">
+    <title lang="en">Kasso 2024 – part 1 </title>
+    <desc lang="en">Guest competitors Leo Romero, Madars Apse and Wes Kremer take on wild and obstacle-laden skate courses.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/22/rkp9d9ninbxkvmi4e8rp/madars-apse-kasso-japan-2024"/>
+  </programme>
   <programme channel="redbull.com" start="20250807222334+0000" stop="20250807230821+0000">
     <title lang="en">Kasso 2024 – part 2</title>
     <desc lang="en">Skate pros Madars Apse, Wes Kremer, Leo Romero and the local rippers take on the final two challenges.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">Thousands gather in Cincinnati, Ohio to witness these wacky contraptions compete downhill against gravity.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZJ956GR95N11/FO-1ZJ956GR95N11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250808130940+0000" stop="20250808133542+0000">
-    <title lang="en">Miami Premier Padel highlights</title>
-    <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/ynqwuqdbhxclhxuwztm0/alejandro-galan-miami-premier-padel-2025"/>
   </programme>
 </tv>
