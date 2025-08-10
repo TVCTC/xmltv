@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-10 08:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-10 09:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250810054945+0000" stop="20250810060000+0000">
-    <title lang="en">XXL Teahupo’o waves</title>
-    <desc lang="en">Enormous waves see the world’s best big wave surfers drawn to Tahiti as the 2023 southern swell season opens.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/17/d0ehfgn8fsna6woz4eod/kai-lenny-teahupoo-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250810060000+0000" stop="20250810064303+0000">
-    <title lang="en">Cincinnati, Ohio, USA</title>
-    <desc lang="en">Thousands gather in Cincinnati, Ohio to witness these wacky contraptions compete downhill against gravity.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1ZJ956GR95N11/FO-1ZJ956GR95N11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250810064303+0000" stop="20250810070940+0000">
     <title lang="en">Miami Premier Padel highlights</title>
     <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Ryan Sheckler, Jamie Foy and the crew touch down on the most skate-crazy continent on Earth – South America.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/16/rgyh68fdvqt8ekzwr5gk/red-bull-drop-in-tour-florianopolis-skaters-group-photo"/>
+  </programme>
+  <programme channel="redbull.com" start="20250810180008+0000" stop="20250810184054+0000">
+    <title lang="en">True to This</title>
+    <desc lang="en">Celebrate Volcom's fusion of surf, skate and snowboarding in a cinematic journey of rebellious attitude.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/2/gdzdz7ctatn8hluyhrme/true-to-this"/>
+  </programme>
+  <programme channel="redbull.com" start="20250810184054+0000" stop="20250810185924+0000">
+    <title lang="en">Honolulu</title>
+    <desc lang="en">Explore Honolulu and uncover a rich tapestry of waves, culture, community and heritage.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/oksqdkz3uerrg1o5vg2j/no-contest-off-tour-hawaii"/>
   </programme>
 </tv>
