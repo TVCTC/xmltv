@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-15 22:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-15 23:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250815181108+0000" stop="20250815190346+0000">
-    <title lang="en">2016 season recap</title>
-    <desc lang="en">Riders like Jolanda Neff, Nino Schurter, Julien Absalon and Annika Langvad were the ones to beat at each race.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PYJ5HMC52111/FO-1PYJ5HMC52111-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250815190346+0000" stop="20250815200935+0000">
-    <title lang="en">North of Nightfall</title>
-    <desc lang="en">A group of mountain bikers set out to the most remote region on Earth to pioneer the largest mountain lines.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1YUTPNWXH5N11/fo-1yutpnwxh5n11-featuremedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250815200935+0000" stop="20250815203330+0000">
-    <title lang="en">Highlights from Crankworx Rotorua</title>
-    <desc lang="en">Rotorua – 'the soul of Crankworx' – continues to thrill. Catch the best of the action from this year's event.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/14/wf5ctaze18n1mzx272bl/richie-rude-rockshox-karearea-downhill-crankworx-rotorua-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250815203330+0000" stop="20250815210000+0000">
     <title lang="en">ABC of... Mountain Biking</title>
     <desc lang="en">Get a crash course in mountain biking, with lessons in the terminology, history and heroes of the sport.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Drivers and soapbox cars alike are tested by a lengthy course full of sweeping turns and mid-track obstacles.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGU8CB52111/FO-1PQGU8CB52111-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250816103639+0000" stop="20250816110438+0000">
+    <title lang="en">Most epic moments from 2022</title>
+    <desc lang="en">Relive the best moments from the 2022 Hard Enduro World Championship, a season like no other.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/11/16/amymwdlxfbgqvxauqtcm/manuel-lettenbichler-fim-hard-enduro-world-championship-2022-winners-trophy"/>
+  </programme>
+  <programme channel="redbull.com" start="20250816110438+0000" stop="20250816113024+0000">
+    <title lang="en">ABC of... Drifting</title>
+    <desc lang="en">Drift driver Dave Egan gives the lowdown on the motorsport that's all about speed, style, smoke and skill.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/5/4/p3t1rjho9ze26gmdlz9e/abc-of-drifting"/>
+  </programme>
+  <programme channel="redbull.com" start="20250816113024+0000" stop="20250816115949+0000">
+    <title lang="en">Tandem drifting with the Red Bull Driftbrothers</title>
+    <desc lang="en">Jason Goliath challenges the Red Bull Driftbrothers to experience real fear – a Joburg rush hour taxi ride.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/4/x1jbdtkv4f9a9b9h1ist/jason-goliath-drifting"/>
   </programme>
 </tv>
