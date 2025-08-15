@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-15 03:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-15 04:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250815003306+0000" stop="20250815010331+0000">
-    <title lang="en">Highlights of the 2021 action</title>
-    <desc lang="en">Watch the best of the action from the event that's the biggest test of guts, skill and creativity in MTB.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/13/kkfuurqkx1brlxwxetie/red-bull-rampage-event-highlights-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250815010331+0000" stop="20250815013000+0000">
-    <title lang="en">Completing a classic Honda Hawk RC31 restoration</title>
-    <desc lang="en">Aaron Colton gets back to the street with his latest project build of the classic Honda Hawk RC31.</desc>
-    <category lang="en">Motorbike Stuntriding </category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/3/24/nsm8sfrmsb0snfltp43i/bike-builds-with-aaron-colton-s1-e6-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250815013000+0000" stop="20250815030036+0000">
     <title lang="en">Crankworx: Trick Showdown – Whistler</title>
     <desc lang="en">New for 2025, Outdoor Research Trick Showdown brings creativity and boundary-pushing in the Boneyard.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Witness the thrills of the 2023 Red Bull Soapbox Race in Switzerland – wild designs, speed and epic crashes! </desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/ofjybu0leyxatjxa3qut/red-bull-soapbox-race-bern-2023-team-moonshiners"/>
+  </programme>
+  <programme channel="redbull.com" start="20250815131822+0000" stop="20250815140300+0000">
+    <title lang="en">Mumbai, India</title>
+    <desc lang="en">Thousands of frenzied fans swarmed to Mumbai, India, to watch brave soapbox racers compete all day and night.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SER7WMGH5N11/FO-1SER7WMGH5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250815140300+0000" stop="20250815144503+0000">
+    <title lang="en">Barcelona, Spain</title>
+    <desc lang="en">Drivers and soapbox cars alike are tested by a lengthy course full of sweeping turns and mid-track obstacles.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGU8CB52111/FO-1PQGU8CB52111-featureMedia"/>
   </programme>
 </tv>
