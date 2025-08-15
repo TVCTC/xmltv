@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-15 12:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-15 13:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250815085326+0000" stop="20250815092457+0000">
-    <title lang="en">Dropping Molly</title>
-    <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
-    <category lang="en">Bouldering</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/hzbjjsd9kg5knno3grxo/molly-mitchell-bouldering"/>
-  </programme>
-  <programme channel="redbull.com" start="20250815092457+0000" stop="20250815094525+0000">
-    <title lang="en">The sensei part 1</title>
-    <desc lang="en">Legendary climber Yuji Hirayama enlists a young partner to help him with a swan-song summit.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2UVU811W11/FO-1RM2UVU811W11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250815094525+0000" stop="20250815100552+0000">
-    <title lang="en">The sensei part 2</title>
-    <desc lang="en">Daniel Woods has proven himself. Now he and his sensei, Yuji Hirayama, head to untapped peaks in Borneo.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RM2WC5GH1W11/FO-1RM2WC5GH1W11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250815100552+0000" stop="20250815103139+0000">
-    <title lang="en">Riyadh Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Saudia Arabia as the Riyadh Premier Padel P1 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/qeu4q0pzilaxkin3g5d0/padel-players-juan-lebron-chincoa-and-partner-competing-at-riyadh-season-premier-padel-p1-event"/>
-  </programme>
   <programme channel="redbull.com" start="20250815103139+0000" stop="20250815105805+0000">
     <title lang="en">Gijón Premier Padel highlights</title>
     <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
@@ -154,5 +130,29 @@
     <desc lang="en">RockShox Canadian Open Downhill for pro and amateur riders is a fan favourite at the Whistler bike festival. </desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/1/jypiguxktkaz775hxmnm/vali-holl-crankworx-whistler"/>
+  </programme>
+  <programme channel="redbull.com" start="20250815230036+0000" stop="20250815235706+0000">
+    <title lang="en">Thrillers in Snowshoe</title>
+    <desc lang="en">Jolanda Neff and Ireland's first Downhill World Cup winner Oisin O'Callaghan join the team in the studio.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/4/djthfylnopedy8ohvitq/evie-richards-uci-mtb-world-cup-snowshoe-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250815235706+0000" stop="20250816002731+0000">
+    <title lang="en">Highlights of the 2021 action</title>
+    <desc lang="en">Watch the best of the action from the event that's the biggest test of guts, skill and creativity in MTB.</desc>
+    <category lang="en">Bike</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/13/kkfuurqkx1brlxwxetie/red-bull-rampage-event-highlights-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250816002731+0000" stop="20250816005757+0000">
+    <title lang="en">Prince in principle</title>
+    <desc lang="en">Martin Vidaurre goes from winning everything to nothing. Can he regain his bravado and save his career?</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/9/dtsxytabm74p8xyu4rvz/martin-vidaurre-mountain-bike-uci-xco-world-cup-lake-placid-united-states-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250816005757+0000" stop="20250816020726+0000">
+    <title lang="en">The Old World</title>
+    <desc lang="en">Traverse iconic European locations in a celebration of biking culture that unites MTB and BMX.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/27/n4v6kk1h6vslpk5ukmdq/the-old-world-visual"/>
   </programme>
 </tv>
