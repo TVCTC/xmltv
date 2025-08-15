@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-15 23:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-16 00:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250815203330+0000" stop="20250815210000+0000">
-    <title lang="en">ABC of... Mountain Biking</title>
-    <desc lang="en">Get a crash course in mountain biking, with lessons in the terminology, history and heroes of the sport.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RTEWYES91W11/FO-1RTEWYES91W11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250815210000+0000" stop="20250815230036+0000">
     <title lang="en">Crankworx: Downhill – Whistler</title>
     <desc lang="en">RockShox Canadian Open Downhill for pro and amateur riders is a fan favourite at the Whistler bike festival. </desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Jason Goliath challenges the Red Bull Driftbrothers to experience real fear – a Joburg rush hour taxi ride.</desc>
     <category lang="en">Drifting</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/4/x1jbdtkv4f9a9b9h1ist/jason-goliath-drifting"/>
+  </programme>
+  <programme channel="redbull.com" start="20250816115949+0000" stop="20250816124500+0000">
+    <title lang="en">Red Bull Drift Masters</title>
+    <desc lang="en">Strap in for some full-throttle action as we look back on the world's most thrilling drifting event.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/12/gixrm4euhxciusfuhj24/red-bull-drift-masters-hero-art"/>
   </programme>
 </tv>
