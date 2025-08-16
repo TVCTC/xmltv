@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-16 02:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-16 03:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250815210000+0000" stop="20250815230036+0000">
-    <title lang="en">Crankworx: Downhill – Whistler</title>
-    <desc lang="en">RockShox Canadian Open Downhill for pro and amateur riders is a fan favourite at the Whistler bike festival. </desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/1/jypiguxktkaz775hxmnm/vali-holl-crankworx-whistler"/>
-  </programme>
   <programme channel="redbull.com" start="20250815230036+0000" stop="20250815235706+0000">
     <title lang="en">Thrillers in Snowshoe</title>
     <desc lang="en">Jolanda Neff and Ireland's first Downhill World Cup winner Oisin O'Callaghan join the team in the studio.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Strap in for some full-throttle action as we look back on the world's most thrilling drifting event.</desc>
     <category lang="en">Drifting</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/12/gixrm4euhxciusfuhj24/red-bull-drift-masters-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250816124500+0000" stop="20250816150536+0000">
+    <title lang="en">Drift Masters Top 32 – Germany livestream</title>
+    <desc lang="en">Watch the Top 32 drifters in action in Germany at the penultimate round of the Drift Masters 2025 season.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/18/ybgvucmctkylowehjghd/red-bull-conor-shanahan-drift-masters-mondello-park-dublin-2024"/>
   </programme>
 </tv>
