@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-16 03:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-16 04:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250815230036+0000" stop="20250815235706+0000">
-    <title lang="en">Thrillers in Snowshoe</title>
-    <desc lang="en">Jolanda Neff and Ireland's first Downhill World Cup winner Oisin O'Callaghan join the team in the studio.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/10/4/djthfylnopedy8ohvitq/evie-richards-uci-mtb-world-cup-snowshoe-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20250815235706+0000" stop="20250816002731+0000">
-    <title lang="en">Highlights of the 2021 action</title>
-    <desc lang="en">Watch the best of the action from the event that's the biggest test of guts, skill and creativity in MTB.</desc>
-    <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/13/kkfuurqkx1brlxwxetie/red-bull-rampage-event-highlights-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250816002731+0000" stop="20250816005757+0000">
     <title lang="en">Prince in principle</title>
     <desc lang="en">Martin Vidaurre goes from winning everything to nothing. Can he regain his bravado and save his career?</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Watch the Top 32 drifters in action in Germany at the penultimate round of the Drift Masters 2025 season.</desc>
     <category lang="en">Drifting</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/18/ybgvucmctkylowehjghd/red-bull-conor-shanahan-drift-masters-mondello-park-dublin-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20250816150536+0000" stop="20250816155005+0000">
+    <title lang="en">Hallowed Ground </title>
+    <desc lang="en">Follow Hurley team riders through their usual skating haunts to get their views of skateboarding.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/c6j7zgvojn8pkeidswke/steve-alba-skateboarding-2013"/>
+  </programme>
+  <programme channel="redbull.com" start="20250816155005+0000" stop="20250816161641+0000">
+    <title lang="en">Best moments</title>
+    <desc lang="en">Relive some of the best moments of the treacherous cross-country enduro race.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1XEDFBJ1D5N11/FO-1XEDFBJ1D5N11-featureMedia"/>
   </programme>
 </tv>
