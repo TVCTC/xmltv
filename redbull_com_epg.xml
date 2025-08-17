@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-17 23:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-18 00:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250817185032+0000" stop="20250817202941+0000">
+    <title lang="en">Valley Uprising</title>
+    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art"/>
+  </programme>
   <programme channel="redbull.com" start="20250817202941+0000" stop="20250817213719+0000">
     <title lang="en">Red Bull Rampage</title>
     <desc lang="en">Red Bull Rampage is known around the world as the proving ground for the best riders on two wheels.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">Take an access-all-areas tour of the Abu Dhabi Pro, as the 2025 WSL Championship Tour unleashes in the UAE.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/3/trfvt17zqaghmxssqotl/italo-ferreira-on-wsl-surf-abu-dhabi-pro-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250818102139+0000" stop="20250818104813+0000">
-    <title lang="en">South Florida</title>
-    <desc lang="en">The Sunshine State’s core skate scene now has generations of pro skaters proud to call South Florida home.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/uc4fnp8jshga92o14coi/jamie-foy-skateboarding-florida"/>
   </programme>
 </tv>
