@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-17 07:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-17 08:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250817003015+0000" stop="20250817010305+0000">
+    <title lang="en">Generations: the Dakar's ageless pursuit</title>
+    <desc lang="en">Two competitors who represent the diverse spectrum of Dakar determination: Laia Sanz and Mitch Guthrie Jr.</desc>
+    <category lang="en">Rally Raid</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/19/lliewzgssl7ijv2z1gxk/laia-sanz-mitch-guthrie-jr"/>
+  </programme>
+  <programme channel="redbull.com" start="20250817010305+0000" stop="20250817013000+0000">
+    <title lang="en">ABC of... Mountain Biking</title>
+    <desc lang="en">Get a crash course in mountain biking, with lessons in the terminology, history and heroes of the sport.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RTEWYES91W11/FO-1RTEWYES91W11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250817013000+0000" stop="20250817033036+0000">
+    <title lang="en">Crankworx: Pump Track – Whistler</title>
+    <desc lang="en">Pairs of riders go head-to-head using just their bodies to propel themselves along a crazy course.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/11/q7hibge87tmp1nwxnoap/competitors-crankworx-whistler-pump-track-2023"/>
+  </programme>
   <programme channel="redbull.com" start="20250817033036+0000" stop="20250817042315+0000">
     <title lang="en">Season Recap</title>
     <desc lang="en">Spectacular new tricks and a thrilling World Tour Championship battle make 2014 a year to remember.</desc>
@@ -18,10 +36,10 @@
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/12/nxkjuwxaueshw3jsz12s/crandon-world-cup-hero-art"/>
   </programme>
   <programme channel="redbull.com" start="20250817053126+0000" stop="20250817060000+0000">
-    <title lang="en">Progression</title>
-    <desc lang="en">Meet the riders from Red Bull Formation 2021 who are transforming the sport of freeride mountain biking.</desc>
+    <title lang="en">The female freeriders changing MTB</title>
+    <desc lang="en">Meet the women from Red Bull Formation 2021 who are transforming the sport of freeride mountain biking.</desc>
     <category lang="en">Bike</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/11/16/y6lq7ofpivabcuvc8wvc/progression-hero-art"/>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/9/27/nfcusqactbazztilh7n1/red-bull-formation-the-female-freeriders-changing-mtb-art"/>
   </programme>
   <programme channel="redbull.com" start="20250817060000+0000" stop="20250817060657+0000">
     <title lang="en">The wave pools promised</title>
@@ -136,23 +154,5 @@
     <desc lang="en">Head to Tokyo to discover Japan's incredible culture, in and out of the water.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/ajm40meccouf98q084gi/no-contest-off-tour-japan-kanoa-igarashi"/>
-  </programme>
-  <programme channel="redbull.com" start="20250817154312+0000" stop="20250817160432+0000">
-    <title lang="en">Sydney</title>
-    <desc lang="en">Gets to know the colourful characters and surfing culture of Australia's biggest city, Sydney.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/onhifkvity1rfohttjgc/no-contest-off-tour-sydney"/>
-  </programme>
-  <programme channel="redbull.com" start="20250817160432+0000" stop="20250817162226+0000">
-    <title lang="en">Honolulu</title>
-    <desc lang="en">Explore Honolulu and uncover a rich tapestry of waves, culture, community and heritage.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/oksqdkz3uerrg1o5vg2j/no-contest-off-tour-hawaii"/>
-  </programme>
-  <programme channel="redbull.com" start="20250817162226+0000" stop="20250817171459+0000">
-    <title lang="en">Pressure in paradise</title>
-    <desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/gal4qmbviibzua4uegnf/rhiannan-iffland-red-bull-cliff-diving-el-nido-2025"/>
   </programme>
 </tv>
