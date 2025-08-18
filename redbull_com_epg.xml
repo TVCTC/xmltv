@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-18 16:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-18 17:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250818134133+0000" stop="20250818142543+0000">
-    <title lang="en">WSL Lexus Pipe Pro wrap show</title>
-    <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250818142543+0000" stop="20250818151029+0000">
     <title lang="en">WSL Abu Dhabi Pro wrap show</title>
     <desc lang="en">The WSL commentary crew review all of the action after Caitlin Simmers's and Italo Ferreira's victories.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">In a new race for fans to enjoy, two days of action will culminate with 50 riders battling for the top prize.</desc>
     <category lang="en">Enduro</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/4/16/d4ca8xdn4yrlgswnwg7k/fim-round-3-abestone-hard-enduro-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250819045204+0000" stop="20250819051125+0000">
+    <title lang="en">Best of Paul Bolton – Red Bull Romaniacs</title>
+    <desc lang="en">Join Paul Bolton on a journey through the best and toughest moments of Red Bull Romaniacs 2023.</desc>
+    <category lang="en">Enduro</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/7/30/shnopouisocnsfryirds/red-bull-romaniacs-starting-line"/>
   </programme>
 </tv>
