@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-19 19:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-19 20:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250819153729+0000" stop="20250819162922+0000">
+    <title lang="en">North of known</title>
+    <desc lang="en">Two friends attempt to cross the Alaska Range mountains in an extreme paragliding expedition.</desc>
+    <category lang="en">Paragliding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1SK812BRW5N11/FO-1SK812BRW5N11-featureMedia"/>
+  </programme>
   <programme channel="redbull.com" start="20250819162922+0000" stop="20250819182026+0000">
     <title lang="en">Dropping Molly</title>
     <desc lang="en">Climber Molly Mitchell pursues a rare, all-gear ascent of Boulder Canyon's dangerous Crank-it. </desc>
@@ -148,11 +154,5 @@
     <desc lang="en">The Sunshine State’s core skate scene now has generations of pro skaters proud to call South Florida home.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/uc4fnp8jshga92o14coi/jamie-foy-skateboarding-florida"/>
-  </programme>
-  <programme channel="redbull.com" start="20250820062558+0000" stop="20250820064853+0000">
-    <title lang="en">Japan Tour</title>
-    <desc lang="en">Catch up with the Red Bull Drop In Japan Tour with Zion Wright, Torey Pudwill, Ryan Decenzo and Jake Wooten.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/9/25/lhqik4pbc5dqzvjixn2w/ryan-decenzo-jake-wooten-alex-sorgente-margie-didal-zion-wright-torey-pudwill-yumeka-oda-max-habanec-kyoto-japan"/>
   </programme>
 </tv>
