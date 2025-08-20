@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-20 22:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-20 23:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250820170001+0000" stop="20250820191859+0000">
+    <title lang="en">Drift Masters Top 16 – Germany livestream</title>
+    <desc lang="en">Watch the Top 16 drifters in action in Germany at the penultimate round of the Drift Masters 2025 season.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/31/muxz7zns7phyhq8x8qhx/jakub-przygonski-red-bull-toyota-drift-masters-mondello-park-dublin-2024"/>
+  </programme>
   <programme channel="redbull.com" start="20250820191859+0000" stop="20250820200301+0000">
     <title lang="en">Mumbai, India</title>
     <desc lang="en">Thousands of frenzied fans swarmed to Mumbai, India, to watch brave soapbox racers compete all day and night.</desc>
@@ -89,7 +95,13 @@
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/ja0zxwdkkmtomrt1gu5w/jordy-smith-wsl-surf-city-el-salvador-pro-2025"/>
   </programme>
-  <programme channel="redbull.com" start="20250821030159+0000" stop="20250821035132+0000">
+  <programme channel="redbull.com" start="20250821030159+0000" stop="20250821032458+0000">
+    <title lang="en">Skate the Museum</title>
+    <desc lang="en">Leticia Bufoni, Margy Didal, Lore Bruggeman and Aldana Bertran let loose in London's Natural History Museum.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/6/13/jtxc3fukqmwjeeeykjrx/skate-the-museum-image"/>
+  </programme>
+  <programme channel="redbull.com" start="20250821032458+0000" stop="20250821035132+0000">
     <title lang="en">South Florida</title>
     <desc lang="en">The Sunshine State’s core skate scene now has generations of pro skaters proud to call South Florida home.</desc>
     <category lang="en">Skateboarding</category>
@@ -142,17 +154,5 @@
     <desc lang="en">Head to Tokyo to discover Japan's incredible culture, in and out of the water.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/ajm40meccouf98q084gi/no-contest-off-tour-japan-kanoa-igarashi"/>
-  </programme>
-  <programme channel="redbull.com" start="20250821083024+0000" stop="20250821085144+0000">
-    <title lang="en">Sydney</title>
-    <desc lang="en">Gets to know the colourful characters and surfing culture of Australia's biggest city, Sydney.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/onhifkvity1rfohttjgc/no-contest-off-tour-sydney"/>
-  </programme>
-  <programme channel="redbull.com" start="20250821085144+0000" stop="20250821090938+0000">
-    <title lang="en">Honolulu</title>
-    <desc lang="en">Explore Honolulu and uncover a rich tapestry of waves, culture, community and heritage.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/oksqdkz3uerrg1o5vg2j/no-contest-off-tour-hawaii"/>
   </programme>
 </tv>
