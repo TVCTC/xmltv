@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-22 22:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-22 23:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250822180320+0000" stop="20250822200014+0000">
-    <title lang="en">Drift Masters Top 32 – Germany livestream</title>
-    <desc lang="en">Watch the Top 32 drifters in action in Germany at the penultimate round of the Drift Masters 2025 season.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/18/ybgvucmctkylowehjghd/red-bull-conor-shanahan-drift-masters-mondello-park-dublin-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20250822200014+0000" stop="20250822202621+0000">
-    <title lang="en">Qatar Major Premier Padel highlights</title>
-    <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/18/c4ncyoippkl1obtdsl6o/alejandro-galan-ooredoo-qatar-major-padel-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250822202621+0000" stop="20250822205248+0000">
-    <title lang="en">Brussels P2 Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from the Brussels P2 Premier Padel tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/23/qf7dntygf7afi5plczxn/eduardo-alonso-lotto-brussels-premier-padel-p2-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250822205248+0000" stop="20250822211850+0000">
     <title lang="en">Asunción Premier Padel highlights</title>
     <desc lang="en">Watch the highlights from Paraguay as the Asunción Premier Padel P2 took centre stage.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
+  </programme>
+  <programme channel="redbull.com" start="20250823104110+0000" stop="20250823111201+0000">
+    <title lang="en">Black Pearl </title>
+    <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/g2b9nw1mf0wxn5fumqfd/chris-sharma-climbs-black-pearl-mallorca"/>
+  </programme>
+  <programme channel="redbull.com" start="20250823111201+0000" stop="20250823113104+0000">
+    <title lang="en">The puzzle</title>
+    <desc lang="en">Brette Harrington climbs the Chinese Puzzle Wall, completing a route begun by her late partner, Marc-André.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/tnhr1misd9vpkxouefvo/brette-harrington-chinese-puzzle-wall"/>
+  </programme>
+  <programme channel="redbull.com" start="20250823113104+0000" stop="20250823114739+0000">
+    <title lang="en">Beneath the Ice</title>
+    <desc lang="en">Will Gadd uses his unmatched ice climbing skills and knowledge to lead a scientific expedition into a previously unexplored territory beneath the Greenland ice sheet.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/12/aaeetjdfgzyopom0pddl/beneath-the-ice-will-gadd-greenland"/>
   </programme>
 </tv>
