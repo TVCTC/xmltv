@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-23 22:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-23 23:55:06">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250823192106+0000" stop="20250823200402+0000">
-    <title lang="en">Shigekix shows Ronnie around Tokyo</title>
-    <desc lang="en">B-Boys Shigekix and Ronnie reveal Tokyo's secret: the pursuit of perfection in dance, food and craftsmanship.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/4/figfglupualag3qogrtn/breaking-beyond-s1-e4-shigekix-ronnie-tokyo"/>
-  </programme>
-  <programme channel="redbull.com" start="20250823200402+0000" stop="20250823202012+0000">
-    <title lang="en">Cheerito vs Taisuke – 2014</title>
-    <desc lang="en">Check out the clash of Cheerito and Taisuke at the Red Bull BC One World Final 2014 in Paris.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/7/7/u2mlzmbdguvunrg7u1rv/red-bull-bc-one-revisited-cheerito-vs-taisuke-s1-e2-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250823202012+0000" stop="20250823210422+0000">
     <title lang="en">WSL Lexus Pipe Pro wrap show</title>
     <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Head to Tokyo to discover Japan's incredible culture, in and out of the water.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/ajm40meccouf98q084gi/no-contest-off-tour-japan-kanoa-igarashi"/>
+  </programme>
+  <programme channel="redbull.com" start="20250824091816+0000" stop="20250824100104+0000">
+    <title lang="en">Cincinnati, Ohio, USA</title>
+    <desc lang="en">Determined soapbox racers unveil their zany creations and face off against Cincinnati’s winding race course. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGQNVV92111/FO-1PQGQNVV92111-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250824100104+0000" stop="20250824104354+0000">
+    <title lang="en">Montreal, Canada</title>
+    <desc lang="en">It's chaos in Canada as hairbrained homebrewed racecars blast through a turbulent track in downtown Montreal. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGR9TDS2111/FO-1PQGR9TDS2111-featureMedia"/>
   </programme>
 </tv>
