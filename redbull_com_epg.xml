@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-23 17:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-23 18:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250823124508+0000" stop="20250823133817+0000">
-    <title lang="en">Pressure in paradise</title>
-    <desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/gal4qmbviibzua4uegnf/rhiannan-iffland-red-bull-cliff-diving-el-nido-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250823133817+0000" stop="20250823142045+0000">
-    <title lang="en">Valkenburg, Holland</title>
-    <desc lang="en">The action is off to a blistering start as these fearless Dutch drivers zoom down Holland’s steepest road.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGNYZED2111/FO-1PQGNYZED2111-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250823142045+0000" stop="20250823150409+0000">
-    <title lang="en">Cincinnati, Ohio, USA</title>
-    <desc lang="en">Determined soapbox racers unveil their zany creations and face off against Cincinnati’s winding race course. </desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGQNVV92111/FO-1PQGQNVV92111-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250823150409+0000" stop="20250823154623+0000">
-    <title lang="en">Montreal, Canada</title>
-    <desc lang="en">It's chaos in Canada as hairbrained homebrewed racecars blast through a turbulent track in downtown Montreal. </desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGR9TDS2111/FO-1PQGR9TDS2111-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250823154623+0000" stop="20250823162915+0000">
     <title lang="en">London, England</title>
     <desc lang="en">Courageous racers take London by storm as they steer their homemade soapbox cars through a perilous course.</desc>
@@ -148,5 +124,29 @@
     <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/ynqwuqdbhxclhxuwztm0/alejandro-galan-miami-premier-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250824062601+0000" stop="20250824064638+0000">
+    <title lang="en">Soundscape</title>
+    <desc lang="en">Blind adventure athlete and author Erik Weihenmayer ascends a massive rock face deep in the Sierra Nevada.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/13/mhjtsqjvnivnsdlsrqop/erik-weihenmayer-rock-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20250824064638+0000" stop="20250824071032+0000">
+    <title lang="en">With my heart</title>
+    <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
+  </programme>
+  <programme channel="redbull.com" start="20250824064638+0000" stop="20250824071032+0000">
+    <title lang="en">With my heart</title>
+    <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
+  </programme>
+  <programme channel="redbull.com" start="20250824073502+0000" stop="20250824080553+0000">
+    <title lang="en">Black Pearl </title>
+    <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/g2b9nw1mf0wxn5fumqfd/chris-sharma-climbs-black-pearl-mallorca"/>
   </programme>
 </tv>
