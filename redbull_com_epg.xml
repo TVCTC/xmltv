@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-24 09:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-24 10:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250824064638+0000" stop="20250824071032+0000">
-    <title lang="en">With my heart</title>
-    <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
-  </programme>
-  <programme channel="redbull.com" start="20250824064638+0000" stop="20250824071032+0000">
-    <title lang="en">With my heart</title>
-    <desc lang="en">Climbing legend Sachi Amma shifts from world champ to purist, ending with a bold first ascent on Mt. Mizugaki.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/25/iipuhlieijrcu5gbuzzl/sachi-amma-climbing-mt-mizugaki-reel-rock"/>
-  </programme>
   <programme channel="redbull.com" start="20250824073502+0000" stop="20250824080553+0000">
     <title lang="en">Black Pearl </title>
     <desc lang="en">At 42, Chris Sharma conquers Black Pearl in Mallorca – his toughest deep water solo climb yet.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Take an access-all-areas tour of the Abu Dhabi Pro, as the 2025 WSL Championship Tour unleashes in the UAE.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/3/trfvt17zqaghmxssqotl/italo-ferreira-on-wsl-surf-abu-dhabi-pro-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250824215735+0000" stop="20250824224211+0000">
+    <title lang="en">WSL MEO Rip Curl Pro Portugal</title>
+    <desc lang="en">Come backstage for a closer study of WSL MEO Rip Curl Pro Portugal’s biggest storylines.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/3/vgvpsfeu699lkaywjmg9/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250824224211+0000" stop="20250824232611+0000">
+    <title lang="en">WSL Surf City El Salvador Pro</title>
+    <desc lang="en">Look at the 2025 Surf City El Salvador Pro from a new angle and find out the biggest stories.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/ja0zxwdkkmtomrt1gu5w/jordy-smith-wsl-surf-city-el-salvador-pro-2025"/>
   </programme>
 </tv>
