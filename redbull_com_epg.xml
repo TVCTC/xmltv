@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-25 11:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-25 12:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250825063644+0000" stop="20250825065728+0000">
-    <title lang="en">Sydney</title>
-    <desc lang="en">Gets to know the colourful characters and surfing culture of Australia's biggest city, Sydney.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/onhifkvity1rfohttjgc/no-contest-off-tour-sydney"/>
-  </programme>
-  <programme channel="redbull.com" start="20250825065728+0000" stop="20250825075037+0000">
-    <title lang="en">Pressure in paradise</title>
-    <desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/gal4qmbviibzua4uegnf/rhiannan-iffland-red-bull-cliff-diving-el-nido-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250825075037+0000" stop="20250825083305+0000">
-    <title lang="en">Valkenburg, Holland</title>
-    <desc lang="en">The action is off to a blistering start as these fearless Dutch drivers zoom down Holland’s steepest road.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGNYZED2111/FO-1PQGNYZED2111-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20250825083305+0000" stop="20250825091630+0000">
-    <title lang="en">Cincinnati, Ohio, USA</title>
-    <desc lang="en">Determined soapbox racers unveil their zany creations and face off against Cincinnati’s winding race course. </desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1PQGQNVV92111/FO-1PQGQNVV92111-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20250825091630+0000" stop="20250825095844+0000">
     <title lang="en">Montreal, Canada</title>
     <desc lang="en">It's chaos in Canada as hairbrained homebrewed racecars blast through a turbulent track in downtown Montreal. </desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Discover untold stories behind Volcom's groundbreaking films, from inception to adrenaline-fuelled execution.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/2/dn81xqv9yyodwpj6rwpn/veeco-volcom-filmmaking-documentary"/>
+  </programme>
+  <programme channel="redbull.com" start="20250825220833+0000" stop="20250825231923+0000">
+    <title lang="en">Yeah Right!</title>
+    <desc lang="en">Yeah Right! is widely considered one of the most influential skate films of all time.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/8/iiyk38ns7rmynaz7svsj/yeah-right-skateboarding"/>
+  </programme>
+  <programme channel="redbull.com" start="20250825231923+0000" stop="20250825234547+0000">
+    <title lang="en">Riyadh Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Saudia Arabia as the Riyadh Premier Padel P1 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/qeu4q0pzilaxkin3g5d0/padel-players-juan-lebron-chincoa-and-partner-competing-at-riyadh-season-premier-padel-p1-event"/>
+  </programme>
+  <programme channel="redbull.com" start="20250825234547+0000" stop="20250826001136+0000">
+    <title lang="en">Gijón Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/24/venuyomgtnvhhfeakcrc/paula-josemaria-martin-competing-at-riyadh-premier-padel-p1-quarter-finals-in-riyadh"/>
+  </programme>
+  <programme channel="redbull.com" start="20250826001136+0000" stop="20250826003728+0000">
+    <title lang="en">Cancun Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Mexico as the Cancun Premier Padel P2 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/17/lr1amwly2elapgnn1fha/juan-lebron-franco-stupaczuk-cancun-padel-p2-2025"/>
   </programme>
 </tv>
