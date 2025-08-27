@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-27 09:55:04">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-27 10:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250827064413+0000" stop="20250827073041+0000">
-    <title lang="en">(Un)credited</title>
-    <desc lang="en">Dive deep into the origins of Afro Dance in Nigeria and how it has shaped a global mainstream culture.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/4/scufziiaglussi1stxen/un-credited-nigeria-afro-dance"/>
-  </programme>
   <programme channel="redbull.com" start="20250827073041+0000" stop="20250827081300+0000">
     <title lang="en">Shigekix shows Ronnie around Tokyo</title>
     <desc lang="en">B-Boys Shigekix and Ronnie reveal Tokyo's secret: the pursuit of perfection in dance, food and craftsmanship.</desc>
@@ -149,10 +143,16 @@
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/14/tnhr1misd9vpkxouefvo/brette-harrington-chinese-puzzle-wall"/>
   </programme>
-  <programme channel="redbull.com" start="20250827054314+0000" stop="20250827060000+0000">
+  <programme channel="redbull.com" start="20250827210246+0000" stop="20250827211921+0000">
     <title lang="en">Beneath the Ice</title>
     <desc lang="en">Will Gadd uses his unmatched ice climbing skills and knowledge to lead a scientific expedition into a previously unexplored territory beneath the Greenland ice sheet.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2020/2/12/aaeetjdfgzyopom0pddl/beneath-the-ice-will-gadd-greenland"/>
+  </programme>
+  <programme channel="redbull.com" start="20250827211921+0000" stop="20250827213716+0000">
+    <title lang="en">Honolulu</title>
+    <desc lang="en">Explore Honolulu and uncover a rich tapestry of waves, culture, community and heritage.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/oksqdkz3uerrg1o5vg2j/no-contest-off-tour-hawaii"/>
   </programme>
 </tv>
