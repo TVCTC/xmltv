@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-27 17:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-27 18:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250827133928+0000" stop="20250827142404+0000">
-    <title lang="en">WSL MEO Rip Curl Pro Portugal</title>
-    <desc lang="en">Come backstage for a closer study of WSL MEO Rip Curl Pro Portugal’s biggest storylines.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/3/vgvpsfeu699lkaywjmg9/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250827142404+0000" stop="20250827150804+0000">
     <title lang="en">WSL Surf City El Salvador Pro</title>
     <desc lang="en">Look at the 2025 Surf City El Salvador Pro from a new angle and find out the biggest stories.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/18/c4ncyoippkl1obtdsl6o/alejandro-galan-ooredoo-qatar-major-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250828025308+0000" stop="20250828031935+0000">
+    <title lang="en">Brussels P2 Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Brussels P2 Premier Padel tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/23/qf7dntygf7afi5plczxn/eduardo-alonso-lotto-brussels-premier-padel-p2-2025"/>
   </programme>
 </tv>
