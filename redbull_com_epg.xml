@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-28 22:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-28 23:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250828184530+0000" stop="20250828190613+0000">
-    <title lang="en">Sydney</title>
-    <desc lang="en">Gets to know the colourful characters and surfing culture of Australia's biggest city, Sydney.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/onhifkvity1rfohttjgc/no-contest-off-tour-sydney"/>
-  </programme>
   <programme channel="redbull.com" start="20250828190613+0000" stop="20250828195922+0000">
     <title lang="en">Pressure in paradise</title>
     <desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/12/scrgkgvcwkadeecj8ixb/reel-rock-s7-e8-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250829082901+0000" stop="20250829085349+0000">
+    <title lang="en">Black ice part 1</title>
+    <desc lang="en">Members of a Memphis climbing gym travel to the frozen wilds of Montana for an ice climbing adventure.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/12/f8z77yqqb83tau82gj3y/reel-rock-s7-e9-art"/>
   </programme>
 </tv>
