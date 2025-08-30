@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-30 17:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-30 18:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250830135159+0000" stop="20250830140650+0000">
+    <title lang="en">Jamie Foy in Tokyo</title>
+    <desc lang="en">Enjoy full access to the international skate life as Jamie Foy goes behind the scenes of Uprising Tokyo 2023.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/fa6obkztvdxez3bwvdd8/jamie-foy-tokyo-uprising"/>
+  </programme>
+  <programme channel="redbull.com" start="20250830140650+0000" stop="20250830142153+0000">
+    <title lang="en">Andy Anderson skates in Venice Beach</title>
+    <desc lang="en">Madars Apse meets Andy Anderson, the skateboarding phenom for all seasons who made being an outsider cool.  </desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/xwbfiowqjiwejm31s1sn/andy-anderson-skateboarding-venice-beach-during-skate-tales"/>
+  </programme>
+  <programme channel="redbull.com" start="20250830142153+0000" stop="20250830143740+0000">
+    <title lang="en">Milton Martinez – street legend born into skating</title>
+    <desc lang="en">From skate shop to global fame, Milton Martinez retraces his skateboarding success from where it all began.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/ba89bolmndj6phrsbntm/madars-apse-milton-martinez-skateboarding-mar-del-plata-argentina"/>
+  </programme>
+  <programme channel="redbull.com" start="20250830143740+0000" stop="20250830145241+0000">
+    <title lang="en">Peter Hewitt – the underground legend in San Diego</title>
+    <desc lang="en">Peter Hewitt returns to his hometown of San Diego to skate the spots that defined his legendary career.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/i7lpro2qtn11bsiucatd/madars-apse-skateboarding-peter-hewitt-skate-tales"/>
+  </programme>
   <programme channel="redbull.com" start="20250830145241+0000" stop="20250830153710+0000">
     <title lang="en">Hallowed Ground </title>
     <desc lang="en">Follow Hurley team riders through their usual skating haunts to get their views of skateboarding.</desc>
@@ -130,29 +154,5 @@
     <desc lang="en">Members of a Memphis climbing gym travel to the frozen wilds of Montana for an ice climbing adventure.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/12/f8z77yqqb83tau82gj3y/reel-rock-s7-e9-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250831023259+0000" stop="20250831025615+0000">
-    <title lang="en">Black ice part 2</title>
-    <desc lang="en">Members of a Memphis climbing gym travel to the frozen wilds of Montana for an ice climbing adventure.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/12/a7fcdmine5ymenpdkk2w/reel-rock-s7-e10-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250831025615+0000" stop="20250831031652+0000">
-    <title lang="en">Infinita Patagonia</title>
-    <desc lang="en">Nadine Wallner ventured to the rarely skied location of El Chaltén, Argentina, for some serious alpinism.</desc>
-    <category lang="en">Freeskiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/12/4/eeerdp0sqel7uaglzw3x/infinita-patagonia-nadine-wallner-freeski"/>
-  </programme>
-  <programme channel="redbull.com" start="20250831031652+0000" stop="20250831034511+0000">
-    <title lang="en">Return of the Lords</title>
-    <desc lang="en">Follow the electrifying 2024 event as the world's best breaking crews battled it out in Seattle, USA.</desc>
-    <category lang="en">Breaking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/2/rnbkzxtmalh2ymnzbvdc/red-bull-lords-of-the-floor-breaking"/>
-  </programme>
-  <programme channel="redbull.com" start="20250831034511+0000" stop="20250831041135+0000">
-    <title lang="en">Riyadh Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Saudia Arabia as the Riyadh Premier Padel P1 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/qeu4q0pzilaxkin3g5d0/padel-players-juan-lebron-chincoa-and-partner-competing-at-riyadh-season-premier-padel-p1-event"/>
   </programme>
 </tv>
