@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-31 02:55:05">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-08-31 03:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250830233910+0000" stop="20250830235704+0000">
-    <title lang="en">Honolulu</title>
-    <desc lang="en">Explore Honolulu and uncover a rich tapestry of waves, culture, community and heritage.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/oksqdkz3uerrg1o5vg2j/no-contest-off-tour-hawaii"/>
-  </programme>
-  <programme channel="redbull.com" start="20250830235704+0000" stop="20250831001554+0000">
-    <title lang="en">Japan</title>
-    <desc lang="en">Head to Tokyo to discover Japan's incredible culture, in and out of the water.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/ajm40meccouf98q084gi/no-contest-off-tour-japan-kanoa-igarashi"/>
-  </programme>
-  <programme channel="redbull.com" start="20250831001554+0000" stop="20250831003638+0000">
-    <title lang="en">Sydney</title>
-    <desc lang="en">Gets to know the colourful characters and surfing culture of Australia's biggest city, Sydney.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/onhifkvity1rfohttjgc/no-contest-off-tour-sydney"/>
-  </programme>
   <programme channel="redbull.com" start="20250831003638+0000" stop="20250831012911+0000">
     <title lang="en">Pressure in paradise</title>
     <desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">From skate shop to global fame, Milton Martinez retraces his skateboarding success from where it all began.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/ba89bolmndj6phrsbntm/madars-apse-milton-martinez-skateboarding-mar-del-plata-argentina"/>
+  </programme>
+  <programme channel="redbull.com" start="20250831112729+0000" stop="20250831114154+0000">
+    <title lang="en">Peter Hewitt – the underground legend in San Diego</title>
+    <desc lang="en">Peter Hewitt returns to his hometown of San Diego to skate the spots that defined his legendary career.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/21/i7lpro2qtn11bsiucatd/madars-apse-skateboarding-peter-hewitt-skate-tales"/>
+  </programme>
+  <programme channel="redbull.com" start="20250831114154+0000" stop="20250831122700+0000">
+    <title lang="en">Hallowed Ground </title>
+    <desc lang="en">Follow Hurley team riders through their usual skating haunts to get their views of skateboarding.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/3/25/c6j7zgvojn8pkeidswke/steve-alba-skateboarding-2013"/>
+  </programme>
+  <programme channel="redbull.com" start="20250831122700+0000" stop="20250831130745+0000">
+    <title lang="en">True to This</title>
+    <desc lang="en">Celebrate Volcom's fusion of surf, skate and snowboarding in a cinematic journey of rebellious attitude.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/5/2/gdzdz7ctatn8hluyhrme/true-to-this"/>
   </programme>
 </tv>
