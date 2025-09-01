@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-09-01 01:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-09-01 02:55:04">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250831223807+0000" stop="20250831225800+0000">
-    <title lang="en">First ascent/last ascent part 2</title>
-    <desc lang="en">Hazel Findlay and Maddie Cope journey to the rocky outer reaches of Mongolia to search out unclimbed lines.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/12/scrgkgvcwkadeecj8ixb/reel-rock-s7-e8-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250831225800+0000" stop="20250831232249+0000">
-    <title lang="en">Black ice part 1</title>
-    <desc lang="en">Members of a Memphis climbing gym travel to the frozen wilds of Montana for an ice climbing adventure.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/12/f8z77yqqb83tau82gj3y/reel-rock-s7-e9-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250831232249+0000" stop="20250831234528+0000">
-    <title lang="en">Black ice part 2</title>
-    <desc lang="en">Members of a Memphis climbing gym travel to the frozen wilds of Montana for an ice climbing adventure.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/10/12/a7fcdmine5ymenpdkk2w/reel-rock-s7-e10-art"/>
-  </programme>
   <programme channel="redbull.com" start="20250831234528+0000" stop="20250901000642+0000">
     <title lang="en">Infinita Patagonia</title>
     <desc lang="en">Nadine Wallner ventured to the rarely skied location of El Chaltén, Argentina, for some serious alpinism.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Look at the 2025 Surf City El Salvador Pro from a new angle and find out the biggest stories.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/ja0zxwdkkmtomrt1gu5w/jordy-smith-wsl-surf-city-el-salvador-pro-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250901133054+0000" stop="20250901141530+0000">
+    <title lang="en">WSL Rip Curl Pro Bells Beach</title>
+    <desc lang="en">Take an all-access tour of the WSL Rip Curl Pro Bells Beach as the world’s best surfers head to Australia. </desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/7/iv7ualwn1jkij1b1lfax/jack-robinson-rip-curl-pro-bells-beach-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250901141530+0000" stop="20250901145930+0000">
+    <title lang="en">WSL Western Australia Margaret River Pro</title>
+    <desc lang="en">Get closer than ever to the world’s top surfers at the 2025 Western Australia Margaret River Pro.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/11/q9pbjbptr966c3bfdul7/finalists-wsl-margaret-river-pro-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250901145930+0000" stop="20250901154406+0000">
+    <title lang="en">WSL Trestles Pro</title>
+    <desc lang="en">Get the Lowers breakdown as Inside Pro Surfing takes us behind the scenes at the 2025 Lexus Trestles Pro.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/1/rbtsxt3jb1ttm5u1dyze/kanoa-igarashi-wsl-lexus-trestles-pro-2025"/>
   </programme>
 </tv>
