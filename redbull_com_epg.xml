@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-09-09 09:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-09-09 10:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250909054909+0000" stop="20250909060000+0000">
-    <title lang="en">2015's fan-favourite teams</title>
-    <desc lang="en">How do win over a Red Bull Soapbox Race crowd? Destroying your racer and the course itself certainly helps.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/2/n6hymcdkcpbahgezt6ay/red-bull-soapbox-race-cincinnati-usa-2015"/>
-  </programme>
-  <programme channel="redbull.com" start="20250909060000+0000" stop="20250909064400+0000">
-    <title lang="en">WSL Bonsoy Gold Coast Pro wrap show</title>
-    <desc lang="en">The WSL team dissect the top stories, triumphs and upsets of the 2025 Bonsoy Gold Coast Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/14/ldt07wp8k8ryckufzfpd/kanoa-igarashi-wsl-bonsoy-gold-coast-pro-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250909064400+0000" stop="20250909071023+0000">
     <title lang="en">Riyadh Premier Padel highlights</title>
     <desc lang="en">Watch the highlights from Saudia Arabia as the Riyadh Premier Padel P1 took centre stage. </desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Experience the moments that mattered at the 2025 WSL Vivo Rio Pro in Saquarema, Brazil.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/8/4/zfvruwxm51lgxw3yogka/molly-picklum-wins-wsl-vivo-rio-pro-saquarema-brazil-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250909204821+0000" stop="20250909214054+0000">
+    <title lang="en">Pressure in paradise</title>
+    <desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/gal4qmbviibzua4uegnf/rhiannan-iffland-red-bull-cliff-diving-el-nido-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250909214054+0000" stop="20250909223311+0000">
+    <title lang="en">The heart of European cliff diving</title>
+    <desc lang="en">From legends to rookies, Polignano a Mare buzzed with raw energy as the cliff diving elite came to town.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/1/fkjj4jjb2qv2ownpiggy/catalin-preda-red-bull-cliff-diving-2025-polignano-a-mare-italy"/>
   </programme>
 </tv>
