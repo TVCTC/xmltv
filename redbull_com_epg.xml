@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-09-13 23:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-09-14 00:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250913185000+0000" stop="20250913194257+0000">
+    <title lang="en">Full Event Highlights | Rally Islas Canarias 2025</title>
+    <desc lang="en">New for WRC 2025, extremely fast and technical tarmac stages criss-cross the Spanish Island of Gran Canaria.</desc>
+    <category lang="en">WRC</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/28/cytn8l6pxwmctrxa4jj1/josh-mcerlean-world-rally-spain-2025-gran-canaria"/>
+  </programme>
   <programme channel="redbull.com" start="20250913194257+0000" stop="20250913210111+0000">
     <title lang="en">Sébastien Ogier: The Final Season</title>
     <desc lang="en">Discover how Sébastien Ogier won his eighth and last world title before calling time on his career.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">Barron Mamiya and Tyler Wright won the Lexus Pipe Pro. The WSL broadcast crew break down how it went down.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/10/yrvnhgiroegdz9l679mn/molly-picklum-semifinals-lexus-pipe-pro-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250914122655+0000" stop="20250914131105+0000">
-    <title lang="en">WSL MEO Rip Curl Pro Portugal wrap show</title>
-    <desc lang="en">Who was crowned king and queen of Supertubos? Watch highlights of finals day at MEO Rip Curl Pro Portugal. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/jz2yrcmch22rarlhzk2t/caroline-marks-wsl-meo-rip-curl-pro-portugal-2025"/>
   </programme>
 </tv>
