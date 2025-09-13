@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-09-13 01:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-09-13 02:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250912211356+0000" stop="20250912215837+0000">
-    <title lang="en">Red Bull Drift Masters</title>
-    <desc lang="en">Strap in for some full-throttle action as we look back on the world's most thrilling drifting event.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/12/gixrm4euhxciusfuhj24/red-bull-drift-masters-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20250912215837+0000" stop="20250912225135+0000">
-    <title lang="en">Full Event Highlights | Rally Islas Canarias 2025</title>
-    <desc lang="en">New for WRC 2025, extremely fast and technical tarmac stages criss-cross the Spanish Island of Gran Canaria.</desc>
-    <category lang="en">WRC</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/28/cytn8l6pxwmctrxa4jj1/josh-mcerlean-world-rally-spain-2025-gran-canaria"/>
-  </programme>
   <programme channel="redbull.com" start="20250912225135+0000" stop="20250913000948+0000">
     <title lang="en">Sébastien Ogier: The Final Season</title>
     <desc lang="en">Discover how Sébastien Ogier won his eighth and last world title before calling time on his career.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Watch the Top 32 drifters in action in Poland at the grand finale of the Drift Masters 2025 season.</desc>
     <category lang="en">Drifting</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/3/zpd5httgvmh3uvdqdswr/red-bull-conor-shanahan-drift-masters-warsaw-2024-joakim-andersson"/>
+  </programme>
+  <programme channel="redbull.com" start="20250913144536+0000" stop="20250913144856+0000">
+    <title lang="en">10th anniversary of the Wings for Life World Run</title>
+    <desc lang="en">Ten years of people, stories and raising money for spinal cord research: discover the story of the global run.</desc>
+    <category lang="en">Running</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/7/l2glb5rutzizlzkgyqnj/participants-wings-for-life-world-run-oslo-norway-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20250913144856+0000" stop="20250913160102+0000">
+    <title lang="en">Magic Hour</title>
+    <desc lang="en">The 'magic hour' provides the perfect light to capture stunning ski images in the mountains.</desc>
+    <category lang="en">Mountaineering</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/14/yyuc1fysrqdptglb8re6/simon-hillis-british-columbia-magic-hour-ski"/>
   </programme>
 </tv>
