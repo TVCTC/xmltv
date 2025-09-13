@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-09-13 17:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-09-13 18:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250913124500+0000" stop="20250913144536+0000">
-    <title lang="en">Drift Masters Top 32 – Poland livestream</title>
-    <desc lang="en">Watch the Top 32 drifters in action in Poland at the grand finale of the Drift Masters 2025 season.</desc>
-    <category lang="en">Drifting</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/3/zpd5httgvmh3uvdqdswr/red-bull-conor-shanahan-drift-masters-warsaw-2024-joakim-andersson"/>
-  </programme>
-  <programme channel="redbull.com" start="20250913144536+0000" stop="20250913144856+0000">
-    <title lang="en">10th anniversary of the Wings for Life World Run</title>
-    <desc lang="en">Ten years of people, stories and raising money for spinal cord research: discover the story of the global run.</desc>
-    <category lang="en">Running</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/5/7/l2glb5rutzizlzkgyqnj/participants-wings-for-life-world-run-oslo-norway-2023"/>
-  </programme>
   <programme channel="redbull.com" start="20250913144856+0000" stop="20250913160102+0000">
     <title lang="en">Magic Hour</title>
     <desc lang="en">The 'magic hour' provides the perfect light to capture stunning ski images in the mountains.</desc>
@@ -29,7 +17,7 @@
     <category lang="en">Stockcar</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/9/23/bqtjz7s5ngopsfcyovae/driving-dtm-ep6-art"/>
   </programme>
-  <programme channel="redbull.com" start="20250913121809+0000" stop="20250913124500+0000">
+  <programme channel="redbull.com" start="20250913162252+0000" stop="20250913165000+0000">
     <title lang="en">ABC of... Drifting</title>
     <desc lang="en">Drift driver Dave Egan gives the lowdown on the motorsport that's all about speed, style, smoke and skill.</desc>
     <category lang="en">Drifting</category>
@@ -154,5 +142,17 @@
     <desc lang="en">Relive the highs and lows of the Tour de Corse with Mike Chen, then travel with him towards Rally Argentina.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1Z6WC1BYD5N11/FO-1Z6WC1BYD5N11-featureMedia"/>
+  </programme>
+  <programme channel="redbull.com" start="20250914063500+0000" stop="20250914074500+0000">
+    <title lang="en">Red Bull MotoGP™ Rookies Cup Misano: Race 14</title>
+    <desc lang="en">Watch 26 rookies in their pursuit of glory at the Red Bull MotoGP™ Rookies Cup 2025 in Italy.</desc>
+    <category lang="en">Red Bull Rookies Cup</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/9/7/ndoqzr1iy2ck4lxrzm7d/last-lap-misano"/>
+  </programme>
+  <programme channel="redbull.com" start="20250914074500+0000" stop="20250914083717+0000">
+    <title lang="en">The heart of European cliff diving</title>
+    <desc lang="en">From legends to rookies, Polignano a Mare buzzed with raw energy as the cliff diving elite came to town.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/1/fkjj4jjb2qv2ownpiggy/catalin-preda-red-bull-cliff-diving-2025-polignano-a-mare-italy"/>
   </programme>
 </tv>
