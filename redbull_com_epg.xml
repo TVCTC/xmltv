@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-09-14 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-09-14 05:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250914005023+0000" stop="20250914011659+0000">
-    <title lang="en">From wingsuits to parachutes</title>
-    <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/cps0jjbpnepwe6qtmphb/leticia-bufoni-california-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20250914011659+0000" stop="20250914014259+0000">
-    <title lang="en">From a pinball human to 93kph speed skating</title>
-    <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
-  </programme>
   <programme channel="redbull.com" start="20250914014259+0000" stop="20250914020859+0000">
     <title lang="en">From BASE jumping a cave to a flying mega swing </title>
     <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/18/c4ncyoippkl1obtdsl6o/alejandro-galan-ooredoo-qatar-major-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20250914163159+0000" stop="20250914171640+0000">
+    <title lang="en">Red Bull Drift Masters</title>
+    <desc lang="en">Strap in for some full-throttle action as we look back on the world's most thrilling drifting event.</desc>
+    <category lang="en">Drifting</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/1/12/gixrm4euhxciusfuhj24/red-bull-drift-masters-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20250914171640+0000" stop="20250914180938+0000">
+    <title lang="en">Full Event Highlights | Rally Islas Canarias 2025</title>
+    <desc lang="en">New for WRC 2025, extremely fast and technical tarmac stages criss-cross the Spanish Island of Gran Canaria.</desc>
+    <category lang="en">WRC</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/28/cytn8l6pxwmctrxa4jj1/josh-mcerlean-world-rally-spain-2025-gran-canaria"/>
   </programme>
 </tv>
