@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-09-16 23:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-09-17 00:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20250916193217+0000" stop="20250916201653+0000">
-    <title lang="en">WSL Surf Abu Dhabi Pro</title>
-    <desc lang="en">Take an access-all-areas tour of the Abu Dhabi Pro, as the 2025 WSL Championship Tour unleashes in the UAE.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/3/trfvt17zqaghmxssqotl/italo-ferreira-on-wsl-surf-abu-dhabi-pro-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20250916201653+0000" stop="20250916210053+0000">
     <title lang="en">WSL Vivo Rio Pro</title>
     <desc lang="en">Experience the moments that mattered at the 2025 WSL Vivo Rio Pro in Saquarema, Brazil.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Watch the Top 32 drifters in action in Poland at the grand finale of the Drift Masters 2025 season.</desc>
     <category lang="en">Drifting</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/3/zpd5httgvmh3uvdqdswr/red-bull-conor-shanahan-drift-masters-warsaw-2024-joakim-andersson"/>
+  </programme>
+  <programme channel="redbull.com" start="20250917121104+0000" stop="20250917123705+0000">
+    <title lang="en">Valladolid Premier Padel P2 highlights </title>
+    <desc lang="en">Watch the highlights from the Valladolid Premier Padel P2 tournament held at Polideportivo Pisuerga arena.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/30/eygaxqvpoe8udvkskggc/juan-lebron-oysho-valladolid-premier-padel-p2-2025-red-bull"/>
   </programme>
 </tv>
