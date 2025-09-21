@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-09-21 15:55:02">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-09-21 16:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20250921062626+0000" stop="20250921072025+0000">
+    <title lang="en">Ice Waterfalls</title>
+    <desc lang="en">Kayaker Aniol Serrasolses ventures deep into the wild Arctic. His mission? To conquer an extreme ice waterfall and record the world's highest drop from a glacial river.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/bh9so7d3iaak0a1eajmc/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
+  </programme>
+  <programme channel="redbull.com" start="20250921072025+0000" stop="20250921074701+0000">
+    <title lang="en">From skydiving with skis to flying into a volcano</title>
+    <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/jdlnqxz4nve0e3be9jf1/dario-costa-wingsuit-flying-through-catalca-tunnels-in-turkey"/>
+  </programme>
+  <programme channel="redbull.com" start="20250921074701+0000" stop="20250921081301+0000">
+    <title lang="en">From a paper plane contest to diving off ruins </title>
+    <desc lang="en">Red Bull athletes do it all, from diving off ancient ruins to acing a paper plane competition.  </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/5/5/orl9mdkwzi4y5qrhjbri/red-bull-racing-swamp-buggy-max-verstappen-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20250921081301+0000" stop="20250921083901+0000">
+    <title lang="en">From F1 soapbox racing to breaking world records</title>
+    <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
+  </programme>
+  <programme channel="redbull.com" start="20250921083901+0000" stop="20250921090537+0000">
+    <title lang="en">From skateboarding out a plane to 180m wall climb</title>
+    <desc lang="en">Red Bull athletes do it all, from freerunning through an airport to building a skatepark in the forest.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/u2jrgximnynso9wn4vue/andrzej-bargiel"/>
+  </programme>
+  <programme channel="redbull.com" start="20250921090537+0000" stop="20250921094937+0000">
+    <title lang="en">WSL Surf City El Salvador Pro wrap show</title>
+    <desc lang="en">The WSL commentary crew break down the 2025 Surf City El Salvador Pro’s winners and losers.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/popwkhscpmprophqwshu/jordy-smith-wsl-surf-city-el-salvador-2025"/>
+  </programme>
   <programme channel="redbull.com" start="20250921094937+0000" stop="20250921103347+0000">
     <title lang="en">WSL MEO Rip Curl Pro Portugal wrap show</title>
     <desc lang="en">Who was crowned king and queen of Supertubos? Watch highlights of finals day at MEO Rip Curl Pro Portugal. </desc>
@@ -118,41 +154,5 @@
     <desc lang="en">Watch the highlights from the Malaga Premier Padel P1 tournament.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/22/dj0tkoyzyh8u0r5smtvj/federico-chingotto-malaga-premier-padel-p1-2025-quarter-finals-action-spain"/>
-  </programme>
-  <programme channel="redbull.com" start="20250921204400+0000" stop="20250921211004+0000">
-    <title lang="en">Santiago Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Chile as the Santiago Premier Padel P1 took centre stage.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/bdtrfzyj5lvybvefhsp6/marta-ortega-miami-2025-premier-padel-semi-final"/>
-  </programme>
-  <programme channel="redbull.com" start="20250921211004+0000" stop="20250921213640+0000">
-    <title lang="en">Valladolid Premier Padel P2 highlights </title>
-    <desc lang="en">Watch the highlights from the Valladolid Premier Padel P2 tournament held at Polideportivo Pisuerga arena.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/30/eygaxqvpoe8udvkskggc/juan-lebron-oysho-valladolid-premier-padel-p2-2025-red-bull"/>
-  </programme>
-  <programme channel="redbull.com" start="20250921213640+0000" stop="20250921222040+0000">
-    <title lang="en">WSL Lexus Pipe Pro</title>
-    <desc lang="en">You're granted access-all-areas at the WSL Championship Tour 2025 season opening event, the Lexus Pipe Pro.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/26/hcc1odpn6ogks2lqslbs/caitlin-simmers-on-pipeline-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250921222040+0000" stop="20250921223931+0000">
-    <title lang="en">Japan</title>
-    <desc lang="en">Head to Tokyo to discover Japan's incredible culture, in and out of the water.</desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/30/ajm40meccouf98q084gi/no-contest-off-tour-japan-kanoa-igarashi"/>
-  </programme>
-  <programme channel="redbull.com" start="20250921223931+0000" stop="20250921233240+0000">
-    <title lang="en">Pressure in paradise</title>
-    <desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/gal4qmbviibzua4uegnf/rhiannan-iffland-red-bull-cliff-diving-el-nido-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20250921233240+0000" stop="20250922001640+0000">
-    <title lang="en">WSL Rip Curl Pro Bells Beach</title>
-    <desc lang="en">Take an all-access tour of the WSL Rip Curl Pro Bells Beach as the world’s best surfers head to Australia. </desc>
-    <category lang="en">Surfing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/7/iv7ualwn1jkij1b1lfax/jack-robinson-rip-curl-pro-bells-beach-2025"/>
   </programme>
 </tv>
