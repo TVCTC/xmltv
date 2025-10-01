@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-01 11:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-01 12:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20251001064710+0000" stop="20251001071336+0000">
+    <title lang="en">Gijón Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/24/venuyomgtnvhhfeakcrc/paula-josemaria-martin-competing-at-riyadh-premier-padel-p1-quarter-finals-in-riyadh"/>
+  </programme>
+  <programme channel="redbull.com" start="20251001071336+0000" stop="20251001073938+0000">
+    <title lang="en">Miami Premier Padel highlights</title>
+    <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/ynqwuqdbhxclhxuwztm0/alejandro-galan-miami-premier-padel-2025"/>
+  </programme>
   <programme channel="redbull.com" start="20251001073938+0000" stop="20251001080605+0000">
     <title lang="en">Brussels P2 Premier Padel highlights</title>
     <desc lang="en">Watch the highlights from the Brussels P2 Premier Padel tournament.</desc>
@@ -59,7 +71,7 @@
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/22/dj0tkoyzyh8u0r5smtvj/federico-chingotto-malaga-premier-padel-p1-2025-quarter-finals-action-spain"/>
   </programme>
-  <programme channel="redbull.com" start="20251001113620+0000" stop="20251001115650+0000">
+  <programme channel="redbull.com" start="20251001060000+0000" stop="20251001062106+0000">
     <title lang="en">Red Bull Building Drop highlights</title>
     <desc lang="en">Skateboarder Sandro Dias sets two world records descending from a 22-storey building in Porto Alegre, Brazil.</desc>
     <category lang="en">Skateboarding</category>
@@ -95,7 +107,7 @@
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/1/fkjj4jjb2qv2ownpiggy/catalin-preda-red-bull-cliff-diving-2025-polignano-a-mare-italy"/>
   </programme>
-  <programme channel="redbull.com" start="20251001113620+0000" stop="20251001115650+0000">
+  <programme channel="redbull.com" start="20251001060000+0000" stop="20251001062106+0000">
     <title lang="en">Red Bull Building Drop highlights</title>
     <desc lang="en">Skateboarder Sandro Dias sets two world records descending from a 22-storey building in Porto Alegre, Brazil.</desc>
     <category lang="en">Skateboarding</category>
@@ -142,17 +154,5 @@
     <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
     <category lang="en">Cycling</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film"/>
-  </programme>
-  <programme channel="redbull.com" start="20251001213112+0000" stop="20251001215712+0000">
-    <title lang="en">From a pinball human to 93kph speed skating</title>
-    <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
-  </programme>
-  <programme channel="redbull.com" start="20251001215712+0000" stop="20251001222348+0000">
-    <title lang="en">From wingsuits to parachutes</title>
-    <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/cps0jjbpnepwe6qtmphb/leticia-bufoni-california-2022"/>
   </programme>
 </tv>
