@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-04 07:55:07">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-04 08:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20251004035108+0000" stop="20251004041215+0000">
+    <title lang="en">Red Bull Building Drop highlights</title>
+    <desc lang="en">Skateboarder Sandro Dias sets two world records descending from a 22-storey building in Porto Alegre, Brazil.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/25/v6qo1nrv1k2nyjwvnmau/sandro-dias-red-bull-building-drop-overview"/>
+  </programme>
   <programme channel="redbull.com" start="20251004041215+0000" stop="20251004050543+0000">
     <title lang="en">Keeper of the Old Bridge</title>
     <desc lang="en">Fierce battles, centuries of tradition: Mostar’s Old Bridge shone in Red Bull Cliff Diving’s penultimate stop.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">Watch the highlights from the Paris Major Premier Padel tournament held at Roland-Garros stadium.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/16/bir6vn1luye88xynpdo8/alejandro-galan-alpine-paris-major-premier-padel-2025-roland-garros-final"/>
-  </programme>
-  <programme channel="redbull.com" start="20251004213152+0000" stop="20251004215803+0000">
-    <title lang="en">Buenos Aires Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from the Buenos Aires Premier Padel P1 tournament at Parque Roca.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/2/wsa7obu5wmxbwp3omvdm/agustin-tapia-arturo-coello-buenos-aires-premier-padel-p1-2025-victory"/>
   </programme>
 </tv>
