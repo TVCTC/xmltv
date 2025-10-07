@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-07 18:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-07 19:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251007153953+0000" stop="20251007160633+0000">
-    <title lang="en">Bordeaux Premier Padel P2 highlights</title>
-    <desc lang="en">Watch the highlights from the Bordeaux Premier Padel P2 tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/8/wdczje9byqfb8y4m3nl6/alejandra-alonso-de-villa-bordeaux-premier-padel-p2-2025-france"/>
-  </programme>
-  <programme channel="redbull.com" start="20251007160633+0000" stop="20251007163223+0000">
-    <title lang="en">Gijón Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/24/venuyomgtnvhhfeakcrc/paula-josemaria-martin-competing-at-riyadh-premier-padel-p1-quarter-finals-in-riyadh"/>
-  </programme>
   <programme channel="redbull.com" start="20251007163223+0000" stop="20251007165909+0000">
     <title lang="en">Buenos Aires Premier Padel highlights</title>
     <desc lang="en">Watch the highlights from the Buenos Aires Premier Padel P1 tournament at Parque Roca.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Zoltan Torkos is the kickflipping magician who lit the surf world on fire at Santa Cruz, California.</desc>
     <category lang="en">Surfing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/1/5/teqalmhkd6t5lo7fcgcg/in-plain-sight-s1-e2-zoltan-torkos-surfing"/>
+  </programme>
+  <programme channel="redbull.com" start="20251008060000+0000" stop="20251008062437+0000">
+    <title lang="en">Making History: The Women of Freeride</title>
+    <desc lang="en">Follow elite female riders breaking boundaries at Red Bull Rampage in a push for equality.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/11/qh9cbeixciujxg1oqcmt/robin-goomes-trick-red-bull-rampage-utah"/>
+  </programme>
+  <programme channel="redbull.com" start="20251008062437+0000" stop="20251008074305+0000">
+    <title lang="en">Against Gravity</title>
+    <desc lang="en">The ocean is everything to surf pro Leon Glatzer. Watch and listen as he tells his moving story.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/4/agknmesxtmdzzfnbi7tp/against-gravity-surfer-leon-glatzer"/>
   </programme>
 </tv>
