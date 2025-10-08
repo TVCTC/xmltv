@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-08 05:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-08 06:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251008021319+0000" stop="20251008033742+0000">
-    <title lang="en">The Engine Inside</title>
-    <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
-    <category lang="en">Cycling</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film"/>
-  </programme>
   <programme channel="redbull.com" start="20251008033742+0000" stop="20251008042836+0000">
     <title lang="en">A Biker's Ballad</title>
     <desc lang="en">Traversing the history as well as the trails, 14 riders uncover the essence of MTB in Crested Butte, Colorado.</desc>
@@ -23,7 +17,7 @@
     <category lang="en">Trial Biking</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/2/mavi9jzidyalbu5x3w9f/fabio-wibmer-video-game-trials"/>
   </programme>
-  <programme channel="redbull.com" start="20251008014719+0000" stop="20251008021319+0000">
+  <programme channel="redbull.com" start="20251008052310+0000" stop="20251008054910+0000">
     <title lang="en">From skateboarding out a plane to 180m wall climb</title>
     <desc lang="en">Red Bull athletes do it all, from freerunning through an airport to building a skatepark in the forest.</desc>
     <category lang="en">Sport</category>
@@ -154,5 +148,11 @@
     <desc lang="en">Iffland chases perfection, while Hunt and Popovici battle for the Red Bull Cliff Diving title.</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/26/xhjbjixcpeuyhjboztm8/gary-hunt-red-bull-cliff-diving-boston-2025-armstand-institute-contemporary-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20251008174832+0000" stop="20251008181512+0000">
+    <title lang="en">Santiago Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Chile as the Santiago Premier Padel P1 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/bdtrfzyj5lvybvefhsp6/marta-ortega-miami-2025-premier-padel-semi-final"/>
   </programme>
 </tv>
