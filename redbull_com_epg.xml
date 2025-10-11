@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-11 09:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-11 10:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251011065203+0000" stop="20251011071810+0000">
-    <title lang="en">Madrid P1 Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from the Madrid P1 Premier Padel tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/9/ugcnicc1meyesfcfmt73/juan-lebron-chincoa-premier-padel-p1-madrid-2025-quarter-finals"/>
-  </programme>
-  <programme channel="redbull.com" start="20251011071810+0000" stop="20251011074437+0000">
-    <title lang="en">Cancun Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Mexico as the Cancun Premier Padel P2 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/17/lr1amwly2elapgnn1fha/juan-lebron-franco-stupaczuk-cancun-padel-p2-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20251011074437+0000" stop="20251011081045+0000">
     <title lang="en">Malaga Premier Padel P1 highlights</title>
     <desc lang="en">Watch the highlights from the Malaga Premier Padel P1 tournament.</desc>
@@ -137,7 +125,7 @@
     <category lang="en">High Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/11/uhdzn34urcaj7mo7q4cb/elisa-cosetti-red-bull-cliff-diving-world-series-mostar-2025-stari-most"/>
   </programme>
-  <programme channel="redbull.com" start="20251011053346+0000" stop="20251011055946+0000">
+  <programme channel="redbull.com" start="20251011221528+0000" stop="20251011224128+0000">
     <title lang="en">Breaking</title>
     <desc lang="en">Uncover the evolution of breaking as it progressed from Bronx backyards to global stages like Red Bull BC One.</desc>
     <category lang="en">Breaking</category>
@@ -154,5 +142,17 @@
     <desc lang="en">Watch the highlights from the Bordeaux Premier Padel P2 tournament.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/8/wdczje9byqfb8y4m3nl6/alejandra-alonso-de-villa-bordeaux-premier-padel-p2-2025-france"/>
+  </programme>
+  <programme channel="redbull.com" start="20251011233322+0000" stop="20251011235947+0000">
+    <title lang="en">Gijón Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/24/venuyomgtnvhhfeakcrc/paula-josemaria-martin-competing-at-riyadh-premier-padel-p1-quarter-finals-in-riyadh"/>
+  </programme>
+  <programme channel="redbull.com" start="20251011235947+0000" stop="20251012002558+0000">
+    <title lang="en">Buenos Aires Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Buenos Aires Premier Padel P1 tournament at Parque Roca.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/2/wsa7obu5wmxbwp3omvdm/agustin-tapia-arturo-coello-buenos-aires-premier-padel-p1-2025-victory"/>
   </programme>
 </tv>
