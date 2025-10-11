@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-11 10:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-11 11:55:05">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251011074437+0000" stop="20251011081045+0000">
-    <title lang="en">Malaga Premier Padel P1 highlights</title>
-    <desc lang="en">Watch the highlights from the Malaga Premier Padel P1 tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/22/dj0tkoyzyh8u0r5smtvj/federico-chingotto-malaga-premier-padel-p1-2025-quarter-finals-action-spain"/>
-  </programme>
   <programme channel="redbull.com" start="20251011081045+0000" stop="20251011090336+0000">
     <title lang="en">Passion, power and precision </title>
     <desc lang="en">Iffland chases perfection, while Hunt and Popovici battle for the Red Bull Cliff Diving title.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Watch the highlights from the Buenos Aires Premier Padel P1 tournament at Parque Roca.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/2/wsa7obu5wmxbwp3omvdm/agustin-tapia-arturo-coello-buenos-aires-premier-padel-p1-2025-victory"/>
+  </programme>
+  <programme channel="redbull.com" start="20251012002558+0000" stop="20251012005150+0000">
+    <title lang="en">Germany Premier Padel P2 highlights</title>
+    <desc lang="en">Watch the highlights from the Germany Premier Padel P2 tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/29/c5hzhs7at8xu1e2vvefa/juan-lebron-franco-stupaczuk-cupra-premier-padel-p2-germany-2025-dusseldorf"/>
   </programme>
 </tv>
