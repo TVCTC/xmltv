@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-12 12:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-12 13:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251012084817+0000" stop="20251012093441+0000">
-    <title lang="en">Anton Palzer: Breaking the Cycle</title>
-    <desc lang="en">From the powder to the pavement – Anton Palzer believes he has what it takes to switch from ski mountaineer to road cyclist.</desc>
-    <category lang="en">Cycling</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/18/ilb6dz1m80ddz0pfsryq/anton-palzer-breaking-the-cycle-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20251012093441+0000" stop="20251012105904+0000">
     <title lang="en">CEB: A Major Comeback</title>
     <desc lang="en">Dota 2 player Sébastien Debs returns from retirement to help his team win at an ESL One Stockholm Major. </desc>
@@ -59,7 +53,7 @@
     <category lang="en">High Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/11/uhdzn34urcaj7mo7q4cb/elisa-cosetti-red-bull-cliff-diving-world-series-mostar-2025-stari-most"/>
   </programme>
-  <programme channel="redbull.com" start="20251012071933+0000" stop="20251012074040+0000">
+  <programme channel="redbull.com" start="20251012172331+0000" stop="20251012174437+0000">
     <title lang="en">Red Bull Building Drop highlights</title>
     <desc lang="en">Skateboarder Sandro Dias sets two world records descending from a 22-storey building in Porto Alegre, Brazil.</desc>
     <category lang="en">Skateboarding</category>
@@ -125,7 +119,7 @@
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/9/ugcnicc1meyesfcfmt73/juan-lebron-chincoa-premier-padel-p1-madrid-2025-quarter-finals"/>
   </programme>
-  <programme channel="redbull.com" start="20251012071933+0000" stop="20251012074040+0000">
+  <programme channel="redbull.com" start="20251012172331+0000" stop="20251012174437+0000">
     <title lang="en">Red Bull Building Drop highlights</title>
     <desc lang="en">Skateboarder Sandro Dias sets two world records descending from a 22-storey building in Porto Alegre, Brazil.</desc>
     <category lang="en">Skateboarding</category>
@@ -154,5 +148,11 @@
     <desc lang="en">After the national comps, the best international street dancers meet in Los Angeles to battle for the crown.</desc>
     <category lang="en">Dance</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/11/eqfmojm71cpbigse8uim/red-bull-dance-your-style-world-final-2024-mumbai-nsci-top-16-dancers"/>
+  </programme>
+  <programme channel="redbull.com" start="20251013034925+0000" stop="20251013044142+0000">
+    <title lang="en">The heart of European cliff diving</title>
+    <desc lang="en">From legends to rookies, Polignano a Mare buzzed with raw energy as the cliff diving elite came to town.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/1/fkjj4jjb2qv2ownpiggy/catalin-preda-red-bull-cliff-diving-2025-polignano-a-mare-italy"/>
   </programme>
 </tv>
