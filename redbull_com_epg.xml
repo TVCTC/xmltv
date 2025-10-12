@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-12 01:55:04">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-12 02:55:04">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20251011212200+0000" stop="20251011221528+0000">
+    <title lang="en">Keeper of the Old Bridge</title>
+    <desc lang="en">Fierce battles, centuries of tradition: Mostar’s Old Bridge shone in Red Bull Cliff Diving’s penultimate stop.</desc>
+    <category lang="en">High Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/11/uhdzn34urcaj7mo7q4cb/elisa-cosetti-red-bull-cliff-diving-world-series-mostar-2025-stari-most"/>
+  </programme>
+  <programme channel="redbull.com" start="20251011221528+0000" stop="20251011224128+0000">
+    <title lang="en">Breaking</title>
+    <desc lang="en">Uncover the evolution of breaking as it progressed from Bronx backyards to global stages like Red Bull BC One.</desc>
+    <category lang="en">Breaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/7/21/wow9jkoy6bx1icrav0nu/b-girl-logistx-nyc"/>
+  </programme>
   <programme channel="redbull.com" start="20251011224128+0000" stop="20251011230717+0000">
     <title lang="en">Italy Major Premier Padel highlights</title>
     <desc lang="en">Watch the highlights from the Italy Major Premier Padel tournament held at Foro Italico in Rome.</desc>
@@ -142,17 +154,5 @@
     <desc lang="en">After the national comps, the best international street dancers meet in Los Angeles to battle for the crown.</desc>
     <category lang="en">Dance</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/11/eqfmojm71cpbigse8uim/red-bull-dance-your-style-world-final-2024-mumbai-nsci-top-16-dancers"/>
-  </programme>
-  <programme channel="redbull.com" start="20251012130010+0000" stop="20251012135408+0000">
-    <title lang="en">Fabio Wibmer – Danger Zone</title>
-    <desc lang="en">Join bike star Fabio Wibner and team behind the scenes of their film inspired by video game worlds.</desc>
-    <category lang="en">Trial Biking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/2/mavi9jzidyalbu5x3w9f/fabio-wibmer-video-game-trials"/>
-  </programme>
-  <programme channel="redbull.com" start="20251012135408+0000" stop="20251012141922+0000">
-    <title lang="en">Making History: The Women of Freeride</title>
-    <desc lang="en">Follow elite female riders breaking boundaries at Red Bull Rampage in a push for equality.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/11/qh9cbeixciujxg1oqcmt/robin-goomes-trick-red-bull-rampage-utah"/>
   </programme>
 </tv>
