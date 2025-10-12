@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-12 08:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-12 09:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20251011233322+0000" stop="20251011235947+0000">
+    <title lang="en">Gijón Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/24/venuyomgtnvhhfeakcrc/paula-josemaria-martin-competing-at-riyadh-premier-padel-p1-quarter-finals-in-riyadh"/>
+  </programme>
+  <programme channel="redbull.com" start="20251011235947+0000" stop="20251012002558+0000">
+    <title lang="en">Buenos Aires Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Buenos Aires Premier Padel P1 tournament at Parque Roca.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/2/wsa7obu5wmxbwp3omvdm/agustin-tapia-arturo-coello-buenos-aires-premier-padel-p1-2025-victory"/>
+  </programme>
+  <programme channel="redbull.com" start="20251012002558+0000" stop="20251012005150+0000">
+    <title lang="en">Germany Premier Padel P2 highlights</title>
+    <desc lang="en">Watch the highlights from the Germany Premier Padel P2 tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/29/c5hzhs7at8xu1e2vvefa/juan-lebron-franco-stupaczuk-cupra-premier-padel-p2-germany-2025-dusseldorf"/>
+  </programme>
+  <programme channel="redbull.com" start="20251012005150+0000" stop="20251012011831+0000">
+    <title lang="en">Paris Major Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Paris Major Premier Padel tournament held at Roland-Garros stadium.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/16/bir6vn1luye88xynpdo8/alejandro-galan-alpine-paris-major-premier-padel-2025-roland-garros-final"/>
+  </programme>
+  <programme channel="redbull.com" start="20251012011831+0000" stop="20251012014422+0000">
+    <title lang="en">Brussels P2 Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Brussels P2 Premier Padel tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/23/qf7dntygf7afi5plczxn/eduardo-alonso-lotto-brussels-premier-padel-p2-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20251012014422+0000" stop="20251012021024+0000">
+    <title lang="en">Miami Premier Padel highlights</title>
+    <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/ynqwuqdbhxclhxuwztm0/alejandro-galan-miami-premier-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20251012021024+0000" stop="20251012023918+0000">
+    <title lang="en">Return of the Lords</title>
+    <desc lang="en">Follow the electrifying 2024 event as the world's best breaking crews battled it out in Seattle, USA.</desc>
+    <category lang="en">Breaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/7/2/rnbkzxtmalh2ymnzbvdc/red-bull-lords-of-the-floor-breaking"/>
+  </programme>
   <programme channel="redbull.com" start="20251012023918+0000" stop="20251012030444+0000">
     <title lang="en">Breakout performance</title>
     <desc lang="en">In the hours leading up to the Flying Steps' American debut, the crew recounts what it took to get there.</desc>
@@ -17,7 +59,7 @@
     <category lang="en">Dance</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RUEAZTX11W11/FO-1RUEAZTX11W11-featureMedia"/>
   </programme>
-  <programme channel="redbull.com" start="20251012033131+0000" stop="20251012040000+0000">
+  <programme channel="redbull.com" start="20251011221528+0000" stop="20251011224128+0000">
     <title lang="en">Breaking</title>
     <desc lang="en">Uncover the evolution of breaking as it progressed from Bronx backyards to global stages like Red Bull BC One.</desc>
     <category lang="en">Breaking</category>
@@ -112,47 +154,5 @@
     <desc lang="en">In the hours leading up to the Flying Steps' American debut, the crew recounts what it took to get there.</desc>
     <category lang="en">Dance</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RUE98ZV11W11/FO-1RUE98ZV11W11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20251012030444+0000" stop="20251012033131+0000">
-    <title lang="en">Burning at both ends</title>
-    <desc lang="en">After the American debut of Flying Bach, the Flying Steps return to Europe to premiere a brand new show.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1RUEAZTX11W11/FO-1RUEAZTX11W11-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20251012163038+0000" stop="20251012172331+0000">
-    <title lang="en">Keeper of the Old Bridge</title>
-    <desc lang="en">Fierce battles, centuries of tradition: Mostar’s Old Bridge shone in Red Bull Cliff Diving’s penultimate stop.</desc>
-    <category lang="en">High Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/11/uhdzn34urcaj7mo7q4cb/elisa-cosetti-red-bull-cliff-diving-world-series-mostar-2025-stari-most"/>
-  </programme>
-  <programme channel="redbull.com" start="20251012071933+0000" stop="20251012074040+0000">
-    <title lang="en">Red Bull Building Drop highlights</title>
-    <desc lang="en">Skateboarder Sandro Dias sets two world records descending from a 22-storey building in Porto Alegre, Brazil.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/25/v6qo1nrv1k2nyjwvnmau/sandro-dias-red-bull-building-drop-overview"/>
-  </programme>
-  <programme channel="redbull.com" start="20251012174437+0000" stop="20251012181042+0000">
-    <title lang="en">Bordeaux Premier Padel P2 highlights</title>
-    <desc lang="en">Watch the highlights from the Bordeaux Premier Padel P2 tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/8/wdczje9byqfb8y4m3nl6/alejandra-alonso-de-villa-bordeaux-premier-padel-p2-2025-france"/>
-  </programme>
-  <programme channel="redbull.com" start="20251012181042+0000" stop="20251012183707+0000">
-    <title lang="en">Gijón Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/24/venuyomgtnvhhfeakcrc/paula-josemaria-martin-competing-at-riyadh-premier-padel-p1-quarter-finals-in-riyadh"/>
-  </programme>
-  <programme channel="redbull.com" start="20251012040000+0000" stop="20251012060106+0000">
-    <title lang="en">Red Bull Dance Your Style World Final livestream</title>
-    <desc lang="en">After the national comps, the best international street dancers meet in Los Angeles to battle for the crown.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/11/eqfmojm71cpbigse8uim/red-bull-dance-your-style-world-final-2024-mumbai-nsci-top-16-dancers"/>
-  </programme>
-  <programme channel="redbull.com" start="20251012203813+0000" stop="20251012210424+0000">
-    <title lang="en">Buenos Aires Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from the Buenos Aires Premier Padel P1 tournament at Parque Roca.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/2/wsa7obu5wmxbwp3omvdm/agustin-tapia-arturo-coello-buenos-aires-premier-padel-p1-2025-victory"/>
   </programme>
 </tv>
