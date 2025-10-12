@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-12 16:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-12 17:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251012135408+0000" stop="20251012141922+0000">
-    <title lang="en">Making History: The Women of Freeride</title>
-    <desc lang="en">Follow elite female riders breaking boundaries at Red Bull Rampage in a push for equality.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/11/qh9cbeixciujxg1oqcmt/robin-goomes-trick-red-bull-rampage-utah"/>
-  </programme>
   <programme channel="redbull.com" start="20251012141922+0000" stop="20251012153750+0000">
     <title lang="en">Against Gravity</title>
     <desc lang="en">The ocean is everything to surf pro Leon Glatzer. Watch and listen as he tells his moving story.</desc>
@@ -53,7 +47,7 @@
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/24/venuyomgtnvhhfeakcrc/paula-josemaria-martin-competing-at-riyadh-premier-padel-p1-quarter-finals-in-riyadh"/>
   </programme>
-  <programme channel="redbull.com" start="20251012105904+0000" stop="20251012130010+0000">
+  <programme channel="redbull.com" start="20251012183707+0000" stop="20251012203813+0000">
     <title lang="en">Red Bull Dance Your Style World Final livestream</title>
     <desc lang="en">After the national comps, the best international street dancers meet in Los Angeles to battle for the crown.</desc>
     <category lang="en">Dance</category>
@@ -125,7 +119,7 @@
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/bdtrfzyj5lvybvefhsp6/marta-ortega-miami-2025-premier-padel-semi-final"/>
   </programme>
-  <programme channel="redbull.com" start="20251012105904+0000" stop="20251012130010+0000">
+  <programme channel="redbull.com" start="20251012183707+0000" stop="20251012203813+0000">
     <title lang="en">Red Bull Dance Your Style World Final livestream</title>
     <desc lang="en">After the national comps, the best international street dancers meet in Los Angeles to battle for the crown.</desc>
     <category lang="en">Dance</category>
@@ -154,5 +148,11 @@
     <desc lang="en">After her brother’s injury, BMX athlete Saya Sakakibara pushes for success on her road to Paris.</desc>
     <category lang="en">BMX</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/7/erpqldmdfxn0hk0ntagb/saya-sakakibara-macarthur-bmx-track-camden-australia-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20251013064615+0000" stop="20251013081038+0000">
+    <title lang="en">CEB: A Major Comeback</title>
+    <desc lang="en">Dota 2 player Sébastien Debs returns from retirement to help his team win at an ESL One Stockholm Major. </desc>
+    <category lang="en">Gaming</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/3/15/lm4ec2wd1auw8lz6eh2s/sebastien-debs"/>
   </programme>
 </tv>
