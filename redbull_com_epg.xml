@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-12 15:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-12 16:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251012105904+0000" stop="20251012130010+0000">
-    <title lang="en">Red Bull Dance Your Style World Final livestream</title>
-    <desc lang="en">After the national comps, the best international street dancers meet in Los Angeles to battle for the crown.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/11/eqfmojm71cpbigse8uim/red-bull-dance-your-style-world-final-2024-mumbai-nsci-top-16-dancers"/>
-  </programme>
-  <programme channel="redbull.com" start="20251012130010+0000" stop="20251012135408+0000">
-    <title lang="en">Fabio Wibmer – Danger Zone</title>
-    <desc lang="en">Join bike star Fabio Wibner and team behind the scenes of their film inspired by video game worlds.</desc>
-    <category lang="en">Trial Biking</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/2/mavi9jzidyalbu5x3w9f/fabio-wibmer-video-game-trials"/>
-  </programme>
   <programme channel="redbull.com" start="20251012135408+0000" stop="20251012141922+0000">
     <title lang="en">Making History: The Women of Freeride</title>
     <desc lang="en">Follow elite female riders breaking boundaries at Red Bull Rampage in a push for equality.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Fierce battles, centuries of tradition: Mostar’s Old Bridge shone in Red Bull Cliff Diving’s penultimate stop.</desc>
     <category lang="en">High Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/11/uhdzn34urcaj7mo7q4cb/elisa-cosetti-red-bull-cliff-diving-world-series-mostar-2025-stari-most"/>
+  </programme>
+  <programme channel="redbull.com" start="20251013053510+0000" stop="20251013060000+0000">
+    <title lang="en">Alaska</title>
+    <desc lang="en">At mid-season, Kai Lenny heads to Alaska for surf and snow heli sessions with snowboarding icon Travis Rice.</desc>
+    <category lang="en">Surfing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/wxp62uhg4quf1zywjznp/kai-lenny-alaska-life-of-kai-s3-e4"/>
+  </programme>
+  <programme channel="redbull.com" start="20251013060000+0000" stop="20251013064615+0000">
+    <title lang="en">Saya Sakakibara: Ride to Redemption</title>
+    <desc lang="en">After her brother’s injury, BMX athlete Saya Sakakibara pushes for success on her road to Paris.</desc>
+    <category lang="en">BMX</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/7/erpqldmdfxn0hk0ntagb/saya-sakakibara-macarthur-bmx-track-camden-australia-2023"/>
   </programme>
 </tv>
