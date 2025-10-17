@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-17 05:55:05">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-17 06:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20251017004631+0000" stop="20251017011656+0000">
+    <title lang="en">Prince in principle</title>
+    <desc lang="en">Martin Vidaurre goes from winning everything to nothing. Can he regain his bravado and save his career?</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/9/dtsxytabm74p8xyu4rvz/martin-vidaurre-mountain-bike-uci-xco-world-cup-lake-placid-united-states-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20251017011656+0000" stop="20251017013727+0000">
+    <title lang="en">Red Bull Building Drop highlights</title>
+    <desc lang="en">Skateboarder Sandro Dias sets two world records descending from a 22-storey building in Porto Alegre, Brazil.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/25/v6qo1nrv1k2nyjwvnmau/sandro-dias-red-bull-building-drop-overview"/>
+  </programme>
   <programme channel="redbull.com" start="20251017013727+0000" stop="20251017030114+0000">
     <title lang="en">The Engine Inside</title>
     <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
@@ -142,17 +154,5 @@
     <desc lang="en">12 female MTB athletes compete in this invitation-only freeride event, showcasing their skill and creativity.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/18/y1gm1timsvay7ogjtnge/casey-brown-red-bull-rampage-2024-mountain-biking-st-george-utah"/>
-  </programme>
-  <programme channel="redbull.com" start="20251017190000+0000" stop="20251017194409+0000">
-    <title lang="en">Dan Atherton's Beastly Course</title>
-    <desc lang="en">Red Bull Hardline returned to the hills of mid-Wales, once again pushing the boundaries of what can be done </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1MQF3RQZD2111/FO-1MQF3RQZD2111-featureMedia"/>
-  </programme>
-  <programme channel="redbull.com" start="20251017090704+0000" stop="20251017095758+0000">
-    <title lang="en">A Biker's Ballad</title>
-    <desc lang="en">Traversing the history as well as the trails, 14 riders uncover the essence of MTB in Crested Butte, Colorado.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/29/cflhnbj4pq90silaroha/lauren-richie-shaun-a-bikers-ballad-mtb"/>
   </programme>
 </tv>
