@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-18 21:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-18 22:55:05">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251018182440+0000" stop="20251018191657+0000">
-    <title lang="en">The heart of European cliff diving</title>
-    <desc lang="en">From legends to rookies, Polignano a Mare buzzed with raw energy as the cliff diving elite came to town.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/1/fkjj4jjb2qv2ownpiggy/catalin-preda-red-bull-cliff-diving-2025-polignano-a-mare-italy"/>
-  </programme>
   <programme channel="redbull.com" start="20251018191657+0000" stop="20251018200950+0000">
     <title lang="en">Keeper of the Old Bridge</title>
     <desc lang="en">Fierce battles, centuries of tradition: Mostar’s Old Bridge shone in Red Bull Cliff Diving’s penultimate stop.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Traversing the history as well as the trails, 14 riders uncover the essence of MTB in Crested Butte, Colorado.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/29/cflhnbj4pq90silaroha/lauren-richie-shaun-a-bikers-ballad-mtb"/>
+  </programme>
+  <programme channel="redbull.com" start="20251019092808+0000" stop="20251019105231+0000">
+    <title lang="en">The Engine Inside</title>
+    <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film"/>
   </programme>
 </tv>
