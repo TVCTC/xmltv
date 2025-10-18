@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-18 02:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-18 03:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20251017203503+0000" stop="20251017215926+0000">
+    <title lang="en">The Engine Inside</title>
+    <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
+    <category lang="en">Cycling</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film"/>
+  </programme>
+  <programme channel="redbull.com" start="20251017215926+0000" stop="20251017225324+0000">
+    <title lang="en">Fabio Wibmer – Danger Zone</title>
+    <desc lang="en">Join bike star Fabio Wibner and team behind the scenes of their film inspired by video game worlds.</desc>
+    <category lang="en">Trial Biking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/2/mavi9jzidyalbu5x3w9f/fabio-wibmer-video-game-trials"/>
+  </programme>
   <programme channel="redbull.com" start="20251017225324+0000" stop="20251017231838+0000">
     <title lang="en">Making History: The Women of Freeride</title>
     <desc lang="en">Follow elite female riders breaking boundaries at Red Bull Rampage in a push for equality.</desc>
@@ -23,7 +35,7 @@
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/24/nwp0wtn3sykyoetly5nr/ronan-dunne-uci-dh-world-championship-2024-andorro"/>
   </programme>
-  <programme channel="redbull.com" start="20251018005910+0000" stop="20251018014320+0000">
+  <programme channel="redbull.com" start="20251017190000+0000" stop="20251017194409+0000">
     <title lang="en">Dan Atherton's Beastly Course</title>
     <desc lang="en">Red Bull Hardline returned to the hills of mid-Wales, once again pushing the boundaries of what can be done </desc>
     <category lang="en">Sport</category>
@@ -53,7 +65,7 @@
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/9/dtsxytabm74p8xyu4rvz/martin-vidaurre-mountain-bike-uci-xco-world-cup-lake-placid-united-states-2024"/>
   </programme>
-  <programme channel="redbull.com" start="20251018034922+0000" stop="20251018051309+0000">
+  <programme channel="redbull.com" start="20251017203503+0000" stop="20251017215926+0000">
     <title lang="en">The Engine Inside</title>
     <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
     <category lang="en">Cycling</category>
@@ -125,13 +137,13 @@
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/u2jrgximnynso9wn4vue/andrzej-bargiel"/>
   </programme>
-  <programme channel="redbull.com" start="20251018104740+0000" stop="20251018113834+0000">
+  <programme channel="redbull.com" start="20251017194409+0000" stop="20251017203503+0000">
     <title lang="en">A Biker's Ballad</title>
     <desc lang="en">Traversing the history as well as the trails, 14 riders uncover the essence of MTB in Crested Butte, Colorado.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/29/cflhnbj4pq90silaroha/lauren-richie-shaun-a-bikers-ballad-mtb"/>
   </programme>
-  <programme channel="redbull.com" start="20251018034922+0000" stop="20251018051309+0000">
+  <programme channel="redbull.com" start="20251017203503+0000" stop="20251017215926+0000">
     <title lang="en">The Engine Inside</title>
     <desc lang="en">Six everyday people dedicate their lives to the bicycle and show how we can all change the world.</desc>
     <category lang="en">Cycling</category>
@@ -142,17 +154,5 @@
     <desc lang="en">Join bike star Fabio Wibner and team behind the scenes of their film inspired by video game worlds.</desc>
     <category lang="en">Trial Biking</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/2/mavi9jzidyalbu5x3w9f/fabio-wibmer-video-game-trials"/>
-  </programme>
-  <programme channel="redbull.com" start="20251017225324+0000" stop="20251017231838+0000">
-    <title lang="en">Making History: The Women of Freeride</title>
-    <desc lang="en">Follow elite female riders breaking boundaries at Red Bull Rampage in a push for equality.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/11/qh9cbeixciujxg1oqcmt/robin-goomes-trick-red-bull-rampage-utah"/>
-  </programme>
-  <programme channel="redbull.com" start="20251018142208+0000" stop="20251018145704+0000">
-    <title lang="en">Behind the Scenes of Through the Grapevines</title>
-    <desc lang="en">Watch as Kriss Kyle creates his dream freestyle BMX course to life in the vineyards of Lavaux, Switzerland.</desc>
-    <category lang="en">BMX</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/iok08kjegau3w6tavvu7/kriss-kyle-behind-the-scenes-of-freeride-lavaux-bmx"/>
   </programme>
 </tv>
