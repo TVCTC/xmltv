@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-19 16:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-19 17:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251019124132+0000" stop="20251019131628+0000">
-    <title lang="en">Behind the Scenes of Through the Grapevines</title>
-    <desc lang="en">Watch as Kriss Kyle creates his dream freestyle BMX course to life in the vineyards of Lavaux, Switzerland.</desc>
-    <category lang="en">BMX</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/4/iok08kjegau3w6tavvu7/kriss-kyle-behind-the-scenes-of-freeride-lavaux-bmx"/>
-  </programme>
-  <programme channel="redbull.com" start="20251019131628+0000" stop="20251019135254+0000">
-    <title lang="en">Don't Look Down</title>
-    <desc lang="en">Riding a BMX park 2,000ft in the air? Daring BMXer Kriss Kyle just did that, so you don't have to. </desc>
-    <category lang="en">BMX</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/4/12/fhydpdi3g2xczfes6ewi/kriss-kyle-dont-look-down-malmesbury-uk-december-2022-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20251019135254+0000" stop="20251019145737+0000">
     <title lang="en">Emerald Storm</title>
     <desc lang="en">Documenting the rise of Ireland’s top MTB riders from their grassroots beginnings to the global stage.</desc>
@@ -71,13 +59,13 @@
     <category lang="en">Cycling</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/11/6/bjaukxibu3jje08fneyv/the-engine-inside-cycling-film"/>
   </programme>
-  <programme channel="redbull.com" start="20251019121619+0000" stop="20251019124132+0000">
+  <programme channel="redbull.com" start="20251020000002+0000" stop="20251020002439+0000">
     <title lang="en">Making History: The Women of Freeride</title>
     <desc lang="en">Follow elite female riders breaking boundaries at Red Bull Rampage in a push for equality.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/11/qh9cbeixciujxg1oqcmt/robin-goomes-trick-red-bull-rampage-utah"/>
   </programme>
-  <programme channel="redbull.com" start="20251019105231+0000" stop="20251019114705+0000">
+  <programme channel="redbull.com" start="20251020002439+0000" stop="20251020011914+0000">
     <title lang="en">Fabio Wibmer – Danger Zone</title>
     <desc lang="en">Join bike star Fabio Wibner and team behind the scenes of their film inspired by video game worlds.</desc>
     <category lang="en">Trial Biking</category>
@@ -154,5 +142,17 @@
     <desc lang="en">Towering cliffs, open sea, raw beauty – El Nido sets the stage for the purest form of Red Bull Cliff Diving.</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/14/gal4qmbviibzua4uegnf/rhiannan-iffland-red-bull-cliff-diving-el-nido-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20251020083720+0000" stop="20251020090330+0000">
+    <title lang="en">Buenos Aires Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Buenos Aires Premier Padel P1 tournament at Parque Roca.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/2/wsa7obu5wmxbwp3omvdm/agustin-tapia-arturo-coello-buenos-aires-premier-padel-p1-2025-victory"/>
+  </programme>
+  <programme channel="redbull.com" start="20251020090330+0000" stop="20251020092957+0000">
+    <title lang="en">Brussels P2 Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Brussels P2 Premier Padel tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/23/qf7dntygf7afi5plczxn/eduardo-alonso-lotto-brussels-premier-padel-p2-2025"/>
   </programme>
 </tv>
