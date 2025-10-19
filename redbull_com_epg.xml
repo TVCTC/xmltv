@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-19 09:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-19 10:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20251019042757+0000" stop="20251019060000+0000">
+    <title lang="en">Au Revoir</title>
+    <desc lang="en">The story of wake-boarding champion Raph Derome as he retires from riding in front of crowds and cameras.</desc>
+    <category lang="en">Wakeboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/21/six64tifrqioqukziszs/raph-derome-au-revoir-screenshot-wakeboarding"/>
+  </programme>
+  <programme channel="redbull.com" start="20251019060000+0000" stop="20251019064651+0000">
+    <title lang="en">Saya Sakakibara: Ride to Redemption</title>
+    <desc lang="en">After her brother’s injury, BMX athlete Saya Sakakibara pushes for success on her road to Paris.</desc>
+    <category lang="en">BMX</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/7/erpqldmdfxn0hk0ntagb/saya-sakakibara-macarthur-bmx-track-camden-australia-2023"/>
+  </programme>
   <programme channel="redbull.com" start="20251019064651+0000" stop="20251019081114+0000">
     <title lang="en">CEB: A Major Comeback</title>
     <desc lang="en">Dota 2 player Sébastien Debs returns from retirement to help his team win at an ESL One Stockholm Major. </desc>
@@ -142,17 +154,5 @@
     <desc lang="en">An American downhiller fights fate from parking lot to hot seat, but struggles to get to the top step.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/9/tmxg3u9j8xcgcaotss9y/dakotah-norton-downhill-biking-uci-world-cup-snowshoe-2021"/>
-  </programme>
-  <programme channel="redbull.com" start="20251020033510+0000" stop="20251020040432+0000">
-    <title lang="en">Don't discount us</title>
-    <desc lang="en">An underdog racer propels an underdog brand to the only 'in' crowd that matters: the winner's circle.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/1/9/dylnkpzlvgw3gxqfg8cq/savilia-blunk-racing-mountain-bike-uci-xco-world-cup-les-gets-france-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20251020040432+0000" stop="20251020043635+0000">
-    <title lang="en">Child's play</title>
-    <desc lang="en">A youngster destined for greatness tangles his fate with an upstart team. Can both deliver on their promise?</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/14/uvwlf5hrmeb7u7opqjur/asa-vermette-red-bull-hardline-2025-maydena-tasmania"/>
   </programme>
 </tv>
