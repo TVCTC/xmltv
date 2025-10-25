@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-25 02:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-25 03:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251024214843+0000" stop="20251025001002+0000">
-    <title lang="en">Red Bull Rampage: Women's livestream</title>
-    <desc lang="en">12 female MTB athletes compete in this invitation-only freeride event, showcasing their skill and creativity.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/18/y1gm1timsvay7ogjtnge/casey-brown-red-bull-rampage-2024-mountain-biking-st-george-utah"/>
-  </programme>
   <programme channel="redbull.com" start="20251025001002+0000" stop="20251025035155+0000">
     <title lang="en">Red Bull Rampage: Men's livestream</title>
     <desc lang="en">Watch the 18 male mountain bike athletes showcase skill and creativity in this invitation-only freeride event.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Documenting the rise of Ireland’s top MTB riders from their grassroots beginnings to the global stage.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/24/nwp0wtn3sykyoetly5nr/ronan-dunne-uci-dh-world-championship-2024-andorro"/>
+  </programme>
+  <programme channel="redbull.com" start="20251025151829+0000" stop="20251025154436+0000">
+    <title lang="en">Madrid P1 Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Madrid P1 Premier Padel tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/9/ugcnicc1meyesfcfmt73/juan-lebron-chincoa-premier-padel-p1-madrid-2025-quarter-finals"/>
   </programme>
 </tv>
