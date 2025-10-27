@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-27 06:55:04">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-27 07:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20251027034554+0000" stop="20251027041230+0000">
+    <title lang="en">From wingsuits to parachutes</title>
+    <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/cps0jjbpnepwe6qtmphb/leticia-bufoni-california-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20251027041230+0000" stop="20251027042103+0000">
+    <title lang="en">2016's top car designs</title>
+    <desc lang="en">Nothing less than infinity and beyond was enough for 2016's top design wizards... or at least the finish line.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/8/1/biq8mly48ypufjcb0pgn/toy-story-team-red-bull-soapbox-rce-santiago-chile-2016"/>
+  </programme>
+  <programme channel="redbull.com" start="20251027042103+0000" stop="20251027043240+0000">
+    <title lang="en">Top 3 runs – Wales</title>
+    <desc lang="en">Enjoy the top three runs from Vélez, Kerr and Dunne at the world's hardest mountain bike race.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/3/nnvbawq0ldxqdv45hbvv/juanfer-velez-bernard-kerr-ronan-dunne"/>
+  </programme>
+  <programme channel="redbull.com" start="20251027043240+0000" stop="20251027045347+0000">
+    <title lang="en">Red Bull Building Drop highlights</title>
+    <desc lang="en">Skateboarder Sandro Dias sets two world records descending from a 22-storey building in Porto Alegre, Brazil.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/25/v6qo1nrv1k2nyjwvnmau/sandro-dias-red-bull-building-drop-overview"/>
+  </programme>
   <programme channel="redbull.com" start="20251027045347+0000" stop="20251027060000+0000">
     <title lang="en">Emerald Storm</title>
     <desc lang="en">Documenting the rise of Ireland’s top MTB riders from their grassroots beginnings to the global stage.</desc>
@@ -130,29 +154,5 @@
     <desc lang="en">Watch the highlights from the Valladolid Premier Padel P2 tournament held at Polideportivo Pisuerga arena.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/30/eygaxqvpoe8udvkskggc/juan-lebron-oysho-valladolid-premier-padel-p2-2025-red-bull"/>
-  </programme>
-  <programme channel="redbull.com" start="20251027170706+0000" stop="20251027173314+0000">
-    <title lang="en">Qatar Major Premier Padel highlights</title>
-    <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/18/c4ncyoippkl1obtdsl6o/alejandro-galan-ooredoo-qatar-major-padel-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20251027173314+0000" stop="20251027175940+0000">
-    <title lang="en">Tarragona P1 Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Tarragona, Spain as the P1 Premier Padel took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/8/4/rndumc1pblpxnfbhx9ur/agustin-tapia-tarragona-premier-padel-p1-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20251027175940+0000" stop="20251027185034+0000">
-    <title lang="en">A Biker's Ballad</title>
-    <desc lang="en">Traversing the history as well as the trails, 14 riders uncover the essence of MTB in Crested Butte, Colorado.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/8/29/cflhnbj4pq90silaroha/lauren-richie-shaun-a-bikers-ballad-mtb"/>
-  </programme>
-  <programme channel="redbull.com" start="20251027185034+0000" stop="20251027194251+0000">
-    <title lang="en">The heart of European cliff diving</title>
-    <desc lang="en">From legends to rookies, Polignano a Mare buzzed with raw energy as the cliff diving elite came to town.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/1/fkjj4jjb2qv2ownpiggy/catalin-preda-red-bull-cliff-diving-2025-polignano-a-mare-italy"/>
   </programme>
 </tv>
