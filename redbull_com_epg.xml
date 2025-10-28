@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-28 11:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-28 12:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251028094230+0000" stop="20251028103521+0000">
-    <title lang="en">Passion, power and precision </title>
-    <desc lang="en">Iffland chases perfection, while Hunt and Popovici battle for the Red Bull Cliff Diving title.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/26/xhjbjixcpeuyhjboztm8/gary-hunt-red-bull-cliff-diving-boston-2025-armstand-institute-contemporary-art"/>
-  </programme>
   <programme channel="redbull.com" start="20251028103521+0000" stop="20251028105959+0000">
     <title lang="en">Making History: The Women of Freeride</title>
     <desc lang="en">Follow elite female riders breaking boundaries at Red Bull Rampage in a push for equality.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Watch the highlights from the Italy Major Premier Padel tournament held at Foro Italico in Rome.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/16/lwsioonkgp60vxyx3mgx/claudia-fernandez-sanchez-and-beatriz-gonzalez-fernandez-premier-padel-italy-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20251029011634+0000" stop="20251029014227+0000">
+    <title lang="en">Germany Premier Padel P2 highlights</title>
+    <desc lang="en">Watch the highlights from the Germany Premier Padel P2 tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/29/c5hzhs7at8xu1e2vvefa/juan-lebron-franco-stupaczuk-cupra-premier-padel-p2-germany-2025-dusseldorf"/>
   </programme>
 </tv>
