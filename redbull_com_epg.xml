@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-29 07:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-10-29 08:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20251029042053+0000" stop="20251029052535+0000">
+    <title lang="en">Emerald Storm</title>
+    <desc lang="en">Documenting the rise of Ireland’s top MTB riders from their grassroots beginnings to the global stage.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/24/nwp0wtn3sykyoetly5nr/ronan-dunne-uci-dh-world-championship-2024-andorro"/>
+  </programme>
+  <programme channel="redbull.com" start="20251029052535+0000" stop="20251029055142+0000">
+    <title lang="en">Madrid P1 Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Madrid P1 Premier Padel tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/9/ugcnicc1meyesfcfmt73/juan-lebron-chincoa-premier-padel-p1-madrid-2025-quarter-finals"/>
+  </programme>
   <programme channel="redbull.com" start="20251029055142+0000" stop="20251029060000+0000">
     <title lang="en">Race &amp; surfing: a brief history</title>
     <desc lang="en">Sal Masekela explains how colonial exploitation turned a Hawaiian tradition into a predominantly white sport.</desc>
@@ -142,17 +154,5 @@
     <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/cps0jjbpnepwe6qtmphb/leticia-bufoni-california-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20251029190318+0000" stop="20251029204152+0000">
-    <title lang="en">Valley Uprising</title>
-    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20251029204152+0000" stop="20251029210756+0000">
-    <title lang="en">Bordeaux Premier Padel P2 highlights</title>
-    <desc lang="en">Watch the highlights from the Bordeaux Premier Padel P2 tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/8/wdczje9byqfb8y4m3nl6/alejandra-alonso-de-villa-bordeaux-premier-padel-p2-2025-france"/>
   </programme>
 </tv>
