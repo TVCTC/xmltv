@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-04 03:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-04 04:55:04">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251104005048+0000" stop="20251104011724+0000">
-    <title lang="en">From skydiving with skis to flying into a volcano</title>
-    <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/jdlnqxz4nve0e3be9jf1/dario-costa-wingsuit-flying-through-catalca-tunnels-in-turkey"/>
-  </programme>
-  <programme channel="redbull.com" start="20251104011724+0000" stop="20251104014324+0000">
-    <title lang="en">From F1 soapbox racing to breaking world records</title>
-    <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
-  </programme>
-  <programme channel="redbull.com" start="20251104014324+0000" stop="20251104020355+0000">
-    <title lang="en">Red Bull Building Drop highlights</title>
-    <desc lang="en">Skateboarder Sandro Dias sets two world records descending from a 22-storey building in Porto Alegre, Brazil.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/25/v6qo1nrv1k2nyjwvnmau/sandro-dias-red-bull-building-drop-overview"/>
-  </programme>
-  <programme channel="redbull.com" start="20251104020355+0000" stop="20251104022946+0000">
-    <title lang="en">Brussels P2 Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from the Brussels P2 Premier Padel tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/23/qf7dntygf7afi5plczxn/eduardo-alonso-lotto-brussels-premier-padel-p2-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20251104022946+0000" stop="20251104025617+0000">
     <title lang="en">Rotterdam Premier Padel P1 highlights</title>
     <desc lang="en">Watch the highlights from the Rotterdam Premier Padel P1 tournament.</desc>
@@ -154,5 +130,29 @@
     <desc lang="en">Vikki Weldon and Quentin Roberts explore the enduring legacy of rock climbing on Canada's Mount Yamnuska.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/ll4jsqgipcgeh5kufqli/will-gadd-yamnuska-canada-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20251104153130+0000" stop="20251104155745+0000">
+    <title lang="en">The Next Centimeter </title>
+    <desc lang="en">Discover what it takes for pole vaulter Armand ‘Mondo’ Duplantis to raise the bar – one centimetre at a time.</desc>
+    <category lang="en">Athletics</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/27/r97odp9y4wmzprlmc2zd/the-next-centimeter-armand-duplantis"/>
+  </programme>
+  <programme channel="redbull.com" start="20251104155745+0000" stop="20251104172920+0000">
+    <title lang="en">Au Revoir</title>
+    <desc lang="en">The story of wake-boarding champion Raph Derome as he retires from riding in front of crowds and cameras.</desc>
+    <category lang="en">Wakeboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/21/six64tifrqioqukziszs/raph-derome-au-revoir-screenshot-wakeboarding"/>
+  </programme>
+  <programme channel="redbull.com" start="20251104014324+0000" stop="20251104020355+0000">
+    <title lang="en">Red Bull Building Drop highlights</title>
+    <desc lang="en">Skateboarder Sandro Dias sets two world records descending from a 22-storey building in Porto Alegre, Brazil.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/25/v6qo1nrv1k2nyjwvnmau/sandro-dias-red-bull-building-drop-overview"/>
+  </programme>
+  <programme channel="redbull.com" start="20251104175027+0000" stop="20251104181605+0000">
+    <title lang="en">Asa Vermette's Ascent</title>
+    <desc lang="en">Follow Asa Vermette – one of mountain biking’s most exciting young riders – on his debut at Red Bull Hardline.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/23/biuku043za3cn2jenh3y/asa-vermette-red-bull-hardline-2025-maydena-bike-park-tasmania-australia"/>
   </programme>
 </tv>
