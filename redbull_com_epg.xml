@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-08 21:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-08 22:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20251108165153+0000" stop="20251108171753+0000">
+    <title lang="en">Valladolid Premier Padel P2 highlights </title>
+    <desc lang="en">Watch the highlights from the Valladolid Premier Padel P2 tournament held at Polideportivo Pisuerga arena.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/30/eygaxqvpoe8udvkskggc/juan-lebron-oysho-valladolid-premier-padel-p2-2025-red-bull"/>
+  </programme>
+  <programme channel="redbull.com" start="20251108171753+0000" stop="20251108174416+0000">
+    <title lang="en">Riyadh Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Saudia Arabia as the Riyadh Premier Padel P1 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/qeu4q0pzilaxkin3g5d0/padel-players-juan-lebron-chincoa-and-partner-competing-at-riyadh-season-premier-padel-p1-event"/>
+  </programme>
   <programme channel="redbull.com" start="20251108174416+0000" stop="20251108181024+0000">
     <title lang="en">Qatar Major Premier Padel highlights</title>
     <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
@@ -142,17 +154,5 @@
     <desc lang="en">Join B-Boys Till, Thomaz and Icey Ives at the Red Bull BC One Last Chance Cypher in India.</desc>
     <category lang="en">Breaking</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2019/12/04/bc6d4c41-4f7a-4c20-a7db-61de39abb295/till-last-chance-cypher"/>
-  </programme>
-  <programme channel="redbull.com" start="20251109065752+0000" stop="20251109074500+0000">
-    <title lang="en">(Un)credited</title>
-    <desc lang="en">Dive deep into the origins of Afro Dance in Nigeria and how it has shaped a global mainstream culture.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/4/scufziiaglussi1stxen/un-credited-nigeria-afro-dance"/>
-  </programme>
-  <programme channel="redbull.com" start="20251109074500+0000" stop="20251109120000+0000">
-    <title lang="en">Red Bull BC One World Final Japan</title>
-    <desc lang="en">Feel the energy of Tokyo as the world’s greatest b-boys and b-girls battle for the ultimate title.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/8/16/ra1el67jv1gwesqau5ai/b-boy-haruto-red-bull-bc-one-cypher-2025-japan"/>
   </programme>
 </tv>
