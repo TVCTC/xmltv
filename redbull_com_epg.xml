@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-10 01:55:05">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-10 02:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251109235333+0000" stop="20251110000247+0000">
-    <title lang="en">Paul Verbnjak</title>
-    <desc lang="en">This exciting Austrian ski mountaineer is a rising star in a sport that’s rapidly taking the world stage.</desc>
-    <category lang="en">Ski Touring</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/20/otzndxltn9eiwxvabxhh/paul-verbnjak-red-bull-hangar-7-salzburg-2023-helicopter-helmet-ski-jumping"/>
-  </programme>
-  <programme channel="redbull.com" start="20251110000247+0000" stop="20251110002902+0000">
-    <title lang="en">The Next Centimeter </title>
-    <desc lang="en">Discover what it takes for pole vaulter Armand ‘Mondo’ Duplantis to raise the bar – one centimetre at a time.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/27/r97odp9y4wmzprlmc2zd/the-next-centimeter-armand-duplantis"/>
-  </programme>
   <programme channel="redbull.com" start="20251110002902+0000" stop="20251110020113+0000">
     <title lang="en">Au Revoir</title>
     <desc lang="en">The story of wake-boarding champion Raph Derome as he retires from riding in front of crowds and cameras.</desc>
@@ -65,7 +53,7 @@
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/pafocedw24uyj8uzbkjm/dominic-di-tommaso-hazal-nehir-istanbul-2021"/>
   </programme>
-  <programme channel="redbull.com" start="20251109230224+0000" stop="20251109231700+0000">
+  <programme channel="redbull.com" start="20251110045834+0000" stop="20251110051310+0000">
     <title lang="en">Eileen Gu</title>
     <desc lang="en">Witness the dazzling trajectory of a skier who's redefining what it means to be a modern champion. </desc>
     <category lang="en">Skiing</category>
@@ -89,7 +77,7 @@
     <category lang="en">Ski Touring</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/20/otzndxltn9eiwxvabxhh/paul-verbnjak-red-bull-hangar-7-salzburg-2023-helicopter-helmet-ski-jumping"/>
   </programme>
-  <programme channel="redbull.com" start="20251109231700+0000" stop="20251109232754+0000">
+  <programme channel="redbull.com" start="20251110054803+0000" stop="20251110060000+0000">
     <title lang="en">Marcel Hirscher</title>
     <desc lang="en">Arguably the best male ski racer has returned from retirement to attempt the mother of all comebacks.      </desc>
     <category lang="en">Skiing</category>
@@ -154,5 +142,17 @@
     <desc lang="en">Watch the highlights from the Germany Premier Padel P2 tournament.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/29/c5hzhs7at8xu1e2vvefa/juan-lebron-franco-stupaczuk-cupra-premier-padel-p2-germany-2025-dusseldorf"/>
+  </programme>
+  <programme channel="redbull.com" start="20251110102054+0000" stop="20251110104734+0000">
+    <title lang="en">Santiago Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Chile as the Santiago Premier Padel P1 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/bdtrfzyj5lvybvefhsp6/marta-ortega-miami-2025-premier-padel-semi-final"/>
+  </programme>
+  <programme channel="redbull.com" start="20251110104734+0000" stop="20251110111341+0000">
+    <title lang="en">Madrid P1 Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Madrid P1 Premier Padel tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/9/ugcnicc1meyesfcfmt73/juan-lebron-chincoa-premier-padel-p1-madrid-2025-quarter-finals"/>
   </programme>
 </tv>
