@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-13 15:55:04">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-13 16:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251113134153+0000" stop="20251113140829+0000">
-    <title lang="en">From wingsuits to parachutes</title>
-    <desc lang="en">Red Bull athletes do it all, from barrel racing with a dirtbike to the first quad cork ever landed. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/cps0jjbpnepwe6qtmphb/leticia-bufoni-california-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20251113140829+0000" stop="20251113143429+0000">
-    <title lang="en">From soapbox madness to skydiving with an FMX bike</title>
-    <desc lang="en">Red Bull athletes do it all, from skydiving with a motocross bike to riding rally cars on frozen lakes. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iltxmuy0dpylwgiezemw/red-bull-dance-your-style-lausanne-final-aceko-performance-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20251113143429+0000" stop="20251113150105+0000">
     <title lang="en">From BASE jumping a cave to a flying mega swing </title>
     <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/24/venuyomgtnvhhfeakcrc/paula-josemaria-martin-competing-at-riyadh-premier-padel-p1-quarter-finals-in-riyadh"/>
+  </programme>
+  <programme channel="redbull.com" start="20251113235724+0000" stop="20251114012935+0000">
+    <title lang="en">Au Revoir</title>
+    <desc lang="en">The story of wake-boarding champion Raph Derome as he retires from riding in front of crowds and cameras.</desc>
+    <category lang="en">Wakeboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/21/six64tifrqioqukziszs/raph-derome-au-revoir-screenshot-wakeboarding"/>
+  </programme>
+  <programme channel="redbull.com" start="20251114012935+0000" stop="20251114025048+0000">
+    <title lang="en">Against the Odds</title>
+    <desc lang="en">Team OG defied the odds – witness their esports journey to Dota 2 glory at TI8. </desc>
+    <category lang="en">Gaming</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/4/pcwlj5cjkqd2os2ds8cw/n0tail-ana-kuala-lumpur-video-shoot-cyberview-garden-villas-malaysia-august-2019"/>
   </programme>
 </tv>
