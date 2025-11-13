@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-13 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-13 05:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251113022916+0000" stop="20251113025524+0000">
-    <title lang="en">Qatar Major Premier Padel highlights</title>
-    <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/18/c4ncyoippkl1obtdsl6o/alejandro-galan-ooredoo-qatar-major-padel-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20251113025524+0000" stop="20251113032114+0000">
-    <title lang="en">Tarragona P1 Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Tarragona, Spain as the P1 Premier Padel took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/8/4/rndumc1pblpxnfbhx9ur/agustin-tapia-tarragona-premier-padel-p1-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20251113032114+0000" stop="20251113034740+0000">
-    <title lang="en">Gijón Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/24/venuyomgtnvhhfeakcrc/paula-josemaria-martin-competing-at-riyadh-premier-padel-p1-quarter-finals-in-riyadh"/>
-  </programme>
   <programme channel="redbull.com" start="20251113034740+0000" stop="20251113051915+0000">
     <title lang="en">Au Revoir</title>
     <desc lang="en">The story of wake-boarding champion Raph Derome as he retires from riding in front of crowds and cameras.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Watch the highlights from the Brussels P2 Premier Padel tournament.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/23/qf7dntygf7afi5plczxn/eduardo-alonso-lotto-brussels-premier-padel-p2-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20251113164612+0000" stop="20251113171208+0000">
+    <title lang="en">Rotterdam Premier Padel P1 highlights</title>
+    <desc lang="en">Watch the highlights from the Rotterdam Premier Padel P1 tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/6/oe4lx9frmtxgtrjqflzc/gemma-triay-pons-premier-padel-p1-rotterdam-2025-quarter-finals"/>
+  </programme>
+  <programme channel="redbull.com" start="20251113171208+0000" stop="20251113173805+0000">
+    <title lang="en">Milano Premier Padel P1 highlights</title>
+    <desc lang="en">Watch the highlights from the Milano as the best padel players are showcased on the world stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/14/qu9fpspo8xa1ylnmtrb9/marta-ortega-gallego-oysho-milano-premier-padel-p1-2025-quarter-finals"/>
+  </programme>
+  <programme channel="redbull.com" start="20251113173805+0000" stop="20251113180407+0000">
+    <title lang="en">Asunción Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Paraguay as the Asunción Premier Padel P2 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/5/28/nf8ippk7aj3p7esbsntm/beatriz-gonzalez-2025-asuncion-premier-padel-p2-victory-red-bull"/>
   </programme>
 </tv>
