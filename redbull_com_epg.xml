@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-15 22:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-15 23:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251115171913+0000" stop="20251115211505+0000">
-    <title lang="en">Red Bull BC One World Final Japan</title>
-    <desc lang="en">Feel the energy of Tokyo as the world’s greatest b-boys and b-girls battle for the ultimate title.</desc>
-    <category lang="en">Dance</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/8/16/ra1el67jv1gwesqau5ai/b-boy-haruto-red-bull-bc-one-cypher-2025-japan"/>
-  </programme>
   <programme channel="redbull.com" start="20251115211505+0000" stop="20251115215714+0000">
     <title lang="en">Paved</title>
     <desc lang="en">Experience the joy as snowboarding’s elite push boundaries and chase podium dreams ahead of the 2026 season.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Watch the highlights from the Rotterdam Premier Padel P1 tournament.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/6/oe4lx9frmtxgtrjqflzc/gemma-triay-pons-premier-padel-p1-rotterdam-2025-quarter-finals"/>
+  </programme>
+  <programme channel="redbull.com" start="20251116083703+0000" stop="20251116090224+0000">
+    <title lang="en">Milano Premier Padel P1 highlights</title>
+    <desc lang="en">Watch the highlights from the Milano as the best padel players are showcased on the world stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/14/qu9fpspo8xa1ylnmtrb9/marta-ortega-gallego-oysho-milano-premier-padel-p1-2025-quarter-finals"/>
   </programme>
 </tv>
