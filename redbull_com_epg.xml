@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-16 01:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-16 02:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251115224900+0000" stop="20251115225813+0000">
-    <title lang="en">Paul Verbnjak</title>
-    <desc lang="en">This exciting Austrian ski mountaineer is a rising star in a sport that’s rapidly taking the world stage.</desc>
-    <category lang="en">Ski Touring</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/20/otzndxltn9eiwxvabxhh/paul-verbnjak-red-bull-hangar-7-salzburg-2023-helicopter-helmet-ski-jumping"/>
-  </programme>
-  <programme channel="redbull.com" start="20251115225813+0000" stop="20251115232259+0000">
-    <title lang="en">Padel Life – part 1</title>
-    <desc lang="en">Four stars. Four cities. One sport. Hear emotional journeys from the padel court to the heart of the game.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/14/u9cc0x8cyeclrkodcqew/federico-chingotto-alejandro-galan-alpine-paris-major-premier-padel-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20251115232259+0000" stop="20251115235001+0000">
-    <title lang="en">Padel Life – part 2</title>
-    <desc lang="en">Four padel players give an inside look into their lives and what makes the sport a global phenomenon.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/22/pfe6qekxvskqkml2ywdb/juan-lebron-chincoa-alpine-paris-major-premier-padel-roland-garros-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20251115235001+0000" stop="20251116012910+0000">
     <title lang="en">Valley Uprising</title>
     <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Watch the highlights from the Malaga Premier Padel P1 tournament.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/22/dj0tkoyzyh8u0r5smtvj/federico-chingotto-malaga-premier-padel-p1-2025-quarter-finals-action-spain"/>
+  </programme>
+  <programme channel="redbull.com" start="20251116111349+0000" stop="20251116113954+0000">
+    <title lang="en">Paris Major Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Paris Major Premier Padel tournament held at Roland-Garros stadium.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/16/bir6vn1luye88xynpdo8/alejandro-galan-alpine-paris-major-premier-padel-2025-roland-garros-final"/>
+  </programme>
+  <programme channel="redbull.com" start="20251116113954+0000" stop="20251116120543+0000">
+    <title lang="en">Italy Major Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Italy Major Premier Padel tournament held at Foro Italico in Rome.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/16/lwsioonkgp60vxyx3mgx/claudia-fernandez-sanchez-and-beatriz-gonzalez-fernandez-premier-padel-italy-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20251116120543+0000" stop="20251116123212+0000">
+    <title lang="en">Germany Premier Padel P2 highlights</title>
+    <desc lang="en">Watch the highlights from the Germany Premier Padel P2 tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/29/c5hzhs7at8xu1e2vvefa/juan-lebron-franco-stupaczuk-cupra-premier-padel-p2-germany-2025-dusseldorf"/>
   </programme>
 </tv>
