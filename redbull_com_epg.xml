@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-17 13:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-17 14:55:04">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251117113950+0000" stop="20251117120540+0000">
-    <title lang="en">Tarragona P1 Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Tarragona, Spain as the P1 Premier Padel took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/8/4/rndumc1pblpxnfbhx9ur/agustin-tapia-tarragona-premier-padel-p1-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20251117120540+0000" stop="20251117123205+0000">
-    <title lang="en">Gijón Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/24/venuyomgtnvhhfeakcrc/paula-josemaria-martin-competing-at-riyadh-premier-padel-p1-quarter-finals-in-riyadh"/>
-  </programme>
   <programme channel="redbull.com" start="20251117123205+0000" stop="20251117140416+0000">
     <title lang="en">Au Revoir</title>
     <desc lang="en">The story of wake-boarding champion Raph Derome as he retires from riding in front of crowds and cameras.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Four padel players give an inside look into their lives and what makes the sport a global phenomenon.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/22/pfe6qekxvskqkml2ywdb/juan-lebron-chincoa-alpine-paris-major-premier-padel-roland-garros-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20251118024135+0000" stop="20251118030657+0000">
+    <title lang="en">Milano Premier Padel P1 highlights</title>
+    <desc lang="en">Watch the highlights from the Milano as the best padel players are showcased on the world stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/14/qu9fpspo8xa1ylnmtrb9/marta-ortega-gallego-oysho-milano-premier-padel-p1-2025-quarter-finals"/>
+  </programme>
+  <programme channel="redbull.com" start="20251118030657+0000" stop="20251118033343+0000">
+    <title lang="en">Buenos Aires Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Buenos Aires Premier Padel P1 tournament at Parque Roca.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/2/wsa7obu5wmxbwp3omvdm/agustin-tapia-arturo-coello-buenos-aires-premier-padel-p1-2025-victory"/>
   </programme>
 </tv>
