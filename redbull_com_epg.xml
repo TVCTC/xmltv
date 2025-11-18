@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-18 13:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-18 14:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20251118065156+0000" stop="20251118071839+0000">
+    <title lang="en">Madrid P1 Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Madrid P1 Premier Padel tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/9/ugcnicc1meyesfcfmt73/juan-lebron-chincoa-premier-padel-p1-madrid-2025-quarter-finals"/>
+  </programme>
+  <programme channel="redbull.com" start="20251118071839+0000" stop="20251118074439+0000">
+    <title lang="en">Valladolid Premier Padel P2 highlights </title>
+    <desc lang="en">Watch the highlights from the Valladolid Premier Padel P2 tournament held at Polideportivo Pisuerga arena.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/30/eygaxqvpoe8udvkskggc/juan-lebron-oysho-valladolid-premier-padel-p2-2025-red-bull"/>
+  </programme>
+  <programme channel="redbull.com" start="20251118074439+0000" stop="20251118081103+0000">
+    <title lang="en">Riyadh Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Saudia Arabia as the Riyadh Premier Padel P1 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/qeu4q0pzilaxkin3g5d0/padel-players-juan-lebron-chincoa-and-partner-competing-at-riyadh-season-premier-padel-p1-event"/>
+  </programme>
+  <programme channel="redbull.com" start="20251118081103+0000" stop="20251118083710+0000">
+    <title lang="en">Qatar Major Premier Padel highlights</title>
+    <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/4/18/c4ncyoippkl1obtdsl6o/alejandro-galan-ooredoo-qatar-major-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20251118083710+0000" stop="20251118090301+0000">
+    <title lang="en">Tarragona P1 Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Tarragona, Spain as the P1 Premier Padel took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/8/4/rndumc1pblpxnfbhx9ur/agustin-tapia-tarragona-premier-padel-p1-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20251118090301+0000" stop="20251118092926+0000">
+    <title lang="en">Gijón Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Spain as the Gijón Premier Padel P2 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/24/venuyomgtnvhhfeakcrc/paula-josemaria-martin-competing-at-riyadh-premier-padel-p1-quarter-finals-in-riyadh"/>
+  </programme>
+  <programme channel="redbull.com" start="20251118092926+0000" stop="20251118110137+0000">
+    <title lang="en">Au Revoir</title>
+    <desc lang="en">The story of wake-boarding champion Raph Derome as he retires from riding in front of crowds and cameras.</desc>
+    <category lang="en">Wakeboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/21/six64tifrqioqukziszs/raph-derome-au-revoir-screenshot-wakeboarding"/>
+  </programme>
   <programme channel="redbull.com" start="20251118110137+0000" stop="20251118122250+0000">
     <title lang="en">Against the Odds</title>
     <desc lang="en">Team OG defied the odds – witness their esports journey to Dota 2 glory at TI8. </desc>
@@ -101,7 +143,7 @@
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
   </programme>
-  <programme channel="redbull.com" start="20251118215449+0000" stop="20251118220925+0000">
+  <programme channel="redbull.com" start="20251118054450+0000" stop="20251118060000+0000">
     <title lang="en">Eileen Gu</title>
     <desc lang="en">Witness the dazzling trajectory of a skier who's redefining what it means to be a modern champion. </desc>
     <category lang="en">Skiing</category>
@@ -112,47 +154,5 @@
     <desc lang="en">Arguably the best male ski racer has returned from retirement to attempt the mother of all comebacks.      </desc>
     <category lang="en">Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/17/fc0txpbkuehvmfvsmrgt/marcel-hirscher-fis-world-cup-giant-slalom-solden-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20251118222055+0000" stop="20251118223206+0000">
-    <title lang="en">Queralt Castellet</title>
-    <desc lang="en">Spanish snowboarder Queralt Castellet has competed since 2005 – and only gets better every season.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/17/azj8bgwocd7irq6bjcpp/queralt-castellet-red-bull-snow-backcountry-camp-revelstoke-2024-snowboard-air"/>
-  </programme>
-  <programme channel="redbull.com" start="20251118223206+0000" stop="20251118224634+0000">
-    <title lang="en">Alice Robinson</title>
-    <desc lang="en">With explosive and unpredictable runs, Alice Robinson is putting New Zealand on the podium in alpine skiing. </desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/17/bu7oagl87gdcsrctvhla/red-bull-alice-robinson-coronet-peak-queenstown-skiing-august-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20251118224634+0000" stop="20251118225548+0000">
-    <title lang="en">Paul Verbnjak</title>
-    <desc lang="en">This exciting Austrian ski mountaineer is a rising star in a sport that’s rapidly taking the world stage.</desc>
-    <category lang="en">Ski Touring</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/20/otzndxltn9eiwxvabxhh/paul-verbnjak-red-bull-hangar-7-salzburg-2023-helicopter-helmet-ski-jumping"/>
-  </programme>
-  <programme channel="redbull.com" start="20251118225548+0000" stop="20251118232033+0000">
-    <title lang="en">Padel Life – part 1</title>
-    <desc lang="en">Four stars. Four cities. One sport. Hear emotional journeys from the padel court to the heart of the game.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/14/u9cc0x8cyeclrkodcqew/federico-chingotto-alejandro-galan-alpine-paris-major-premier-padel-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20251118232033+0000" stop="20251118234735+0000">
-    <title lang="en">Padel Life – part 2</title>
-    <desc lang="en">Four padel players give an inside look into their lives and what makes the sport a global phenomenon.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/22/pfe6qekxvskqkml2ywdb/juan-lebron-chincoa-alpine-paris-major-premier-padel-roland-garros-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20251118234735+0000" stop="20251119001257+0000">
-    <title lang="en">Milano Premier Padel P1 highlights</title>
-    <desc lang="en">Watch the highlights from the Milano as the best padel players are showcased on the world stage.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/14/qu9fpspo8xa1ylnmtrb9/marta-ortega-gallego-oysho-milano-premier-padel-p1-2025-quarter-finals"/>
-  </programme>
-  <programme channel="redbull.com" start="20251119001257+0000" stop="20251119003943+0000">
-    <title lang="en">Buenos Aires Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from the Buenos Aires Premier Padel P1 tournament at Parque Roca.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/2/wsa7obu5wmxbwp3omvdm/agustin-tapia-arturo-coello-buenos-aires-premier-padel-p1-2025-victory"/>
   </programme>
 </tv>
