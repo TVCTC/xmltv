@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-20 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-20 05:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251120023303+0000" stop="20251120025854+0000">
-    <title lang="en">Tarragona P1 Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from Tarragona, Spain as the P1 Premier Padel took centre stage. </desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/8/4/rndumc1pblpxnfbhx9ur/agustin-tapia-tarragona-premier-padel-p1-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20251120025854+0000" stop="20251120031924+0000">
-    <title lang="en">Red Bull Building Drop highlights</title>
-    <desc lang="en">Skateboarder Sandro Dias sets two world records descending from a 22-storey building in Porto Alegre, Brazil.</desc>
-    <category lang="en">Skateboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/25/v6qo1nrv1k2nyjwvnmau/sandro-dias-red-bull-building-drop-overview"/>
-  </programme>
   <programme channel="redbull.com" start="20251120031924+0000" stop="20251120045135+0000">
     <title lang="en">Au Revoir</title>
     <desc lang="en">The story of wake-boarding champion Raph Derome as he retires from riding in front of crowds and cameras.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Skateboarder Sandro Dias sets two world records descending from a 22-storey building in Porto Alegre, Brazil.</desc>
     <category lang="en">Skateboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/25/v6qo1nrv1k2nyjwvnmau/sandro-dias-red-bull-building-drop-overview"/>
+  </programme>
+  <programme channel="redbull.com" start="20251120165440+0000" stop="20251120171925+0000">
+    <title lang="en">Padel Life – part 1</title>
+    <desc lang="en">Four stars. Four cities. One sport. Hear emotional journeys from the padel court to the heart of the game.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/14/u9cc0x8cyeclrkodcqew/federico-chingotto-alejandro-galan-alpine-paris-major-premier-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20251120171925+0000" stop="20251120174627+0000">
+    <title lang="en">Padel Life – part 2</title>
+    <desc lang="en">Four padel players give an inside look into their lives and what makes the sport a global phenomenon.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/22/pfe6qekxvskqkml2ywdb/juan-lebron-chincoa-alpine-paris-major-premier-padel-roland-garros-2025"/>
   </programme>
 </tv>
