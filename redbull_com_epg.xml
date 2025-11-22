@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-22 18:55:04">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-22 19:55:04">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20251122153544+0000" stop="20251122160226+0000">
+    <title lang="en">Madrid P1 Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Madrid P1 Premier Padel tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/9/ugcnicc1meyesfcfmt73/juan-lebron-chincoa-premier-padel-p1-madrid-2025-quarter-finals"/>
+  </programme>
+  <programme channel="redbull.com" start="20251122160226+0000" stop="20251122162827+0000">
+    <title lang="en">Valladolid Premier Padel P2 highlights </title>
+    <desc lang="en">Watch the highlights from the Valladolid Premier Padel P2 tournament held at Polideportivo Pisuerga arena.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/30/eygaxqvpoe8udvkskggc/juan-lebron-oysho-valladolid-premier-padel-p2-2025-red-bull"/>
+  </programme>
+  <programme channel="redbull.com" start="20251122162827+0000" stop="20251122165450+0000">
+    <title lang="en">Riyadh Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Saudia Arabia as the Riyadh Premier Padel P1 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/2/19/qeu4q0pzilaxkin3g5d0/padel-players-juan-lebron-chincoa-and-partner-competing-at-riyadh-season-premier-padel-p1-event"/>
+  </programme>
   <programme channel="redbull.com" start="20251122165450+0000" stop="20251122172058+0000">
     <title lang="en">Qatar Major Premier Padel highlights</title>
     <desc lang="en">Watch the action from the Qatar Major Premier Padel in Doha, where the sport continues to grow in popularity. </desc>
@@ -136,23 +154,5 @@
     <desc lang="en">Witness the dazzling trajectory of a skier who's redefining what it means to be a modern champion. </desc>
     <category lang="en">Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/17/lg8vaxhpdirwtw9evvhm/red-bull-eileen-gu-halfpipe-kitzsteinhorn-austria-2023-ski-action"/>
-  </programme>
-  <programme channel="redbull.com" start="20251123070711+0000" stop="20251123071842+0000">
-    <title lang="en">Marcel Hirscher</title>
-    <desc lang="en">Arguably the best male ski racer has returned from retirement to attempt the mother of all comebacks.      </desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/17/fc0txpbkuehvmfvsmrgt/marcel-hirscher-fis-world-cup-giant-slalom-solden-2024"/>
-  </programme>
-  <programme channel="redbull.com" start="20251123054712+0000" stop="20251123060000+0000">
-    <title lang="en">Queralt Castellet</title>
-    <desc lang="en">Spanish snowboarder Queralt Castellet has competed since 2005 – and only gets better every season.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/17/azj8bgwocd7irq6bjcpp/queralt-castellet-red-bull-snow-backcountry-camp-revelstoke-2024-snowboard-air"/>
-  </programme>
-  <programme channel="redbull.com" start="20251123072953+0000" stop="20251123074421+0000">
-    <title lang="en">Alice Robinson</title>
-    <desc lang="en">With explosive and unpredictable runs, Alice Robinson is putting New Zealand on the podium in alpine skiing. </desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/17/bu7oagl87gdcsrctvhla/red-bull-alice-robinson-coronet-peak-queenstown-skiing-august-2025"/>
   </programme>
 </tv>
