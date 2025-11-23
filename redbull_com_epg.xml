@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-23 04:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-23 05:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251123024324+0000" stop="20251123030924+0000">
-    <title lang="en">From a pinball human to 93kph speed skating</title>
-    <desc lang="en">Red Bull athletes do it all, from speed skating in Norway to BASE jumping from treacherous Mount Everest.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/gj41kc4f6nof4jckztb8/ben-stookesberry"/>
-  </programme>
-  <programme channel="redbull.com" start="20251123030924+0000" stop="20251123033600+0000">
-    <title lang="en">From skateboarding out a plane to 180m wall climb</title>
-    <desc lang="en">Red Bull athletes do it all, from freerunning through an airport to building a skatepark in the forest.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/u2jrgximnynso9wn4vue/andrzej-bargiel"/>
-  </programme>
   <programme channel="redbull.com" start="20251123033600+0000" stop="20251123040200+0000">
     <title lang="en">From a paper plane contest to diving off ruins </title>
     <desc lang="en">Red Bull athletes do it all, from diving off ancient ruins to acing a paper plane competition.  </desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Watch the highlights from the Italy Major Premier Padel tournament held at Foro Italico in Rome.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/16/lwsioonkgp60vxyx3mgx/claudia-fernandez-sanchez-and-beatriz-gonzalez-fernandez-premier-padel-italy-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20251123115452+0000" stop="20251123122121+0000">
+    <title lang="en">Germany Premier Padel P2 highlights</title>
+    <desc lang="en">Watch the highlights from the Germany Premier Padel P2 tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/29/c5hzhs7at8xu1e2vvefa/juan-lebron-franco-stupaczuk-cupra-premier-padel-p2-germany-2025-dusseldorf"/>
+  </programme>
+  <programme channel="redbull.com" start="20251123122121+0000" stop="20251123124725+0000">
+    <title lang="en">Santiago Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Chile as the Santiago Premier Padel P1 took centre stage.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/bdtrfzyj5lvybvefhsp6/marta-ortega-miami-2025-premier-padel-semi-final"/>
   </programme>
 </tv>
