@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-26 21:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-26 22:55:04">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251126193135+0000" stop="20251126195739+0000">
-    <title lang="en">Bordeaux Premier Padel P2 highlights</title>
-    <desc lang="en">Watch the highlights from the Bordeaux Premier Padel P2 tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/8/wdczje9byqfb8y4m3nl6/alejandra-alonso-de-villa-bordeaux-premier-padel-p2-2025-france"/>
-  </programme>
-  <programme channel="redbull.com" start="20251126195739+0000" stop="20251126203948+0000">
-    <title lang="en">Paved</title>
-    <desc lang="en">Experience the joy as snowboarding’s elite push boundaries and chase podium dreams ahead of the 2026 season.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/31/bvyynn4liwie3bupfayp/paved-snowboarding-film"/>
-  </programme>
-  <programme channel="redbull.com" start="20251126203948+0000" stop="20251126205438+0000">
-    <title lang="en">Big wall climber Gareth Leah</title>
-    <desc lang="en">Gareth Leah is a big wall climber with chronic wanderlust who's attempting to scale a remote African peak.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/tv/FO-1R118PJP51W11/FO-1R118PJP51W11-featureMedia"/>
-  </programme>
   <programme channel="redbull.com" start="20251126205438+0000" stop="20251126211959+0000">
     <title lang="en">Milano Premier Padel P1 highlights</title>
     <desc lang="en">Watch the highlights from the Milano as the best padel players are showcased on the world stage.</desc>
@@ -131,7 +113,7 @@
     <category lang="en">Wakeboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/21/six64tifrqioqukziszs/raph-derome-au-revoir-screenshot-wakeboarding"/>
   </programme>
-  <programme channel="redbull.com" start="20251126180345+0000" stop="20251126181259+0000">
+  <programme channel="redbull.com" start="20251127055014+0000" stop="20251127060000+0000">
     <title lang="en">Paul Verbnjak</title>
     <desc lang="en">This exciting Austrian ski mountaineer is a rising star in a sport that’s rapidly taking the world stage.</desc>
     <category lang="en">Ski Touring</category>
@@ -154,5 +136,23 @@
     <desc lang="en">Vikki Weldon and Quentin Roberts explore the enduring legacy of rock climbing on Canada's Mount Yamnuska.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/ll4jsqgipcgeh5kufqli/will-gadd-yamnuska-canada-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20251127100718+0000" stop="20251127103334+0000">
+    <title lang="en">The Next Centimeter </title>
+    <desc lang="en">Discover what it takes for pole vaulter Armand ‘Mondo’ Duplantis to raise the bar – one centimetre at a time.</desc>
+    <category lang="en">Athletics</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/27/r97odp9y4wmzprlmc2zd/the-next-centimeter-armand-duplantis"/>
+  </programme>
+  <programme channel="redbull.com" start="20251127041802+0000" stop="20251127055014+0000">
+    <title lang="en">Au Revoir</title>
+    <desc lang="en">The story of wake-boarding champion Raph Derome as he retires from riding in front of crowds and cameras.</desc>
+    <category lang="en">Wakeboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/21/six64tifrqioqukziszs/raph-derome-au-revoir-screenshot-wakeboarding"/>
+  </programme>
+  <programme channel="redbull.com" start="20251127120545+0000" stop="20251127122615+0000">
+    <title lang="en">Red Bull Building Drop highlights</title>
+    <desc lang="en">Skateboarder Sandro Dias sets two world records descending from a 22-storey building in Porto Alegre, Brazil.</desc>
+    <category lang="en">Skateboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/25/v6qo1nrv1k2nyjwvnmau/sandro-dias-red-bull-building-drop-overview"/>
   </programme>
 </tv>
