@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-27 06:55:05">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-27 07:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251127035100+0000" stop="20251127041802+0000">
-    <title lang="en">Padel Life – part 2</title>
-    <desc lang="en">Four padel players give an inside look into their lives and what makes the sport a global phenomenon.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/22/pfe6qekxvskqkml2ywdb/juan-lebron-chincoa-alpine-paris-major-premier-padel-roland-garros-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20251127041802+0000" stop="20251127055014+0000">
-    <title lang="en">Au Revoir</title>
-    <desc lang="en">The story of wake-boarding champion Raph Derome as he retires from riding in front of crowds and cameras.</desc>
-    <category lang="en">Wakeboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/21/six64tifrqioqukziszs/raph-derome-au-revoir-screenshot-wakeboarding"/>
-  </programme>
   <programme channel="redbull.com" start="20251127055014+0000" stop="20251127060000+0000">
     <title lang="en">Paul Verbnjak</title>
     <desc lang="en">This exciting Austrian ski mountaineer is a rising star in a sport that’s rapidly taking the world stage.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Watch the highlights from the Milano as the best padel players are showcased on the world stage.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/14/qu9fpspo8xa1ylnmtrb9/marta-ortega-gallego-oysho-milano-premier-padel-p1-2025-quarter-finals"/>
+  </programme>
+  <programme channel="redbull.com" start="20251127032615+0000" stop="20251127035100+0000">
+    <title lang="en">Padel Life – part 1</title>
+    <desc lang="en">Four stars. Four cities. One sport. Hear emotional journeys from the padel court to the heart of the game.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/14/u9cc0x8cyeclrkodcqew/federico-chingotto-alejandro-galan-alpine-paris-major-premier-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20251127035100+0000" stop="20251127041802+0000">
+    <title lang="en">Padel Life – part 2</title>
+    <desc lang="en">Four padel players give an inside look into their lives and what makes the sport a global phenomenon.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/22/pfe6qekxvskqkml2ywdb/juan-lebron-chincoa-alpine-paris-major-premier-padel-roland-garros-2025"/>
   </programme>
 </tv>
