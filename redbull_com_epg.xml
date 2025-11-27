@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-27 18:55:04">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-27 19:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20251127154853+0000" stop="20251127161453+0000">
+    <title lang="en">From skydiving with skis to flying into a volcano</title>
+    <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/jdlnqxz4nve0e3be9jf1/dario-costa-wingsuit-flying-through-catalca-tunnels-in-turkey"/>
+  </programme>
+  <programme channel="redbull.com" start="20251127161453+0000" stop="20251127164129+0000">
+    <title lang="en">From F1 soapbox racing to breaking world records</title>
+    <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
+  </programme>
   <programme channel="redbull.com" start="20251127164129+0000" stop="20251127170733+0000">
     <title lang="en">Bordeaux Premier Padel P2 highlights</title>
     <desc lang="en">Watch the highlights from the Bordeaux Premier Padel P2 tournament.</desc>
@@ -142,17 +154,5 @@
     <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
     <category lang="en">Climbing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art"/>
-  </programme>
-  <programme channel="redbull.com" start="20251128060000+0000" stop="20251128070656+0000">
-    <title lang="en">Yamnuska: The Ragged Edge </title>
-    <desc lang="en">Vikki Weldon and Quentin Roberts explore the enduring legacy of rock climbing on Canada's Mount Yamnuska.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/ll4jsqgipcgeh5kufqli/will-gadd-yamnuska-canada-climbing"/>
-  </programme>
-  <programme channel="redbull.com" start="20251128070656+0000" stop="20251128073311+0000">
-    <title lang="en">The Next Centimeter </title>
-    <desc lang="en">Discover what it takes for pole vaulter Armand ‘Mondo’ Duplantis to raise the bar – one centimetre at a time.</desc>
-    <category lang="en">Athletics</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/27/r97odp9y4wmzprlmc2zd/the-next-centimeter-armand-duplantis"/>
   </programme>
 </tv>
