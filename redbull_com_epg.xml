@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-27 01:55:04">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-27 02:55:04">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251126233027+0000" stop="20251126235710+0000">
-    <title lang="en">Malaga Premier Padel P1 highlights</title>
-    <desc lang="en">Watch the highlights from the Malaga Premier Padel P1 tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/22/dj0tkoyzyh8u0r5smtvj/federico-chingotto-malaga-premier-padel-p1-2025-quarter-finals-action-spain"/>
-  </programme>
-  <programme channel="redbull.com" start="20251126235710+0000" stop="20251127002315+0000">
-    <title lang="en">Paris Major Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from the Paris Major Premier Padel tournament held at Roland-Garros stadium.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/16/bir6vn1luye88xynpdo8/alejandro-galan-alpine-paris-major-premier-padel-2025-roland-garros-final"/>
-  </programme>
-  <programme channel="redbull.com" start="20251127002315+0000" stop="20251127004940+0000">
-    <title lang="en">Italy Major Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from the Italy Major Premier Padel tournament held at Foro Italico in Rome.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/16/lwsioonkgp60vxyx3mgx/claudia-fernandez-sanchez-and-beatriz-gonzalez-fernandez-premier-padel-italy-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20251127004940+0000" stop="20251127011533+0000">
     <title lang="en">Germany Premier Padel P2 highlights</title>
     <desc lang="en">Watch the highlights from the Germany Premier Padel P2 tournament.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Arguably the best male ski racer has returned from retirement to attempt the mother of all comebacks.      </desc>
     <category lang="en">Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/17/fc0txpbkuehvmfvsmrgt/marcel-hirscher-fis-world-cup-giant-slalom-solden-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20251127144724+0000" stop="20251127145911+0000">
+    <title lang="en">Queralt Castellet</title>
+    <desc lang="en">Spanish snowboarder Queralt Castellet has competed since 2005 – and only gets better every season.</desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/17/azj8bgwocd7irq6bjcpp/queralt-castellet-red-bull-snow-backcountry-camp-revelstoke-2024-snowboard-air"/>
+  </programme>
+  <programme channel="redbull.com" start="20251127145911+0000" stop="20251127151339+0000">
+    <title lang="en">Alice Robinson</title>
+    <desc lang="en">With explosive and unpredictable runs, Alice Robinson is putting New Zealand on the podium in alpine skiing. </desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/17/bu7oagl87gdcsrctvhla/red-bull-alice-robinson-coronet-peak-queenstown-skiing-august-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20251127055014+0000" stop="20251127060000+0000">
+    <title lang="en">Paul Verbnjak</title>
+    <desc lang="en">This exciting Austrian ski mountaineer is a rising star in a sport that’s rapidly taking the world stage.</desc>
+    <category lang="en">Ski Touring</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/20/otzndxltn9eiwxvabxhh/paul-verbnjak-red-bull-hangar-7-salzburg-2023-helicopter-helmet-ski-jumping"/>
   </programme>
 </tv>
