@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-28 09:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-28 10:55:05">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251128030007+0000" stop="20251128042120+0000">
-    <title lang="en">Against the Odds</title>
-    <desc lang="en">Team OG defied the odds – witness their esports journey to Dota 2 glory at TI8. </desc>
-    <category lang="en">Esports</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/12/4/pcwlj5cjkqd2os2ds8cw/n0tail-ana-kuala-lumpur-video-shoot-cyberview-garden-villas-malaysia-august-2019"/>
-  </programme>
-  <programme channel="redbull.com" start="20251128042120+0000" stop="20251128060000+0000">
-    <title lang="en">Valley Uprising</title>
-    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20251128060000+0000" stop="20251128070656+0000">
     <title lang="en">Yamnuska: The Ragged Edge </title>
     <desc lang="en">Vikki Weldon and Quentin Roberts explore the enduring legacy of rock climbing on Canada's Mount Yamnuska.</desc>
@@ -29,7 +17,7 @@
     <category lang="en">Athletics</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/27/r97odp9y4wmzprlmc2zd/the-next-centimeter-armand-duplantis"/>
   </programme>
-  <programme channel="redbull.com" start="20251128012756+0000" stop="20251128030007+0000">
+  <programme channel="redbull.com" start="20251128073311+0000" stop="20251128090522+0000">
     <title lang="en">Au Revoir</title>
     <desc lang="en">The story of wake-boarding champion Raph Derome as he retires from riding in front of crowds and cameras.</desc>
     <category lang="en">Wakeboarding</category>
@@ -154,5 +142,17 @@
     <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/ynqwuqdbhxclhxuwztm0/alejandro-galan-miami-premier-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20251128170604+0000" stop="20251128173156+0000">
+    <title lang="en">Cancun Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from Mexico as the Cancun Premier Padel P2 took centre stage. </desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/17/lr1amwly2elapgnn1fha/juan-lebron-franco-stupaczuk-cancun-padel-p2-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20251128173156+0000" stop="20251128175839+0000">
+    <title lang="en">Malaga Premier Padel P1 highlights</title>
+    <desc lang="en">Watch the highlights from the Malaga Premier Padel P1 tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/7/22/dj0tkoyzyh8u0r5smtvj/federico-chingotto-malaga-premier-padel-p1-2025-quarter-finals-action-spain"/>
   </programme>
 </tv>
