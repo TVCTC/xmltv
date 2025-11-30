@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-30 21:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-30 22:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251130190015+0000" stop="20251130203925+0000">
-    <title lang="en">Valley Uprising</title>
-    <desc lang="en">Join Alex Honnold for an inside look into how climbers carved out a counterculture lifestyle in Yosemite.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/2/24/hpafadee1wnjsftx0e38/valley-uprising-hero-art"/>
-  </programme>
   <programme channel="redbull.com" start="20251130203925+0000" stop="20251130214621+0000">
     <title lang="en">Yamnuska: The Ragged Edge </title>
     <desc lang="en">Vikki Weldon and Quentin Roberts explore the enduring legacy of rock climbing on Canada's Mount Yamnuska.</desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Follow elite skiers and snowboarders in a cinematic ride through risk, beauty and the pursuit of perfection.</desc>
     <category lang="en">Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/17/e4mbwjuzt6jouzgh8nq2/pressure-drop-ski-snowboard-film-tgr"/>
+  </programme>
+  <programme channel="redbull.com" start="20251201091152+0000" stop="20251201093512+0000">
+    <title lang="en">Paradigm</title>
+    <desc lang="en">Thomas Genon, Szymon Godziek, Emil Johansson and Kade Edwards showcase raw MTB talent and nonstop action.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/2/cqu4hub97fnxbhs8hfrq/paradigm-thomas-genon-szymon-godziek-emil-johansson-kade-edwards-mtb"/>
   </programme>
 </tv>
