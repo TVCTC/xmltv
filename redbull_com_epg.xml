@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-30 18:55:04">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-11-30 19:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251130160651+0000" stop="20251130173902+0000">
-    <title lang="en">Au Revoir</title>
-    <desc lang="en">The story of wake-boarding champion Raph Derome as he retires from riding in front of crowds and cameras.</desc>
-    <category lang="en">Wakeboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/21/six64tifrqioqukziszs/raph-derome-au-revoir-screenshot-wakeboarding"/>
-  </programme>
   <programme channel="redbull.com" start="20251130173902+0000" stop="20251130190015+0000">
     <title lang="en">Against the Odds</title>
     <desc lang="en">Team OG defied the odds – witness their esports journey to Dota 2 glory at TI8. </desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Follow Asa Vermette – one of mountain biking’s most exciting young riders – on his debut at Red Bull Hardline.</desc>
     <category lang="en">MTB</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/23/biuku043za3cn2jenh3y/asa-vermette-red-bull-hardline-2025-maydena-bike-park-tasmania-australia"/>
+  </programme>
+  <programme channel="redbull.com" start="20251201044712+0000" stop="20251201052920+0000">
+    <title lang="en">Paved</title>
+    <desc lang="en">Experience the joy as snowboarding’s elite push boundaries and chase podium dreams ahead of the 2026 season.</desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/31/bvyynn4liwie3bupfayp/paved-snowboarding-film"/>
   </programme>
 </tv>
