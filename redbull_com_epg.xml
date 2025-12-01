@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-01 15:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-01 16:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251201134715+0000" stop="20251201141129+0000">
-    <title lang="en">Cliff diving mistakes that cost you</title>
-    <desc lang="en">With everything at stake, Constantin Popovici and Kaylea Arnett need to dig deep to perfect their dives.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/31/uh9wgqbzzwsarizjcphf/constantin-popovici-red-bull-cliff-diving-world-series-boston-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20251201141129+0000" stop="20251201143858+0000">
-    <title lang="en">The rise and fall of elite cliff divers</title>
-    <desc lang="en">A breathtaking venue pushes Morgane Herculano and Jonathan Paredes to question their career choices.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/31/ib1mfdtmn6hsha7bpjyp/red-bull-cliff-diving-world-series-polignano-italy-2025-herculano-martinez-guzman"/>
-  </programme>
   <programme channel="redbull.com" start="20251201143858+0000" stop="20251201150509+0000">
     <title lang="en">Buenos Aires Premier Padel highlights</title>
     <desc lang="en">Watch the highlights from the Buenos Aires Premier Padel P1 tournament at Parque Roca.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Pro snowboarder Mark McMorris and friends prepare for the upcoming high-stakes competition season.</desc>
     <category lang="en">Snowboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/12/9/pixcjr3dud0dskr2atng/chasing-winter-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20251202013822+0000" stop="20251202024554+0000">
+    <title lang="en">Yamnuska: The Ragged Edge </title>
+    <desc lang="en">Vikki Weldon and Quentin Roberts explore the enduring legacy of rock climbing on Canada's Mount Yamnuska.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/ll4jsqgipcgeh5kufqli/will-gadd-yamnuska-canada-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20251202024554+0000" stop="20251202034101+0000">
+    <title lang="en">Resilience</title>
+    <desc lang="en">Follow Els Visser's journey from surviving a ship wreck to becoming a triathlon and Ironman athlete.</desc>
+    <category lang="en">Triathlon</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/1/vqf5ihflrazw0mjm45mn/resilience"/>
   </programme>
 </tv>
