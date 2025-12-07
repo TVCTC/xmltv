@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-07 19:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-07 20:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251207165427+0000" stop="20251207172155+0000">
-    <title lang="en">The rise and fall of elite cliff divers</title>
-    <desc lang="en">A breathtaking venue pushes Morgane Herculano and Jonathan Paredes to question their career choices.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/31/ib1mfdtmn6hsha7bpjyp/red-bull-cliff-diving-world-series-polignano-italy-2025-herculano-martinez-guzman"/>
-  </programme>
-  <programme channel="redbull.com" start="20251207172155+0000" stop="20251207174806+0000">
-    <title lang="en">Buenos Aires Premier Padel highlights</title>
-    <desc lang="en">Watch the highlights from the Buenos Aires Premier Padel P1 tournament at Parque Roca.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/2/wsa7obu5wmxbwp3omvdm/agustin-tapia-arturo-coello-buenos-aires-premier-padel-p1-2025-victory"/>
-  </programme>
   <programme channel="redbull.com" start="20251207174806+0000" stop="20251207181401+0000">
     <title lang="en">Newgiza Premier Padel P2 highlights</title>
     <desc lang="en">Watch the highlights from the Newgiza Premier Padel P2 tournament.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Pro snowboarder Mark McMorris and friends prepare for the upcoming high-stakes competition season.</desc>
     <category lang="en">Snowboarding</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2021/12/9/pixcjr3dud0dskr2atng/chasing-winter-hero-art"/>
+  </programme>
+  <programme channel="redbull.com" start="20251208042921+0000" stop="20251208053653+0000">
+    <title lang="en">Yamnuska: The Ragged Edge </title>
+    <desc lang="en">Vikki Weldon and Quentin Roberts explore the enduring legacy of rock climbing on Canada's Mount Yamnuska.</desc>
+    <category lang="en">Climbing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/ll4jsqgipcgeh5kufqli/will-gadd-yamnuska-canada-climbing"/>
+  </programme>
+  <programme channel="redbull.com" start="20251207231534+0000" stop="20251207232628+0000">
+    <title lang="en">Marcel Hirscher</title>
+    <desc lang="en">Arguably the best male ski racer has returned from retirement to attempt the mother of all comebacks.      </desc>
+    <category lang="en">Skiing</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/17/fc0txpbkuehvmfvsmrgt/marcel-hirscher-fis-world-cup-giant-slalom-solden-2024"/>
   </programme>
 </tv>
