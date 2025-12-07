@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-07 20:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-07 21:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251207174806+0000" stop="20251207181401+0000">
-    <title lang="en">Newgiza Premier Padel P2 highlights</title>
-    <desc lang="en">Watch the highlights from the Newgiza Premier Padel P2 tournament.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/11/3/leairap6wfwdqj7svlm1/alejandro-galan-2025-newgiza-premier-padel-p2-semi-finals-giza-egypt-red-bull"/>
-  </programme>
-  <programme channel="redbull.com" start="20251207181401+0000" stop="20251207184003+0000">
-    <title lang="en">Miami Premier Padel highlights</title>
-    <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
-    <category lang="en">Padel</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/ynqwuqdbhxclhxuwztm0/alejandro-galan-miami-premier-padel-2025"/>
-  </programme>
   <programme channel="redbull.com" start="20251207184003+0000" stop="20251207190628+0000">
     <title lang="en">Italy Major Premier Padel highlights</title>
     <desc lang="en">Watch the highlights from the Italy Major Premier Padel tournament held at Foro Italico in Rome.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Arguably the best male ski racer has returned from retirement to attempt the mother of all comebacks.      </desc>
     <category lang="en">Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/17/fc0txpbkuehvmfvsmrgt/marcel-hirscher-fis-world-cup-giant-slalom-solden-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20251207232628+0000" stop="20251207233739+0000">
+    <title lang="en">Queralt Castellet</title>
+    <desc lang="en">Spanish snowboarder Queralt Castellet has competed since 2005 – and only gets better every season.</desc>
+    <category lang="en">Snowboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/17/azj8bgwocd7irq6bjcpp/queralt-castellet-red-bull-snow-backcountry-camp-revelstoke-2024-snowboard-air"/>
+  </programme>
+  <programme channel="redbull.com" start="20251208060000+0000" stop="20251208065506+0000">
+    <title lang="en">Resilience</title>
+    <desc lang="en">Follow Els Visser's journey from surviving a ship wreck to becoming a triathlon and Ironman athlete.</desc>
+    <category lang="en">Triathlon</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/1/vqf5ihflrazw0mjm45mn/resilience"/>
   </programme>
 </tv>
