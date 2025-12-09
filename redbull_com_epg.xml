@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-09 20:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-09 21:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251209174213+0000" stop="20251209175642+0000">
-    <title lang="en">Alice Robinson</title>
-    <desc lang="en">With explosive and unpredictable runs, Alice Robinson is putting New Zealand on the podium in alpine skiing. </desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/17/bu7oagl87gdcsrctvhla/red-bull-alice-robinson-coronet-peak-queenstown-skiing-august-2025"/>
-  </programme>
-  <programme channel="redbull.com" start="20251209175642+0000" stop="20251209180631+0000">
-    <title lang="en">Paul Verbnjak</title>
-    <desc lang="en">This exciting Austrian ski mountaineer is a rising star in a sport that’s rapidly taking the world stage.</desc>
-    <category lang="en">Ski Touring</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/20/otzndxltn9eiwxvabxhh/paul-verbnjak-red-bull-hangar-7-salzburg-2023-helicopter-helmet-ski-jumping"/>
-  </programme>
-  <programme channel="redbull.com" start="20251209180631+0000" stop="20251209183231+0000">
-    <title lang="en">From BASE jumping a cave to a flying mega swing </title>
-    <desc lang="en">Red Bull athletes do it all, from slacklining the distance of two soccer fields to BASE jumping into a cave. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/iww612k42herg2tme0kr/marco-fuerst-base-jumping"/>
-  </programme>
   <programme channel="redbull.com" start="20251209183231+0000" stop="20251209185831+0000">
     <title lang="en">From skydiving with skis to flying into a volcano</title>
     <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
@@ -101,13 +83,13 @@
     <category lang="en">Freeskiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/20/aa1dywabyad5idrbmfrt/mathilde-gremaud-she-who-flies"/>
   </programme>
-  <programme channel="redbull.com" start="20251209170532+0000" stop="20251209172008+0000">
+  <programme channel="redbull.com" start="20251210051335+0000" stop="20251210052810+0000">
     <title lang="en">Eileen Gu</title>
     <desc lang="en">Witness the dazzling trajectory of a skier who's redefining what it means to be a modern champion. </desc>
     <category lang="en">Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/17/lg8vaxhpdirwtw9evvhm/red-bull-eileen-gu-halfpipe-kitzsteinhorn-austria-2023-ski-action"/>
   </programme>
-  <programme channel="redbull.com" start="20251209172008+0000" stop="20251209173103+0000">
+  <programme channel="redbull.com" start="20251210052810+0000" stop="20251210053905+0000">
     <title lang="en">Marcel Hirscher</title>
     <desc lang="en">Arguably the best male ski racer has returned from retirement to attempt the mother of all comebacks.      </desc>
     <category lang="en">Skiing</category>
@@ -154,5 +136,23 @@
     <desc lang="en">Watch the highlights from the Buenos Aires Premier Padel P1 tournament at Parque Roca.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/2/wsa7obu5wmxbwp3omvdm/agustin-tapia-arturo-coello-buenos-aires-premier-padel-p1-2025-victory"/>
+  </programme>
+  <programme channel="redbull.com" start="20251210081358+0000" stop="20251210084029+0000">
+    <title lang="en">Newgiza Premier Padel P2 highlights</title>
+    <desc lang="en">Watch the highlights from the Newgiza Premier Padel P2 tournament.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/11/3/leairap6wfwdqj7svlm1/alejandro-galan-2025-newgiza-premier-padel-p2-semi-finals-giza-egypt-red-bull"/>
+  </programme>
+  <programme channel="redbull.com" start="20251210084029+0000" stop="20251210090631+0000">
+    <title lang="en">Miami Premier Padel highlights</title>
+    <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/ynqwuqdbhxclhxuwztm0/alejandro-galan-miami-premier-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20251210090631+0000" stop="20251210093256+0000">
+    <title lang="en">Italy Major Premier Padel highlights</title>
+    <desc lang="en">Watch the highlights from the Italy Major Premier Padel tournament held at Foro Italico in Rome.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/6/16/lwsioonkgp60vxyx3mgx/claudia-fernandez-sanchez-and-beatriz-gonzalez-fernandez-premier-padel-italy-2025"/>
   </programme>
 </tv>
