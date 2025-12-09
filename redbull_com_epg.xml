@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-09 12:55:04">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-09 13:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251209093842+0000" stop="20251209100443+0000">
-    <title lang="en">Philippines cliffs push divers to the edge</title>
-    <desc lang="en">Against the stunning natural beauty of El Nido, Molly Carlson and ‪Catalin Preda face their fear to freefall.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/31/jpnu9dfvikhcryzxr7o7/molly-carlson-red-bull-cliff-diving-el-nido-2025-lagen-island"/>
-  </programme>
-  <programme channel="redbull.com" start="20251209100443+0000" stop="20251209103446+0000">
-    <title lang="en">The two GOATs of cliff diving</title>
-    <desc lang="en">Dive into the minds of the two best cliff divers in the world: Gary Hunt and Rhiannan Iffland.</desc>
-    <category lang="en">Cliff Diving</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/6/ujzdh8g4vnc4jondbvho/red-bull-cliff-diving-2025-gary-hunt-armstand-mostar-stari-most"/>
-  </programme>
   <programme channel="redbull.com" start="20251209103446+0000" stop="20251209105901+0000">
     <title lang="en">Cliff diving mistakes that cost you</title>
     <desc lang="en">With everything at stake, Constantin Popovici and Kaylea Arnett need to dig deep to perfect their dives.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
+  </programme>
+  <programme channel="redbull.com" start="20251209192507+0000" stop="20251209205719+0000">
+    <title lang="en">Au Revoir</title>
+    <desc lang="en">The story of wake-boarding champion Raph Derome as he retires from riding in front of crowds and cameras.</desc>
+    <category lang="en">Wakeboarding</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/21/six64tifrqioqukziszs/raph-derome-au-revoir-screenshot-wakeboarding"/>
+  </programme>
+  <programme channel="redbull.com" start="20251209205719+0000" stop="20251209215153+0000">
+    <title lang="en">Ice Waterfalls</title>
+    <desc lang="en">Aniol Serrasolses pushes limits in Norway, kayaking down a 20m-high ice waterfall, the largest ever recorded.</desc>
+    <category lang="en">Kayaking</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/18/bh9so7d3iaak0a1eajmc/ice-waterfalls-kayaking-in-norway-aniol-serrasolses"/>
   </programme>
 </tv>
