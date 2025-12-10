@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-10 05:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-10 06:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
+  <programme channel="redbull.com" start="20251210025320+0000" stop="20251210031640+0000">
+    <title lang="en">Paradigm</title>
+    <desc lang="en">Thomas Genon, Szymon Godziek, Emil Johansson and Kade Edwards showcase raw MTB talent and nonstop action.</desc>
+    <category lang="en">MTB</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/2/cqu4hub97fnxbhs8hfrq/paradigm-thomas-genon-szymon-godziek-emil-johansson-kade-edwards-mtb"/>
+  </programme>
   <programme channel="redbull.com" start="20251210031640+0000" stop="20251210042249+0000">
     <title lang="en">After the Snowfall</title>
     <desc lang="en">Elite skiers celebrate skiing’s soul, from deep powder to joy-filled moments around the world.</desc>
@@ -148,11 +154,5 @@
     <desc lang="en">Witness the dazzling trajectory of a skier who's redefining what it means to be a modern champion. </desc>
     <category lang="en">Skiing</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/17/lg8vaxhpdirwtw9evvhm/red-bull-eileen-gu-halfpipe-kitzsteinhorn-austria-2023-ski-action"/>
-  </programme>
-  <programme channel="redbull.com" start="20251210052810+0000" stop="20251210053905+0000">
-    <title lang="en">Marcel Hirscher</title>
-    <desc lang="en">Arguably the best male ski racer has returned from retirement to attempt the mother of all comebacks.      </desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/17/fc0txpbkuehvmfvsmrgt/marcel-hirscher-fis-world-cup-giant-slalom-solden-2024"/>
   </programme>
 </tv>
