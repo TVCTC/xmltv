@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-11 22:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-11 23:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251211195329+0000" stop="20251211210151+0000">
-    <title lang="en">Pressure Drop</title>
-    <desc lang="en">Follow elite skiers and snowboarders in a cinematic ride through risk, beauty and the pursuit of perfection.</desc>
-    <category lang="en">Skiing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/17/e4mbwjuzt6jouzgh8nq2/pressure-drop-ski-snowboard-film-tgr"/>
-  </programme>
-  <programme channel="redbull.com" start="20251211210151+0000" stop="20251211212511+0000">
-    <title lang="en">Paradigm</title>
-    <desc lang="en">Thomas Genon, Szymon Godziek, Emil Johansson and Kade Edwards showcase raw MTB talent and nonstop action.</desc>
-    <category lang="en">MTB</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/2/cqu4hub97fnxbhs8hfrq/paradigm-thomas-genon-szymon-godziek-emil-johansson-kade-edwards-mtb"/>
-  </programme>
   <programme channel="redbull.com" start="20251211212511+0000" stop="20251211223156+0000">
     <title lang="en">After the Snowfall</title>
     <desc lang="en">Elite skiers celebrate skiing’s soul, from deep powder to joy-filled moments around the world.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">59 intrepid teams race gravity-powered vehicles down a tricky course at Alexandra Palace in London.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/y2wmxqggij1ljnzpu00g/red-bull-soap-box-race-london-alexandra-palace-battersea-rollers-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20251212124154+0000" stop="20251212132620+0000">
+    <title lang="en">Hyderabad, India</title>
+    <desc lang="en">Red Bull Soapbox Race 2024 Hyderabad unleashed a wave of chaos as teams navigated the obstacle-filled track. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/t3kuzavdigax1e7a0esc/red-bull-soapbox-race-hyderabad-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20251212132620+0000" stop="20251212133920+0000">
+    <title lang="en">Red Bull Soapbox Race </title>
+    <desc lang="en">A race of pure fun and creativity entertains us with incredible costumes and brilliant design.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/zyiztqhkbsyu21lrq6nd/space-travelers"/>
   </programme>
 </tv>
