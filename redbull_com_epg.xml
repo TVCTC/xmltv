@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-11 17:55:06">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-11 18:55:03">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251211124102+0000" stop="20251211130702+0000">
-    <title lang="en">From skydiving with skis to flying into a volcano</title>
-    <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/jdlnqxz4nve0e3be9jf1/dario-costa-wingsuit-flying-through-catalca-tunnels-in-turkey"/>
-  </programme>
-  <programme channel="redbull.com" start="20251211130702+0000" stop="20251211133338+0000">
-    <title lang="en">From F1 soapbox racing to breaking world records</title>
-    <desc lang="en">Breaking records: all in a day's work! See Baumgartner jump from space, 65 women skydive and a BMXer loop big.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/wojffo2hj8umyaufkokh/richard-permin"/>
-  </programme>
-  <programme channel="redbull.com" start="20251211133338+0000" stop="20251211150550+0000">
-    <title lang="en">Au Revoir</title>
-    <desc lang="en">The story of wake-boarding champion Raph Derome as he retires from riding in front of crowds and cameras.</desc>
-    <category lang="en">Wakeboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2022/12/21/six64tifrqioqukziszs/raph-derome-au-revoir-screenshot-wakeboarding"/>
-  </programme>
   <programme channel="redbull.com" start="20251211150550+0000" stop="20251211160024+0000">
     <title lang="en">Ice Waterfalls</title>
     <desc lang="en">Aniol Serrasolses pushes limits in Norway, kayaking down a 20m-high ice waterfall, the largest ever recorded.</desc>
@@ -154,5 +136,23 @@
     <desc lang="en">Watch the highlights from the Paris Major Premier Padel tournament held at Roland-Garros stadium.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/16/bir6vn1luye88xynpdo8/alejandro-galan-alpine-paris-major-premier-padel-2025-roland-garros-final"/>
+  </programme>
+  <programme channel="redbull.com" start="20251212053301+0000" stop="20251212060000+0000">
+    <title lang="en">Padel Life – part 1</title>
+    <desc lang="en">Four stars. Four cities. One sport. Hear emotional journeys from the padel court to the heart of the game.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/14/u9cc0x8cyeclrkodcqew/federico-chingotto-alejandro-galan-alpine-paris-major-premier-padel-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20251212060000+0000" stop="20251212064353+0000">
+    <title lang="en">Des Moines, Iowa, USA</title>
+    <desc lang="en">The judges are ready to be dazzled by creativity and fast descents in this first event – in Iowa, USA.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/9/qku7jnbucbzirwkrxxbp/space-travelers"/>
+  </programme>
+  <programme channel="redbull.com" start="20251212064353+0000" stop="20251212072812+0000">
+    <title lang="en">Spa, Belgium</title>
+    <desc lang="en">Fearless teams race through obstacles in their engineless machines, but who will win in Spa?</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/do7fajz6prkpoagayfnq/red-bull-soapbox-race-brussels-2022"/>
   </programme>
 </tv>
