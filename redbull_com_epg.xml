@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-11 19:55:03">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-11 20:55:02">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251211164227+0000" stop="20251211174959+0000">
-    <title lang="en">Yamnuska: The Ragged Edge </title>
-    <desc lang="en">Vikki Weldon and Quentin Roberts explore the enduring legacy of rock climbing on Canada's Mount Yamnuska.</desc>
-    <category lang="en">Climbing</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/6/25/ll4jsqgipcgeh5kufqli/will-gadd-yamnuska-canada-climbing"/>
-  </programme>
-  <programme channel="redbull.com" start="20251211174959+0000" stop="20251211184506+0000">
-    <title lang="en">Resilience</title>
-    <desc lang="en">Follow Els Visser's journey from surviving a ship wreck to becoming a triathlon and Ironman athlete.</desc>
-    <category lang="en">Triathlon</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/9/1/vqf5ihflrazw0mjm45mn/resilience"/>
-  </programme>
   <programme channel="redbull.com" start="20251211184506+0000" stop="20251211191044+0000">
     <title lang="en">Asa Vermette's Ascent</title>
     <desc lang="en">Follow Asa Vermette – one of mountain biking’s most exciting young riders – on his debut at Red Bull Hardline.</desc>
@@ -154,5 +142,17 @@
     <desc lang="en">Witness the thrills of the 2023 Red Bull Soapbox Race in Switzerland – wild designs, speed and epic crashes! </desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/ofjybu0leyxatjxa3qut/red-bull-soapbox-race-bern-2023-team-moonshiners"/>
+  </programme>
+  <programme channel="redbull.com" start="20251212085555+0000" stop="20251212093927+0000">
+    <title lang="en">Melbourne, Australia </title>
+    <desc lang="en">High-speed antics in Melbourne, Australia, as wildly creative teams test their homemade racers, down under. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/bxbgdlyih7jfsmf1jdww/red-bull-billy-cart-race-melbourne-postal-express-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20251212093927+0000" stop="20251212102352+0000">
+    <title lang="en">Oslo, Norway </title>
+    <desc lang="en">Norway's Red Bull Soapbox Race 2023 showcases wild designs, steep hills and daring drivers. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/re3dhykwrk0ujdrafule/red-bull-soapbox-race-oslo-norway-2023"/>
   </programme>
 </tv>
