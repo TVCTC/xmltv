@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-12 22:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-12 23:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251212194550+0000" stop="20251212212025+0000">
-    <title lang="en">London, England</title>
-    <desc lang="en">59 intrepid teams race gravity-powered vehicles down a tricky course at Alexandra Palace in London.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/y2wmxqggij1ljnzpu00g/red-bull-soap-box-race-london-alexandra-palace-battersea-rollers-2024"/>
-  </programme>
   <programme channel="redbull.com" start="20251212212025+0000" stop="20251212220451+0000">
     <title lang="en">Hyderabad, India</title>
     <desc lang="en">Red Bull Soapbox Race 2024 Hyderabad unleashed a wave of chaos as teams navigated the obstacle-filled track. </desc>
@@ -71,7 +65,7 @@
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/re3dhykwrk0ujdrafule/red-bull-soapbox-race-oslo-norway-2023"/>
   </programme>
-  <programme channel="redbull.com" start="20251212190223+0000" stop="20251212194550+0000">
+  <programme channel="redbull.com" start="20251213034054+0000" stop="20251213042421+0000">
     <title lang="en">Amman, Jordan </title>
     <desc lang="en">Catch the Red Bull Soapbox Race in Jordan as creative teams speed through Amman’s hills with bold designs.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
@@ -143,7 +137,7 @@
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/re3dhykwrk0ujdrafule/red-bull-soapbox-race-oslo-norway-2023"/>
   </programme>
-  <programme channel="redbull.com" start="20251212190223+0000" stop="20251212194550+0000">
+  <programme channel="redbull.com" start="20251213034054+0000" stop="20251213042421+0000">
     <title lang="en">Amman, Jordan </title>
     <desc lang="en">Catch the Red Bull Soapbox Race in Jordan as creative teams speed through Amman’s hills with bold designs.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
@@ -154,5 +148,11 @@
     <desc lang="en">59 intrepid teams race gravity-powered vehicles down a tricky course at Alexandra Palace in London.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/y2wmxqggij1ljnzpu00g/red-bull-soap-box-race-london-alexandra-palace-battersea-rollers-2024"/>
+  </programme>
+  <programme channel="redbull.com" start="20251212212025+0000" stop="20251212220451+0000">
+    <title lang="en">Hyderabad, India</title>
+    <desc lang="en">Red Bull Soapbox Race 2024 Hyderabad unleashed a wave of chaos as teams navigated the obstacle-filled track. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/t3kuzavdigax1e7a0esc/red-bull-soapbox-race-hyderabad-2024"/>
   </programme>
 </tv>
