@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-13 22:55:01">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-13 23:55:01">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251213201435+0000" stop="20251213205900+0000">
-    <title lang="en">Oslo, Norway </title>
-    <desc lang="en">Norway's Red Bull Soapbox Race 2023 showcases wild designs, steep hills and daring drivers. </desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/re3dhykwrk0ujdrafule/red-bull-soapbox-race-oslo-norway-2023"/>
-  </programme>
-  <programme channel="redbull.com" start="20251213205900+0000" stop="20251213214227+0000">
-    <title lang="en">Amman, Jordan </title>
-    <desc lang="en">Catch the Red Bull Soapbox Race in Jordan as creative teams speed through Amman’s hills with bold designs.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/uf6p1xnnsq5hvg5jrjpr/red-bull-soapbox-race-2023-amman-jordan"/>
-  </programme>
   <programme channel="redbull.com" start="20251213214227+0000" stop="20251213231701+0000">
     <title lang="en">London, England</title>
     <desc lang="en">59 intrepid teams race gravity-powered vehicles down a tricky course at Alexandra Palace in London.</desc>
@@ -71,7 +59,7 @@
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/ofjybu0leyxatjxa3qut/red-bull-soapbox-race-bern-2023-team-moonshiners"/>
   </programme>
-  <programme channel="redbull.com" start="20251213193103+0000" stop="20251213201435+0000">
+  <programme channel="redbull.com" start="20251214040934+0000" stop="20251214045306+0000">
     <title lang="en">Melbourne, Australia </title>
     <desc lang="en">High-speed antics in Melbourne, Australia, as wildly creative teams test their homemade racers, down under. </desc>
     <category lang="en">Red Bull Soapbox Race</category>
@@ -154,5 +142,17 @@
     <desc lang="en">Witness the thrills of the 2023 Red Bull Soapbox Race in Switzerland – wild designs, speed and epic crashes! </desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/ofjybu0leyxatjxa3qut/red-bull-soapbox-race-bern-2023-team-moonshiners"/>
+  </programme>
+  <programme channel="redbull.com" start="20251214040934+0000" stop="20251214045306+0000">
+    <title lang="en">Melbourne, Australia </title>
+    <desc lang="en">High-speed antics in Melbourne, Australia, as wildly creative teams test their homemade racers, down under. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/bxbgdlyih7jfsmf1jdww/red-bull-billy-cart-race-melbourne-postal-express-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20251213201435+0000" stop="20251213205900+0000">
+    <title lang="en">Oslo, Norway </title>
+    <desc lang="en">Norway's Red Bull Soapbox Race 2023 showcases wild designs, steep hills and daring drivers. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/re3dhykwrk0ujdrafule/red-bull-soapbox-race-oslo-norway-2023"/>
   </programme>
 </tv>
