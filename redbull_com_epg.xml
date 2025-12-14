@@ -1,23 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-14 10:55:04">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-14 11:55:04">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251214054826+0000" stop="20251214060000+0000">
-    <title lang="en">Queralt Castellet</title>
-    <desc lang="en">Spanish snowboarder Queralt Castellet has competed since 2005 – and only gets better every season.</desc>
-    <category lang="en">Snowboarding</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/17/azj8bgwocd7irq6bjcpp/queralt-castellet-red-bull-snow-backcountry-camp-revelstoke-2024-snowboard-air"/>
+  <programme channel="redbull.com" start="20251214092559+0000" stop="20251214101438+0000">
+    <title lang="en">Red Bull Flugtag </title>
+    <desc lang="en">Watch participants showcase ingenuity, creativity and flying capabilities before crashing into the Ohio River.</desc>
+    <category lang="en">Red Bull Flugtag</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/18/dena2qctqzcwwfwga2cm/event-participants"/>
   </programme>
-  <programme channel="redbull.com" start="20251214060000+0000" stop="20251214064326+0000">
+  <programme channel="redbull.com" start="20251214101438+0000" stop="20251214105831+0000">
+    <title lang="en">Des Moines, Iowa, USA</title>
+    <desc lang="en">The judges are ready to be dazzled by creativity and fast descents in this first event – in Iowa, USA.</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/9/qku7jnbucbzirwkrxxbp/space-travelers"/>
+  </programme>
+  <programme channel="redbull.com" start="20251214105831+0000" stop="20251214114250+0000">
+    <title lang="en">Spa, Belgium</title>
+    <desc lang="en">Fearless teams race through obstacles in their engineless machines, but who will win in Spa?</desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/do7fajz6prkpoagayfnq/red-bull-soapbox-race-brussels-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20251214114250+0000" stop="20251214122603+0000">
+    <title lang="en">San Marino, Italy</title>
+    <desc lang="en">The race with no engine and many obstacles will test the participants in San Marino, Italy. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/ixhalqhev7dsljmvkix8/red-bull-soapbox-race-san-marino-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20251214122603+0000" stop="20251214131033+0000">
+    <title lang="en">Bern, Switzerland </title>
+    <desc lang="en">Witness the thrills of the 2023 Red Bull Soapbox Race in Switzerland – wild designs, speed and epic crashes! </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/ofjybu0leyxatjxa3qut/red-bull-soapbox-race-bern-2023-team-moonshiners"/>
+  </programme>
+  <programme channel="redbull.com" start="20251214131033+0000" stop="20251214135405+0000">
+    <title lang="en">Melbourne, Australia </title>
+    <desc lang="en">High-speed antics in Melbourne, Australia, as wildly creative teams test their homemade racers, down under. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/bxbgdlyih7jfsmf1jdww/red-bull-billy-cart-race-melbourne-postal-express-2022"/>
+  </programme>
+  <programme channel="redbull.com" start="20251214135405+0000" stop="20251214143830+0000">
+    <title lang="en">Oslo, Norway </title>
+    <desc lang="en">Norway's Red Bull Soapbox Race 2023 showcases wild designs, steep hills and daring drivers. </desc>
+    <category lang="en">Red Bull Soapbox Race</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/re3dhykwrk0ujdrafule/red-bull-soapbox-race-oslo-norway-2023"/>
+  </programme>
+  <programme channel="redbull.com" start="20251214143830+0000" stop="20251214152157+0000">
     <title lang="en">Amman, Jordan </title>
     <desc lang="en">Catch the Red Bull Soapbox Race in Jordan as creative teams speed through Amman’s hills with bold designs.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/uf6p1xnnsq5hvg5jrjpr/red-bull-soapbox-race-2023-amman-jordan"/>
   </programme>
-  <programme channel="redbull.com" start="20251214064326+0000" stop="20251214081801+0000">
+  <programme channel="redbull.com" start="20251214152157+0000" stop="20251214165632+0000">
     <title lang="en">London, England</title>
     <desc lang="en">59 intrepid teams race gravity-powered vehicles down a tricky course at Alexandra Palace in London.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
@@ -71,25 +107,25 @@
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/ofjybu0leyxatjxa3qut/red-bull-soapbox-race-bern-2023-team-moonshiners"/>
   </programme>
-  <programme channel="redbull.com" start="20251214040934+0000" stop="20251214045306+0000">
+  <programme channel="redbull.com" start="20251214131033+0000" stop="20251214135405+0000">
     <title lang="en">Melbourne, Australia </title>
     <desc lang="en">High-speed antics in Melbourne, Australia, as wildly creative teams test their homemade racers, down under. </desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/bxbgdlyih7jfsmf1jdww/red-bull-billy-cart-race-melbourne-postal-express-2022"/>
   </programme>
-  <programme channel="redbull.com" start="20251214045306+0000" stop="20251214053731+0000">
+  <programme channel="redbull.com" start="20251214135405+0000" stop="20251214143830+0000">
     <title lang="en">Oslo, Norway </title>
     <desc lang="en">Norway's Red Bull Soapbox Race 2023 showcases wild designs, steep hills and daring drivers. </desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/re3dhykwrk0ujdrafule/red-bull-soapbox-race-oslo-norway-2023"/>
   </programme>
-  <programme channel="redbull.com" start="20251214060000+0000" stop="20251214064326+0000">
+  <programme channel="redbull.com" start="20251214143830+0000" stop="20251214152157+0000">
     <title lang="en">Amman, Jordan </title>
     <desc lang="en">Catch the Red Bull Soapbox Race in Jordan as creative teams speed through Amman’s hills with bold designs.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/uf6p1xnnsq5hvg5jrjpr/red-bull-soapbox-race-2023-amman-jordan"/>
   </programme>
-  <programme channel="redbull.com" start="20251214064326+0000" stop="20251214081801+0000">
+  <programme channel="redbull.com" start="20251214152157+0000" stop="20251214165632+0000">
     <title lang="en">London, England</title>
     <desc lang="en">59 intrepid teams race gravity-powered vehicles down a tricky course at Alexandra Palace in London.</desc>
     <category lang="en">Red Bull Soapbox Race</category>
@@ -107,52 +143,16 @@
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/zyiztqhkbsyu21lrq6nd/space-travelers"/>
   </programme>
-  <programme channel="redbull.com" start="20251214091527+0000" stop="20251214092559+0000">
-    <title lang="en">Red Bull Flugtag </title>
-    <desc lang="en">A flying contest where anyone and everyone can launch their homemade masterpieces into the abyss.</desc>
-    <category lang="en">Red Bull Flugtag</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/r532oyzhf9kijbswimef/participants"/>
-  </programme>
   <programme channel="redbull.com" start="20251214092559+0000" stop="20251214101438+0000">
     <title lang="en">Red Bull Flugtag </title>
     <desc lang="en">Watch participants showcase ingenuity, creativity and flying capabilities before crashing into the Ohio River.</desc>
     <category lang="en">Red Bull Flugtag</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/18/dena2qctqzcwwfwga2cm/event-participants"/>
   </programme>
-  <programme channel="redbull.com" start="20251214101438+0000" stop="20251214105831+0000">
-    <title lang="en">Des Moines, Iowa, USA</title>
-    <desc lang="en">The judges are ready to be dazzled by creativity and fast descents in this first event – in Iowa, USA.</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/9/qku7jnbucbzirwkrxxbp/space-travelers"/>
-  </programme>
-  <programme channel="redbull.com" start="20251214105831+0000" stop="20251214114250+0000">
-    <title lang="en">Spa, Belgium</title>
-    <desc lang="en">Fearless teams race through obstacles in their engineless machines, but who will win in Spa?</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/do7fajz6prkpoagayfnq/red-bull-soapbox-race-brussels-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20251214114250+0000" stop="20251214122603+0000">
-    <title lang="en">San Marino, Italy</title>
-    <desc lang="en">The race with no engine and many obstacles will test the participants in San Marino, Italy. </desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/ixhalqhev7dsljmvkix8/red-bull-soapbox-race-san-marino-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20251214122603+0000" stop="20251214131033+0000">
-    <title lang="en">Bern, Switzerland </title>
-    <desc lang="en">Witness the thrills of the 2023 Red Bull Soapbox Race in Switzerland – wild designs, speed and epic crashes! </desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/ofjybu0leyxatjxa3qut/red-bull-soapbox-race-bern-2023-team-moonshiners"/>
-  </programme>
-  <programme channel="redbull.com" start="20251214040934+0000" stop="20251214045306+0000">
-    <title lang="en">Melbourne, Australia </title>
-    <desc lang="en">High-speed antics in Melbourne, Australia, as wildly creative teams test their homemade racers, down under. </desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/bxbgdlyih7jfsmf1jdww/red-bull-billy-cart-race-melbourne-postal-express-2022"/>
-  </programme>
-  <programme channel="redbull.com" start="20251214045306+0000" stop="20251214053731+0000">
-    <title lang="en">Oslo, Norway </title>
-    <desc lang="en">Norway's Red Bull Soapbox Race 2023 showcases wild designs, steep hills and daring drivers. </desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/re3dhykwrk0ujdrafule/red-bull-soapbox-race-oslo-norway-2023"/>
+  <programme channel="redbull.com" start="20251215032031+0000" stop="20251215034631+0000">
+    <title lang="en">From skydiving with skis to flying into a volcano</title>
+    <desc lang="en">Red Bull athletes do it all, from wingsuit flying over an active volcano to skydiving on skis. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/10/10/jdlnqxz4nve0e3be9jf1/dario-costa-wingsuit-flying-through-catalca-tunnels-in-turkey"/>
   </programme>
 </tv>
