@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-14 22:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-14 23:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251214193626+0000" stop="20251214202045+0000">
-    <title lang="en">Spa, Belgium</title>
-    <desc lang="en">Fearless teams race through obstacles in their engineless machines, but who will win in Spa?</desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2023/8/10/do7fajz6prkpoagayfnq/red-bull-soapbox-race-brussels-2022"/>
-  </programme>
   <programme channel="redbull.com" start="20251214202045+0000" stop="20251214210358+0000">
     <title lang="en">San Marino, Italy</title>
     <desc lang="en">The race with no engine and many obstacles will test the participants in San Marino, Italy. </desc>
@@ -59,7 +53,7 @@
     <category lang="en">Red Bull Soapbox Race</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/1/3/zyiztqhkbsyu21lrq6nd/space-travelers"/>
   </programme>
-  <programme channel="redbull.com" start="20251214180354+0000" stop="20251214185233+0000">
+  <programme channel="redbull.com" start="20251215023153+0000" stop="20251215032031+0000">
     <title lang="en">Red Bull Flugtag </title>
     <desc lang="en">Watch participants showcase ingenuity, creativity and flying capabilities before crashing into the Ohio River.</desc>
     <category lang="en">Red Bull Flugtag</category>
@@ -154,5 +148,11 @@
     <desc lang="en">With everything at stake, Constantin Popovici and Kaylea Arnett need to dig deep to perfect their dives.</desc>
     <category lang="en">Cliff Diving</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/31/uh9wgqbzzwsarizjcphf/constantin-popovici-red-bull-cliff-diving-world-series-boston-2025"/>
+  </programme>
+  <programme channel="redbull.com" start="20251215141053+0000" stop="20251215143746+0000">
+    <title lang="en">The rise and fall of elite cliff divers</title>
+    <desc lang="en">A breathtaking venue pushes Morgane Herculano and Jonathan Paredes to question their career choices.</desc>
+    <category lang="en">Cliff Diving</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/10/31/ib1mfdtmn6hsha7bpjyp/red-bull-cliff-diving-world-series-polignano-italy-2025-herculano-martinez-guzman"/>
   </programme>
 </tv>
