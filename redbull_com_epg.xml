@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-15 00:55:00">
+<tv generator-info-name="TVCTC" source-info-url="https://www.redbull.com/int-en/channels/best-of-red-bull-stream" time-created="2025-12-15 01:55:00">
   <channel id="redbull.com">
     <display-name>Red Bull TV</display-name>
     <icon src="https://images2.imgbox.com/66/de/t9thE5Ji_o.png"/>
   </channel>
-  <programme channel="redbull.com" start="20251214214828+0000" stop="20251214223200+0000">
-    <title lang="en">Melbourne, Australia </title>
-    <desc lang="en">High-speed antics in Melbourne, Australia, as wildly creative teams test their homemade racers, down under. </desc>
-    <category lang="en">Red Bull Soapbox Race</category>
-    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2024/11/12/bxbgdlyih7jfsmf1jdww/red-bull-billy-cart-race-melbourne-postal-express-2022"/>
-  </programme>
   <programme channel="redbull.com" start="20251214223200+0000" stop="20251214231625+0000">
     <title lang="en">Oslo, Norway </title>
     <desc lang="en">Norway's Red Bull Soapbox Race 2023 showcases wild designs, steep hills and daring drivers. </desc>
@@ -154,5 +148,11 @@
     <desc lang="en">Watch the highlights from the Newgiza Premier Padel P2 tournament.</desc>
     <category lang="en">Padel</category>
     <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/11/3/leairap6wfwdqj7svlm1/alejandro-galan-2025-newgiza-premier-padel-p2-semi-finals-giza-egypt-red-bull"/>
+  </programme>
+  <programme channel="redbull.com" start="20251215153028+0000" stop="20251215155629+0000">
+    <title lang="en">Miami Premier Padel highlights</title>
+    <desc lang="en">Watch the action from the Miami Premier Padel P1 as it joined the padel tournament for the first time in 2025.</desc>
+    <category lang="en">Padel</category>
+    <icon src="https://img.redbull.com/images/c_fill,w_600,h_400/q_auto,f_auto/redbullcom/2025/3/24/ynqwuqdbhxclhxuwztm0/alejandro-galan-miami-premier-padel-2025"/>
   </programme>
 </tv>
