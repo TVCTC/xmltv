@@ -1,177 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://olympics.com" time-created="2026-01-02 00:00:03">
+<tv generator-info-name="TVCTC" source-info-url="https://olympics.com" time-created="2026-01-03 00:00:05">
   <channel id="olympic-channel.olympics.com">
     <display-name>Olympic Channel</display-name>
     <icon src="https://thumbs2.imgbox.com/45/27/1M1IrWhV_t.png"/>
   </channel>
-  <programme channel="olympic-channel.olympics.com" start="20260101202810+0000" stop="20260102003406+0000">
-    <title lang="en">Opening Ceremony - Ceremony | Tokyo 2020 Replays</title>
-    <desc lang="en">The Opening Ceremony of the Tokyo 2020 Summer Olympic Games took place on 23/07/2021 at the Olympic Stadium, Tokyo. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/nvdz54v1pntpvnpfv3st"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102003406+0000" stop="20260102010838+0000">
-    <title lang="en">Summary of the Games | Olympic Games Paris 2024</title>
-    <desc lang="en">Experience the excitement of the Paris 2024 Games with daily sports highlights that capture the most thrilling moments from each day of competition. Relive iconic victories, unforgettable performances, and the intensity of the world's top athletes as they go for gold. This collection brings you the best of the Games, day by day.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/usgoypex2llfn6heulw9"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102010838+0000" stop="20260102033939+0000">
-    <title lang="en">Opening Ceremony | Beijing 2022 Replays</title>
-    <desc lang="en">This event took place on 04/02/2022 at the National Stadium</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/jjm06dx5tgcr8xqx0xs6"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102033939+0000" stop="20260102060247+0000">
-    <title lang="en">Albertville 1992 - Opening Ceremony</title>
-    <desc lang="en">The Olympic cauldron was lit by a 9-year-old boy that jogged to the top of the stadium steps with France football legend Michel Platini.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/p5tjnsbi8qgkbfkwte4j"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102060000+0000" stop="20260102065353+0000">
-    <title lang="en">Rise of Women Olympians</title>
-    <desc lang="en">The Olympic Series Vol.5, Program 1 : The story of Women at the Games, Rise of Women Olympians.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/wxcua384ycbgx9v2zjyh"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102065353+0000" stop="20260102084237+0000">
-    <title lang="en">Women's Downhill - Alpine Skiing | PyeongChang 2018 Replays</title>
-    <desc lang="en">The women's downhill competition was held at the Jeongseon Alpine Centre on 21 February 2018.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/eqm3i2t6hasq4kwiamh1"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102084237+0000" stop="20260102085900+0000">
-    <title lang="en">Cirque Blanc | Injury and pressure in Val d’Isère</title>
-    <desc lang="en">As the Cirque Blanc rolls into Val d’Isère for the start of the women’s downhill ski season, the French team has one notable absentee. Romane comes to terms with a season-changing injury, and the pressure is on for Tiffany and Tessa to perform on home soil.
-Cirque Blanc is the Olympic Channel’s new original alpine skiing documentary series following France’s top female skiers Tessa Worley, Tiffany Gauthier and Romane Miradoli on the Alpine Ski World Cup circuit 2020/2021.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/u28hrhnujtosnbqpt82a"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102085900+0000" stop="20260102093231+0000">
-    <title lang="en">The Tech Race | Episode 5</title>
-    <desc lang="en">In this episode: exhaustive performance analysis, wheelchair treadmills, taekwondo sensor vests, ultimate snowboards, and sailing analytics.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/xbulx7hwzhvhy4nndxkf"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102093231+0000" stop="20260102094636+0000">
-    <title lang="en">Anatomy of a Snowboarder: Hidden strengths of slopestyle star Sven Thorgren</title>
-    <desc lang="en">The Swedish snowboarder demonstrates his all-round athleticism in a world-class sports science facility.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/mbz8ggmwgnmuj2mkgle8"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102094636+0000" stop="20260102120141+0000">
-    <title lang="en">Women's Super-G - Alpine Skiing | Olympic Winter Games Beijing 2022</title>
-    <desc lang="en">This event took place on 11/02/2022 at the Nat Alpine Ski Ctr - Speed. Lara Gut-Behrami (SUI) was the fastest skier in the Women’s Alpine Super-G claiming the gold medal with a time of 1:13.51. Mirjam Puchner (AUT) nabbed the silver after finishing in a time of 1:13.73 and Michelle Gisin (SUI) scooped bronze with a time of 1:13.81.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/dxw8n44pnfd8nyp4verr"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102120141+0000" stop="20260102123028+0000">
-    <title lang="en">Canada’s Jayna Hefford | Legends Live On</title>
-    <desc lang="en">A look at the Olympic achievements of Canada’s four-time gold medallist Jayna Hefford, and what she is doing now for women’s professional ice hockey. </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/vr57fjahypzbidtbyiub"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102123028+0000" stop="20260102125955+0000">
-    <title lang="en">Meet the ice hockey goalie of the first ever unified Korean team</title>
-    <desc lang="en">The full story of Sojung Shin’s incredible journey as she trained, qualified, and competed in PyeongChang 2018 </desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/fsfiaogjxjcurb92l59f"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102125955+0000" stop="20260102153529+0000">
-    <title lang="en">Women's Moguls Qualification 2 &amp; Finals - Freestyle Skiing | Olympic Winter Games Beijing 2022</title>
-    <desc lang="en">This event took place on 06/02/2022 at the Genting Snow Park - AE &amp; MO. Jakara Anthony (AUS) claimed Gold with a score of 83.09, Jaelin Kauf (USA) Silver and Anastasiia Smirnova (ROC)completed the podium.
-</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/xbhjl4vmie3xmysrbygw"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102153529+0000" stop="20260102153954+0000">
-    <title lang="en">Kevin Rolland: France’s spectacular freestyle skier</title>
-    <desc lang="en">France’s freestyle skier and halfpipe expert, Kevin Rolland, speaks about recovering from severe injury, the thrill of freestyle riding, and getting ready to compete at the Olympic Winter Games Beijing 2022.
-Music Track: Tokyo Drifting, Glass Animals
-
-</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/dhy0e9jefrkhrppqtbqb"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102153954+0000" stop="20260102154403+0000">
-    <title lang="en">Freestyle Ski Star Kelly Sildaru is Ready for Beijing 2022</title>
-    <desc lang="en">After a knee injury stopped her from competing in PyeongChang 2018, Estonian skier Kelly Sildaru pushed hard to recover and come back strong to win gold at the Olympic Youth Winter Games in Lausanne 2020. Driven by the love for her sport, the Estonian star skier says her next mission is Beijing 2022.   
-Music track: Distorted Light Beam, Bastille
-</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/uqadv3dxldxhpznwm23s"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102154403+0000" stop="20260102161149+0000">
-    <title lang="en">France’s Edgar Grospiron (extended)</title>
-    <desc lang="en">French moguls skier Edgar Grospiron won gold in Albertville 1992. He is now supporting the next generation of Olympic champions.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/jeuejedolg6tsgpwwk7x"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102161149+0000" stop="20260102180128+0000">
-    <title lang="en">2-Woman Heats 1 &amp; 2 - Bobsleigh | Olympic Winter Games Beijing 2022</title>
-    <desc lang="en">This event took place on 18/02/2022 at the Yanqing Sliding Centre. Laura Nolte (GER) achieved the best time with 1:01.04 in the Heat 1.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/jit6jgfwjehnoyez9gh6"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102180128+0000" stop="20260102201238+0000">
-    <title lang="en">2-Woman Heats 3 &amp; 4 - Bobsleigh | Olympic Winter Games Beijing 2022</title>
-    <desc lang="en">This event took place on 19/02/2022 at the Yanqing Sliding Centre. Laura Nolte (GER) claimed the gold medal. Mariama Jamanka (GER) won the silver, while Elana Meyers Taylor (USA) took home the bronze.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/xcf59jdhqgpihtdazdln"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102201238+0000" stop="20260102214501+0000">
-    <title lang="en">Winter Tracks | Film</title>
-    <desc lang="en">Winter Tracks enters the world of six unique athletes as they prepare for Beijing 2022 and offers an authentic and emotional look at what it truly takes to be an Olympian.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/ygekimzm41cdjxcnunqf"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102214501+0000" stop="20260102234205+0000">
+  <programme channel="olympic-channel.olympics.com" start="20260102221333+0000" stop="20260103001716+0000">
     <title lang="en">Women's Giant Slalom Run 1 - Alpine Skiing | Olympic Winter Games Beijing 2022</title>
     <desc lang="en">This event took place on 07/02/2022 at the Nat Alpine Ski Ctr - Technical. Sara Hector (SWE) set the fastest time with 57.56, Katharina Truppe (AUT) came second and Federica Brignone (ITA) finished third.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/afe608bqnmq4atka4ooz"/>
   </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260102234205+0000" stop="20260103014915+0000">
+  <programme channel="olympic-channel.olympics.com" start="20260103001716+0000" stop="20260103022427+0000">
     <title lang="en">Women's Giant Slalom Run 2 - Alpine Skiing | Olympic Winter Games Beijing 2022</title>
     <desc lang="en">This event took place on 07/02/2022 at the Nat Alpine Ski Ctr - Technical. Sara Hector (SWE) won Gold with a combined time of 1:55.69. Federica Brignone (ITA) claimed silver with a time of 1:55:97, and Lara Gut-Behrami (SUI) earned bronze with a time of 1:56.41.
 </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/mbcihmcsmwwm1tg3rh0q"/>
   </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260103014915+0000" stop="20260103024817+0000">
+  <programme channel="olympic-channel.olympics.com" start="20260103022427+0000" stop="20260103032329+0000">
     <title lang="en">Rise of Women Olympians</title>
     <desc lang="en">The Olympic Series Vol.5, Program 1 : The story of Women at the Games, Rise of Women Olympians.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/wxcua384ycbgx9v2zjyh"/>
   </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260103024817+0000" stop="20260103030507+0000">
+  <programme channel="olympic-channel.olympics.com" start="20260103032329+0000" stop="20260103034018+0000">
     <title lang="en">Cirque Blanc | Injury and pressure in Val d’Isère</title>
     <desc lang="en">As the Cirque Blanc rolls into Val d’Isère for the start of the women’s downhill ski season, the French team has one notable absentee. Romane comes to terms with a season-changing injury, and the pressure is on for Tiffany and Tessa to perform on home soil.
 Cirque Blanc is the Olympic Channel’s new original alpine skiing documentary series following France’s top female skiers Tessa Worley, Tiffany Gauthier and Romane Miradoli on the Alpine Ski World Cup circuit 2020/2021.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/u28hrhnujtosnbqpt82a"/>
   </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260103030507+0000" stop="20260103031955+0000">
+  <programme channel="olympic-channel.olympics.com" start="20260103034018+0000" stop="20260103035506+0000">
     <title lang="en">Anatomy of a Snowboarder: Hidden strengths of slopestyle star Sven Thorgren</title>
     <desc lang="en">The Swedish snowboarder demonstrates his all-round athleticism in a world-class sports science facility.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/mbz8ggmwgnmuj2mkgle8"/>
   </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260103031955+0000" stop="20260103042313+0000">
+  <programme channel="olympic-channel.olympics.com" start="20260103035506+0000" stop="20260103045755+0000">
     <title lang="en">Women's Snowboard Cross Finals - Snowboard | PyeongChang 2018 Replays</title>
     <desc lang="en">The women's snowboard cross finals were held at the Phoenix Snow Park on 16 February 2018.
 </desc>
     <category lang="en">Sport</category>
     <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/kdm7bggr0kpati0aaitd"/>
   </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260103042313+0000" stop="20260103050001+0000">
-    <title lang="en">Summary of the Games | Olympic Games Paris 2024</title>
-    <desc lang="en">Experience the excitement of the Paris 2024 Games with daily sports highlights that capture the most thrilling moments from each day of competition. Relive iconic victories, unforgettable performances, and the intensity of the world's top athletes as they go for gold. This collection brings you the best of the Games, day by day.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/usgoypex2llfn6heulw9"/>
-  </programme>
-  <programme channel="olympic-channel.olympics.com" start="20260103050001+0000" stop="20260103060228+0000">
+  <programme channel="olympic-channel.olympics.com" start="20260103045755+0000" stop="20260103060244+0000">
     <title lang="en">Speed and grace</title>
     <desc lang="en">The Olympic Series Vol.5, Program 2 : The story of Women at the Games, Speed and grace.</desc>
     <category lang="en">Sport</category>
@@ -225,5 +98,67 @@ Gabriella Papadakis/Guillaume Cizeron (FRA) claimed the Gold with a total score 
     <desc lang="en">This event took place on 10/02/2022 at the Capital Indoor Stadium, Nathan Chen (USA) won Gold with a final score of 332.60, Yuma Kagiyama (JPN) claimed Silver and Shoma Uno (JPN) completed the podium.</desc>
     <category lang="en">Sport</category>
     <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/hzdedaxcvtngbpd1wi29"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20260104031915+0000" stop="20260104060211+0000">
+    <title lang="en">Gala exhibition - Figure Skating | Beijing 2022 Replays</title>
+    <desc lang="en">This event took place on 20/02/2022 at the Capital Indoor Stadium.
+</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/qwthm0dbkp6tpn3t6pyg"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20260104060000+0000" stop="20260104083849+0000">
+    <title lang="en">Team Event - Women's Short &amp; Men's Free Final - Figure Skating | Olympic Winter Games Beijing 2022</title>
+    <desc lang="en">This event took place on 06/02/2022 at the Capital Indoor Stadium. Kamila Valieva (ROC) won the Women's Short Program with a score of 90.18. Yuma Kagiyama (JPN) won the Men's Free Skating with a score of 208.94. The results are provisional.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/nzn6wvxwmx4nqoksxkca"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20260104083849+0000" stop="20260104115725+0000">
+    <title lang="en">Team Event - Women's Pairs Free, Free Dance, Free Final - Figure Skating | Olympic Winter Games Beijing 2022</title>
+    <desc lang="en">This event took place on 07/02/2022 at the Capital Indoor Stadium. ROC claimed Gold, USA won Silver and Japan completed the podium, with the Bronze.
+The results are provisional.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/tgroydw9pbtgydaugz98"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20260104115725+0000" stop="20260104131801+0000">
+    <title lang="en">Winter Tracks | Film</title>
+    <desc lang="en">Winter Tracks enters the world of six unique athletes as they prepare for Beijing 2022 and offers an authentic and emotional look at what it truly takes to be an Olympian.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/ygekimzm41cdjxcnunqf"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20260104131801+0000" stop="20260104165045+0000">
+    <title lang="en">Ice Dance Rhythm Dance Final - Figure Skating | Olympic Winter Games Beijing 2022</title>
+    <desc lang="en">This event took place on 12/02/2022 at the Capital Indoor Stadium. Gabriella Papadakis / Guillaume Cizeron (FRA) qualified in first place with a score of 90.83 points.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/xu7cq00syoh1g39vu6ay"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20260104165045+0000" stop="20260104195138+0000">
+    <title lang="en">Pairs Short Program Final - Figure Skating | Olympic Winter Games Beijing 2022</title>
+    <desc lang="en">This event took place on 18/02/2022 at the Capital Indoor Stadium. Wenjing Sui (CHN) and Cong Han (CHN) qualified for the finals with the best score in the Pairs Short Program.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/dglsoseo4tgmeldg87zj"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20260104195138+0000" stop="20260104201701+0000">
+    <title lang="en">The Top Teams Face Off</title>
+    <desc lang="en">As the Grand Prix season intensifies, the Academy’s top teams find themselves competing against each other in what can be a rehearsal to what’s to come at the Olympics.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/uythdgewymetiu3jgkkw"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20260104201701+0000" stop="20260104204226+0000">
+    <title lang="en">Full House for Beijing 2022</title>
+    <desc lang="en">The six ice dancing teams have qualified to go to Beijing 2022. They have few intense weeks to put the final touches on their programs. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/d2wlgblhxxzckym8wgcm"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20260104204226+0000" stop="20260104210820+0000">
+    <title lang="en">The Journey Ends with Triumph at Beijing 2022</title>
+    <desc lang="en">This episode chronicles the Beijing 2022 experience of our six teams as their months of training and preparation culminates in success at the Olympic Ice Dance competition. </desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/w0q6xulzcotzwzchidgs"/>
+  </programme>
+  <programme channel="olympic-channel.olympics.com" start="20260104210820+0000" stop="20260105013007+0000">
+    <title lang="en">Women's Short Program Final - Figure Skating | Olympic Winter Games Beijing 2022</title>
+    <desc lang="en">This event took place on 15/02/2022 at the Capital Indoor Stadium. Kamila Valieva (ROC) qualified in first place with a score of 82.16.The results are provisional.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://img.olympics.com/images/image/private/t_16-9_1280/primary/g5lnjnhu7gli4xdlszsv"/>
   </programme>
 </tv>
