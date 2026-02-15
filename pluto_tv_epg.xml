@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="TVCTC" source-info-url="https://i.mjh.nz/" time-created="2026-02-15 00:25:13">
+<tv generator-info-name="TVCTC" source-info-url="https://i.mjh.nz/" time-created="2026-02-15 04:25:10">
   <channel id="KingofQueens.ca">
     <display-name>King of Queens</display-name>
     <icon src="https://images.pluto.tv/channels/62f4f414c2ba130007f8b24e/colorLogoPNG.png"/>
   </channel>
-  <programme channel="KingofQueens.ca" start="20260214215900 +0000" stop="20260214222600 +0000">
-    <title lang="en">Doug Less II</title>
-    <desc lang="en">King of Queens, S06E02, Newly slim Doug surprises Carrie with a romantic getaway to a resort in the mountains, but she discovers that he had been there with an old girlfriend.</desc>
-    <category lang="en">Romantic comedy, Series, Comedy</category>
-    <icon src="https://images.pluto.tv/series/637619d07e251a001388b543/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="KingofQueens.ca" start="20260214222600 +0000" stop="20260214225300 +0000">
-    <title lang="en">Dreading Vows</title>
-    <desc lang="en">King of Queens, S06E04, Doug and Carrie decide to renew their wedding vows, then try to cancel the ceremony; Arthur debates keeping his wedding present for himself.</desc>
-    <category lang="en">Romantic comedy, Series, Comedy</category>
-    <icon src="https://images.pluto.tv/series/637619d07e251a001388b543/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="KingofQueens.ca" start="20260214225300 +0000" stop="20260214232000 +0000">
-    <title lang="en">Dougie Houser</title>
-    <desc lang="en">King of Queens, S06E12, Carrie reminds Doug of a past incident at their first house when he wants to buy a chainsaw from an infomercial.</desc>
-    <category lang="en">Romantic comedy, Series, Comedy</category>
-    <icon src="https://images.pluto.tv/series/637619d07e251a001388b543/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="KingofQueens.ca" start="20260214232000 +0000" stop="20260214234500 +0000">
-    <title lang="en">Gorilla Warfare</title>
-    <desc lang="en">King of Queens, S07E13, When Carrie learns Doug stole the romantic line he used when they started dating, he struggles to come up with a new one for Valentine's Day to try to redeem himself.</desc>
-    <category lang="en">Romantic comedy, Series, Comedy</category>
-    <icon src="https://images.pluto.tv/series/637619d07e251a001388b543/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
   <programme channel="KingofQueens.ca" start="20260214234500 +0000" stop="20260215001000 +0000">
     <title lang="en">Pole Lox</title>
     <desc lang="en">King of Queens, S08E01, Doug convinces Carrie to take pole dancing lessons but is disappointed when she puts on a show for him.</desc>
@@ -221,34 +197,40 @@
     <category lang="en">Romantic comedy, Series, Comedy</category>
     <icon src="https://images.pluto.tv/series/637619d07e251a001388b543/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
+  <programme channel="KingofQueens.ca" start="20260215140100 +0000" stop="20260215142900 +0000">
+    <title lang="en">Get Away</title>
+    <desc lang="en">King of Queens, S02E07, Doug and Carrie feel inadequate when they discover that their best friends have a very active love life.</desc>
+    <category lang="en">Romantic comedy, Series, Comedy</category>
+    <icon src="https://images.pluto.tv/series/637619d07e251a001388b543/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="KingofQueens.ca" start="20260215142900 +0000" stop="20260215145700 +0000">
+    <title lang="en">Meet By-Product</title>
+    <desc lang="en">King of Queens, S02E17, Carrie and Doug reminisce about how they first met, remembering that it certainly wasn't love at first sight.</desc>
+    <category lang="en">Romantic comedy, Series, Comedy</category>
+    <icon src="https://images.pluto.tv/series/637619d07e251a001388b543/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="KingofQueens.ca" start="20260215145700 +0000" stop="20260215152500 +0000">
+    <title lang="en">Flower Power</title>
+    <desc lang="en">King of Queens, S02E24, Carrie gets jealous of a co-worker who received flowers and accuses Doug of losing his sense of romance.</desc>
+    <category lang="en">Romantic comedy, Series, Comedy</category>
+    <icon src="https://images.pluto.tv/series/637619d07e251a001388b543/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="KingofQueens.ca" start="20260215152500 +0000" stop="20260215155000 +0000">
+    <title lang="en">Do Rico</title>
+    <desc lang="en">King of Queens, S03E01, When Doug does the voice of a new co-worker, he feels that Carrie will only listen to him if he does the voice.</desc>
+    <category lang="en">Romantic comedy, Series, Comedy</category>
+    <icon src="https://images.pluto.tv/series/637619d07e251a001388b543/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="KingofQueens.ca" start="20260215155000 +0000" stop="20260215161500 +0000">
+    <title lang="en">Twisted Sitters</title>
+    <desc lang="en">King of Queens, S03E09, Doug and Carrie have to watch Deacon and Kelly's kids while they are out of town. When one of the kids sees them having sex, they have to find a way to keep him from saying anything.</desc>
+    <category lang="en">Romantic comedy, Series, Comedy</category>
+    <icon src="https://images.pluto.tv/series/637619d07e251a001388b543/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
   <channel id="Cheers.ca">
     <display-name>Cheers</display-name>
     <icon src="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png"/>
   </channel>
-  <programme channel="Cheers.ca" start="20260214214500 +0000" stop="20260214221300 +0000">
-    <title lang="en">Sam Time Next Year</title>
-    <desc lang="en">Cheers, S09E19, Sam injures his back while on his annual Valentine's Day date with his old flame.</desc>
-    <category lang="en">Series, Comedy</category>
-    <icon src="https://images.pluto.tv/series/637531f8eaede8001375b765/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="Cheers.ca" start="20260214221300 +0000" stop="20260214224300 +0000">
-    <title lang="en">Give Me a Ring Sometime</title>
-    <desc lang="en">Cheers, S01E01, Diane Chambers makes her home at Cheers when her fiancé leaves her.</desc>
-    <category lang="en">Series, Comedy</category>
-    <icon src="https://images.pluto.tv/series/637531f8eaede8001375b765/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="Cheers.ca" start="20260214224300 +0000" stop="20260214231300 +0000">
-    <title lang="en">Sam's Women</title>
-    <desc lang="en">Cheers, S01E02, Diane can't conceal her scorn for Sam's parade of beautiful, yet shallow dates, and puts him on the defensive about his taste in women.</desc>
-    <category lang="en">Series, Comedy</category>
-    <icon src="https://images.pluto.tv/series/637531f8eaede8001375b765/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="Cheers.ca" start="20260214231300 +0000" stop="20260214234300 +0000">
-    <title lang="en">Sam at Eleven</title>
-    <desc lang="en">Cheers, S01E04, Sam's sportscaster friend wants to feature him on his television show.</desc>
-    <category lang="en">Series, Comedy</category>
-    <icon src="https://images.pluto.tv/series/637531f8eaede8001375b765/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
   <programme channel="Cheers.ca" start="20260214234300 +0000" stop="20260215001300 +0000">
     <title lang="en">Any Friend of Diane's</title>
     <desc lang="en">Cheers, S01E06, After a ruined romance with an intellectual, Diane's prim friend Rebecca confides she's looking for a fling with someone earthy. To Diane's dismay, she sets her sights on Sam.</desc>
@@ -429,34 +411,34 @@
     <category lang="en">Series, Comedy</category>
     <icon src="https://images.pluto.tv/series/637531f8eaede8001375b765/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
+  <programme channel="Cheers.ca" start="20260215142400 +0000" stop="20260215145300 +0000">
+    <title lang="en">Someone Single, Someone Blue</title>
+    <desc lang="en">Cheers, S01E20, Diane proposes marriage to Sam in order to save her mom's inheritance.</desc>
+    <category lang="en">Series, Comedy</category>
+    <icon src="https://images.pluto.tv/series/637531f8eaede8001375b765/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="Cheers.ca" start="20260215145300 +0000" stop="20260215152200 +0000">
+    <title lang="en">Show Down (Part 1)</title>
+    <desc lang="en">Cheers, S01E21, Sam is chagrined when his brother captivates everyone at Cheers, especially Diane, whose budding romance with the dashing Derek sparks Sam's jealously and confusion.</desc>
+    <category lang="en">Series, Comedy</category>
+    <icon src="https://images.pluto.tv/series/637531f8eaede8001375b765/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="Cheers.ca" start="20260215152200 +0000" stop="20260215155100 +0000">
+    <title lang="en">Show Down (Part 2)</title>
+    <desc lang="en">Cheers, S01E22, Sam and Diane are forced to come to grips with their feelings about each other when Diane's relationship with Sam's brother grows more serious.</desc>
+    <category lang="en">Series, Comedy</category>
+    <icon src="https://images.pluto.tv/series/637531f8eaede8001375b765/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="Cheers.ca" start="20260215155100 +0000" stop="20260215162000 +0000">
+    <title lang="en">Power Play</title>
+    <desc lang="en">Cheers, S02E01, Sam and Diane's new relationship together gets off to a shaky start, which comes as no surprise to anyone at the bar.</desc>
+    <category lang="en">Series, Comedy</category>
+    <icon src="https://images.pluto.tv/series/637531f8eaede8001375b765/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
   <channel id="PlutoTVSpace.uk">
     <display-name>Pluto TV Space</display-name>
     <icon src="https://thumbs2.imgbox.com/6f/44/WDMirvTL_t.png"/>
   </channel>
-  <programme channel="PlutoTVSpace.uk" start="20260214215800 +0000" stop="20260214222800 +0000">
-    <title lang="en">Borderland / Mars: Red Dawn</title>
-    <desc lang="en">Cosmic Vistas, S01E15, See the sun, moon, planets, and galaxies through the eyes of intrepid machines that are blazing a trail across the solar system. A gateway to bold adventures, these cameras are delivering spectacular new cosmic vistas.</desc>
-    <category lang="en">Documentary, Series</category>
-    <icon src="https://images.pluto.tv/series/5898fab90e4d94b26695d57e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="PlutoTVSpace.uk" start="20260214222800 +0000" stop="20260214225500 +0000">
-    <title lang="en">Landing on Mars</title>
-    <desc lang="en">Cosmic Vistas: Landing on Mars, S03E06, Mars sparks our curiosity like no other planet because it is so reachable. Despite having landed there, most of the information we gather is still done by instruments in the planet's orbit.</desc>
-    <category lang="en">Documentary, Series</category>
-    <icon src="https://images.pluto.tv/series/5898fab90e4d94b26695d57e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="PlutoTVSpace.uk" start="20260214225500 +0000" stop="20260214232200 +0000">
-    <title lang="en">Landsat</title>
-    <desc lang="en">Cosmic Vistas: Landsat, S04E06, Take a look at Landsat 8, the advanced planetary explorer with a 900 million dollar price tag! It is designed to peer across multiple wavelengths to reveal complex and ever-changing details that are undetectable by the human eye.</desc>
-    <category lang="en">Documentary, Series</category>
-    <icon src="https://images.pluto.tv/series/5898fab90e4d94b26695d57e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="PlutoTVSpace.uk" start="20260214232200 +0000" stop="20260214234900 +0000">
-    <title lang="en">Gravity</title>
-    <desc lang="en">Cosmic Vistas: Gravity, S03E04, Gravity has long been a force that has intrigued scientists. Now, for the first time scientists are probing to detect gravity waves in space as well as mapping the gravity patterns of the moon.</desc>
-    <category lang="en">Documentary, Series</category>
-    <icon src="https://images.pluto.tv/series/5898fab90e4d94b26695d57e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
   <programme channel="PlutoTVSpace.uk" start="20260214234900 +0000" stop="20260215001600 +0000">
     <title lang="en">Seasons of Saturn</title>
     <desc lang="en">Cosmic Vistas: Seasons of Saturn, S03E01, Saturn is the second largest planet and has an astonishing 60 moons in its orbit. Thanks to the Cassini mission, it's also one of the most studied and most photographed planets in our neighborhood.</desc>
@@ -556,13 +538,13 @@
   <programme channel="PlutoTVSpace.uk" start="20260215071600 +0000" stop="20260215082000 +0000">
     <title lang="en"/>
     <desc lang="en">Earthrise: The First Lunar Voyage, 20130101080000 +0000, Interviews with Apollo 8 astronauts, their wives, mission control staff, and journalists give true insider's perspective to the space race of the late 1960's.</desc>
-    <category lang="en">Documentary, Movie</category>
+    <category lang="en">Movie, Documentary</category>
     <icon src="https://images.pluto.tv/episodes/5b19130bb0875c36c90cc962/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
   </programme>
   <programme channel="PlutoTVSpace.uk" start="20260215082000 +0000" stop="20260215092400 +0000">
     <title lang="en"/>
     <desc lang="en">How to Colonize the Stars, 20090101080000 +0000, Leading physicists and engineers in the field of interstellar travel discuss some of the deep issues we face when considering the problem of sending spacecraft to other stars. Will mankind ever truly become a space fairing civilization?</desc>
-    <category lang="en">Documentary, Movie</category>
+    <category lang="en">Movie, Documentary</category>
     <icon src="https://images.pluto.tv/episodes/5b1912d5b0875c36c90cbf47/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
   </programme>
   <programme channel="PlutoTVSpace.uk" start="20260215092400 +0000" stop="20260215102600 +0000">
@@ -580,7 +562,7 @@
   <programme channel="PlutoTVSpace.uk" start="20260215112800 +0000" stop="20260215132700 +0000">
     <title lang="en"/>
     <desc lang="en">In the Shadow of the Moon, 20070101080000 +0000, Between 1968 and 1972, the world watched in awe each time an American spacecraft voyaged to the Moon. Only 12 men walked upon its surface and they remain the only human beings to have stood on another world.</desc>
-    <category lang="en">Documentary, Movie</category>
+    <category lang="en">Movie, Documentary</category>
     <icon src="https://images.pluto.tv/episodes/5b19136cb0875c36c90cd8c5/poster.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694"/>
   </programme>
   <programme channel="PlutoTVSpace.uk" start="20260215132700 +0000" stop="20260215135500 +0000">
@@ -595,22 +577,34 @@
     <category lang="en">Documentary, Series</category>
     <icon src="https://images.pluto.tv/series/5f2cfc553bb7850013d08f8f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
+  <programme channel="PlutoTVSpace.uk" start="20260215142300 +0000" stop="20260215145100 +0000">
+    <title lang="en">Episode 7: The Milky Way</title>
+    <desc lang="en">Inside Outer Space: Episode 7: The Milky Way, S01E07, Come with us as we explore and unravel the mysteries of what lies beyond our planet Earth. This is a series packed with space stories and information about our universe covering what we can see.</desc>
+    <category lang="en">Documentary, Series</category>
+    <icon src="https://images.pluto.tv/series/5f2cfc553bb7850013d08f8f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="PlutoTVSpace.uk" start="20260215145100 +0000" stop="20260215151900 +0000">
+    <title lang="en">Episode 1: The Solar System</title>
+    <desc lang="en">Inside Outer Space: Episode 1: The Solar System, S01E01, This is a series packed with space stories and information about our universe covering what we can see, how we can live in space and what science tells us about the past and the future as we journey inside out of space.</desc>
+    <category lang="en">Documentary, Series</category>
+    <icon src="https://images.pluto.tv/series/5f2cfc553bb7850013d08f8f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="PlutoTVSpace.uk" start="20260215151900 +0000" stop="20260215154700 +0000">
+    <title lang="en">Episode 8: Extravehicular Activity</title>
+    <desc lang="en">Inside Outer Space: Episode 8: Extravehicular Activity, S01E08, Come with us as we explore and unravel the mysteries of what lies beyond our planet Earth. This is a series packed with space stories and information about our universe covering what we can see.</desc>
+    <category lang="en">Documentary, Series</category>
+    <icon src="https://images.pluto.tv/series/5f2cfc553bb7850013d08f8f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="PlutoTVSpace.uk" start="20260215154700 +0000" stop="20260215161500 +0000">
+    <title lang="en">Episode 3: Asteroids</title>
+    <desc lang="en">Inside Outer Space: Episode 3: Asteroids, S01E03, Come with us as we explore and unravel the mysteries of what lies beyond our planet Earth. This is a series packed with space stories and information about our universe covering what we can see.</desc>
+    <category lang="en">Documentary, Series</category>
+    <icon src="https://images.pluto.tv/series/5f2cfc553bb7850013d08f8f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
   <channel id="Crime360.us">
     <display-name>Crime 360</display-name>
     <icon src="https://thumbs2.imgbox.com/15/22/nTSYb0PC_t.png"/>
   </channel>
-  <programme channel="Crime360.us" start="20260214215700 +0000" stop="20260214230000 +0000">
-    <title lang="en">Room for the Night; Down and Out</title>
-    <desc lang="en">The First 48, 20260214215700 +0000, Police investigate the killing of a man in a New Orleans motel room; a night of drinking in Tulsa, Okla., sparks a murderous rage, resulting in a man being stabbed 21 times.</desc>
-    <category lang="en">True Crime, Series, Reality</category>
-    <icon src="https://images.pluto.tv/series/65b1889570ac44001337b587/tile_1765839744242.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="Crime360.us" start="20260214230000 +0000" stop="20260215000000 +0000">
-    <title lang="en">Ultimate Price</title>
-    <desc lang="en">The First 48, 20260214230000 +0000, In Miami, police attempt to find the killer of a good Samaritan who intervened in a robbery; a homeless woman may have information on the crime.</desc>
-    <category lang="en">True Crime, Series, Reality</category>
-    <icon src="https://images.pluto.tv/series/65b1889570ac44001337b587/tile_1765839744242.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
   <programme channel="Crime360.us" start="20260215000000 +0000" stop="20260215010100 +0000">
     <title lang="en">Hot Lot; Blind Faith</title>
     <desc lang="en">The First 48, 20260215000000 +0000, Homicide detectives tackle the strange case of a shooting victim discovered in a scrap yard; a woman is found dead in a motel room.</desc>
@@ -701,22 +695,22 @@
     <category lang="en">True Crime, Series, Reality</category>
     <icon src="https://images.pluto.tv/series/65b1889570ac44001337b587/tile_1765839744242.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
+  <programme channel="Crime360.us" start="20260215145800 +0000" stop="20260215155900 +0000">
+    <title lang="en">Abandoned by the Bayou</title>
+    <desc lang="en">The First 48: Shocking Interrogations, 20260215145800 +0000, After a mother of five is found bound and executed in a vacant lot in New Orleans, Detectives Mike McCleery and Bob Bachelder race to piece together the final hours of her life to catch her vicious killer before he strikes again.</desc>
+    <category lang="en">True Crime, Series, Reality</category>
+    <icon src="https://images.pluto.tv/series/6646eb7e2833ae0013165b9b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="Crime360.us" start="20260215155900 +0000" stop="20260215170000 +0000">
+    <title lang="en">Calling for a Killer; Boiling Point</title>
+    <desc lang="en">The First 48, 20260215155900 +0000, Detectives in Florida's Broward County investigate a fatal highway shooting; the execution of three friends outside a Dallas nightclub is caught on video.</desc>
+    <category lang="en">True Crime, Series, Reality</category>
+    <icon src="https://images.pluto.tv/series/65b1889570ac44001337b587/tile_1765839744242.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
   <channel id="PlutoTVTrueCrime.us">
     <display-name>Pluto TV True Crime</display-name>
     <icon src="https://thumbs2.imgbox.com/6d/2c/Q7FQQLdz_t.png"/>
   </channel>
-  <programme channel="PlutoTVTrueCrime.us" start="20260214220000 +0000" stop="20260214230000 +0000">
-    <title lang="en">Knots</title>
-    <desc lang="en">Almost Unsolved, S01E15, The unsolved, 20-year-old murder of an unidentified woman in Utah finally gets closer to being closed with the confession of a known serial killer and some advances in DNA technology.</desc>
-    <category lang="en">Series, Drama</category>
-    <icon src="https://images.pluto.tv/series/6654bd83bec25d001343fff7/tile_1768516202288.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="PlutoTVTrueCrime.us" start="20260214230000 +0000" stop="20260215000000 +0000">
-    <title lang="en">The Stereo</title>
-    <desc lang="en">Almost Unsolved, S01E16, A young woman is brutally murdered in her home and police are convinced they have let the suspect escape for good until decades later a new invention changes everything.</desc>
-    <category lang="en">Series, Drama</category>
-    <icon src="https://images.pluto.tv/series/6654bd83bec25d001343fff7/tile_1768516202288.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
   <programme channel="PlutoTVTrueCrime.us" start="20260215000000 +0000" stop="20260215010000 +0000">
     <title lang="en">Astbury</title>
     <desc lang="en">Forensic Investigators, S02E01, In December 1994 Andrew Astbury’s body was found floating in Melbourne’s Yarra River. He was a hard-working, reliable 25-year-old man from a good family.</desc>
@@ -732,13 +726,13 @@
   <programme channel="PlutoTVTrueCrime.us" start="20260215020000 +0000" stop="20260215030000 +0000">
     <title lang="en">Ed Gein</title>
     <desc lang="en">World's Most Evil Killers, S01E15, Ed Gein murdered two women in the 1950s and was also a body snatcher. He would fashion items out of bones and skin.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/60b6a6b7a9f076001a55629c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="PlutoTVTrueCrime.us" start="20260215030000 +0000" stop="20260215040000 +0000">
     <title lang="en">Joachim Kroll</title>
     <desc lang="en">World's Most Evil Killers, S01E16, Joachim Kroll murdered at least thirteen people during a span of over twenty years.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/60b6a6b7a9f076001a55629c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="PlutoTVTrueCrime.us" start="20260215040000 +0000" stop="20260215050000 +0000">
@@ -750,55 +744,55 @@
   <programme channel="PlutoTVTrueCrime.us" start="20260215050000 +0000" stop="20260215060000 +0000">
     <title lang="en">Peter Sutcliffe</title>
     <desc lang="en">World's Most Evil Killers, S01E02, Peter Sutcliffe, also known as The Yorkshire Ripper, was convicted of killing thirteen women and attempting to murder seven others.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/60b6a6b7a9f076001a55629c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="PlutoTVTrueCrime.us" start="20260215060000 +0000" stop="20260215063000 +0000">
     <title lang="en">Killer Grandma</title>
     <desc lang="en">Fatal Crimes, S01E19, Pamela Hutchinson travels to Florida to attend a friend's funeral, but after extending her stay, she's found dead in her condo's bathroom.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/674dd9808d00c6001477a0e1/tile_1745539200784.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="PlutoTVTrueCrime.us" start="20260215063000 +0000" stop="20260215070000 +0000">
     <title lang="en">Shot in the Dark</title>
     <desc lang="en">Fatal Crimes, S01E20, Just weeks before Christmas, in the sleepy town of Early, Iowa, two men break into the home of Tracey Richter and attack her while her children hide in a nearby bedroom.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/674dd9808d00c6001477a0e1/tile_1745539200784.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="PlutoTVTrueCrime.us" start="20260215070000 +0000" stop="20260215073000 +0000">
     <title lang="en">Cross Country Killer</title>
     <desc lang="en">Fatal Crimes, S01E21, Police in Chicago, Illinois connect a series of local murders that ends up putting them on the hunt for a serial killer.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/674dd9808d00c6001477a0e1/tile_1745539200784.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="PlutoTVTrueCrime.us" start="20260215073000 +0000" stop="20260215080000 +0000">
     <title lang="en">Deadlift Killer</title>
     <desc lang="en">Fatal Crimes, S01E23, Body builder Doug and his deputy sheriff girlfriend Tracy bond over their love of weightlifting, but all they do lately is quarrel.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/674dd9808d00c6001477a0e1/tile_1745539200784.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="PlutoTVTrueCrime.us" start="20260215080000 +0000" stop="20260215083000 +0000">
     <title lang="en">Horror in Tennessee</title>
     <desc lang="en">Killer Mysteries, S01E38, A short-order cook with aspirations of country stardom falls on hard times.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/61115c4094c1ec0013771246/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="PlutoTVTrueCrime.us" start="20260215083000 +0000" stop="20260215090000 +0000">
     <title lang="en">Wendi Davidson</title>
     <desc lang="en">Killer Mysteries, S01E46, The disappearance of a decorated military man stumps law enforcement and shocks a central Texas community.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/61115c4094c1ec0013771246/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="PlutoTVTrueCrime.us" start="20260215090000 +0000" stop="20260215093000 +0000">
     <title lang="en">A Treacherous Triangle</title>
     <desc lang="en">Killer Mysteries, S01E54, Two prominent doctors that are two towns apart are entangled in a passionate rivalry for the same woman's affections.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/61115c4094c1ec0013771246/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="PlutoTVTrueCrime.us" start="20260215093000 +0000" stop="20260215100000 +0000">
     <title lang="en">The Devil Next Door</title>
     <desc lang="en">Killer Mysteries, S01E62, A look at a woman who was murdered inside her rural Louisiana home.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/61115c4094c1ec0013771246/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="PlutoTVTrueCrime.us" start="20260215100000 +0000" stop="20260215104500 +0000">
@@ -843,128 +837,134 @@
     <category lang="en">True Crime, Series, Reality</category>
     <icon src="https://images.pluto.tv/series/63f5772056842c001409a0da/tile_1756117565502.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
+  <programme channel="PlutoTVTrueCrime.us" start="20260215143000 +0000" stop="20260215150000 +0000">
+    <title lang="en">Shot Dead in Front of His Daughter</title>
+    <desc lang="en">Crime Stoppers: Case Files, S06E13, Los Angeles. September 18, 2001, Cedric Hurd was shot and killed in front of his 3-year-old daughter. March 18, 1989, while crossing the street 3-year-old D'Ancee Barnes was victim to a hit and run. Today the case still remains open.</desc>
+    <category lang="en">True Crime, Series, Reality</category>
+    <icon src="https://images.pluto.tv/series/63f5772056842c001409a0da/tile_1756117565502.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="PlutoTVTrueCrime.us" start="20260215150000 +0000" stop="20260215160000 +0000">
+    <title lang="en">Summer Of Fear</title>
+    <desc lang="en">Targeted For Murder, S01E04, Random shootings, rapes, and robberies leave residents scared, and authorities seemingly powerless, when serial killers wage a reign of terror over the streets of Phoenix, Arizona.</desc>
+    <category lang="en">True Crime, Series, Reality</category>
+    <icon src="https://images.pluto.tv/series/6657ee801c02820013772a67/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="PlutoTVTrueCrime.us" start="20260215160000 +0000" stop="20260215170000 +0000">
+    <title lang="en">A Deadly Affair</title>
+    <desc lang="en">Targeted For Murder, S01E09, When blue-collar worker Lyle Kopenkoskey is found dead down a secluded country road, investigators race against the clock to uncover the grisly truth behind the cold-blooded crime.</desc>
+    <category lang="en">True Crime, Series, Reality</category>
+    <icon src="https://images.pluto.tv/series/6657ee801c02820013772a67/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
   <channel id="StarTrek.us">
     <display-name>Star Trek</display-name>
     <icon src="https://thumbs2.imgbox.com/33/c7/PilYYA9B_t.png"/>
   </channel>
-  <programme channel="StarTrek.us" start="20260214210000 +0000" stop="20260214220000 +0000">
-    <title lang="en">The Doomsday Machine</title>
-    <desc lang="en">Star Trek: The Original Series, S02E06, The USS Enterprise encounters the wrecked USS Constellation and its distraught commodore.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
-    <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/tile_1768434844706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="StarTrek.us" start="20260214220000 +0000" stop="20260214230000 +0000">
-    <title lang="en">Catspaw</title>
-    <desc lang="en">Star Trek: The Original Series, S02E07, Very alien visitors to our galaxy attempt to connect with human consciousness but miss, winding up tapping into the regions of human nightmares instead.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
-    <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/tile_1768434844706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
   <programme channel="StarTrek.us" start="20260214230000 +0000" stop="20260215000000 +0000">
     <title lang="en">I, Mudd</title>
     <desc lang="en">Star Trek: The Original Series, S02E08, The Enterprise is taken over by a group of androids who are working for Kirk's old nemesis, Harry Mudd.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/tile_1768434844706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrek.us" start="20260215000000 +0000" stop="20260215010000 +0000">
     <title lang="en">Metamorphosis</title>
     <desc lang="en">Star Trek: The Original Series, S02E09, While returning to the Enterprise aboard the shuttlecraft, Kirk, Spock, McCoy and a seriously ill Federation diplomat find themselves kidnapped by an energized cloud.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/tile_1768434844706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrek.us" start="20260215010000 +0000" stop="20260215020000 +0000">
     <title lang="en">Journey To Babel</title>
     <desc lang="en">Star Trek: The Original Series, S02E10, Tensions run high when the Enterprise transports ambassadors to the Babel conferences.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/tile_1768434844706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrek.us" start="20260215020000 +0000" stop="20260215030000 +0000">
     <title lang="en">Friday's Child</title>
     <desc lang="en">Star Trek: The Original Series, S02E11, The Enterprise crew becomes embroiled in a local power struggle on a tribal planet.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/tile_1768434844706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrek.us" start="20260215030000 +0000" stop="20260215040000 +0000">
     <title lang="en">The Deadly Years</title>
     <desc lang="en">Star Trek: The Original Series, S02E12, A landing party, including the command staff, is infected with a disease that causes rapid aging and senility.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/tile_1768434844706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrek.us" start="20260215040000 +0000" stop="20260215050000 +0000">
     <title lang="en">Obsession</title>
     <desc lang="en">Star Trek: The Original Series, S02E13, The Enterprise must deal with a creature from Kirk's past that feeds on human blood.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/tile_1768434844706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrek.us" start="20260215050000 +0000" stop="20260215060000 +0000">
     <title lang="en">Wolf In The Fold</title>
     <desc lang="en">Star Trek: The Original Series, S02E14, Kirk and the Enterprise computer become detectives after Scotty is accused of murdering women on a pleasure planet.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/tile_1768434844706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrek.us" start="20260215060000 +0000" stop="20260215070000 +0000">
     <title lang="en">The Trouble With Tribbles</title>
     <desc lang="en">Star Trek: The Original Series, S02E15, The Enterprise is overrun by furry creatures while tangling with Klingons and bureaucrats.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/tile_1768434844706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrek.us" start="20260215070000 +0000" stop="20260215080000 +0000">
     <title lang="en">The Gamesters Of Triskelion</title>
     <desc lang="en">Star Trek: The Original Series, S02E16, Kirk, Chekov, and Uhura are kidnapped and forced to participate in a series of gladiatorial games.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/tile_1768434844706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrek.us" start="20260215080000 +0000" stop="20260215090000 +0000">
     <title lang="en">A Piece Of The Action</title>
     <desc lang="en">Star Trek: The Original Series, S02E17, Kirk investigates a planet with an Earth-like 1920's gangster culture.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/tile_1768434844706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrek.us" start="20260215090000 +0000" stop="20260215100000 +0000">
     <title lang="en">The Immunity Syndrome</title>
     <desc lang="en">Star Trek: The Original Series, S02E18, The Enterprise encounters a gigantic energy draining space organism that threatens the galaxy.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/tile_1768434844706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrek.us" start="20260215100000 +0000" stop="20260215110000 +0000">
     <title lang="en">A Private Little War</title>
     <desc lang="en">Star Trek: The Original Series, S02E19, Kirk becomes involved in an arms race when the Klingons equip a native people with superior weaponry.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/tile_1768434844706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrek.us" start="20260215110000 +0000" stop="20260215120000 +0000">
     <title lang="en">Return To Tomorrow</title>
     <desc lang="en">Star Trek: The Original Series, S02E20, The U.S.S. Enterprise tracks a mysterious SOS to an ancient planet presumed long dead.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/tile_1768434844706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrek.us" start="20260215120000 +0000" stop="20260215130000 +0000">
     <title lang="en">Patterns Of Force</title>
     <desc lang="en">Star Trek: The Original Series, S02E21, Enterprise is sent to planet Ekos to investigate a disappearance of Federation historian John Gill.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/tile_1768434844706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrek.us" start="20260215130000 +0000" stop="20260215140000 +0000">
     <title lang="en">By Any Other Name</title>
     <desc lang="en">Star Trek: The Original Series, S02E22, The Enterprise's command crew must thwart an invasion by aliens from another galaxy who plan to conquer this one.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/tile_1768434844706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="StarTrek.us" start="20260215140000 +0000" stop="20260215150000 +0000">
+    <title lang="en">The Omega Glory</title>
+    <desc lang="en">Star Trek: The Original Series, S02E23, The Enterprise finds a planet devastated by disease that appears to treat the American flag with great reverence.</desc>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/tile_1768434844706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="StarTrek.us" start="20260215150000 +0000" stop="20260215160000 +0000">
+    <title lang="en">The Ultimate Computer</title>
+    <desc lang="en">Star Trek: The Original Series, S02E24, Starfleet uses the Enterprise to test a new super-sophisticated computer, but it soon develops a mind of its own.</desc>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63641f341ac5b40013b2bb0c/tile_1768434844706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <channel id="PlutoTVSci-Fi.us">
     <display-name>Pluto TV Sci-Fi</display-name>
     <icon src="https://thumbs2.imgbox.com/35/10/kzVsYljL_t.png"/>
   </channel>
-  <programme channel="PlutoTVSci-Fi.us" start="20260214220000 +0000" stop="20260214230000 +0000">
-    <title lang="en">Another's Sorrow</title>
-    <desc lang="en">Merlin, S05E04, With Princess Mithian as the perfect bait, Morgana conjures a deception.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
-    <icon src="https://images.pluto.tv/series/666b30d7fe060c00136dc215/tile_1753839002903.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="PlutoTVSci-Fi.us" start="20260214230000 +0000" stop="20260215000000 +0000">
-    <title lang="en">Farscape: S4 E2 - What Was Lost, Part 1: Sacrifice</title>
-    <desc lang="en">Farscape, S04E02, Everyone but Aeryn meets on Arnesk, where Jool has discovered the remains of an ancient civilization.</desc>
-    <category lang="en">Science fiction, Series</category>
-    <icon src="https://images.pluto.tv/series/62fac34885bbed001af814de/tile_1768749480925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
   <programme channel="PlutoTVSci-Fi.us" start="20260215000000 +0000" stop="20260215010000 +0000">
     <title lang="en">Farscape: S4 E3 - What Was Lost, Part 2: Resurrection</title>
     <desc lang="en">Farscape, S04E03, The crew discovers how far Scorpius has fallen in the Peacekeeper ranks.</desc>
@@ -1034,19 +1034,19 @@
   <programme channel="PlutoTVSci-Fi.us" start="20260215110000 +0000" stop="20260215120000 +0000">
     <title lang="en">The Death Song of Uther Pendragon</title>
     <desc lang="en">Merlin, S05E03, When a stranger gives Arthur the power to summon the dead, the king finds himself torn between head and heart.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/666b30d7fe060c00136dc215/tile_1753839002903.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="PlutoTVSci-Fi.us" start="20260215120000 +0000" stop="20260215130000 +0000">
     <title lang="en">Another's Sorrow</title>
     <desc lang="en">Merlin, S05E04, With Princess Mithian as the perfect bait, Morgana conjures a deception.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/666b30d7fe060c00136dc215/tile_1753839002903.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="PlutoTVSci-Fi.us" start="20260215130000 +0000" stop="20260215140000 +0000">
     <title lang="en">The Disir</title>
     <desc lang="en">Merlin, S05E05, In the inky depths of an ancient pool, three soothsayers cast a dark judgment upon the king of Camelot.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/666b30d7fe060c00136dc215/tile_1753839002903.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="PlutoTVSci-Fi.us" start="20260215140000 +0000" stop="20260215150000 +0000">
@@ -1055,34 +1055,22 @@
     <category lang="en">Science fiction, Series</category>
     <icon src="https://images.pluto.tv/series/62fac34885bbed001af814de/tile_1768749480925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
+  <programme channel="PlutoTVSci-Fi.us" start="20260215150000 +0000" stop="20260215160000 +0000">
+    <title lang="en">Farscape: S4 E6 - Natural Election</title>
+    <desc lang="en">Farscape, S04E06, Crichton correctly predicts a wormhole's appearance near Moya, but simultaneously a giant space plant captures the Leviathan.</desc>
+    <category lang="en">Science fiction, Series</category>
+    <icon src="https://images.pluto.tv/series/62fac34885bbed001af814de/tile_1768749480925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="PlutoTVSci-Fi.us" start="20260215160000 +0000" stop="20260215170000 +0000">
+    <title lang="en">Farscape: S4 E7 - John Quixote</title>
+    <desc lang="en">Farscape, S04E07, Crichton and Chiana get stuck in a video game where they encounter strange/twisted versions of their friends.</desc>
+    <category lang="en">Science fiction, Series</category>
+    <icon src="https://images.pluto.tv/series/62fac34885bbed001af814de/tile_1768749480925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
   <channel id="FailArmy.us">
     <display-name>Fail Army</display-name>
     <icon src="https://thumbs2.imgbox.com/41/78/gamfaVrt_t.png"/>
   </channel>
-  <programme channel="FailArmy.us" start="20260214214400 +0000" stop="20260214221500 +0000">
-    <title lang="en"/>
-    <desc lang="en">FailArmy Love Hurts Too, 20260214214400 +0000, Watching couples tackle epic fails together.</desc>
-    <category lang="en">Fails &amp; Pranks, Series, Comedy</category>
-    <icon src="https://images.pluto.tv/series/696fc35adee1ecbcddfa75c7/tile_1768932187485.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="FailArmy.us" start="20260214221500 +0000" stop="20260214224600 +0000">
-    <title lang="en">Happily Never After</title>
-    <desc lang="en">FailArmy Trivia, 20260214221500 +0000, Love is hard and so is this trivia game.</desc>
-    <category lang="en">Fails &amp; Pranks, Series, Comedy</category>
-    <icon src="https://images.pluto.tv/series/6799a119ff93e00013d6770a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="FailArmy.us" start="20260214224600 +0000" stop="20260214231700 +0000">
-    <title lang="en">True Love's Mess</title>
-    <desc lang="en">World's Messiest Fails, 20260214224600 +0000, It takes a lot longer to clean up a mess than it does to make it.</desc>
-    <category lang="en">Fails &amp; Pranks, Series, Comedy</category>
-    <icon src="https://images.pluto.tv/series/6679f383946b3600133d6b89/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="FailArmy.us" start="20260214231700 +0000" stop="20260214234800 +0000">
-    <title lang="en">Humans VS. Everything ----- Humans vs The Language of Love</title>
-    <desc lang="en">Humans Vs. Everything, 20260214231700 +0000, From heartfelt highs to hilarious fails, it's a wild ride in the name of love!</desc>
-    <category lang="en">Fails &amp; Pranks, Series, Comedy</category>
-    <icon src="https://images.pluto.tv/series/658b29dad40ef30013783d3d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
   <programme channel="FailArmy.us" start="20260214234800 +0000" stop="20260215002000 +0000">
     <title lang="en">Fading Friendships</title>
     <desc lang="en">FailFactory, 20260214234800 +0000, These friends take peer pressure to a painful level.</desc>
@@ -1251,6 +1239,24 @@
     <category lang="en">Fails &amp; Pranks, Series, Comedy</category>
     <icon src="https://images.pluto.tv/series/650ca0d8d193e8001b80503b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
+  <programme channel="FailArmy.us" start="20260215143200 +0000" stop="20260215150400 +0000">
+    <title lang="en">Episode 11</title>
+    <desc lang="en">Best Fails of the Month, 20260215143200 +0000, The best of the worst for November 2021.</desc>
+    <category lang="en">Fails &amp; Pranks, Series, Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0d8d193e8001b80503b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="FailArmy.us" start="20260215150400 +0000" stop="20260215153600 +0000">
+    <title lang="en"/>
+    <desc lang="en">FailArmy Top 100 of 2021, 20260215150400 +0000, A journey through some great fails of 2021.</desc>
+    <category lang="en">Fails &amp; Pranks, Series, Comedy</category>
+    <icon src="https://images.pluto.tv/series/6904c15bf1f80c8151dfc574/tile_1761920905813.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="FailArmy.us" start="20260215153600 +0000" stop="20260215160800 +0000">
+    <title lang="en">Episode 1</title>
+    <desc lang="en">Best Fails of the Month, 20260215153600 +0000, The best of the worst for January 2022.</desc>
+    <category lang="en">Fails &amp; Pranks, Series, Comedy</category>
+    <icon src="https://images.pluto.tv/series/650ca0d8d193e8001b80503b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
   <channel id="AlwaysFunnyVideos.us">
     <display-name>Always Funny Videos</display-name>
     <icon src="https://thumbs2.imgbox.com/f9/7f/4CMUb2J2_t.png"/>
@@ -1259,544 +1265,532 @@
     <display-name>Star Trek Voyager</display-name>
     <icon src="https://thumbs2.imgbox.com/fb/f5/u7u5FtfA_t.png"/>
   </channel>
-  <programme channel="StarTrekVoyager.us" start="20260214210000 +0000" stop="20260214220000 +0000">
-    <title lang="en">Homestead</title>
-    <desc lang="en">Star Trek: Voyager, S07E23, Neelix is faced with the decision of a lifetime when Voyager locates a tribe of exiled Talaxians on a distant asteroid.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
-    <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/tile_1768463207351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="StarTrekVoyager.us" start="20260214220000 +0000" stop="20260214230000 +0000">
-    <title lang="en">Renaissance Man</title>
-    <desc lang="en">Star Trek: Voyager, S07E24, Janeway is held hostage by aliens who force the Doctor to help them steal Voyager's warp core.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
-    <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/tile_1768463207351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
   <programme channel="StarTrekVoyager.us" start="20260214230000 +0000" stop="20260215000000 +0000">
     <title lang="en">Endgame Part 1</title>
     <desc lang="en">Star Trek: Voyager, S07E25, Voyager's quest to return home is aided by a visitor from the future – Admiral Kathryn Janeway.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/tile_1768463207351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekVoyager.us" start="20260215000000 +0000" stop="20260215010000 +0000">
     <title lang="en">Endgame Part 2</title>
     <desc lang="en">Star Trek: Voyager, S07E26, Janeway risks Voyager's shortcut home in order to destroy the Borg and save millions of lives.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/tile_1768463207351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekVoyager.us" start="20260215010000 +0000" stop="20260215020000 +0000">
     <title lang="en">Caretaker, Part 1</title>
     <desc lang="en">Star Trek: Voyager, S01E01, While searching for a missing officer, Captain Kathryn Janeway and the crew of the Starship Voyager are swept 70,000 light years from home.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/tile_1768463207351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekVoyager.us" start="20260215020000 +0000" stop="20260215030000 +0000">
     <title lang="en">Caretaker, Part 2</title>
     <desc lang="en">Star Trek: Voyager, S01E02, The Voyager crew launches a daring rescue mission to save two officers trapped in a subterranean city facing disaster.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/tile_1768463207351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekVoyager.us" start="20260215030000 +0000" stop="20260215040000 +0000">
     <title lang="en">Parallax</title>
     <desc lang="en">Star Trek: Voyager, S01E03, Tensions rise between the merged Starfleet and Maquis crews when the ship becomes trapped inside a star that's collapsed upon itself.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/tile_1768463207351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekVoyager.us" start="20260215040000 +0000" stop="20260215050000 +0000">
     <title lang="en">Time And Again</title>
     <desc lang="en">Star Trek: Voyager, S01E04, When Paris and Janeway are sent back in time, they must decide whether to violate the Prime Directive by warning residents of a planet facing annihilation.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/tile_1768463207351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekVoyager.us" start="20260215050000 +0000" stop="20260215060000 +0000">
     <title lang="en">Phage</title>
     <desc lang="en">Star Trek: Voyager, S01E05, Neelix faces certain death when an alien race stricken by a devastating plague "harvests" his lungs.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/tile_1768463207351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekVoyager.us" start="20260215060000 +0000" stop="20260215070000 +0000">
     <title lang="en">The Cloud</title>
     <desc lang="en">Star Trek: Voyager, S01E06, The crew discovers that a nebula is not what it seems, and Paris invites his fellow officers to share a little "R&amp;R" in his holodeck program.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/tile_1768463207351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekVoyager.us" start="20260215070000 +0000" stop="20260215080000 +0000">
     <title lang="en">Eye Of The Needle</title>
     <desc lang="en">Star Trek: Voyager, S01E07, The discovery of a wormhole in deep space raises the crew's hopes of finding a shortcut home.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/tile_1768463207351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekVoyager.us" start="20260215080000 +0000" stop="20260215090000 +0000">
     <title lang="en">Ex Post Facto</title>
     <desc lang="en">Star Trek: Voyager, S01E08, After Paris is convicted of a murder he swears he didn't commit, Tuvok must play detective to clear him.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/tile_1768463207351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekVoyager.us" start="20260215090000 +0000" stop="20260215100000 +0000">
     <title lang="en">Emanations</title>
     <desc lang="en">Star Trek: Voyager, S01E09, Kim confronts life and death issues when he's held against his will by an alien race.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/tile_1768463207351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekVoyager.us" start="20260215100000 +0000" stop="20260215110000 +0000">
     <title lang="en">Prime Factors</title>
     <desc lang="en">Star Trek: Voyager, S01E10, An alien leader has the technology that could send the crew 40,000 light years closer to home -- but refuses to share it with them.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/tile_1768463207351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekVoyager.us" start="20260215110000 +0000" stop="20260215120000 +0000">
     <title lang="en">State Of Flux</title>
     <desc lang="en">Star Trek: Voyager, S01E11, The crew realizes there's a traitor on board after Federation technology turns upon an enemy warship.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/tile_1768463207351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekVoyager.us" start="20260215120000 +0000" stop="20260215130000 +0000">
     <title lang="en">Heroes And Demons</title>
     <desc lang="en">Star Trek: Voyager, S01E12, Janeway sends the ship's doctor on his first Away Mission: rescue the crew members who have vanished in the holodeck's version of Beowulf.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/tile_1768463207351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekVoyager.us" start="20260215130000 +0000" stop="20260215140000 +0000">
     <title lang="en">Cathexis</title>
     <desc lang="en">Star Trek: Voyager, S01E13, An encounter with a strange nebula leaves Chakotay brain-dead and the crew battling a powerful force that seems to be taking over their minds.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/tile_1768463207351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="StarTrekVoyager.us" start="20260215140000 +0000" stop="20260215150000 +0000">
+    <title lang="en">Faces</title>
+    <desc lang="en">Star Trek: Voyager, S01E14, Voyager's half-human, half-Klingon Chief Engineer Torres is split into two beings by a scientist desperate to cure the plague that's destroying his people.</desc>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/tile_1768463207351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="StarTrekVoyager.us" start="20260215150000 +0000" stop="20260215160000 +0000">
+    <title lang="en">Jetrel</title>
+    <desc lang="en">Star Trek: Voyager, S01E15, A painful chapter in Neelix's past is reopened when the man responsible for killing his family beams aboard Voyager.</desc>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/63daf1c0ff32c10013d73240/tile_1768463207351.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <channel id="StarTrekDeepSpaceNine.us">
     <display-name>Star Trek Deep Space Nine</display-name>
     <icon src="https://images.pluto.tv/channels/65c69bbfd77d450008c7ffee/colorLogoPNG.png"/>
   </channel>
-  <programme channel="StarTrekDeepSpaceNine.us" start="20260214210000 +0000" stop="20260214220000 +0000">
-    <title lang="en">Behind The Lines</title>
-    <desc lang="en">Star Trek: Deep Space Nine, S06E04, While Sisko's promotion takes him away from the Defiant, Odo's loyalties are tested by the arrival of a fellow Shapeshifter.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
-    <icon src="https://images.pluto.tv/series/635729d3f64f1900131d7d47/tile_1768574881341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="StarTrekDeepSpaceNine.us" start="20260214220000 +0000" stop="20260214230000 +0000">
-    <title lang="en">Favor The Bold</title>
-    <desc lang="en">Star Trek: Deep Space Nine, S06E05, While Kira prepares for the destruction of the Federation minefield, Sisko plans to retake Deep Space Nine.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
-    <icon src="https://images.pluto.tv/series/635729d3f64f1900131d7d47/tile_1768574881341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
   <programme channel="StarTrekDeepSpaceNine.us" start="20260214230000 +0000" stop="20260215000000 +0000">
     <title lang="en">Sacrifice Of Angels</title>
     <desc lang="en">Star Trek: Deep Space Nine, S06E06, When the minefield is soon to be demolished, Sisko leads a mission to take back Deep Space Nine.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/635729d3f64f1900131d7d47/tile_1768574881341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekDeepSpaceNine.us" start="20260215000000 +0000" stop="20260215010000 +0000">
     <title lang="en">You Are Cordially Invited</title>
     <desc lang="en">Star Trek: Deep Space Nine, S06E07, Worf's plans for a traditional Klingon wedding are threatened when Martok's wife refuses to accept Dax into their family.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/635729d3f64f1900131d7d47/tile_1768574881341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekDeepSpaceNine.us" start="20260215010000 +0000" stop="20260215020000 +0000">
     <title lang="en">Resurrection</title>
     <desc lang="en">Star Trek: Deep Space Nine, S06E08, The alternate universe double of Kira's slain love requests asylum on Deep Space Nine.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/635729d3f64f1900131d7d47/tile_1768574881341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekDeepSpaceNine.us" start="20260215020000 +0000" stop="20260215030000 +0000">
     <title lang="en">Statistical Probabilities</title>
     <desc lang="en">Star Trek: Deep Space Nine, S06E09, Genetically engineered savants under Bashir's supervision predict doom for the Federation.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/635729d3f64f1900131d7d47/tile_1768574881341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekDeepSpaceNine.us" start="20260215030000 +0000" stop="20260215040000 +0000">
     <title lang="en">The Magnificent Ferengi</title>
     <desc lang="en">Star Trek: Deep Space Nine, S06E10, Quark leads a Ferengi mission to rescue his mother from the Dominion.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/635729d3f64f1900131d7d47/tile_1768574881341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekDeepSpaceNine.us" start="20260215040000 +0000" stop="20260215050000 +0000">
     <title lang="en">Waltz</title>
     <desc lang="en">Star Trek: Deep Space Nine, S06E11, After their ship is destroyed, Sisko is stranded on a distant planet with an increasingly disturbed Dukat.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/635729d3f64f1900131d7d47/tile_1768574881341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekDeepSpaceNine.us" start="20260215050000 +0000" stop="20260215060000 +0000">
     <title lang="en">Who Mourns For Morn?</title>
     <desc lang="en">Star Trek: Deep Space Nine, S06E12, Quark inherits a fortune -and a group of thieves lay claims to the estate.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/635729d3f64f1900131d7d47/tile_1768574881341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekDeepSpaceNine.us" start="20260215060000 +0000" stop="20260215070000 +0000">
     <title lang="en">One Little Ship</title>
     <desc lang="en">Star Trek: Deep Space Nine, S06E14, Hidden on a shrunken Runabout, Dax, O'Brien, and Bashir are Sisko's only hope when the Jem'Hadar overtake the Defiant.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/635729d3f64f1900131d7d47/tile_1768574881341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekDeepSpaceNine.us" start="20260215070000 +0000" stop="20260215080000 +0000">
     <title lang="en">Far Beyond The Stars</title>
     <desc lang="en">Star Trek: Deep Space Nine, S06E13, Sisko envisions he is a science-fiction writer encountering racism in 1953 America.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/635729d3f64f1900131d7d47/tile_1768574881341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekDeepSpaceNine.us" start="20260215080000 +0000" stop="20260215090000 +0000">
     <title lang="en">Honor Among Thieves</title>
     <desc lang="en">Star Trek: Deep Space Nine, S06E15, An undercover operation turns personal for O'Brien when he befriends his criminal contact.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/635729d3f64f1900131d7d47/tile_1768574881341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekDeepSpaceNine.us" start="20260215090000 +0000" stop="20260215100000 +0000">
     <title lang="en">Change Of Heart</title>
     <desc lang="en">Star Trek: Deep Space Nine, S06E16, When Dax is seriously injured during a crucial mission, Worf must question his priorities.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/635729d3f64f1900131d7d47/tile_1768574881341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekDeepSpaceNine.us" start="20260215100000 +0000" stop="20260215110000 +0000">
     <title lang="en">Wrongs Darker Than Death Or Night</title>
     <desc lang="en">Star Trek: Deep Space Nine, S06E17, Kira learns that her mother was once Gul Dukat's mistress.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/635729d3f64f1900131d7d47/tile_1768574881341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekDeepSpaceNine.us" start="20260215110000 +0000" stop="20260215120000 +0000">
     <title lang="en">Inquisition</title>
     <desc lang="en">Star Trek: Deep Space Nine, S06E18, An internal investigation indicates Doctor Bashir may be a Dominion spy.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/635729d3f64f1900131d7d47/tile_1768574881341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekDeepSpaceNine.us" start="20260215120000 +0000" stop="20260215130000 +0000">
     <title lang="en">In The Pale Moonlight</title>
     <desc lang="en">Star Trek: Deep Space Nine, S06E19, Sisko attempts to trick the Romulans into declaring war against the Dominion.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/635729d3f64f1900131d7d47/tile_1768574881341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="StarTrekDeepSpaceNine.us" start="20260215130000 +0000" stop="20260215140000 +0000">
     <title lang="en">His Way</title>
     <desc lang="en">Star Trek: Deep Space Nine, S06E20, Odo receives lessons in romancing Kira from a holographic 1960's lounge singer.</desc>
-    <category lang="en">Science fiction, Classic Sci-Fi &amp; Fantasy, Series</category>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/635729d3f64f1900131d7d47/tile_1768574881341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="StarTrekDeepSpaceNine.us" start="20260215140000 +0000" stop="20260215150000 +0000">
+    <title lang="en">The Reckoning</title>
+    <desc lang="en">Star Trek: Deep Space Nine, S06E21, Sisko must risk his son's life to fulfill his role as the Emissary.</desc>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
+    <icon src="https://images.pluto.tv/series/635729d3f64f1900131d7d47/tile_1768574881341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="StarTrekDeepSpaceNine.us" start="20260215150000 +0000" stop="20260215160000 +0000">
+    <title lang="en">Valiant</title>
+    <desc lang="en">Star Trek: Deep Space Nine, S06E22, Jake and Nog are rescued by an elite group of Starfleet cadets on a secret mission.</desc>
+    <category lang="en">Science fiction, Series, Classic Sci-Fi &amp; Fantasy</category>
     <icon src="https://images.pluto.tv/series/635729d3f64f1900131d7d47/tile_1768574881341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <channel id="DoctorWhoClassic.us">
     <display-name>Doctor Who Classic</display-name>
     <icon src="https://images.pluto.tv/channels/5ce4475cd43850831ca91ce7/colorLogoPNG.png"/>
   </channel>
-  <programme channel="DoctorWhoClassic.us" start="20260214214300 +0000" stop="20260214221300 +0000">
-    <title lang="en">The Stones of Blood: Part Three</title>
-    <desc lang="en">Classic Doctor Who, 20260214214300 +0000, As the Ogri close in, the Doctor attempts to rescue Romana from hyperspace.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
-    <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="DoctorWhoClassic.us" start="20260214221300 +0000" stop="20260214224100 +0000">
-    <title lang="en">The Stones of Blood: Part Four</title>
-    <desc lang="en">Classic Doctor Who, 20260214221300 +0000, When the Doctor releases two alien justice machines from prison, he gets a death sentence.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
-    <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="DoctorWhoClassic.us" start="20260214224100 +0000" stop="20260214231100 +0000">
-    <title lang="en">The Caves of Androzani: Part One</title>
-    <desc lang="en">Classic Doctor Who, 20260214224100 +0000, Gun-runners are on Androzani Minor, supplying the rebellious android-builder Sharez Jek.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
-    <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="DoctorWhoClassic.us" start="20260214231100 +0000" stop="20260214234100 +0000">
-    <title lang="en">The Caves of Androzani: Part Two</title>
-    <desc lang="en">Classic Doctor Who, 20260214231100 +0000, Salateen tells Peri and the Doctor they are dying from spectrox tomaemia.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
-    <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
   <programme channel="DoctorWhoClassic.us" start="20260214234100 +0000" stop="20260215001000 +0000">
     <title lang="en">The Caves of Androzani: Part Three</title>
     <desc lang="en">Classic Doctor Who, 20260214234100 +0000, Jek believes Peri will fall in love with him and the Doctor is caught by the gunrunners.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215001000 +0000" stop="20260215004100 +0000">
     <title lang="en">The Caves of Androzani: Part Four</title>
     <desc lang="en">Classic Doctor Who, 20260215001000 +0000, Morgus is ruined, and Jek goes on a murderous rampage.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215004100 +0000" stop="20260215011000 +0000">
     <title lang="en">The Ribos Operation: Part One</title>
     <desc lang="en">Classic Doctor Who, 20260215004100 +0000, The Guardian of Time gives the Doctor a difficult task - and a new assistant.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215011000 +0000" stop="20260215014000 +0000">
     <title lang="en">The Ribos Operation: Part Two</title>
     <desc lang="en">Classic Doctor Who, 20260215011000 +0000, Garron tries to trick the Graff Vynda-K into buying the planet Ribos.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215014000 +0000" stop="20260215020900 +0000">
     <title lang="en">The Ribos Operation: Part Three</title>
     <desc lang="en">Classic Doctor Who, 20260215014000 +0000, The Doctor and Romana are taken prisoner by the Graff Vynda-K.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215020900 +0000" stop="20260215023900 +0000">
     <title lang="en">The Ribos Operation: Part Four</title>
     <desc lang="en">Classic Doctor Who, 20260215020900 +0000, The Doctor and Romana are pursued by the Graff and attacked by the ferocious Shrivenzale.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215023900 +0000" stop="20260215030800 +0000">
     <title lang="en">The Android Invasion: Part One</title>
     <desc lang="en">Classic Doctor Who, 20260215023900 +0000, The TARDIS arrives back on Earth but all is not as it seems.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215030800 +0000" stop="20260215033800 +0000">
     <title lang="en">The Android Invasion: Part Two</title>
     <desc lang="en">Classic Doctor Who, 20260215030800 +0000, The Doctor discovers the truth behind the village and its robot population.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215033800 +0000" stop="20260215040800 +0000">
     <title lang="en">The Android Invasion: Part Three</title>
     <desc lang="en">Classic Doctor Who, 20260215033800 +0000, The Kraals intend to invade Earth by stowing away aboard Crayford's rocket as it returns home.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215040800 +0000" stop="20260215043500 +0000">
     <title lang="en">The Android Invasion: Part Four</title>
     <desc lang="en">Classic Doctor Who, 20260215040800 +0000, The Doctor and Sarah are desperate to warn UNIT of the Kraal's invasion, but nobody will believe them.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215043500 +0000" stop="20260215050500 +0000">
     <title lang="en">City of Death: Part One</title>
     <desc lang="en">Classic Doctor Who, 20260215043500 +0000, While on holiday in Paris, the Doctor and Romana experience a time distortion.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215050500 +0000" stop="20260215053400 +0000">
     <title lang="en">City of Death: Part Two</title>
     <desc lang="en">Classic Doctor Who, 20260215050500 +0000, Scarlioni is planning to steal the Mona Lisa. Yet he has six in his cellar - all genuine.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215053400 +0000" stop="20260215060400 +0000">
     <title lang="en">City of Death: Part Three</title>
     <desc lang="en">Classic Doctor Who, 20260215053400 +0000, Count Scarlioni is really Scaroth, last of the Jagaroth.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215060400 +0000" stop="20260215063400 +0000">
     <title lang="en">City of Death: Part Four</title>
     <desc lang="en">Classic Doctor Who, 20260215060400 +0000, Scaroth intends to travel back in time to save his own people from destruction.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215063400 +0000" stop="20260215070300 +0000">
     <title lang="en">The Stones of Blood: Part One</title>
     <desc lang="en">Classic Doctor Who, 20260215063400 +0000, The Doctor's search for the third segment of the Key to Time takes him to a stone circle.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215070300 +0000" stop="20260215073200 +0000">
     <title lang="en">The Stones of Blood: Part Two</title>
     <desc lang="en">Classic Doctor Who, 20260215070300 +0000, The stones from the ancient stone circle are alive and have a taste for human blood.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215073200 +0000" stop="20260215080200 +0000">
     <title lang="en">The Stones of Blood: Part Three</title>
     <desc lang="en">Classic Doctor Who, 20260215073200 +0000, As the Ogri close in, the Doctor attempts to rescue Romana from hyperspace.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215080200 +0000" stop="20260215083000 +0000">
     <title lang="en">The Stones of Blood: Part Four</title>
     <desc lang="en">Classic Doctor Who, 20260215080200 +0000, When the Doctor releases two alien justice machines from prison, he gets a death sentence.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215083000 +0000" stop="20260215090000 +0000">
     <title lang="en">The Caves of Androzani: Part One</title>
     <desc lang="en">Classic Doctor Who, 20260215083000 +0000, Gun-runners are on Androzani Minor, supplying the rebellious android-builder Sharez Jek.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215090000 +0000" stop="20260215092900 +0000">
     <title lang="en">The Caves of Androzani: Part Two</title>
     <desc lang="en">Classic Doctor Who, 20260215090000 +0000, Salateen tells Peri and the Doctor they are dying from spectrox tomaemia.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215092900 +0000" stop="20260215095800 +0000">
     <title lang="en">The Caves of Androzani: Part Three</title>
     <desc lang="en">Classic Doctor Who, 20260215092900 +0000, Jek believes Peri will fall in love with him and the Doctor is caught by the gunrunners.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215095800 +0000" stop="20260215102900 +0000">
     <title lang="en">The Caves of Androzani: Part Four</title>
     <desc lang="en">Classic Doctor Who, 20260215095800 +0000, Morgus is ruined, and Jek goes on a murderous rampage.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215102900 +0000" stop="20260215105900 +0000">
     <title lang="en">The Ribos Operation: Part One</title>
     <desc lang="en">Classic Doctor Who, 20260215102900 +0000, The Guardian of Time gives the Doctor a difficult task - and a new assistant.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215105900 +0000" stop="20260215112800 +0000">
     <title lang="en">The Ribos Operation: Part Two</title>
     <desc lang="en">Classic Doctor Who, 20260215105900 +0000, Garron tries to trick the Graff Vynda-K into buying the planet Ribos.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215112800 +0000" stop="20260215115700 +0000">
     <title lang="en">The Ribos Operation: Part Three</title>
     <desc lang="en">Classic Doctor Who, 20260215112800 +0000, The Doctor and Romana are taken prisoner by the Graff Vynda-K.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215115700 +0000" stop="20260215122700 +0000">
     <title lang="en">The Ribos Operation: Part Four</title>
     <desc lang="en">Classic Doctor Who, 20260215115700 +0000, The Doctor and Romana are pursued by the Graff and attacked by the ferocious Shrivenzale.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215122700 +0000" stop="20260215125600 +0000">
     <title lang="en">The Android Invasion: Part One</title>
     <desc lang="en">Classic Doctor Who, 20260215122700 +0000, The TARDIS arrives back on Earth but all is not as it seems.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215125600 +0000" stop="20260215132600 +0000">
     <title lang="en">The Android Invasion: Part Two</title>
     <desc lang="en">Classic Doctor Who, 20260215125600 +0000, The Doctor discovers the truth behind the village and its robot population.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215132600 +0000" stop="20260215135700 +0000">
     <title lang="en">The Android Invasion: Part Three</title>
     <desc lang="en">Classic Doctor Who, 20260215132600 +0000, The Kraals intend to invade Earth by stowing away aboard Crayford's rocket as it returns home.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="DoctorWhoClassic.us" start="20260215135700 +0000" stop="20260215142400 +0000">
     <title lang="en">The Android Invasion: Part Four</title>
     <desc lang="en">Classic Doctor Who, 20260215135700 +0000, The Doctor and Sarah are desperate to warn UNIT of the Kraal's invasion, but nobody will believe them.</desc>
-    <category lang="en">Adventure, Science fiction, Series</category>
+    <category lang="en">Science fiction, Series, Adventure</category>
+    <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="DoctorWhoClassic.us" start="20260215142400 +0000" stop="20260215145300 +0000">
+    <title lang="en">City of Death: Part Two</title>
+    <desc lang="en">Classic Doctor Who, 20260215142400 +0000, Scarlioni is planning to steal the Mona Lisa. Yet he has six in his cellar - all genuine.</desc>
+    <category lang="en">Science fiction, Series, Adventure</category>
+    <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="DoctorWhoClassic.us" start="20260215145300 +0000" stop="20260215152300 +0000">
+    <title lang="en">City of Death: Part Three</title>
+    <desc lang="en">Classic Doctor Who, 20260215145300 +0000, Count Scarlioni is really Scaroth, last of the Jagaroth.</desc>
+    <category lang="en">Science fiction, Series, Adventure</category>
+    <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="DoctorWhoClassic.us" start="20260215152300 +0000" stop="20260215155300 +0000">
+    <title lang="en">City of Death: Part Four</title>
+    <desc lang="en">Classic Doctor Who, 20260215152300 +0000, Scaroth intends to travel back in time to save his own people from destruction.</desc>
+    <category lang="en">Science fiction, Series, Adventure</category>
+    <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="DoctorWhoClassic.us" start="20260215155300 +0000" stop="20260215162100 +0000">
+    <title lang="en">The Stones of Blood: Part One</title>
+    <desc lang="en">Classic Doctor Who, 20260215155300 +0000, The Doctor's search for the third segment of the Key to Time takes him to a stone circle.</desc>
+    <category lang="en">Science fiction, Series, Adventure</category>
     <icon src="https://images.pluto.tv/series/6863f14f655e1e05788cdbab/tile_1751380304957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <channel id="UnsolvedMysteries.us">
     <display-name>Unsolved Mysteries</display-name>
     <icon src="https://thumbs2.imgbox.com/9a/20/mslr7TJi_t.png"/>
   </channel>
-  <programme channel="UnsolvedMysteries.us" start="20260214213000 +0000" stop="20260214223000 +0000">
-    <title lang="en">Episode: 5</title>
-    <desc lang="en">Unsolved Mysteries with Robert Stack, S05E05, This episode includes: Dear Patricia &amp; UD, Lucie's Last Fare &amp; UD, Unknown Mom &amp; UD and Little Miss Panasoffkee &amp; UD.</desc>
-    <category lang="en">Documentary, Series</category>
-    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/tile_1752572015758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="UnsolvedMysteries.us" start="20260214223000 +0000" stop="20260214233000 +0000">
-    <title lang="en">Episode: 22</title>
-    <desc lang="en">Unsolved Mysteries with Robert Stack, S05E22, This episode includes: Image of Guadalupe, Stahl's Paintings, UD: Lost Generation, Biker &amp; The Vet &amp; UD and Donut Murder.</desc>
-    <category lang="en">Documentary, Series</category>
-    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/tile_1752572015758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
   <programme channel="UnsolvedMysteries.us" start="20260214233000 +0000" stop="20260215003000 +0000">
     <title lang="en">Episode: 21</title>
     <desc lang="en">Unsolved Mysteries with Robert Stack, S07E21, This episode includes: UD: Roswell/Area 51 and Abductees.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/tile_1752572015758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="UnsolvedMysteries.us" start="20260215003000 +0000" stop="20260215013000 +0000">
     <title lang="en">Episode: 15</title>
     <desc lang="en">Unsolved Mysteries with Robert Stack, S08E15, This episode includes: Massachusetts Marine, UD: Taunting Bank Robber, Packer Church Fire , Ms. Miracle and Train Wreck Amnesia &amp; UD.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/tile_1752572015758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="UnsolvedMysteries.us" start="20260215013000 +0000" stop="20260215023000 +0000">
     <title lang="en">Episode: 12</title>
     <desc lang="en">Unsolved Mysteries with Robert Stack, S01E12, This episode includes: Thank You Philip &amp; UD, Ready Teller Robbery &amp; UD, Geri and Who Am I?</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/tile_1752572015758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="UnsolvedMysteries.us" start="20260215023000 +0000" stop="20260215033000 +0000">
     <title lang="en">Episode: 10</title>
     <desc lang="en">Unsolved Mysteries with Robert Stack, S10E10, This episode includes: Chair of Death, Coma Healer &amp; UD, Animal Saviors, Holy Grail and Signs from Heaven.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/tile_1752572015758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="UnsolvedMysteries.us" start="20260215033000 +0000" stop="20260215043000 +0000">
     <title lang="en">Episode: 9</title>
     <desc lang="en">Unsolved Mysteries with Robert Stack, S01E09, This episode includes: Halloween Party Death, Father/Son &amp; UD, Priest Killer and Rock of Fortune.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/tile_1752572015758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="UnsolvedMysteries.us" start="20260215043000 +0000" stop="20260215054500 +0000">
     <title lang="en">Episode: 24</title>
     <desc lang="en">Unsolved Mysteries with Robert Stack, S05E24, This episode includes: Miram's Memory &amp; UD, Ghost Blimp, Fugitive Fireman &amp; UD and Russian Roulette &amp; UD.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/tile_1752572015758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="UnsolvedMysteries.us" start="20260215054500 +0000" stop="20260215064500 +0000">
     <title lang="en">Episode: 10</title>
     <desc lang="en">Unsolved Mysteries with Robert Stack, S02E10, This episode includes: Dead Ringer &amp; UD, Woody's Millions, Plummer's Booty and Jim and Tammi.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/tile_1752572015758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="UnsolvedMysteries.us" start="20260215064500 +0000" stop="20260215074500 +0000">
     <title lang="en">Episode: 1</title>
     <desc lang="en">Unsolved Mysteries with Robert Stack, S03E01, This episode includes: Kecksburg UFO (Pts. 1 &amp; 2), Update: Pizza Man &amp; 3rd Anniversary Reunion, Unknown Arsonist &amp; UD and Hospital Babynap.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/tile_1752572015758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="UnsolvedMysteries.us" start="20260215074500 +0000" stop="20260215084500 +0000">
     <title lang="en">Episode: 20</title>
     <desc lang="en">Unsolved Mysteries with Robert Stack, S04E20, This episode includes: Magnetic Attraction (Pts. 1 &amp; 2 + UD), Oregon Heir, UD: The Man Who Never Was and UD: Money Clip Murder.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/tile_1752572015758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="UnsolvedMysteries.us" start="20260215084500 +0000" stop="20260215094500 +0000">
     <title lang="en">Episode: 19</title>
     <desc lang="en">Unsolved Mysteries with Robert Stack, S04E19, This episode includes: Getaway Photo &amp; UD, Looking for Angeline &amp; UD, UD: Nine Lives and Mom &amp; Pop Murders (Pts. 1 &amp; 2 + UD).</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/tile_1752572015758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="UnsolvedMysteries.us" start="20260215094500 +0000" stop="20260215104500 +0000">
     <title lang="en">Episode: 12</title>
     <desc lang="en">Unsolved Mysteries with Robert Stack, S12E12, This episode includes: Wood I Lie to You?, Wanted Weaver &amp; UD, What Happened to Natasha and McDonald's Murder &amp; UD.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/tile_1752572015758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="UnsolvedMysteries.us" start="20260215104500 +0000" stop="20260215114500 +0000">
     <title lang="en">Episode: 16</title>
     <desc lang="en">Unsolved Mysteries with Robert Stack, S06E16, This episode includes: Lourdes (Pts. 1 &amp; 2), UD: Drug Playboy, Sunnyvale Stalker and Tornado Baby &amp; UD.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/tile_1752572015758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="UnsolvedMysteries.us" start="20260215114500 +0000" stop="20260215124500 +0000">
     <title lang="en">Episode: 14</title>
     <desc lang="en">Unsolved Mysteries with Robert Stack, S04E14, This episode includes: Larry's Last Race &amp; UD, UD: Til Death Do Us Part, Millionairess Murder &amp; UD and Dances With Moomess &amp; UD.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/tile_1752572015758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="UnsolvedMysteries.us" start="20260215124500 +0000" stop="20260215134500 +0000">
     <title lang="en">Episode: 3</title>
     <desc lang="en">Unsolved Mysteries with Robert Stack, S06E03, This episode includes: Anastasia (Pts. 1, 2 &amp; 3) &amp; UD, Jail Family &amp; UD and Killer Boyfriend &amp; UD.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/tile_1752572015758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="UnsolvedMysteries.us" start="20260215134500 +0000" stop="20260215144500 +0000">
     <title lang="en">Episode: 8</title>
     <desc lang="en">Unsolved Mysteries with Robert Stack, S01E08, This episode includes: Missing Mom, Update: Personals, San Quentin Escape &amp; UD, Medford Millions Pts. 1 &amp; 2 &amp; UD and Cardboard Killer &amp; UD.</desc>
-    <category lang="en">Documentary, Series</category>
+    <category lang="en">Series, Documentary</category>
+    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/tile_1752572015758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="UnsolvedMysteries.us" start="20260215144500 +0000" stop="20260215154500 +0000">
+    <title lang="en">Episode: 12</title>
+    <desc lang="en">Unsolved Mysteries with Robert Stack, S08E12, This episode includes: Comedy Store Ghosts, New Year's Samaritan &amp; UD, UD: Fritz &amp; the Soldiers, NY Serial Rapist &amp; UD and Suspicious Suicide.</desc>
+    <category lang="en">Series, Documentary</category>
+    <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/tile_1752572015758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="UnsolvedMysteries.us" start="20260215154500 +0000" stop="20260215164500 +0000">
+    <title lang="en">Episode: 21</title>
+    <desc lang="en">Unsolved Mysteries with Robert Stack, S03E21, This episode includes: Kicked Out Killer, G.I. Guinea Pig, Foster Baby and Astarte's Last Stand &amp; UD.</desc>
+    <category lang="en">Series, Documentary</category>
     <icon src="https://images.pluto.tv/series/5b73024427c65821404f8999/tile_1752572015758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <channel id="ColdCaseFiles.us">
     <display-name>Cold Case Files</display-name>
     <icon src="https://thumbs2.imgbox.com/61/5e/qXooYtGa_t.png"/>
   </channel>
-  <programme channel="ColdCaseFiles.us" start="20260214220000 +0000" stop="20260214230000 +0000">
-    <title lang="en">Officer Down</title>
-    <desc lang="en">Cold Case Files, S01E06, The longest-running cold case of a law enforcement officer in the United States was the murder of Sheriff's Lt. Joe Clark.</desc>
-    <category lang="en">Series, Drama</category>
-    <icon src="https://images.pluto.tv/series/5a53b4f983e815a399cd21f8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="ColdCaseFiles.us" start="20260214230000 +0000" stop="20260215000000 +0000">
-    <title lang="en">Eyes of a Killer</title>
-    <desc lang="en">Cold Case Files, S02E13, On February 2, 2010, two masked gunmen commit a violent robbery and shoot Michael Temple Jr., rendering him a quadriplegic for five years before his death. In this unusual cold case, DNA is used to create a sketch of the killer.</desc>
-    <category lang="en">Series, Drama</category>
-    <icon src="https://images.pluto.tv/series/5a53b4f983e815a399cd21f8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
   <programme channel="ColdCaseFiles.us" start="20260215000000 +0000" stop="20260215010000 +0000">
     <title lang="en">Cold Case Files Classics</title>
     <desc lang="en">Cold Case Files Classic, S02E16, A police investigator discovers a letter written 16 years earlier that provides clues to a woman's murder. And a firearms expert supplies the evidence that South Carolina authorities need to put a man on trial in 2002 for a murder committed in 1961.</desc>
@@ -1887,22 +1881,22 @@
     <category lang="en">Series, Drama</category>
     <icon src="https://images.pluto.tv/series/5a53b4f983e815a399cd21f8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
+  <programme channel="ColdCaseFiles.us" start="20260215150000 +0000" stop="20260215160000 +0000">
+    <title lang="en">Cold Case Files Classics</title>
+    <desc lang="en">Cold Case Files Classic, S05E18, After 19 years, Kansas detectives reopen the case of a banker found beaten to death in his bed--and the chief suspect is his cheating wife. And a man with a guilty conscience helps Arkansas police to crack a cold case of murder.</desc>
+    <category lang="en">Series, Drama</category>
+    <icon src="https://images.pluto.tv/series/5c37f226394025ecbfc1f162/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="ColdCaseFiles.us" start="20260215160000 +0000" stop="20260215170000 +0000">
+    <title lang="en">The Black Dahlia</title>
+    <desc lang="en">Cold Case Files Classic, S06E06, Bill Kurtis examines one of the most infamous cold cases in Los Angeles history.</desc>
+    <category lang="en">Series, Drama</category>
+    <icon src="https://images.pluto.tv/series/5c37f226394025ecbfc1f162/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
   <channel id="MST3K.us">
     <display-name>MST3K</display-name>
     <icon src="https://thumbs2.imgbox.com/a4/ed/xKcZIVmV_t.png"/>
   </channel>
-  <programme channel="MST3K.us" start="20260214204500 +0000" stop="20260214223000 +0000">
-    <title lang="en">The Wild Wild World of Batwoman</title>
-    <desc lang="en">Mystery Science Theater 3000: The Wild Wild World of Batwoman, S05E15, In this lower-than-low budget film, Batwoman enlists her band of go-go dancing Batgirls to protect the Atomic Hearing Aid from the rotten Rat Fink.</desc>
-    <category lang="en">Series, Comedy</category>
-    <icon src="https://images.pluto.tv/series/55af192827f18b7f8bc28207/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="MST3K.us" start="20260214223000 +0000" stop="20260214230000 +0000">
-    <title lang="en">Are You Ready for Marriage?</title>
-    <desc lang="en">MST3K Shorts, S01E02, A high school senior named Sue and her boyfriend want to get married right after Sue graduates. A marriage counselor discourages the young couple from entering into a hasty marriage.</desc>
-    <category lang="en">Series, Comedy</category>
-    <icon src="https://images.pluto.tv/series/5708221c4c5fc6aa55946cd5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
   <programme channel="MST3K.us" start="20260214230000 +0000" stop="20260215010000 +0000">
     <title lang="en"/>
     <desc lang="en">MST3K: First Spaceship On Venus, 19901229000000 +0000, A multinational team of astronauts heads to Venus, but finds a world destroyed by nuclear war.</desc>
@@ -1951,16 +1945,22 @@
     <category lang="en">Series, Comedy</category>
     <icon src="https://images.pluto.tv/series/55af192827f18b7f8bc28207/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
+  <programme channel="MST3K.us" start="20260215141500 +0000" stop="20260215160000 +0000">
+    <title lang="en">Ring of Terror</title>
+    <desc lang="en">Mystery Science Theater 3000: Ring of Terror, S02E06, A medical student (played by George B. Mather) is tormented by a frat-house hazing after being asked to remove a ring from the finger of a corpse.</desc>
+    <category lang="en">Series, Comedy</category>
+    <icon src="https://images.pluto.tv/series/55af192827f18b7f8bc28207/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="MST3K.us" start="20260215160000 +0000" stop="20260215174500 +0000">
+    <title lang="en">The Incredibly Strange Creature</title>
+    <desc lang="en">Mystery Science Theater 3000: The Incredibly Strange Creature, S08E19, A couple of slackers stumble across a cult of monsters at a carnival and becomes a killing zombie.</desc>
+    <category lang="en">Series, Comedy</category>
+    <icon src="https://images.pluto.tv/series/55af192827f18b7f8bc28207/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
   <channel id="HallmarkMoviesAndMore.us">
     <display-name>Hallmark Movies And More</display-name>
     <icon src="https://thumbs2.imgbox.com/76/d1/R2UONleM_t.png"/>
   </channel>
-  <programme channel="HallmarkMoviesAndMore.us" start="20260214210243 +0000" stop="20260214224644 +0000">
-    <title lang="en"/>
-    <desc lang="en">All of My Heart, 20260214210243 +0000, Hallmark Original Movie. A young caterer's life suddenly changes when she inherits a country home.</desc>
-    <category lang="en">Entertainment, Series</category>
-    <icon src="https://images.pluto.tv/series/697e41cb1a8926105719b718/tile_1769882060521.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
   <programme channel="HallmarkMoviesAndMore.us" start="20260214224644 +0000" stop="20260215003048 +0000">
     <title lang="en"/>
     <desc lang="en">Along Came a Nanny, 20260214224644 +0000, Hallmark Original Movie. Detective Mike Logan takes on a special undercover assignment as a nanny.</desc>
@@ -2015,22 +2015,16 @@
     <category lang="en">Entertainment, Series</category>
     <icon src="https://images.pluto.tv/series/69550b46ae43ef25607fc641/tile_1767181155592.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
+  <programme channel="HallmarkMoviesAndMore.us" start="20260215142510 +0000" stop="20260215160658 +0000">
+    <title lang="en"/>
+    <desc lang="en">So You Said Yes, 20260215142510 +0000, Hallmark Original Movie. A bridal shop owner clashes with the a competing business's owner.</desc>
+    <category lang="en">Entertainment, Series</category>
+    <icon src="https://images.pluto.tv/series/691dab8b116aa5cc5398b6cb/tile_1763569121047.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
   <channel id="Stargate.us">
     <display-name>Stargate</display-name>
     <icon src="https://thumbs2.imgbox.com/6d/4c/BTaUXA6w_t.png"/>
   </channel>
-  <programme channel="Stargate.us" start="20260214220000 +0000" stop="20260214230000 +0000">
-    <title lang="en">Counterstrike</title>
-    <desc lang="en">Stargate SG-1, S10E07, When the Jaffa modify an Ancient device so that it is capable of defeating the Ori, Adria (Morena Baccarin) leads an attack on Dakara. Starring Ben Browder, Amanda Tapping, Christopher Judge, Claudia Black, Beau Bridges, and Michael Shanks.</desc>
-    <category lang="en">Science fiction, Action, Series</category>
-    <icon src="https://images.pluto.tv/series/6234b65ffc8de900130ab0d2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="Stargate.us" start="20260214230000 +0000" stop="20260215000000 +0000">
-    <title lang="en">Memento Mori</title>
-    <desc lang="en">Stargate SG-1, S10E08, When Vala (Claudia Black) is kidnapped by Trust members acting under the orders of the Goa'uld Athena, an accident causes her to lose all memory of who she is and where she came from. Also starring Ben Browder, Amanda Tapping, and Michael Shanks.</desc>
-    <category lang="en">Science fiction, Action, Series</category>
-    <icon src="https://images.pluto.tv/series/6234b65ffc8de900130ab0d2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
   <programme channel="Stargate.us" start="20260215000000 +0000" stop="20260215010000 +0000">
     <title lang="en">Company Of Thieves</title>
     <desc lang="en">Stargate SG-1, S10E09, Lt. Col. Cameron Mitchell (Ben Browder) goes undercover to track down the Odyssey, which SG-1 believes was hijacked by the Lucian Alliance. Also starring Amanda Tapping, Christopher Judge, Claudia Black, Beau Bridges, and Michael Shanks.</desc>
@@ -2121,22 +2115,22 @@
     <category lang="en">Science fiction, Action, Series</category>
     <icon src="https://images.pluto.tv/series/622fa743d5556100138052e9/tile_1768004349112.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
+  <programme channel="Stargate.us" start="20260215150000 +0000" stop="20260215160000 +0000">
+    <title lang="en">Faith</title>
+    <desc lang="en">Stargate Universe, S01E13, Dwindling supplies, tedious routines, and low morale continue to plague the crew of the Destiny when the ship suddenly drops out of FTL and enters the orbit of an uncharted star. But, for the first time, the countdown clock doesn’t activate!</desc>
+    <category lang="en">Science fiction, Action, Series</category>
+    <icon src="https://images.pluto.tv/series/622f74a7ff21e500131b4575/tile_1768922281808.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="Stargate.us" start="20260215160000 +0000" stop="20260215170000 +0000">
+    <title lang="en">Human</title>
+    <desc lang="en">Stargate Universe, S01E14, Disregarding orders, Dr. Rush links himself to the Destiny’s computer via the neural interface chair, hoping it will reveal the code needed to control Destiny’s flight path. Learning of this, Col. Young struggles with letting Rush risk his life.</desc>
+    <category lang="en">Science fiction, Action, Series</category>
+    <icon src="https://images.pluto.tv/series/622f74a7ff21e500131b4575/tile_1768922281808.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
   <channel id="ParamountPlusPicks.us">
     <display-name>Paramount Plus Picks</display-name>
     <icon src="https://images.pluto.tv/channels/5ff8c708653d080007361b14/colorLogoPNG.png"/>
   </channel>
-  <programme channel="ParamountPlusPicks.us" start="20260214220000 +0000" stop="20260214230000 +0000">
-    <title lang="en">Counterstrike</title>
-    <desc lang="en">Stargate SG-1, S10E07, When the Jaffa modify an Ancient device so that it is capable of defeating the Ori, Adria (Morena Baccarin) leads an attack on Dakara. Starring Ben Browder, Amanda Tapping, Christopher Judge, Claudia Black, Beau Bridges, and Michael Shanks.</desc>
-    <category lang="en">Science fiction, Action, Series</category>
-    <icon src="https://images.pluto.tv/series/6234b65ffc8de900130ab0d2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="ParamountPlusPicks.us" start="20260214230000 +0000" stop="20260215000000 +0000">
-    <title lang="en">Memento Mori</title>
-    <desc lang="en">Stargate SG-1, S10E08, When Vala (Claudia Black) is kidnapped by Trust members acting under the orders of the Goa'uld Athena, an accident causes her to lose all memory of who she is and where she came from. Also starring Ben Browder, Amanda Tapping, and Michael Shanks.</desc>
-    <category lang="en">Science fiction, Action, Series</category>
-    <icon src="https://images.pluto.tv/series/6234b65ffc8de900130ab0d2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
   <programme channel="ParamountPlusPicks.us" start="20260215000000 +0000" stop="20260215010000 +0000">
     <title lang="en">Company Of Thieves</title>
     <desc lang="en">Stargate SG-1, S10E09, Lt. Col. Cameron Mitchell (Ben Browder) goes undercover to track down the Odyssey, which SG-1 believes was hijacked by the Lucian Alliance. Also starring Amanda Tapping, Christopher Judge, Claudia Black, Beau Bridges, and Michael Shanks.</desc>
@@ -2227,98 +2221,110 @@
     <category lang="en">Science fiction, Action, Series</category>
     <icon src="https://images.pluto.tv/series/622fa743d5556100138052e9/tile_1768004349112.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
+  <programme channel="ParamountPlusPicks.us" start="20260215150000 +0000" stop="20260215160000 +0000">
+    <title lang="en">Faith</title>
+    <desc lang="en">Stargate Universe, S01E13, Dwindling supplies, tedious routines, and low morale continue to plague the crew of the Destiny when the ship suddenly drops out of FTL and enters the orbit of an uncharted star. But, for the first time, the countdown clock doesn’t activate!</desc>
+    <category lang="en">Science fiction, Action, Series</category>
+    <icon src="https://images.pluto.tv/series/622f74a7ff21e500131b4575/tile_1768922281808.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="ParamountPlusPicks.us" start="20260215160000 +0000" stop="20260215170000 +0000">
+    <title lang="en">Human</title>
+    <desc lang="en">Stargate Universe, S01E14, Disregarding orders, Dr. Rush links himself to the Destiny’s computer via the neural interface chair, hoping it will reveal the code needed to control Destiny’s flight path. Learning of this, Col. Young struggles with letting Rush risk his life.</desc>
+    <category lang="en">Science fiction, Action, Series</category>
+    <icon src="https://images.pluto.tv/series/622f74a7ff21e500131b4575/tile_1768922281808.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
   <channel id="90210.us">
     <display-name>90210</display-name>
     <icon src="https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/colorLogoPNG.png"/>
   </channel>
-  <programme channel="90210.us" start="20260214214500 +0000" stop="20260214224500 +0000">
-    <title lang="en">And Baby Makes Five</title>
-    <desc lang="en">Beverly Hills, 90210, S02E022, Dylan's attempts to help a friend through AA put a serious strain on his relationship with Brenda.</desc>
-    <category lang="en">Inspirational Drama, Drama, Series</category>
-    <icon src="https://images.pluto.tv/series/5f736eca997d62001a0b87bf/tile_1768468040756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="90210.us" start="20260214224500 +0000" stop="20260214234500 +0000">
-    <title lang="en">Radar Love</title>
-    <desc lang="en">Beverly Hills, 90210, S04E012, Brandon takes an unexpected road trip and Dylan accepts a Thanksgiving dinner invitation at the Walsh's after declining an invitation from Kelly.</desc>
-    <category lang="en">Inspirational Drama, Drama, Series</category>
-    <icon src="https://images.pluto.tv/series/5f736eca997d62001a0b87bf/tile_1768468040756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
   <programme channel="90210.us" start="20260214234500 +0000" stop="20260215004500 +0000">
     <title lang="en">Heartbreaker</title>
     <desc lang="en">Beverly Hills, 90210, S04E018, David has his first session with a psychologist and Andrea realizes her pregnancy will affect her educational plans.</desc>
-    <category lang="en">Inspirational Drama, Drama, Series</category>
+    <category lang="en">Inspirational Drama, Series, Drama</category>
     <icon src="https://images.pluto.tv/series/5f736eca997d62001a0b87bf/tile_1768468040756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="90210.us" start="20260215004500 +0000" stop="20260215014500 +0000">
     <title lang="en">Addicted to Love</title>
     <desc lang="en">Beverly Hills, 90210, S04E021, Brenda and Stuart get stranded in the desert. Kelly helps Brandon avoid suspicion by posing as his girlfriend.</desc>
-    <category lang="en">Inspirational Drama, Drama, Series</category>
+    <category lang="en">Inspirational Drama, Series, Drama</category>
     <icon src="https://images.pluto.tv/series/5f736eca997d62001a0b87bf/tile_1768468040756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="90210.us" start="20260215014500 +0000" stop="20260215024500 +0000">
     <title lang="en">Love Hurts</title>
     <desc lang="en">Beverly Hills, 90210, S05E023, The campus is in an uproar when an alleged rapist is released from custody. Despite his alibi, the students are sure that Lenny is responsible for the string of crimes on campus.</desc>
-    <category lang="en">Inspirational Drama, Drama, Series</category>
+    <category lang="en">Inspirational Drama, Series, Drama</category>
     <icon src="https://images.pluto.tv/series/5f736eca997d62001a0b87bf/tile_1768468040756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="90210.us" start="20260215024500 +0000" stop="20260215043000 +0000">
     <title lang="en">P.S. I Love You Parts 1 and 2</title>
     <desc lang="en">Beverly Hills, 90210, S05E031, Jim and Cindy leave for Hong Kong. Kelly wants to continue her relationship with Brandon, but he cannot get over the rejected marriage proposal.</desc>
-    <category lang="en">Inspirational Drama, Drama, Series</category>
+    <category lang="en">Inspirational Drama, Series, Drama</category>
     <icon src="https://images.pluto.tv/series/5f736eca997d62001a0b87bf/tile_1768468040756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="90210.us" start="20260215043000 +0000" stop="20260215053000 +0000">
     <title lang="en">Everything's Coming Up Roses</title>
     <desc lang="en">Beverly Hills, 90210, S06E04, Donna, Kelly, Clare and Valerie try out for the Tournament of Roses Court. Brandon and Susan cover the Rose Court tryouts for the newspaper, and attend the party together. Toni surprises Dylan when they go motorcycle riding.</desc>
-    <category lang="en">Inspirational Drama, Drama, Series</category>
+    <category lang="en">Inspirational Drama, Series, Drama</category>
     <icon src="https://images.pluto.tv/series/5f736eca997d62001a0b87bf/tile_1768468040756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="90210.us" start="20260215053000 +0000" stop="20260215063000 +0000">
     <title lang="en">Lover's Leap</title>
     <desc lang="en">Beverly Hills, 90210, S06E05, Valerie is haunted by nightmares about her father's suicide. David learns that his mother requires shock therapy to improve her chances of recovery. Toni throws a dinner party while her father is out of town.</desc>
-    <category lang="en">Inspirational Drama, Drama, Series</category>
+    <category lang="en">Inspirational Drama, Series, Drama</category>
     <icon src="https://images.pluto.tv/series/5f736eca997d62001a0b87bf/tile_1768468040756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="90210.us" start="20260215063000 +0000" stop="20260215073000 +0000">
     <title lang="en">Bleeding Hearts</title>
     <desc lang="en">Beverly Hills, 90210, S06E21, Valerie tries to pacify Ginger by setting her up with Jonathan. Donna's sorority asks students to go without sex for 24 hours in order to promote abstinence as a means of preventing venereal diseases. Clare bets that Steve cannot make good on his pledge.</desc>
-    <category lang="en">Inspirational Drama, Drama, Series</category>
+    <category lang="en">Inspirational Drama, Series, Drama</category>
     <icon src="https://images.pluto.tv/series/5f736eca997d62001a0b87bf/tile_1768468040756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="90210.us" start="20260215073000 +0000" stop="20260215083000 +0000">
     <title lang="en">The Things We Do For Love</title>
     <desc lang="en">Beverly Hills, 90210, S07E08, Steve overhears Val discussing her pregnancy on the phone. David's grandfather leaves him $250,000 and a 1961 Thunderbird. An uncomfortable Tracy decides to quit her TV job after Brandon nixes a relationship.</desc>
-    <category lang="en">Inspirational Drama, Drama, Series</category>
+    <category lang="en">Inspirational Drama, Series, Drama</category>
     <icon src="https://images.pluto.tv/series/5f736eca997d62001a0b87bf/tile_1768468040756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="90210.us" start="20260215083000 +0000" stop="20260215093000 +0000">
     <title lang="en">With This Ring</title>
     <desc lang="en">Beverly Hills, 90210, S07E19, Brandon and Kelly each confess their feelings to friends, but expect the other person to make a move. Donna tries to reconcile with David. Steve and Clare double date with Ryan and his girlfriend.</desc>
-    <category lang="en">Inspirational Drama, Drama, Series</category>
+    <category lang="en">Inspirational Drama, Series, Drama</category>
     <icon src="https://images.pluto.tv/series/5f736eca997d62001a0b87bf/tile_1768468040756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="90210.us" start="20260215093000 +0000" stop="20260215103000 +0000">
     <title lang="en">Beheading St. Valentine</title>
     <desc lang="en">Beverly Hills, 90210, S09E15, Lauren moves into the Walsh house; Steve's idea for his paper leads to an alert about a potential health problem; Donna agrees to pose as David's girlfriend at a business function; Gina worries she can't keep pace with Dylan.</desc>
-    <category lang="en">Inspirational Drama, Drama, Series</category>
+    <category lang="en">Inspirational Drama, Series, Drama</category>
     <icon src="https://images.pluto.tv/series/5f736eca997d62001a0b87bf/tile_1768468040756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="90210.us" start="20260215103000 +0000" stop="20260215113000 +0000">
     <title lang="en">Love Is Blind</title>
     <desc lang="en">Beverly Hills, 90210, S10E24, Dylan's generous wedding gift vexes Kelly and Matt, who consider moving to Seattle; an offer for their tabloid separates the Sanders' professionally; Noah meets Ellen's family; Donna's mother sells her house.</desc>
-    <category lang="en">Inspirational Drama, Drama, Series</category>
+    <category lang="en">Inspirational Drama, Series, Drama</category>
     <icon src="https://images.pluto.tv/series/5f736eca997d62001a0b87bf/tile_1768468040756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="90210.us" start="20260215113000 +0000" stop="20260215131500 +0000">
     <title lang="en">Mr. Walsh Goes to Washington</title>
     <desc lang="en">Beverly Hills, 90210, S04E031, Brandon goes to Washington D.C. and Kelly decides to surprise him by showing up later. Donna worries about David spending time with another girl.</desc>
-    <category lang="en">Inspirational Drama, Drama, Series</category>
+    <category lang="en">Inspirational Drama, Series, Drama</category>
     <icon src="https://images.pluto.tv/series/5f736eca997d62001a0b87bf/tile_1768468040756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <programme channel="90210.us" start="20260215131500 +0000" stop="20260215141500 +0000">
     <title lang="en">What I Did On My Summer Vacation and Other Stories</title>
     <desc lang="en">Beverly Hills, 90210, S05E001, After enjoying a successful summer in London, Brenda decides to stay in England and pursue her stage career.</desc>
-    <category lang="en">Inspirational Drama, Drama, Series</category>
+    <category lang="en">Inspirational Drama, Series, Drama</category>
+    <icon src="https://images.pluto.tv/series/5f736eca997d62001a0b87bf/tile_1768468040756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="90210.us" start="20260215141500 +0000" stop="20260215151500 +0000">
+    <title lang="en">Under the Influence</title>
+    <desc lang="en">Beverly Hills, 90210, S05E002, Brandon and Kelly continue to hide their relationship from Dylan, but the truth is always bound to come out somehow.</desc>
+    <category lang="en">Inspirational Drama, Series, Drama</category>
+    <icon src="https://images.pluto.tv/series/5f736eca997d62001a0b87bf/tile_1768468040756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="90210.us" start="20260215151500 +0000" stop="20260215161500 +0000">
+    <title lang="en">A Clean Slate</title>
+    <desc lang="en">Beverly Hills, 90210, S05E003, Brandon's decision to run for student government proves to be fatal for one California University sophomore.</desc>
+    <category lang="en">Inspirational Drama, Series, Drama</category>
     <icon src="https://images.pluto.tv/series/5f736eca997d62001a0b87bf/tile_1768468040756.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <channel id="Rescue911.us">
@@ -2329,18 +2335,6 @@
     <display-name>Movie Favorites by Lifetime</display-name>
     <icon src="https://images.pluto.tv/channels/63335b193583440007c859fb/colorLogoPNG.png"/>
   </channel>
-  <programme channel="MovieFavoritesbyLifetime.us" start="20260214202900 +0000" stop="20260214221100 +0000">
-    <title lang="en"/>
-    <desc lang="en">Galentine's Day Nightmare, 20260214202900 +0000, A woman's life becomes a living nightmare when she becomes the prime suspect in her boss's murder.</desc>
-    <category lang="en">Entertainment, Series</category>
-    <icon src="https://images.pluto.tv/series/63570b108515d3001318ca47/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
-  <programme channel="MovieFavoritesbyLifetime.us" start="20260214221100 +0000" stop="20260214230000 +0000">
-    <title lang="en">Celebrity Sex</title>
-    <desc lang="en">My Life Is a Lifetime Movie, 20260214221100 +0000, A woman starts a high-end escort agency; a woman returns home from college to find a reality star living in her parents' home.</desc>
-    <category lang="en">Entertainment, Series</category>
-    <icon src="https://images.pluto.tv/series/63570b0c8515d3001318c91c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
-  </programme>
   <programme channel="MovieFavoritesbyLifetime.us" start="20260214230000 +0000" stop="20260215004400 +0000">
     <title lang="en"/>
     <desc lang="en">Temptation Under the Sun, 20260214230000 +0000, While vacationing on an exotic island, Detective Cassady Cruz begins a torrid affair with an expat named Travis. However, when he becomes the main suspect in the death of his ex-girlfriend, Cassady tries to clear his name by finding the real killer.</desc>
@@ -2400,6 +2394,12 @@
     <desc lang="en">A Dangerous Date, 20260215123700 +0000, Introduced to online dating, a single father learns the dangerous pitfalls of trusting someone too early when he meets the perfect woman.</desc>
     <category lang="en">Entertainment, Series</category>
     <icon src="https://images.pluto.tv/series/69771852ec7e3a1f3a68d3be/tile_1769412691685.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
+  </programme>
+  <programme channel="MovieFavoritesbyLifetime.us" start="20260215142200 +0000" stop="20260215160900 +0000">
+    <title lang="en"/>
+    <desc lang="en">A House on Fire, 20260215142200 +0000, Brilliant doctor and mother Deborah Green had the epitome of a picture-perfect life with two children, an adoring husband and a beautiful house in an opulent neighborhood.</desc>
+    <category lang="en">Entertainment, Series</category>
+    <icon src="https://images.pluto.tv/series/63d0e8a7662ef90014d80b0d/tile_1767392957045.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900"/>
   </programme>
   <channel id="PlutoTVChristmas.us">
     <display-name>Pluto TV Christmas</display-name>
